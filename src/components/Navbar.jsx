@@ -5,7 +5,7 @@ export default function Navbar(){
     const [isOpen, setIsOpen] = useState(false);
     return(
         <>
-         <nav className="bg-white shadow-md sticky top-0 z-50">
+         <nav className="bg-white shadow-md fixed w-full top-0 z-50 ">
              <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           
@@ -33,8 +33,8 @@ export default function Navbar(){
           {/* Mobile Menu Button */}
           <div className="md:hidden flex items-center">
             <button onClick={() => setIsOpen(!isOpen)}>
-              {isOpen ? <FiX className="text-2xl text-pink-600" /> 
-                        : <FiMenu className="text-2xl text-pink-600" />}
+              {isOpen ? <FiX className="text-2xl text-black-500" /> 
+                        : <FiMenu className="text-2xl text-black-500" />}
             </button>
           </div>
 
@@ -54,14 +54,16 @@ export default function Navbar(){
         </div>
       )}
          </nav>
-<ul className="hidden md:flex h-14 items-center justify-evenly space-x-5 text-gray-500 font-semibold">
+
+         {/* Desktop Menu */}
+<ul className="flex h-14 items-center justify-center space-x-5 text-gray-500 font-semibold md:justify-evenly mt-17">
             <li><a href="#" className="hover:text-pink-600">New Arrivals</a></li>
             <li><a href="#" className="hover:text-pink-600">Dresses</a></li>
             <li><a href="#" className="hover:text-pink-600">Kurtis</a></li>
             <li><a href="#" className="hover:text-pink-600">Tops</a></li>
             <li><a href="#" className="hover:text-pink-600">Sale</a></li>
           </ul>
-         {/* Desktop Menu */}
+         
           
 
          </>
