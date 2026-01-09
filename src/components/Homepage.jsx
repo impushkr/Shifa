@@ -11,9 +11,9 @@ export default function Homepage(){
 
 
 
-        <div className="h-[28vh] w-full overflow-hidden md:h-[] lg:h-[]">
-            <img src="/homepage-2.jpg" alt="welcome-picture" className="mt-15 mb-15" />
-        </div>
+        
+            <img src="/homepage-2.jpg" alt="welcome-picture" className="mt-15 mb-15 shadow" />
+        
         
         </>
     )

@@ -24,9 +24,9 @@ export default function Navbar(){
               className="w-[40vw] px-3 py-1 border border-gray-300 rounded-full outline-none text-sm h-10 md:w-[22vw]"
             />
           <div className="hidden md:flex items-center w-[10vw] justify-between">
-            <FiUser className="text-2xl  cursor-pointer" />
-            <FiHeart className="text-2xl  cursor-pointer" />
-            <FiShoppingCart className="text-2xl  cursor-pointer" />
+            <FiUser className="text-2xl  cursor-pointer hover:text-pink-600" />
+            <FiHeart className="text-2xl  cursor-pointer hover:text-pink-600" />
+            <FiShoppingCart className="text-2xl  cursor-pointer hover:text-pink-600" />
           </div>
           </div>
 
