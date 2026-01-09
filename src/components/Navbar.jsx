@@ -17,16 +17,17 @@ export default function Navbar(){
           
 
           {/* Right Icons */}
-          <div className="hidden md:flex items-center w-150 justify-evenly">
-
-            <input 
+          <div className="md:flex justify-between w-[34vw] ">
+          <input 
               type="text" 
-              placeholder="   Search Here....." 
-              className="px-3 py-1 border border-gray-300 rounded-full outline-none text-sm h-10 w-80"
+              placeholder="   Search Here . . . . ." 
+              className="w-[40vw] px-3 py-1 border border-gray-300 rounded-full outline-none text-sm h-10 md:w-[22vw]"
             />
+          <div className="hidden md:flex items-center w-[10vw] justify-between">
             <FiUser className="text-2xl  cursor-pointer" />
             <FiHeart className="text-2xl  cursor-pointer" />
             <FiShoppingCart className="text-2xl  cursor-pointer" />
+          </div>
           </div>
 
           {/* Mobile Menu Button */}
@@ -53,15 +54,15 @@ export default function Navbar(){
         </div>
       )}
          </nav>
-
-         {/* Desktop Menu */}
-          <ul className="hidden md:flex space-x-8 text-gray-500 font-semibold">
+<ul className="hidden md:flex h-14 items-center justify-evenly space-x-5 text-gray-500 font-semibold">
             <li><a href="#" className="hover:text-pink-600">New Arrivals</a></li>
             <li><a href="#" className="hover:text-pink-600">Dresses</a></li>
             <li><a href="#" className="hover:text-pink-600">Kurtis</a></li>
             <li><a href="#" className="hover:text-pink-600">Tops</a></li>
             <li><a href="#" className="hover:text-pink-600">Sale</a></li>
           </ul>
+         {/* Desktop Menu */}
+          
 
          </>
     )
