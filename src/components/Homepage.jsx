@@ -252,6 +252,54 @@ export default function Homepage() {
         </div>
       </div>
 
+
+      {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
+
+
+      <img
+        src="/homepage-2.jpg"
+        alt="welcome-picture"
+        className=" shadow w-[94vw] m-3 lg:w-[97vw] lg:hidden"
+      />
+
+
+      {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
+      
+      <h1 className="px-4 font-semibold mt-4 lg:text-xl">Popular</h1>
+      <div className="shadow p-3 flex gap-1 lg:gap-2 lg:mt-3">
+
+        <div className="h-[40vh] w-[30vw] lg:h-[75vh] lg:w-[35vw] bg-gray-500 overflow-hidden shadow">
+          <img src="https://img.freepik.com/premium-photo/website-premium-skincare-clinic-men-women-clean-professi-layout-design-concept-idea_655090-885468.jpg" alt="cosmetic's" className="h-full w-full object-cover lg:hidden" />
+          <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/makeup-cosmetics-design-template-59ca35e75d5c5cefc848c270f71a732e_screen.jpg?ts=1702018838" alt="cosmetic's" className="h-full w-full object-cover hidden lg:block" />
+        
+        </div>
+
+        <div className="flex flex-col gap-1 lg:gap-2">
+
+          <div className="h-[19vh] w-[63vw] lg:h-[35vh] lg:w-[60.5vw] bg-gray-500 overflow-hidden ">
+            <img src="https://png.pngtree.com/background/20230524/original/pngtree-group-of-different-colored-handbags-picture-image_2707306.jpg" alt="bagscosmetic's" className="h-full w-full object-cover lg:hidden" />         
+          <img src="https://static.vecteezy.com/system/resources/previews/036/791/010/large_2x/ai-generated-fashionable-women-shopping-for-elegant-leather-purses-in-a-modern-store-generated-by-ai-photo.jpg" alt="bagscosmetic's" className="h-full w-full object-cover hidden lg:block" />
+          </div>
+
+          <div className="flex gap-1 lg:gap-2">
+            <div className="bg-gray-500 h-[20.5vh] w-[31vw] lg:h-[39vh] lg:w-[19.8vw] overflow-hidden">
+              <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b55708151330329.630a01e04616a.png" alt="skin care" className="h-full w-full object-cover"/>
+            </div>
+
+            {/* Jwellery */}
+            <div className="bg-gray-500 h-[20.5vh] w-[31vw] lg:h-[39vh] lg:w-[19.8vw] overflow-hidden">
+            <img src="https://cdn.eternz.com/thumbnails/products/DSC06186_2f7f6749_thumbnail_1024.jpg" alt="jwellery" className="h-full w-full object-cover" />
+            </div>
+            
+            <div className="hidden lg:block bg-gray-500 h-[39vh] w-[19.8vw] overflow-hidden">
+              <img src="https://www.crewclothing.co.uk/images/articles/D_WK42_SITE_UPDATES_FINALS_MN_WW.jpg" alt="sale" className="h-full w-full object-cover"/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
 
@@ -260,7 +308,7 @@ export default function Homepage() {
   {/* LEFT SECTION */}
   <div className="flex flex-wrap gap-2 w-[140vw] p-1 sm:w-[125vw] md:w-[115vw] lg:w-[149vw]">
     <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b55708151330329.630a01e04616a.png" alt=""/>
         <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
         <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
     </div>
@@ -314,32 +362,11 @@ export default function Homepage() {
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
 
 
-      <img
-        src="/homepage-2.jpg"
-        alt="welcome-picture"
-        className=" shadow w-[94vw] m-3 lg:w-[97vw]"
-      />
+     
     </>
   );
 }
