@@ -1,3 +1,5 @@
+import { Link, useNavigate } from "react-router-dom";
+
 export default function Homepage() {
   return (
     <>
@@ -18,13 +20,11 @@ export default function Homepage() {
       </div>
 
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-      
-      
+
       <h1 className="px-4 font-semibold lg:text-xl">Suggested For You</h1>
       <div className=" w-full overflow-x-auto shadow py-3">
-        
         <div className="flex gap-4 px-3 w-max ">
-
+          {/* Best Sellers */}
           <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
@@ -62,6 +62,7 @@ export default function Homepage() {
             </div>
           </div>
 
+          {/* Kurtis */}
           <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
@@ -99,6 +100,7 @@ export default function Homepage() {
             </div>
           </div>
 
+          {/* New Arrivals */}
           <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
@@ -136,43 +138,47 @@ export default function Homepage() {
             </div>
           </div>
 
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
-            {/* Image */}
-            <div className="h-[28vh] lg:h-[40vh]">
-              <img
-                src="/indianWear.webp"
-                alt="Indian Wear"
-                className="h-full w-full object-cover hover:scale-105 transition duration-300"
-              />
-            </div>
-
-            <div className="relative">
+          {/* Indian Wear */}
+          <Link to={"/indianWear"}>
+            <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
               {/* Image */}
-              <img
-                src="/images/new-arrivals.jpg"
-                alt="New Arrivals"
-                className="h-full w-full object-cover"
-              />
+              <div className="h-[28vh] lg:h-[40vh]">
+                <img
+                  src="/indianWear.webp"
+                  alt="Indian Wear"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
 
-              {/* Text Overlay */}
-              <div
-                className="
+              <div className="relative">
+                {/* Image */}
+                <img
+                  src="/images/new-arrivals.jpg"
+                  alt="New Arrivals"
+                  className="h-full w-full object-cover"
+                />
+
+                {/* Text Overlay */}
+                <div
+                  className="
     absolute bottom-0 left-0 w-full
     text-center py-4 lg:py-4
     bg-white/60 backdrop-blur-md
   "
-              >
-                <h3 className="text-gray-800 font-medium text-sm mb-2">
-                  Indian Wear
-                </h3>
+                >
+                  <h3 className="text-gray-800 font-medium text-sm mb-2">
+                    Indian Wear
+                  </h3>
 
-                <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
-                  Shop Now
-                </button>
+                  <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
+                    Shop Now
+                  </button>
+                </div>
               </div>
             </div>
-          </div>
+          </Link>
 
+          {/* Abaya's */}
           <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
@@ -210,6 +216,7 @@ export default function Homepage() {
             </div>
           </div>
 
+          {/* Dresses */}
           <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
@@ -246,15 +253,10 @@ export default function Homepage() {
               </div>
             </div>
           </div>
-
-          
-
         </div>
       </div>
 
-
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-
 
       <img
         src="/homepage-2.jpg"
@@ -262,111 +264,225 @@ export default function Homepage() {
         className=" shadow w-[94vw] m-3 lg:w-[97vw] lg:hidden"
       />
 
-
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-      
+
       <h1 className="px-4 font-semibold mt-4 lg:text-xl">Popular</h1>
       <div className="shadow p-3 flex gap-1 lg:gap-2 lg:mt-3">
-
-        <div className="h-[40vh] w-[30vw] lg:h-[75vh] lg:w-[35vw] bg-gray-500 overflow-hidden shadow">
-          <img src="https://img.freepik.com/premium-photo/website-premium-skincare-clinic-men-women-clean-professi-layout-design-concept-idea_655090-885468.jpg" alt="cosmetic's" className="h-full w-full object-cover lg:hidden" />
-          <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/makeup-cosmetics-design-template-59ca35e75d5c5cefc848c270f71a732e_screen.jpg?ts=1702018838" alt="cosmetic's" className="h-full w-full object-cover hidden lg:block" />
-        
-        </div>
+        {/* Cosmetics */}
+        <Link to={"/cosmetics"}>
+          <div className="h-[40vh] w-[30vw] lg:h-[75vh] lg:w-[35vw] bg-gray-500 overflow-hidden shadow">
+            <img
+              src="https://img.freepik.com/premium-photo/website-premium-skincare-clinic-men-women-clean-professi-layout-design-concept-idea_655090-885468.jpg"
+              alt="cosmetic's"
+              className="h-full w-full object-cover lg:hidden"
+            />
+            <img
+              src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/makeup-cosmetics-design-template-59ca35e75d5c5cefc848c270f71a732e_screen.jpg?ts=1702018838"
+              alt="cosmetic's"
+              className="h-full w-full object-cover hidden lg:block hover:scale-105 transition duration-300"
+            />
+          </div>
+        </Link>
 
         <div className="flex flex-col gap-1 lg:gap-2">
-
-          <div className="h-[19vh] w-[63vw] lg:h-[35vh] lg:w-[60.5vw] bg-gray-500 overflow-hidden ">
-            <img src="https://png.pngtree.com/background/20230524/original/pngtree-group-of-different-colored-handbags-picture-image_2707306.jpg" alt="bagscosmetic's" className="h-full w-full object-cover lg:hidden" />         
-          <img src="https://static.vecteezy.com/system/resources/previews/036/791/010/large_2x/ai-generated-fashionable-women-shopping-for-elegant-leather-purses-in-a-modern-store-generated-by-ai-photo.jpg" alt="bagscosmetic's" className="h-full w-full object-cover hidden lg:block" />
-          </div>
+          {/* Bags */}
+          <Link to={"/bags"}>
+            <div className="h-[19vh] w-[63vw] lg:h-[35vh] lg:w-[60.5vw] bg-gray-500 overflow-hidden ">
+              <img
+                src="https://png.pngtree.com/background/20230524/original/pngtree-group-of-different-colored-handbags-picture-image_2707306.jpg"
+                alt="bagscosmetic's"
+                className="h-full w-full object-cover lg:hidden "
+              />
+              <img
+                src="https://static.vecteezy.com/system/resources/previews/036/791/010/large_2x/ai-generated-fashionable-women-shopping-for-elegant-leather-purses-in-a-modern-store-generated-by-ai-photo.jpg"
+                alt="bags"
+                className="h-full w-full object-cover hidden lg:block hover:scale-105 transition duration-300"
+              />
+            </div>
+          </Link>
 
           <div className="flex gap-1 lg:gap-2">
-            <div className="bg-gray-500 h-[20.5vh] w-[31vw] lg:h-[39vh] lg:w-[19.8vw] overflow-hidden">
-              <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b55708151330329.630a01e04616a.png" alt="skin care" className="h-full w-full object-cover"/>
-            </div>
+            {/* Skincare */}
+            <Link to={"/skincare"}>
+              <div className="bg-gray-500 h-[20.5vh] w-[31vw] lg:h-[39vh] lg:w-[19.8vw] overflow-hidden">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b55708151330329.630a01e04616a.png"
+                  alt="skin care"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
+            </Link>
 
             {/* Jwellery */}
-            <div className="bg-gray-500 h-[20.5vh] w-[31vw] lg:h-[39vh] lg:w-[19.8vw] overflow-hidden">
-            <img src="https://cdn.eternz.com/thumbnails/products/DSC06186_2f7f6749_thumbnail_1024.jpg" alt="jwellery" className="h-full w-full object-cover" />
-            </div>
-            
-            <div className="hidden lg:block bg-gray-500 h-[39vh] w-[19.8vw] overflow-hidden">
-              <img src="https://www.crewclothing.co.uk/images/articles/D_WK42_SITE_UPDATES_FINALS_MN_WW.jpg" alt="sale" className="h-full w-full object-cover"/>
-            </div>
+            <Link to={"/jewellery"}>
+              <div className="bg-gray-500 h-[20.5vh] w-[31vw] lg:h-[39vh] lg:w-[19.8vw] overflow-hidden">
+                <img
+                  src="https://cdn.eternz.com/thumbnails/products/DSC06186_2f7f6749_thumbnail_1024.jpg"
+                  alt="jwellery"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
+            </Link>
+
+            {/* Sale */}
+            <Link to={"/sale"}>
+              <div className="hidden lg:block bg-gray-500 h-[39vh] w-[19.8vw] overflow-hidden">
+                <img
+                  src="https://www.crewclothing.co.uk/images/articles/D_WK42_SITE_UPDATES_FINALS_MN_WW.jpg"
+                  alt="sale"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
+            </Link>
           </div>
         </div>
       </div>
 
-
-      
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
-
-    <h1 className="px-3 font-semibold lg:text-xl mt-5">Special Offers</h1>
+      <h1 className="px-3 font-semibold lg:text-xl mt-5">Special Offers</h1>
       <div className="w-full overflow-x-auto   shadow mt-2 pb-2">
-  {/* LEFT SECTION */}
-  <div className="flex flex-wrap gap-2 w-[140vw] p-1 sm:w-[125vw] md:w-[115vw] lg:w-[149vw]">
-    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b55708151330329.630a01e04616a.png" alt=""/>
-        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
-        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
-    </div>
-    </div>
-    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
-        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
-        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
-    </div>
-    </div>
-    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
-        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
-        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
-    </div>
-    </div>
-    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
-        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
-        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
-    </div>
-    </div>
-    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
-        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
-        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
-    </div>
-    </div>
-    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
-        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
-        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
-    </div>
-    </div>
-    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
-        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
-        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
-    </div>
-    </div>
-    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
-        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
-        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
-        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
-    </div>
-    </div>
-  </div>
+        <div className="flex flex-wrap gap-2 w-[140vw] p-1 sm:w-[125vw] md:w-[115vw] lg:w-[149vw]">
+          
+          {/* Bottom Wear */}
+          <Link to={"/bottomwear"}>
+          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+            <img
+              src="https://tse2.mm.bing.net/th/id/OIP.v1SSb8Zrfr7woj5bObO3UgHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3"
+              alt=""
+            />
+            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Bottom wear</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹500</span>
+            </div>
+          </div>
+          </Link>
+          
+          {/* Top wear */}
+          <Link to={"/topwear"}>
+          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+            <img
+              src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
+              alt=""
+            />
+            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Top wear</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹390</span>
+            </div>
+          </div>
+          </Link>
+           
+           {/* Footwear */}
+           <Link to={"/footwear"}>
+          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+            <img
+              src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e8c6bc-255b-488f-aeb4-305b93aa8204.__CR0,0,300,400_PT0_SX300_V1___.jpg"
+              alt=""
+            />
+            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Foot wear</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹375</span>
+            </div>
+          </div>
+          </Link>
+          
+          {/* aaa */}
+          <Link>
+          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+            <img
+              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+              alt=""
+            />
+            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Shoes</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹999</span>
+            </div>
+          </div>
+          </Link>
+          
+          {/* aaa */}
+          <Link>
+          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+            <img
+              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+              alt=""
+            />
+            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Shoes</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹999</span>
+            </div>
+          </div>
+          </Link>
 
-  
+          {/* aaaa */}
+          <Link>
+          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+            <img
+              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+              alt=""
+            />
+            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Shoes</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹999</span>
+            </div>
+          </div>
+          </Link>
 
-</div>
+          {/* aaa */}
+          <Link>
+          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+            <img
+              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+              alt=""
+            />
+            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Shoes</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹999</span>
+            </div>
+          </div>
+          </Link>
 
+          {/* aaa */}
+          <Link>
+          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+            <img
+              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+              alt=""
+            />
+            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Shoes</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹999</span>
+            </div>
+          </div>
+          </Link>
+        </div>
+      </div>
 
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-
-
-
-     
     </>
   );
 }
