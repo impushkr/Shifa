@@ -1,7 +1,7 @@
 export default function Homepage() {
   return (
     <>
-      <div className=" ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] lg:h-[80vh]">
+      <div className=" ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-8 lg:h-[80vh]">
         <img
           src="/homepage-1.jpg"
           alt="welcome-picture"
@@ -12,7 +12,7 @@ export default function Homepage() {
           alt="welcome-picture"
           className="hidden relative lg:block lg:mt-[-100px]"
         />
-        <button className="hidden lg:block lg:bg-pink-800  text-white font-semibold absolute top-150 h-[5vh] rounded-3xl ml-40 text-xl w-[10vw]">
+        <button className="hidden lg:block lg:bg-pink-800  text-white font-semibold absolute top-123 h-[5vh] rounded-3xl ml-45 text-xl w-[10vw]">
           Shop Now
         </button>
       </div>
