@@ -1,7 +1,7 @@
 export default function Homepage() {
   return (
     <>
-      <div className="h-[28vh] w-full overflow-hidden md:h-[40vh] lg:h-[80vh]">
+      <div className=" ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] lg:h-[80vh]">
         <img
           src="/homepage-1.jpg"
           alt="welcome-picture"
@@ -18,9 +18,12 @@ export default function Homepage() {
       </div>
 
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-
-      <div className=" w-full overflow-x-auto">
-        <div className="flex gap-4 px-4 w-max mt-4 mb-4">
+      
+      
+      <h1 className="px-4 font-semibold lg:text-xl">Suggested For You</h1>
+      <div className=" w-full overflow-x-auto shadow py-3">
+        
+        <div className="flex gap-4 px-3 w-max ">
 
           <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
             {/* Image */}
@@ -252,10 +255,90 @@ export default function Homepage() {
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
 
+    <h1 className="px-3 font-semibold lg:text-xl mt-5">Special Offers</h1>
+      <div className="w-full overflow-x-auto   shadow mt-2 pb-2">
+  {/* LEFT SECTION */}
+  <div className="flex flex-wrap gap-2 w-[140vw] p-1 sm:w-[125vw] md:w-[115vw] lg:w-[149vw]">
+    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
+        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
+    </div>
+    </div>
+    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
+        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
+    </div>
+    </div>
+    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
+        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
+    </div>
+    </div>
+    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
+        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
+    </div>
+    </div>
+    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
+        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
+    </div>
+    </div>
+    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
+        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
+    </div>
+    </div>
+    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
+        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
+    </div>
+    </div>
+    <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+        <img src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212" alt=""/>
+        <div className="absolute bottom-0 bg-white w-full"><h3 className="font-semibold px-1">Shoes</h3>
+        <span className="font-semibold px-1 text-sm mb-3">From -</span> <span className="font-semibold text-sm text-green-700">₹999</span>
+    </div>
+    </div>
+  </div>
+
+  
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
+
+
+
       <img
         src="/homepage-2.jpg"
         alt="welcome-picture"
-        className=" mb-15 shadow"
+        className=" shadow w-[94vw] m-3 lg:w-[97vw]"
       />
     </>
   );

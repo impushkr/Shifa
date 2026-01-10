@@ -56,7 +56,7 @@ export default function Navbar(){
          </nav>
 
          {/* Desktop Menu */}
-<ul className="flex h-14 items-center justify-center space-x-5 text-gray-500 font-semibold md:justify-evenly mt-17">
+<ul className="flex h-14 mt-16 items-center justify-center space-x-5 text-gray-500 font-semibold md:justify-evenly ">
             <li><a href="#" className="hover:text-pink-600">New Arrivals</a></li>
             <li><a href="#" className="hover:text-pink-600">Dresses</a></li>
             <li><a href="#" className="hover:text-pink-600">Kurtis</a></li>
