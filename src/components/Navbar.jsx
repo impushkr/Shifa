@@ -1,13 +1,26 @@
 import React, { useState } from "react";
-import { FiUser, FiHeart, FiShoppingCart, FiMenu, FiX } from "react-icons/fi";
+import { FiUser, FiHeart, FiShoppingBag, FiMenu, FiX,FiCamera } from "react-icons/fi";
+import { RiQrCodeLine} from "react-icons/ri";
+
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <>
       <nav className="bg-white shadow-md fixed w-full top-0 z-50 ">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between h-16 items-center md:justify-between">
+        <div className="max-w-7xl mx-auto  px-2 lg:px-5">
+          <div className="flex gap-20 justify-between h-16 items-center">
+            <div className="flex">
+              {/* Mobile Menu Button */}
+            <div className="md:hidden flex items-center mr-3">
+              <button onClick={() => setIsOpen(!isOpen)}>
+                {isOpen ? (
+                  <FiX className="text-2xl" />
+                ) : (
+                  <FiMenu className="text-2xl" />
+                )}
+              </button>
+            </div>
             {/* Logo */}
             <div className="flex-shrink-0">
               <img
@@ -16,74 +29,81 @@ export default function Navbar() {
                 className="h-12 w-auto"
               />
             </div>
-
-            {/* Right Icons */}
-            <div className="md:flex gap-5 justify-between w-[40vw] md:w-[68vw] lg:w-[57vw]">
-              <input
-                type="text"
-                placeholder="   Search Here . . . . ."
-                className="w-[40vw] px-3 py-1 border border-gray-300 rounded-full outline-none text-sm h-10 md:w-[25vw] hover:border-black"
-              />
-              <div className="hidden md:flex items-center w-[30vw] justify-between md:w-[40vw]">
-                <h1 className="font-semibold text-sm hover:text-pink-400">Home</h1>
-                <h1 className="font-semibold text-sm hover:text-pink-400">About</h1>
-                <h1 className="font-semibold text-sm hover:text-pink-400">Contact</h1>
-                <h1 className="font-semibold text-sm hover:text-pink-400">Help</h1>
-                <FiUser className="text-2xl  cursor-pointer hover:text-pink-600" />
-                <FiHeart className="text-2xl  cursor-pointer hover:text-pink-600" />
-                <FiShoppingCart className="text-2xl  cursor-pointer hover:text-pink-600" />
-              </div>
             </div>
 
-            {/* Mobile Menu Button */}
-            <div className="md:hidden flex items-center">
-              <button onClick={() => setIsOpen(!isOpen)}>
-                {isOpen ? (
-                  <FiX className="text-2xl text-black-500" />
-                ) : (
-                  <FiMenu className="text-2xl text-black-500" />
-                )}
-              </button>
+            {/* Right Icons */}
+            <div className="md:flex justify-between w-[30vw] md:w-[68vw] lg:w-[70vw]">
+              <div className="flex items-center w-[25vw] justify-between md:w-[78vw]">
+                <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
+                  Home
+                </h1>
+                <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
+                  About
+                </h1>
+                <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
+                  Contact
+                </h1>
+
+                <input
+                  type="text"
+                  placeholder="   Search Here . . . . ."
+                  className="hidden md:block w-[40vw] px-3 py-1 border border-gray-400 rounded-full outline-none text-sm h-10 md:w-[25vw] hover:border-black"
+                />
+
+                <div className="flex items-center gap-1.5">
+                  <FiUser className=" text-2xl md:text-xl cursor-pointer hover:text-pink-600" />
+                  <h1 className=" hidden md:block text-lg font-medium  hover:text-pink-600">
+                    Account
+                  </h1>
+                </div>
+                <div className="flex items-center gap-1.5">
+                  <FiHeart className="text-2xl md:text-xl cursor-pointer hover:text-pink-600" />
+                  <h1 className="hidden md:block text-lg font-medium  hover:text-pink-600">
+                    Wishlist
+                  </h1>
+                </div>
+                <div className="flex items-center gap-1.5">
+                  <FiShoppingBag className="text-2xl md:text-xl cursor-pointer hover:text-pink-600" />
+                  <h1 className="hidden md:block text-lg font-medium  hover:text-pink-600">
+                    Cart
+                  </h1>
+                </div>
+              </div>
             </div>
           </div>
         </div>
 
-        {/* Mobile Menu */}
         {isOpen && (
           <div className="md:hidden bg-white shadow-md">
-            <ul className="flex flex-col space-y-2 p-4 text-pink-600 font-semibold">
-              <li>
-                <a href="#" className="hover:text-pink-400">
-                  New Arrivals
-                </a>
+            <ul className="flex flex-col space-y-3 p-4 font-semibold text-gray-700">
+              <li className="hover:text-pink-600 cursor-pointer">Home</li>
+              <li className="hover:text-pink-600 cursor-pointer">
+                Your Orders
               </li>
-              <li>
-                <a href="#" className="hover:text-pink-400">
-                  Dresses
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-pink-400">
-                  Kurtis
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-pink-400">
-                  Tops
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-pink-400">
-                  Sale
-                </a>
-              </li>
+              <li className="hover:text-pink-600 cursor-pointer">Contact</li>
+              <li className="hover:text-pink-600 cursor-pointer">Help</li>
             </ul>
           </div>
         )}
+      
       </nav>
 
+      <div className="mt-18 flex items-center justify-center gap-2 md:hidden">
+        <form
+        className="flex rounded-lg border w-[80vw] items-center gap-4 ml-1 h-10 mt md:hidden"
+      >
+        <img className="size-6 ml-3" src="/search-icon.png" alt="Search" />
+        <input
+          className="h-10 w-md focus:outline-none"
+          type="text"
+          placeholder="Search for products here...."
+        />
+      </form>
+      <RiQrCodeLine className="text-4xl"/>
+      </div>
+
       {/* Desktop Menu */}
-      <ul className="flex h-14 mt-16 items-center justify-center space-x-5 text-gray-500 font-semibold md:hidden ">
+      <ul className="flex h-13 items-center justify-center space-x-5 text-gray-500 font-semibold md:hidden ">
         <li>
           <a href="#" className="hover:text-pink-600">
             New Arrivals
