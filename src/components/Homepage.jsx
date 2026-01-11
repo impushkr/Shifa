@@ -1,23 +1,24 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link} from "react-router-dom";
 
 export default function Homepage() {
   return (
     <>
-      <div className=" ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-8 lg:h-[80vh]">
+      <div className="relative ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-17 lg:h-[45vh] xl:h-[79vh]">
         <img
           src="/homepage-1.jpg"
           alt="welcome-picture"
-          className="relative lg:hidden"
+          className="lg:hidden"
         />
         <img
           src="/homepage-1-2.png"
           alt="welcome-picture"
-          className="hidden relative lg:block lg:mt-[-100px]"
+          className="hidden lg:block lg:mt-[-100px]"
         />
-        <button className="hidden lg:block lg:bg-pink-800  text-white font-semibold absolute top-123 h-[5vh] rounded-3xl ml-45 text-xl w-[10vw]">
+        <button className="hidden lg:block absolute lg:bg-pink-800  text-white font-semibold  lg:bottom-70 lg:h-[3vh] lg:w-[12vw] ml-35 rounded-3xl xl:ml-49 xl:text-xl  xl:bottom-40 xl:h-[5vh] xl:w-[10vw]">
           Shop Now
         </button>
       </div>
+      
 
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
@@ -25,7 +26,7 @@ export default function Homepage() {
       <div className=" w-full overflow-x-auto shadow py-3">
         <div className="flex gap-4 px-3 w-max ">
           {/* Best Sellers */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
+          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
               <img
@@ -63,7 +64,7 @@ export default function Homepage() {
           </div>
 
           {/* Kurtis */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
+          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
               <img
@@ -101,7 +102,7 @@ export default function Homepage() {
           </div>
 
           {/* New Arrivals */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
+          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
               <img
@@ -140,7 +141,7 @@ export default function Homepage() {
 
           {/* Indian Wear */}
           <Link to={"/indianWear"}>
-            <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
+            <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
               {/* Image */}
               <div className="h-[28vh] lg:h-[40vh]">
                 <img
@@ -179,7 +180,7 @@ export default function Homepage() {
           </Link>
 
           {/* Abaya's */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
+          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
               <img
@@ -217,7 +218,7 @@ export default function Homepage() {
           </div>
 
           {/* Dresses */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] lg:w-[15vw] lg:h-[40vh]">
+          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
             {/* Image */}
             <div className="h-[28vh] lg:h-[40vh]">
               <img
@@ -267,7 +268,7 @@ export default function Homepage() {
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
       <h1 className="px-4 font-semibold mt-4 lg:text-xl">Popular</h1>
-      <div className="shadow p-3 flex gap-1 lg:gap-2 lg:mt-3">
+      <div className="shadow p-3 flex justify-center gap-1 lg:gap-2 lg:mt-3">
         {/* Cosmetics */}
         <Link to={"/cosmetics"}>
           <div className="h-[40vh] w-[30vw] lg:h-[75vh] lg:w-[35vw] bg-gray-500 overflow-hidden shadow">
@@ -341,17 +342,17 @@ export default function Homepage() {
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
       <h1 className="px-3 font-semibold lg:text-xl mt-5">Special Offers</h1>
-      <div className="w-full overflow-x-auto   shadow mt-2 pb-2">
-        <div className="flex flex-wrap gap-2 w-[140vw] p-1 sm:w-[125vw] md:w-[115vw] lg:w-[149vw]">
+      <div className="w-full  xl:overflow-x-auto   shadow mt-2 pb-2">
+        <div className="flex flex-wrap justify-center gap-2 p-1 xl:w-[167vw]">
           
           {/* Bottom Wear */}
           <Link to={"/bottomwear"}>
-          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
             <img
               src="https://tse2.mm.bing.net/th/id/OIP.v1SSb8Zrfr7woj5bObO3UgHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3"
               alt=""
             />
-            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
               <h3 className="font-semibold px-1">Bottom wear</h3>
               <span className="font-semibold px-1 text-sm mb-3">
                 From -
@@ -363,12 +364,12 @@ export default function Homepage() {
           
           {/* Top wear */}
           <Link to={"/topwear"}>
-          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
             <img
               src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
               alt=""
             />
-            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
               <h3 className="font-semibold px-1">Top wear</h3>
               <span className="font-semibold px-1 text-sm mb-3">
                 From -
@@ -380,12 +381,12 @@ export default function Homepage() {
            
            {/* Footwear */}
            <Link to={"/footwear"}>
-          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
             <img
               src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e8c6bc-255b-488f-aeb4-305b93aa8204.__CR0,0,300,400_PT0_SX300_V1___.jpg"
               alt=""
             />
-            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
               <h3 className="font-semibold px-1">Foot wear</h3>
               <span className="font-semibold px-1 text-sm mb-3">
                 From -
@@ -397,12 +398,12 @@ export default function Homepage() {
           
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
             <img
               src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
               alt=""
             />
-            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
               <h3 className="font-semibold px-1">Shoes</h3>
               <span className="font-semibold px-1 text-sm mb-3">
                 From -
@@ -414,12 +415,12 @@ export default function Homepage() {
           
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
             <img
               src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
               alt=""
             />
-            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
               <h3 className="font-semibold px-1">Shoes</h3>
               <span className="font-semibold px-1 text-sm mb-3">
                 From -
@@ -431,12 +432,12 @@ export default function Homepage() {
 
           {/* aaaa */}
           <Link>
-          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
             <img
               src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
               alt=""
             />
-            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
               <h3 className="font-semibold px-1">Shoes</h3>
               <span className="font-semibold px-1 text-sm mb-3">
                 From -
@@ -448,12 +449,12 @@ export default function Homepage() {
 
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
             <img
               src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
               alt=""
             />
-            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
               <h3 className="font-semibold px-1">Shoes</h3>
               <span className="font-semibold px-1 text-sm mb-3">
                 From -
@@ -465,12 +466,12 @@ export default function Homepage() {
 
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[33vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[27vw] lg:h-[42vh] lg:w-[18vw]">
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
             <img
               src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
               alt=""
             />
-            <div className="absolute h-[6vh] bottom-0 bg-white w-full">
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
               <h3 className="font-semibold px-1">Shoes</h3>
               <span className="font-semibold px-1 text-sm mb-3">
                 From -
@@ -479,8 +480,29 @@ export default function Homepage() {
             </div>
           </div>
           </Link>
+
+          {/* aaa */}
+          <Link>
+          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <img
+              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+              alt=""
+            />
+            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+              <h3 className="font-semibold px-1">Shoes</h3>
+              <span className="font-semibold px-1 text-sm mb-3">
+                From -
+              </span>{" "}
+              <span className="font-semibold text-sm text-green-700">₹999</span>
+            </div>
+          </div>
+          </Link>
+
+
         </div>
       </div>
+
+      
 
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
     </>
