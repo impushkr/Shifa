@@ -6,6 +6,7 @@ import App from "./App.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Homepage from "./components/Homepage.jsx";
 import Products from "./components/Products.jsx";
+import ProductsDetails from "./components/ProductDetails.jsx";
 
 import {
   indianWear,
@@ -15,6 +16,7 @@ import {
   womenFootwear,
   womenTopWear,
 } from "./data/womens/data";
+
 
 const router = createBrowserRouter([
   {
@@ -26,8 +28,12 @@ const router = createBrowserRouter([
         element: <Homepage />,
       },
       {
-        path: "products",
+        path: "/products",
         element: <Products />,
+      },
+      {
+        path: "/products/:id",
+        element:<ProductsDetails/>
       },
       {
         path: "/jewellery",
