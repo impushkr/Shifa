@@ -1,4 +1,4 @@
-import { Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export default function Homepage() {
   return (
@@ -18,126 +18,130 @@ export default function Homepage() {
           Shop Now
         </button>
       </div>
-      
 
-      {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-
+      {/* Suggestions */}
       <h1 className="px-4 font-semibold lg:text-xl">Suggested For You</h1>
       <div className=" w-full overflow-x-auto shadow py-3">
         <div className="flex gap-4 px-3 w-max ">
           {/* Best Sellers */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
-            {/* Image */}
-            <div className="h-[28vh] lg:h-[40vh]">
-              <img
-                src="/bestSeller.png"
-                alt="Best Seller"
-                className="h-full w-full object-cover hover:scale-105 transition duration-300"
-              />
-            </div>
-
-            <div className="relative">
+          <Link to={"/bestsellers"}>
+            <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
               {/* Image */}
-              <img
-                src="/images/new-arrivals.jpg"
-                alt="New Arrivals"
-                className="h-full w-full object-cover"
-              />
+              <div className="h-[28vh] lg:h-[40vh]">
+                <img
+                  src="/bestSeller.png"
+                  alt="Best Seller"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
 
-              {/* Text Overlay */}
-              <div
-                className="
+              <div className="relative">
+                {/* Image */}
+                <img
+                  src="/images/new-arrivals.jpg"
+                  alt="New Arrivals"
+                  className="h-full w-full object-cover"
+                />
+
+                {/* Text Overlay */}
+                <div
+                  className="
     absolute bottom-0 left-0 w-full
     text-center py-4 lg:py-4
     bg-white/60 backdrop-blur-md
   "
-              >
-                <h3 className="text-gray-800 font-medium text-sm mb-2">
-                  Best Sellers
-                </h3>
+                >
+                  <h3 className="text-gray-800 font-medium text-sm mb-2">
+                    Best Sellers
+                  </h3>
 
-                <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
-                  Shop Now
-                </button>
+                  <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
+                    Shop Now
+                  </button>
+                </div>
               </div>
             </div>
-          </div>
+          </Link>
 
           {/* Kurtis */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
-            {/* Image */}
-            <div className="h-[28vh] lg:h-[40vh]">
-              <img
-                src="/kurtis.webp"
-                alt="Kurtis"
-                className="h-full w-full object-cover hover:scale-105 transition duration-300"
-              />
-            </div>
-
-            <div className="relative">
+          <Link to={"/kurtis"}>
+            <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
               {/* Image */}
-              <img
-                src="/images/new-arrivals.jpg"
-                alt="New Arrivals"
-                className="h-full w-full object-cover"
-              />
+              <div className="h-[28vh] lg:h-[40vh]">
+                <img
+                  src="/kurtis.webp"
+                  alt="Kurtis"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
 
-              {/* Text Overlay */}
-              <div
-                className="
+              <div className="relative">
+                {/* Image */}
+                <img
+                  src="/images/new-arrivals.jpg"
+                  alt="New Arrivals"
+                  className="h-full w-full object-cover"
+                />
+
+                {/* Text Overlay */}
+                <div
+                  className="
     absolute bottom-0 left-0 w-full
     text-center py-4 lg:py-4
     bg-white/60 backdrop-blur-md
   "
-              >
-                <h3 className="text-gray-800 font-medium text-sm mb-2">
-                  Kurtis
-                </h3>
+                >
+                  <h3 className="text-gray-800 font-medium text-sm mb-2">
+                    Kurtis
+                  </h3>
 
-                <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
-                  Shop Now
-                </button>
+                  <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
+                    Shop Now
+                  </button>
+                </div>
               </div>
             </div>
-          </div>
+          </Link>
 
           {/* New Arrivals */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
-            {/* Image */}
-            <div className="h-[28vh] lg:h-[40vh]">
-              <img
-                src="/newArrivals.webp"
-                alt="New Arrivals"
-                className="h-full w-full object-cover hover:scale-105 transition duration-300"
-              />
-            </div>
-
-            <div className="relative">
+          <Link to={"/newarrivals"}>
+            <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
               {/* Image */}
-              <img
-                src="/images/new-arrivals.jpg"
-                alt="New Arrivals"
-                className="h-full w-full object-cover"
-              />
+              <div className="h-[28vh] lg:h-[40vh]">
+                <img
+                  src="/newArrivals.webp"
+                  alt="New Arrivals"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
 
-              {/* Text Overlay */}
-              <div
-                className="
+              <div className="relative">
+                {/* Image */}
+                <img
+                  src="/images/new-arrivals.jpg"
+                  alt="New Arrivals"
+                  className="h-full w-full object-cover"
+                />
+
+                {/* Text Overlay */}
+                <div
+                  className="
     absolute bottom-0 left-0 w-full
     text-center py-4 lg:py-4
     bg-white/60 backdrop-blur-md
   "
-              >
-                <h3 className="text-gray-800 font-medium text-sm mb-2">
-                  New Arrivals
-                </h3>
+                >
+                  <h3 className="text-gray-800 font-medium text-sm mb-2">
+                    New Arrivals
+                  </h3>
 
-                <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
-                  Shop Now
-                </button>
+                  <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
+                    Shop Now
+                  </button>
+                </div>
               </div>
             </div>
-          </div>
+          </Link>
 
           {/* Indian Wear */}
           <Link to={"/indianWear"}>
@@ -180,80 +184,84 @@ export default function Homepage() {
           </Link>
 
           {/* Abaya's */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
-            {/* Image */}
-            <div className="h-[28vh] lg:h-[40vh]">
-              <img
-                src="/abayas.jpg"
-                alt="Abaya's"
-                className="h-full w-full object-cover hover:scale-105 transition duration-300"
-              />
-            </div>
-
-            <div className="relative">
+          <Link to={"/abayas"}>
+            <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
               {/* Image */}
-              <img
-                src="/images/new-arrivals.jpg"
-                alt="New Arrivals"
-                className="h-full w-full object-cover"
-              />
+              <div className="h-[28vh] lg:h-[40vh]">
+                <img
+                  src="/abayas.jpg"
+                  alt="Abaya's"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
 
-              {/* Text Overlay */}
-              <div
-                className="
+              <div className="relative">
+                {/* Image */}
+                <img
+                  src="/images/new-arrivals.jpg"
+                  alt="New Arrivals"
+                  className="h-full w-full object-cover"
+                />
+
+                {/* Text Overlay */}
+                <div
+                  className="
     absolute bottom-0 left-0 w-full
     text-center py-4 lg:py-4
     bg-white/60 backdrop-blur-md
   "
-              >
-                <h3 className="text-gray-800 font-medium text-sm mb-2">
-                  Abaya's
-                </h3>
+                >
+                  <h3 className="text-gray-800 font-medium text-sm mb-2">
+                    Abaya's
+                  </h3>
 
-                <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
-                  Shop Now
-                </button>
+                  <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
+                    Shop Now
+                  </button>
+                </div>
               </div>
             </div>
-          </div>
+          </Link>
 
           {/* Dresses */}
-          <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
-            {/* Image */}
-            <div className="h-[28vh] lg:h-[40vh]">
-              <img
-                src="/Dresses.jpg"
-                alt="Dresses"
-                className="h-full w-full object-cover hover:scale-105 transition duration-300"
-              />
-            </div>
-
-            <div className="relative">
+          <Link to={"/dresses"}>
+            <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
               {/* Image */}
-              <img
-                src="/images/new-arrivals.jpg"
-                alt="New Arrivals"
-                className="h-full w-full object-cover"
-              />
+              <div className="h-[28vh] lg:h-[40vh]">
+                <img
+                  src="/Dresses.jpg"
+                  alt="Dresses"
+                  className="h-full w-full object-cover hover:scale-105 transition duration-300"
+                />
+              </div>
 
-              {/* Text Overlay */}
-              <div
-                className="
+              <div className="relative">
+                {/* Image */}
+                <img
+                  src="/images/new-arrivals.jpg"
+                  alt="New Arrivals"
+                  className="h-full w-full object-cover"
+                />
+
+                {/* Text Overlay */}
+                <div
+                  className="
     absolute bottom-0 left-0 w-full
     text-center py-4 lg:py-4
     bg-white/60 backdrop-blur-md
   "
-              >
-                <h3 className="text-gray-800 font-medium text-sm mb-2">
-                  Dresses
-                </h3>
+                >
+                  <h3 className="text-gray-800 font-medium text-sm mb-2">
+                    Dresses
+                  </h3>
 
-                <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
-                  Shop Now
-                </button>
+                  <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
+                    Shop Now
+                  </button>
+                </div>
               </div>
             </div>
-          </div>
+          </Link>
         </div>
       </div>
 
@@ -264,13 +272,12 @@ export default function Homepage() {
         alt="welcome-picture"
         className=" shadow w-[94vw] m-3 lg:w-[97vw] lg:hidden"
       />
-
-      {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-
+  
+      {/* Popular section */}
       <h1 className="px-4 font-semibold mt-4 lg:text-xl">Popular</h1>
       <div className="shadow p-3 flex justify-center gap-1 lg:gap-2 lg:mt-3">
         {/* Cosmetics */}
-        <Link to={"/cosmetics"}>
+        <Link to={"/cosmetic"}>
           <div className="h-[40vh] w-[30vw] lg:h-[75vh] lg:w-[35vw] bg-gray-500 overflow-hidden shadow">
             <img
               src="https://img.freepik.com/premium-photo/website-premium-skincare-clinic-men-women-clean-professi-layout-design-concept-idea_655090-885468.jpg"
@@ -339,172 +346,184 @@ export default function Homepage() {
         </div>
       </div>
 
-      {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
+      {/* Special Offers */}
       <h1 className="px-3 font-semibold lg:text-xl mt-5">Special Offers</h1>
       <div className="w-full  xl:overflow-x-auto   shadow mt-2 pb-2">
         <div className="flex flex-wrap justify-center gap-2 p-1 xl:w-[167vw]">
-          
           {/* Bottom Wear */}
           <Link to={"/bottomwear"}>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://tse2.mm.bing.net/th/id/OIP.v1SSb8Zrfr7woj5bObO3UgHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Bottom wear</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹500</span>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://tse2.mm.bing.net/th/id/OIP.v1SSb8Zrfr7woj5bObO3UgHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Bottom wear</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹500
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
-          
+
           {/* Top wear */}
           <Link to={"/topwear"}>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Top wear</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹390</span>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Top wear</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹390
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
-           
-           {/* Footwear */}
-           <Link to={"/footwear"}>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e8c6bc-255b-488f-aeb4-305b93aa8204.__CR0,0,300,400_PT0_SX300_V1___.jpg"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Foot wear</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹375</span>
+
+          {/* Footwear */}
+          <Link to={"/footwear"}>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e8c6bc-255b-488f-aeb4-305b93aa8204.__CR0,0,300,400_PT0_SX300_V1___.jpg"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Foot wear</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹375
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
-          
+
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Shoes</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹999</span>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Shoes</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹999
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
-          
+
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Shoes</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹999</span>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Shoes</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹999
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
 
           {/* aaaa */}
           <Link>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Shoes</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹999</span>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Shoes</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹999
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
 
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Shoes</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹999</span>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Shoes</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹999
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
 
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Shoes</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹999</span>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Shoes</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹999
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
 
           {/* aaa */}
           <Link>
-          <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-            <img
-              src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
-              alt=""
-            />
-            <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-              <h3 className="font-semibold px-1">Shoes</h3>
-              <span className="font-semibold px-1 text-sm mb-3">
-                From -
-              </span>{" "}
-              <span className="font-semibold text-sm text-green-700">₹999</span>
+            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Shoes</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹999
+                </span>
+              </div>
             </div>
-          </div>
           </Link>
-
-
         </div>
       </div>
 
-      
-
-      {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-    </>
+     </>
   );
 }

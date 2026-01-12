@@ -1,10 +1,16 @@
 import {
   indianWear,
   jewellary,
+  kurtis,
   womenBags,
   womenBottomwear,
   womenFootwear,
   womenTopWear,
+  newArrivals,
+  abayas,
+  dresses,
+  cosmetics,
+  skincare,
 } from "../data/womens/data";
 
 import { useParams } from "react-router";
@@ -18,13 +24,19 @@ export default function ProductDetails() {
     womenBags.find((item) => item.id == id) ||
     womenBottomwear.find((item) => item.id == id) ||
     womenFootwear.find((item) => item.id == id) ||
-    womenTopWear.find((item) => item.id == id);
+    womenTopWear.find((item) => item.id == id)||
+    kurtis.find((item) => item.id == id)||
+    newArrivals.find((item) => item.id == id)||
+    abayas.find((item) => item.id == id)||
+    dresses.find((item) => item.id == id)||
+    cosmetics.find((item) => item.id == id)||
+    skincare.find((item) => item.id == id);
 
   if (!products) return null;
 
   return (
-    <div className="w-full px-4 md:px-10 md:mt-15 py-6">
-      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
+    <div className="w-full px-4 md:px-10 md:mt-20 lg:mt-15 mb-5 lg:py-6">
+      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-8">
         {/* IMAGE SECTION */}
         <div className="relative bg-white shadow rounded-2xl overflow-hidden">
           <img
@@ -112,7 +124,7 @@ export default function ProductDetails() {
               <input
                 type="text"
                 placeholder="   Enter Your Pincode Here"
-                className="border-b bg-gray-200 md:w-[27vw] lg:w-[22vw] xl:w-[15vw] h-[5vh]"
+                className="border-b bg-gray-200 md:w-[27vw] lg:w-[22vw] xl:w-[15vw] h-[5vh] px-4"
               />
             </div>
           </div>

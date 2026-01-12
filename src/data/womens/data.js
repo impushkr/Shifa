@@ -285,6 +285,10 @@ export const womenBags = [
   },
 ];
 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 export const jewellary = [
   {
     id: "14336014",
@@ -574,6 +578,11 @@ export const jewellary = [
     subTitle: "Multi-Colour Beads Pearls Kundan Gold Plated Choker Set",
   },
 ];
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
 
 export const indianWear = [
   {
@@ -871,6 +880,11 @@ export const indianWear = [
     subTitle: "Tuhina Azure Applique Co-Ord (Set of 2)",
   },
 ];
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 export const womenBottomwear = [
   {
@@ -17744,4 +17758,1677 @@ export const womenFootwear = [
     ],
     dynamic_text: {},
   },
+];
+
+//___________________________________________________________________________________________________________________________
+
+export const kurtis = [
+  {
+    id: "KURTIS001",
+    sku: "KURTI0001",
+    price: 2499,
+    discountedPrice: 1499,
+    discount: 40,
+    type: "configurable",
+    categoryId: ["102","3528"],
+    imageUrl: "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "KURTI0001-S", id: "S1", variant_id: "1", name: "S", in_stock: "1" },
+          { sku: "KURTI0001-M", id: "S2", variant_id: "2", name: "M", in_stock: "1" },
+          { sku: "KURTI0001-L", id: "S3", variant_id: "3", name: "L", in_stock: "1" },
+          { sku: "KURTI0001-XL", id: "S4", variant_id: "4", name: "XL", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Floral Printed Straight Kurti",
+    subTitle: "Cotton Daily Wear Kurti",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ],
+    actionUrl: "/pink-floral-straight-kurti/p/KURTIS001",
+    aspectRatio: 0.75,
+    tag: [
+      { title: "NEW" }
+    ]
+  },
+
+  {
+    id: "KURTIS002",
+    sku: "KURTI0002",
+    price: 2199,
+    discountedPrice: 1299,
+    discount: 41,
+    imageUrl: "https://showoffff.in/cdn/shop/files/RF-3251_Blue_1_273b9753-7369-481f-873f-6789100586e4.jpg?v=1734162845",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "KURTI0002-M", id: "S1", variant_id: "1", name: "M", in_stock: "1" },
+          { sku: "KURTI0002-L", id: "S2", variant_id: "2", name: "L", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Ethnic Motif Anarkali Kurti",
+    subTitle: "Rayon Anarkali Kurti",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "M", id: "S1" },
+      { title: "L", id: "S2" }
+    ],
+    actionUrl: "/blue-ethnic-anarkali-kurti/p/KURTIS002",
+    aspectRatio: 0.75,
+    tag: [
+      { title: "BESTSELLER" }
+    ]
+  },
+
+  {
+    id: "KURTIS003",
+    sku: "KURTI0003",
+    price: 1999,
+    discountedPrice: 999,
+    discount: 50,
+    imageUrl: "https://m.media-amazon.com/images/I/71633760ABL._AC_UY1100_.jpg",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "KURTI0003-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "KURTI0003-M", id: "S2", name: "M", in_stock: "1" },
+          { sku: "KURTI0003-L", id: "S3", name: "L", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Mustard Yellow Solid A-Line Kurti",
+    subTitle: "Casual A-Line Kurti",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ],
+    actionUrl: "/mustard-a-line-kurti/p/KURTIS003",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "KURTIS004",
+    sku: "KURTI0004",
+    price: 2799,
+    discountedPrice: 1799,
+    discount: 36,
+    imageUrl: "https://www.lakshita.com/cdn/shop/files/LK8454.jpg?v=1756812631",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "KURTI0004-M", id: "S1", name: "M", in_stock: "1" },
+          { sku: "KURTI0004-L", id: "S2", name: "L", in_stock: "1" },
+          { sku: "KURTI0004-XL", id: "S3", name: "XL", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Embroidered Straight Kurti",
+    subTitle: "Festive Wear Kurti",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "M", id: "S1" },
+      { title: "L", id: "S2" },
+      { title: "XL", id: "S3" }
+    ],
+    actionUrl: "/purple-embroidered-kurti/p/KURTIS004",
+    aspectRatio: 0.75,
+    tag: [
+      { title: "FESTIVE" }
+    ]
+  },
+
+  {
+    id: "KURTIS005",
+    sku: "KURTI0005",
+    price: 1899,
+    discountedPrice: 1099,
+    discount: 42,
+    imageUrl: "https://varanga.in/cdn/shop/files/VSET21265_2_0638a866-f2b0-4c79-b8d4-c259741532bf.jpg?v=1746038001",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "KURTI0005-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "KURTI0005-M", id: "S2", name: "M", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Mandarin Collar Kurti",
+    subTitle: "Office Wear Kurti",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" }
+    ],
+    actionUrl: "/green-printed-kurti/p/KURTIS005",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "KURTIS006",
+    sku: "KURTI0006",
+    price: 2599,
+    discountedPrice: 1599,
+    discount: 38,
+    imageUrl: "https://assets0.mirraw.com/images/8235317/A332395_1_zoom.JPG?1705754596",
+    title: "Chikankari Cotton Kurti",
+    subTitle: "Lucknowi Chikankari Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/white-chikankari-kurti/p/KURTIS006",
+    aspectRatio: 0.75,
+    tag: [
+      { title: "BESTSELLER" }
+    ]
+  },
+
+  {
+    id: "KURTIS007",
+    sku: "KURTI0007",
+    price: 2299,
+    discountedPrice: 1399,
+    discount: 39,
+    imageUrl: "https://fashor.com/cdn/shop/files/27350_8.jpg?v=1749480509",
+    title: "Bandhani Print Straight Kurti",
+    subTitle: "Traditional Bandhani Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/red-bandhani-kurti/p/KURTIS007",
+    aspectRatio: 0.75,
+    tag: [
+      { title: "FESTIVE" }
+    ]
+  },
+
+  {
+    id: "KURTIS008",
+    sku: "KURTI0008",
+    price: 2099,
+    discountedPrice: 1199,
+    discount: 43,
+    imageUrl: "https://lablerahulsingh.com/cdn/shop/files/KURTIPLAZZO27.jpg?v=1746694712",
+    title: "Handblock Printed Kurti",
+    subTitle: "Handcrafted Cotton Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/sky-blue-handblock-kurti/p/KURTIS008",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "KURTIS009",
+    sku: "KURTI0009",
+    price: 2899,
+    discountedPrice: 1899,
+    discount: 34,
+    imageUrl: "https://cdn.vibecity.in/providers/61e687587a5c650010376394/SAK3306copy1_833d30f1-8016-4a2d-a061-e05760ba4620-3X.png",
+    title: "Lavender Tiered Flared Kurti",
+    subTitle: "Flared Ethnic Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/lavender-tiered-kurti/p/KURTIS009",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "KURTIS010",
+    sku: "KURTI0010",
+    price: 1999,
+    discountedPrice: 1299,
+    discount: 35,
+    imageUrl: "https://medias.utsavfashion.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/i/k/ikat-printed-cotton-straight-kurta-in-mustard-v1-tuv905.jpg",
+    title: "Beige Ikat Print Straight Kurti",
+    subTitle: "Ikat Cotton Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/beige-ikat-kurti/p/KURTIS010",
+    aspectRatio: 0.75,
+    tag: [
+      { title: "NEW ADDED" }
+    ]
+  }
+];
+
+//_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+export const newArrivals = [
+  {
+    id: "NEW001",
+    sku: "NEWARR0001",
+    price: 2899,
+    discountedPrice: 1899,
+    discount: 34,
+    type: "configurable",
+    categoryId: ["102","NEW"],
+    imageUrl: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_4.jpg?v=1729935271&width=2048",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Peach Floral Cotton Kurti",
+    subTitle: "New Arrival Straight Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/peach-floral-cotton-kurti/p/NEW001",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW002",
+    sku: "NEWARR0002",
+    price: 4999,
+    discountedPrice: 3599,
+    discount: 28,
+    type: "configurable",
+    categoryId: ["104","NEW"],
+    imageUrl: "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_1_782x.jpg?v=1697220843",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Black Prom Dress",
+    subTitle: "Black Prom Dresses V-Neck Puffy Sleeves A-Line Evening Gown",
+    isOutOfStock: 0,
+    actionUrl: "/black-embroidered-abaya/p/NEW002",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW003",
+    sku: "NEWARR0003",
+    price: 4599,
+    discountedPrice: 3299,
+    discount: 28,
+    type: "configurable",
+    categoryId: ["104","NEW"],
+    imageUrl: "https://www.nabia.in/cdn/shop/files/9_ccd9b9a9-58d6-4d22-a681-689d2cff9193.jpg?v=1732709810",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Navy Blue Open Abaya",
+    subTitle: "New Arrival Daily Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/navy-open-abaya/p/NEW003",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW004",
+    sku: "NEWARR0004",
+    price: 3999,
+    discountedPrice: 2799,
+    discount: 30,
+    type: "configurable",
+    categoryId: ["105","NEW"],
+    imageUrl: "https://deashaindia.com/cdn/shop/files/0P6A0886_1.jpg?v=1736419805&width=1946",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Pink Floral Maxi Dress",
+    subTitle: "New Arrival Maxi Dress",
+    isOutOfStock: 0,
+    actionUrl: "/pink-floral-maxi-dress/p/NEW004",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW005",
+    sku: "NEWARR0005",
+    price: 3699,
+    discountedPrice: 2599,
+    discount: 30,
+    type: "configurable",
+    categoryId: ["105","NEW"],
+    imageUrl: "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/2025/SEPTEMBER/23/jNdJh5BU_ecfc198df07648f2b1f4ce60714e82f0.jpg",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "A-Line Dress",
+    subTitle: "New Arrival Casual Dress",
+    isOutOfStock: 0,
+    actionUrl: "/green-solid-aline-dress/p/NEW005",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW006",
+    sku: "NEWARR0006",
+    price: 2599,
+    discountedPrice: 1799,
+    discount: 31,
+    type: "configurable",
+    categoryId: ["102","NEW"],
+    imageUrl: "https://www.sareespalace.com/image/cache/data/rayon-printed-lavender-party-wear-kurti-255512-1000x1375.jpg",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Rayon Kurti",
+    subTitle: "New Arrival Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/lavender-printed-rayon-kurti/p/NEW006",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW007",
+    sku: "NEWARR0007",
+    price: 5299,
+    discountedPrice: 3899,
+    discount: 26,
+    type: "configurable",
+    categoryId: ["104","NEW"],
+    imageUrl: "https://www.modora.co.uk/cdn/shop/files/beige-embroidered-open-abaya.webp?v=1698160381&width=1788",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Beige Embroidered Abaya",
+    subTitle: "New Arrival Party Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/beige-embroidered-abaya/p/NEW007",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW008",
+    sku: "NEWARR0008",
+    price: 4299,
+    discountedPrice: 2999,
+    discount: 30,
+    type: "configurable",
+    categoryId: ["105","NEW"],
+    imageUrl: "https://britishretro.co.uk/wp-content/uploads/2025/12/002-Antoinette-Mulberry-Tartan-Vintage-Dress.jpg",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Blue Printed Fit and Flare Dress",
+    subTitle: "New Arrival Dress",
+    isOutOfStock: 0,
+    actionUrl: "/blue-printed-fit-flare-dress/p/NEW008",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW009",
+    sku: "NEWARR0009",
+    price: 2799,
+    discountedPrice: 1899,
+    discount: 32,
+    type: "configurable",
+    categoryId: ["102","NEW"],
+    imageUrl: "https://cdn-img.prettylittlething.com/2/d/3/1/2d319b87118ee35aeff7081d6574e90dc319a612_cnp1003_1_brown_check_boat_neck_ruched_detail_shift_dress.jpg?imwidth=600",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Plaid Dress",
+    subTitle: "New Arrival Festive",
+    isOutOfStock: 0,
+    actionUrl: "/yellow-printed-cotton-kurti/p/NEW009",
+    aspectRatio: 0.75
+  },
+  {
+    id: "NEW010",
+    sku: "NEWARR0010",
+    price: 4599,
+    discountedPrice: 3299,
+    discount: 28,
+    type: "configurable",
+    categoryId: ["105","NEW"],
+    imageUrl: "https://endless.ae/cdn/shop/files/Untitled-1_57__0003_Facetune_11-09-2025-16-04-00.webp?crop=center&height=1471&v=1766656545&width=981",
+    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
+    title: "Maroon Solid Maxi Dress",
+    subTitle: "New Arrival Evening Dress",
+    isOutOfStock: 0,
+    actionUrl: "/maroon-solid-maxi-dress/p/NEW010",
+    aspectRatio: 0.75
+  }
+];
+
+// _________________________________________________________________________________________________________________________________________________________________________
+
+
+export const abayas = [
+  {
+    id: "ABAYA001",
+    sku: "ABAYA0001",
+    price: 3999,
+    discountedPrice: 2599,
+    discount: 35,
+    type: "configurable",
+    categoryId: ["201","4789"],
+    imageUrl: "https://m.media-amazon.com/images/I/810tAf-JTUL._AC_UY1100_.jpg",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "ABAYA0001-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "ABAYA0001-M", id: "S2", name: "M", in_stock: "1" },
+          { sku: "ABAYA0001-L", id: "S3", name: "L", in_stock: "1" },
+          { sku: "ABAYA0001-XL", id: "S4", name: "XL", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Nida Fabric Buttoned Front Abaya",
+    subTitle: "Everyday Modest Wear Abaya",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ],
+    actionUrl: "/black-buttoned-front-abaya/p/ABAYA001",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "ABAYA002",
+    sku: "ABAYA0002",
+    price: 4499,
+    discountedPrice: 2899,
+    discount: 36,
+    imageUrl: "https://hikmahboutique.com.au/cdn/shop/files/rn-image_picker_lib_temp_bce08f0c-90f6-49c8-ba9b-df1df2ffddb4.jpg?v=1724838782&width=1445",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "ABAYA0002-M", id: "S1", name: "M", in_stock: "1" },
+          { sku: "ABAYA0002-L", id: "S2", name: "L", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Embroidered Sleeve Open Abaya",
+    subTitle: "Occasion Wear Abaya",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "M", id: "S1" },
+      { title: "L", id: "S2" }
+    ],
+    actionUrl: "/embroidered-open-abaya/p/ABAYA002",
+    aspectRatio: 0.75,
+    tag: [{ title: "FESTIVE" }]
+  },
+
+  {
+    id: "ABAYA003",
+    sku: "ABAYA0003",
+    price: 3799,
+    discountedPrice: 2399,
+    discount: 37,
+    imageUrl: "https://abayabuth.com/cdn/shop/files/AB_73_046_485d4087-8440-48ff-9c20-337ece671793.jpg?v=1742132211",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "ABAYA0003-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "ABAYA0003-M", id: "S2", name: "M", in_stock: "1" },
+          { sku: "ABAYA0003-L", id: "S3", name: "L", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Pleated Front Closed Abaya",
+    subTitle: "Daily Wear Abaya",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ],
+    actionUrl: "/pleated-front-abaya/p/ABAYA003",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "ABAYA004",
+    sku: "ABAYA0004",
+    price: 4999,
+    discountedPrice: 3299,
+    discount: 34,
+    imageUrl: "https://alsasa.in/cdn/shop/files/WhatsApp_Image_2024-09-01_at_06.33.02_d850c822.jpg?v=1736964843&width=1200",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "ABAYA0004-M", id: "S1", name: "M", in_stock: "1" },
+          { sku: "ABAYA0004-L", id: "S2", name: "L", in_stock: "1" },
+          { sku: "ABAYA0004-XL", id: "S3", name: "XL", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Black Stone Work Dubai Style Abaya",
+    subTitle: "Luxury Occasion Abaya",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "M", id: "S1" },
+      { title: "L", id: "S2" },
+      { title: "XL", id: "S3" }
+    ],
+    actionUrl: "/dubai-style-stone-abaya/p/ABAYA004",
+    aspectRatio: 0.75,
+    tag: [{ title: "FESTIVE" }]
+  },
+
+  {
+    id: "ABAYA005",
+    sku: "ABAYA0005",
+    price: 3599,
+    discountedPrice: 2199,
+    discount: 39,
+    imageUrl: "https://in.islamicdesignhouse.com/cdn/shop/files/1_b3cb469b-8241-480c-a130-4bfaddcbaee9.jpg?v=1757054845",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "ABAYA0005-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "ABAYA0005-M", id: "S2", name: "M", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Contrast Piping Open Abaya",
+    subTitle: "Modern Modest Wear",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" }
+    ],
+    actionUrl: "/contrast-piping-abaya/p/ABAYA005",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "ABAYA006",
+    sku: "ABAYA0006",
+    price: 4299,
+    discountedPrice: 2799,
+    discount: 35,
+    imageUrl: "https://d12r75k5fx2b32.cloudfront.net/media/catalog/product/cache/ab1a032302435465d083120166d3f08f/d/a/dark-olive-closed-practical-abaya-8-base.jpg",
+    title: "Minimalist Closed Front Abaya",
+    subTitle: "Classic Everyday Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/minimalist-closed-abaya/p/ABAYA006",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "ABAYA007",
+    sku: "ABAYA0007",
+    price: 4699,
+    discountedPrice: 3099,
+    discount: 34,
+    imageUrl: "https://bashariya.com/cdn/shop/files/img_0045_5-1-photoroom.jpg?v=1757596144",
+    title: "Women Black Cape Style Layered Abaya",
+    subTitle: "Designer Modest Wear",
+    isOutOfStock: 0,
+    actionUrl: "/cape-style-abaya/p/ABAYA007",
+    aspectRatio: 0.75,
+    tag: [{ title: "NEW ARRIVAL" }]
+  },
+
+  {
+    id: "ABAYA008",
+    sku: "ABAYA0008",
+    price: 3899,
+    discountedPrice: 2499,
+    discount: 36,
+    imageUrl: "https://m.media-amazon.com/images/I/51zz8zJKgFL._AC_UY1100_.jpg",
+    title: "Kimono Sleeve Open Abaya",
+    subTitle: "Comfort Fit Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/kimono-sleeve-abaya/p/ABAYA008",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "ABAYA009",
+    sku: "ABAYA0009",
+    price: 5199,
+    discountedPrice: 3499,
+    discount: 33,
+    imageUrl: "https://mariam-col.com/cdn/shop/files/satin-abaya-with-matching-belt-made-of-diamond-tassel-moa010-207114.jpg?v=1747777494&width=1200",
+    title: "Heavy Embellished Wedding Abaya",
+    subTitle: "Premium Bridal Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/wedding-embellished-abaya/p/ABAYA009",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "ABAYA010",
+    sku: "ABAYA0010",
+    price: 3699,
+    discountedPrice: 2299,
+    discount: 38,
+    imageUrl: "https://veilandvirtue.com/cdn/shop/files/veil-and-virtue-ramadan-abayas-087.jpg?v=1710636169&width=1365",
+    title: "Black Flared Umbrella Cut Abaya",
+    subTitle: "Elegant Daily Wear Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/umbrella-cut-abaya/p/ABAYA010",
+    aspectRatio: 0.75,
+    tag: [{ title: "NEW ARRIVAL" }]
+  }
+];
+
+//__________________________________________________________________________________________________________________________________________________________
+
+
+export const dresses = [
+  {
+    id: "DRESS001",
+    sku: "DRESS0001",
+    price: 3499,
+    discountedPrice: 2199,
+    discount: 37,
+    type: "configurable",
+    categoryId: ["301","7821"],
+    imageUrl: "https://fyva.in/cdn/shop/files/7_df50e95d-0e98-440b-9059-2d94412806a9.jpg?v=1758710158&width=650",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "DRESS0001-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "DRESS0001-M", id: "S2", name: "M", in_stock: "1" },
+          { sku: "DRESS0001-L", id: "S3", name: "L", in_stock: "1" },
+          { sku: "DRESS0001-XL", id: "S4", name: "XL", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Floral Printed Fit and Flare Dress",
+    subTitle: "Cotton Summer Dress",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ],
+    actionUrl: "/pink-floral-fit-flare-dress/p/DRESS001",
+    aspectRatio: 0.75,
+    tag: [{ title: "NEW ARRIVAL" }]
+  },
+
+  {
+    id: "DRESS002",
+    sku: "DRESS0002",
+    price: 3999,
+    discountedPrice: 2599,
+    discount: 35,
+    imageUrl: "https://cdn-1.azazie.com/upimg/h65/22/1e/d0e41559968c8650a971df392d18221e.jpg",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "DRESS0002-M", id: "S1", name: "M", in_stock: "1" },
+          { sku: "DRESS0002-L", id: "S2", name: "L", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Amalie Navy A-Line Midi Dress",
+    subTitle: "Office Wear Midi Dress",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "M", id: "S1" },
+      { title: "L", id: "S2" }
+    ],
+    actionUrl: "/blue-solid-midi-dress/p/DRESS002",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "DRESS003",
+    sku: "DRESS0003",
+    price: 2999,
+    discountedPrice: 1799,
+    discount: 40,
+    imageUrl: "https://pinnacleshruti.com/cdn/shop/files/Shruti_170.jpg?v=1741086306&width=2048",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "DRESS0003-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "DRESS0003-M", id: "S2", name: "M", in_stock: "1" },
+          { sku: "DRESS0003-L", id: "S3", name: "L", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Tiered Maxi Dress",
+    subTitle: "Flowy Maxi Dress",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ],
+    actionUrl: "/mustard-tiered-maxi-dress/p/DRESS003",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "DRESS004",
+    sku: "DRESS0004",
+    price: 4599,
+    discountedPrice: 2999,
+    discount: 35,
+    imageUrl: "https://samyakkclothing.files.wordpress.com/2024/04/image-175.jpeg",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "DRESS0004-M", id: "S1", name: "M", in_stock: "1" },
+          { sku: "DRESS0004-L", id: "S2", name: "L", in_stock: "1" },
+          { sku: "DRESS0004-XL", id: "S3", name: "XL", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Evening Gown Dress",
+    subTitle: "Party Wear Dress",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "M", id: "S1" },
+      { title: "L", id: "S2" },
+      { title: "XL", id: "S3" }
+    ],
+    actionUrl: "/purple-evening-gown-dress/p/DRESS004",
+    aspectRatio: 0.75,
+    tag: [{ title: "FESTIVE" }]
+  },
+
+  {
+    id: "DRESS005",
+    sku: "DRESS0005",
+    price: 2799,
+    discountedPrice: 1699,
+    discount: 39,
+    imageUrl: "https://m.media-amazon.com/images/I/71fazx0orFL._AC_UY1100_.jpg",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "DRESS0005-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "DRESS0005-M", id: "S2", name: "M", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Green Printed Shirt Style Dress",
+    subTitle: "Casual Day Dress",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" }
+    ],
+    actionUrl: "/green-printed-shirt-dress/p/DRESS005",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "DRESS006",
+    sku: "DRESS0006",
+    price: 3899,
+    discountedPrice: 2499,
+    discount: 36,
+    imageUrl: "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/25860120/2023/11/11/ba32e98e-e9ae-490d-9693-b0453480e34e1699676119777TokyoTalkiesWhiteFitFlareDress1.jpg",
+    title: "White Lace Detail A-Line Dress",
+    subTitle: "Elegant Summer Dress",
+    isOutOfStock: 0,
+    actionUrl: "/white-lace-a-line-dress/p/DRESS006",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "DRESS007",
+    sku: "DRESS0007",
+    price: 3299,
+    discountedPrice: 2099,
+    discount: 36,
+    imageUrl: "https://m.media-amazon.com/images/I/81OHHdy1ALL._AC_UY1100_.jpg",
+    title: "Red Bodycon Party Dress",
+    subTitle: "Night Out Dress",
+    isOutOfStock: 0,
+    actionUrl: "/red-bodycon-party-dress/p/DRESS007",
+    aspectRatio: 0.75,
+    tag: [{ title: "FESTIVE" }]
+  },
+
+  {
+    id: "DRESS008",
+    sku: "DRESS0008",
+    price: 2599,
+    discountedPrice: 1599,
+    discount: 38,
+    imageUrl: "https://images.asos-media.com/products/only-short-sleeve-denim-dress-in-light-wash-blue/207393024-1-lightbluedenim?$n_750w$&wid=750&hei=750&fit=crop",
+    title: "Sky Blue Denim Shirt Dress",
+    subTitle: "Casual Denim Dress",
+    isOutOfStock: 0,
+    actionUrl: "/sky-blue-denim-shirt-dress/p/DRESS008",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "DRESS009",
+    sku: "DRESS0009",
+    price: 4999,
+    discountedPrice: 3399,
+    discount: 32,
+    imageUrl: "https://cdn-img.prettylittlething.com/8/d/2/9/8d29641a1591f253a621816756b57266a3ee5f12_cnb1776_1.jpg",
+    title: "Satin Cowl Neck Maxi Dress",
+    subTitle: "Premium Party Wear Dress",
+    isOutOfStock: 0,
+    actionUrl: "/lavender-satin-maxi-dress/p/DRESS009",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "DRESS010",
+    sku: "DRESS0010",
+    price: 3199,
+    discountedPrice: 1999,
+    discount: 38,
+    imageUrl: "https://www.axparis.com/cdn/shop/products/Brown-Polka-Dot-Wrap-Frill-Dress-5_800x.jpg?v=1655393447",
+    title: "Beige Polka Dot Wrap Dress",
+    subTitle: "Chic Day Wear Dress",
+    isOutOfStock: 0,
+    actionUrl: "/beige-polka-dot-wrap-dress/p/DRESS010",
+    aspectRatio: 0.75,
+    tag: [{ title: "NEW ARRIVAL" }]
+  }
+];
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+export const bestSellers = [
+  {
+    id: "KURTIS002",
+    sku: "KURTI0002",
+    price: 2199,
+    discountedPrice: 1299,
+    discount: 41,
+    imageUrl: "https://showoffff.in/cdn/shop/files/RF-3251_Blue_1_273b9753-7369-481f-873f-6789100586e4.jpg?v=1734162845",
+    plp_pdp_bridge: { variants: { size: [] } },
+    title: "Ethnic Motif Anarkali Kurti",
+    subTitle: "Rayon Anarkali Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/blue-ethnic-anarkali-kurti/p/KURTIS002",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "ABAYA001",
+    sku: "ABAYA0001",
+    price: 3999,
+    discountedPrice: 2599,
+    discount: 35,
+    imageUrl: "https://m.media-amazon.com/images/I/810tAf-JTUL._AC_UY1100_.jpg",
+    title: "Nida Fabric Buttoned Front Abaya",
+    subTitle: "Everyday Modest Wear Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/black-buttoned-front-abaya/p/ABAYA001",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "DRESS002",
+    sku: "DRESS0002",
+    price: 3999,
+    discountedPrice: 2599,
+    discount: 35,
+    imageUrl: "https://cdn-1.azazie.com/upimg/h65/22/1e/d0e41559968c8650a971df392d18221e.jpg",
+    title: "Amalie Navy A-Line Midi Dress",
+    subTitle: "Office Wear Midi Dress",
+    isOutOfStock: 0,
+    actionUrl: "/blue-solid-midi-dress/p/DRESS002",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "16829843",
+    sku: "LIKHA00006044",
+    price: 3999,
+    discountedPrice: 2000,
+    discount: 50,
+    type: "configurable",
+    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_1.jpg",
+    title: "Likha",
+    subTitle: "Cotton Chanderi Double Layer Angarkha Festive Kurta Set LIKBAKU007"
+  },
+
+  {
+    id: "KURTIS003",
+    sku: "KURTI0003",
+    price: 1999,
+    discountedPrice: 999,
+    discount: 50,
+    imageUrl: "https://m.media-amazon.com/images/I/71633760ABL._AC_UY1100_.jpg",
+    title: "Mustard Yellow Solid A-Line Kurti",
+    subTitle: "Casual A-Line Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/mustard-a-line-kurti/p/KURTIS003",
+    aspectRatio: 0.75
+  },
+
+  {
+    id: "18557143",
+    sku: "ANJAN00000690",
+    price: 2999,
+    discountedPrice: 1290,
+    discount: 57,
+    type: "simple",
+    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_1.jpg",
+    title: "Anjaneya Sarees",
+    subTitle: "Orange Woven Designer Cotton Silk Kanjivaram Saree"
+  },
+
+  {
+    id: "ABAYA006",
+    sku: "ABAYA0006",
+    price: 4299,
+    discountedPrice: 2799,
+    discount: 35,
+    imageUrl: "https://d12r75k5fx2b32.cloudfront.net/media/catalog/product/cache/ab1a032302435465d083120166d3f08f/d/a/dark-olive-closed-practical-abaya-8-base.jpg",
+    title: "Minimalist Closed Front Abaya",
+    subTitle: "Classic Everyday Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/minimalist-closed-abaya/p/ABAYA006",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "DRESS006",
+    sku: "DRESS0006",
+    price: 3899,
+    discountedPrice: 2499,
+    discount: 36,
+    imageUrl: "https://assets.myntassets.com/assets/images/25860120/2023/11/11/ba32e98e-e9ae-490d-9693-b0453480e34e1699676119777TokyoTalkiesWhiteFitFlareDress1.jpg",
+    title: "White Lace Detail A-Line Dress",
+    subTitle: "Elegant Summer Dress",
+    isOutOfStock: 0,
+    actionUrl: "/white-lace-a-line-dress/p/DRESS006",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "KURTIS006",
+    sku: "KURTI0006",
+    price: 2599,
+    discountedPrice: 1599,
+    discount: 38,
+    imageUrl: "https://assets0.mirraw.com/images/8235317/A332395_1_zoom.JPG?1705754596",
+    title: "Chikankari Cotton Kurti",
+    subTitle: "Lucknowi Chikankari Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/white-chikankari-kurti/p/KURTIS006",
+    aspectRatio: 0.75,
+    tag: [{ title: "BESTSELLER" }]
+  },
+
+  {
+    id: "12127695",
+    sku: "AUTUM00005806",
+    price: 3700,
+    discountedPrice: 1665,
+    discount: 55,
+    type: "configurable",
+    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/8/a81e6e7tuhina-azure_1.jpg",
+    title: "Autumnlane",
+    subTitle: "Tuhina Azure Applique Co-Ord Set"
+  },
+
+  {
+    id: "18228704",
+    sku: "LIBAS00028140",
+    price: 3299,
+    discountedPrice: 1320,
+    discount: 60,
+    type: "configurable",
+    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_1.jpg",
+    title: "Libas",
+    subTitle: "Navy Blue Solid Pintuck Ruby Silk Kurta Set"
+  },
+
+  {
+    id: "13612884",
+    sku: "AHIKA00001366",
+    price: 11998,
+    discountedPrice: 2880,
+    discount: 76,
+    type: "configurable",
+    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_1.jpg",
+    title: "Vaamsi",
+    subTitle: "Women Yellow Silk Blend Embroidered Kurta Set"
+  },
+
+  {
+    id: "14996857",
+    sku: "BLAAJ00002616",
+    price: 8179,
+    discountedPrice: 1963,
+    discount: 76,
+    type: "configurable",
+    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_1.jpg",
+    title: "BLACK SCISSOR",
+    subTitle: "Embellished Kurta with Pant & Dupatta Set"
+  },
+  {
+    id: "DRESS009",
+    sku: "DRESS0009",
+    price: 4299,
+    discountedPrice: 2999,
+    discount: 30,
+    imageUrl: "https://cdn-img.prettylittlething.com/8/d/2/9/8d29641a1591f253a621816756b57266a3ee5f12_cnb1776_1.jpg",
+    title: "Maroon Solid Maxi Dress",
+    subTitle: "Evening Wear Maxi Dress",
+    isOutOfStock: 0,
+    actionUrl: "/maroon-solid-maxi-dress/p/DRESS009",
+    aspectRatio: 0.75
+  }
+];
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+export const cosmetics = [
+  {
+    id: "COS001",
+    sku: "COSLIP001",
+    price: 799,
+    discountedPrice: 599,
+    discount: 25,
+    type: "configurable",
+    categoryId: ["201"],
+    imageUrl: "https://images.mamaearth.in/catalog/product/r/o/rose_nude_swatch_copy.jpg?format=auto&height=600",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://images.mamaearth.in/catalog/product/l/i/lipstick_rose_nude_1.jpg", aspect_ratio: "0.75" }
+      ],
+      siblings_colour: [],
+      variants: {
+        size: [{ sku: "COSLIP001-STD", id: "S1", variant_id: "1", name: "Standard", in_stock: "1" }]
+      }
+    },
+    title: "Mamaearth",
+    subTitle: "Moisture Matte Lipstick – Rose Nude",
+    isOutOfStock: 0,
+    sizeVariation: [{ title: "Standard", id: "S1" }],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/matte-lipstick/p/COS001",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF", transparency: "FF", transparency_web: 1 }],
+    dynamic_text: {}
+  },
+
+  {
+    id: "COS002",
+    sku: "COSFOUND001",
+    price: 899,
+    discountedPrice: 699,
+    discount: 22,
+    type: "configurable",
+    categoryId: ["202"],
+    imageUrl: "https://www.lakmeindia.com/cdn/shop/files/24451_S1-8901030742436_1000x.jpg?v=1712053117",
+    plp_pdp_bridge: {
+      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.lakmeindia.com/cdn/shop/products/9to5-primer-foundation-w120_800x.jpg", aspect_ratio: "0.75" }],
+      siblings_colour: [],
+      variants: {
+        size: [{ sku: "COSFOUND001-30ML", id: "S1", variant_id: "1", name: "30ml", in_stock: "1" }]
+      }
+    },
+    title: "Lakmé",
+    subTitle: "9 to 5 Primer + Serum Foundation",
+    isOutOfStock: 0,
+    sizeVariation: [{ title: "30ml", id: "S1" }],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/foundation/p/COS002",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+
+  {
+    id: "COS003",
+    sku: "COSKAJ001",
+    price: 299,
+    discountedPrice: 199,
+    discount: 33,
+    type: "simple",
+    categoryId: ["203"],
+    imageUrl: "https://www.facescanada.com/cdn/shop/products/UltimeProHDDeepBlackOneStrokeKajal_PDP_New_1024x1024.jpg?v=1648556089",
+    plp_pdp_bridge: {
+      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.facescanada.com/cdn/shop/products/ultimate-pro-intense-gel-kajal-black_800x.jpg", aspect_ratio: "0.75" }],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Faces Canada",
+    subTitle: "Ultimate Pro Intense Gel Kajal – Black",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/kajal/p/COS003",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF" }],
+    dynamic_text: {}
+  },
+   {
+    id: "COS107",
+    sku: "COSBLU107",
+    price: 699,
+    discountedPrice: 549,
+    discount: 21,
+    type: "simple",
+    categoryId: ["207"],
+    imageUrl: "https://m.media-amazon.com/images/I/71WgqhCwq2L._AC_UF1000,1000_QL80_.jpg",
+    plp_pdp_bridge: {
+      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.swissbeauty.in/cdn/shop/products/blusher_800x.jpg", aspect_ratio: "0.75" }],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Swiss Beauty",
+    subTitle: "Professional Blusher Palette",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/blusher/p/COS107",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+  {
+    id: "COS108",
+    sku: "COSHIG108",
+    price: 799,
+    discountedPrice: 649,
+    discount: 19,
+    type: "simple",
+    categoryId: ["208"],
+    imageUrl: "https://www.sugarcosmetics.com/cdn/shop/files/Contour-De-Force-Face-Palette-Gift-8.jpg?v=1768134081&width=1080",
+    plp_pdp_bridge: {
+      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.sugarcosmetics.com/cdn/shop/products/highlighter_800x.jpg", aspect_ratio: "0.75" }],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "SUGAR Cosmetics",
+    subTitle: "Contour De Force Highlighter",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/highlighter/p/COS108",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+   {
+    id: "COS106",
+    sku: "COSEYE106",
+    price: 399,
+    discountedPrice: 299,
+    discount: 25,
+    type: "simple",
+    categoryId: ["206"],
+    imageUrl: "https://media-uk.landmarkshops.in/cdn-cgi/image/h=1125,w=1125,q=85,fit=cover/lifestyle/1000009928385-1000009928384-1_010-2100.jpg",
+    plp_pdp_bridge: {
+      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.lakmeindia.com/cdn/shop/products/eyeconic-eyeliner-black_800x.jpg", aspect_ratio: "0.75" }],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Lakmé",
+    subTitle: "Eyeconic Liquid Eyeliner",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/eyeliner/p/COS106",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+  {
+    id: "COS006",
+    sku: "COSMAS001",
+    price: 699,
+    discountedPrice: 549,
+    discount: 21,
+    type: "simple",
+    categoryId: ["204"],
+    imageUrl: "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/eye-makeup/mascara/lash-sensational-washable-mascara/lash_laydown_v2.jpg?rev=c64ac795f6a0440f8a193b89a27f7151&cx=0&cy=0&cw=760&ch=1130&hash=F2B580944E3378A0EB678A2EC65201B6",
+    plp_pdp_bridge: {
+      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/eye/makeup/mascara/lash-sensational/lash-sensational-mascara.jpg", aspect_ratio: "0.75" }],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Maybelline",
+    subTitle: "Lash Sensational Mascara",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/mascara/p/COS006",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+  {
+    id: "COS007",
+    sku: "COSSER001",
+    price: 599,
+    discountedPrice: 449,
+    discount: 25,
+    type: "simple",
+    categoryId: ["303"],
+    imageUrl: "https://sfycdn.speedsize.com/56385b25-4e17-4a9a-9bec-c421c18686fb/https://beminimalist.co/cdn/shop/files/Nia10New.png?v=1721398127&width=480",
+    plp_pdp_bridge: {
+      images: [{ id: 1, mediaType: "image", position: "1", url: "https://minimalist.co.in/cdn/shop/products/niacinamide-10-serum_800x.jpg", aspect_ratio: "0.75" }],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Minimalist",
+    subTitle: "10% Niacinamide Face Serum",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/niacinamide-serum/p/COS007",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+  {
+    id: "COS008",
+    sku: "COSHAIR001",
+    price: 499,
+    discountedPrice: 349,
+    discount: 30,
+    type: "simple",
+    categoryId: ["401"],
+    imageUrl: "https://images.jdmagicbox.com/quickquotes/images_main/loreal-paris-extraordinary-oil-serum-100-ml-239575235-ebom8g5a.jpg",
+    plp_pdp_bridge: {
+      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.lorealparis.co.in/-/media/project/loreal/brand-sites/oap/apac/in/products/extraordinary-oil-serum/extraordinary-oil-serum-100ml.png", aspect_ratio: "0.75" }],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "L'Oréal Paris",
+    subTitle: "Extraordinary Oil Hair Serum",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/hair-serum/p/COS008",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  }
+];
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+export const skincare = [
+  {
+    id: "SKIN001",
+    sku: "SKINFW001",
+    price: 399,
+    discountedPrice: 299,
+    discount: 25,
+    type: "simple",
+    categoryId: ["301"],
+    imageUrl: "https://www.pinkroot.in/cdn/shop/files/81RfLSfzSAL._SL1500.jpg?v=1714916104&width=1946",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://plumgoodness.com/cdn/shop/products/green-tea-face-wash_800x.jpg", aspect_ratio: "0.75" }
+      ],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Plum",
+    subTitle: "Green Tea Pore Cleansing Face Wash",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/green-tea-face-wash/p/SKIN001",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF" }],
+    dynamic_text: {}
+  },
+
+  {
+    id: "SKIN002",
+    sku: "SKINSER001",
+    price: 599,
+    discountedPrice: 449,
+    discount: 25,
+    type: "simple",
+    categoryId: ["303"],
+    imageUrl: "https://m.media-amazon.com/images/I/51fo5Cdx4YL._AC_UF1000,1000_QL80_.jpg",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://minimalist.co.in/cdn/shop/products/niacinamide-10-serum_800x.jpg", aspect_ratio: "0.75" }
+      ],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Minimalist",
+    subTitle: "10% Niacinamide Face Serum",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/niacinamide-serum/p/SKIN002",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+
+  {
+    id: "SKIN003",
+    sku: "SKINMOI001",
+    price: 499,
+    discountedPrice: 349,
+    discount: 30,
+    type: "simple",
+    categoryId: ["304"],
+    imageUrl: "https://www.vridhistores.com/uploads/2025/Apr/products/17450479962413.jpg",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.nivea.in/-/media/nivea/products/face/nivea-soft-cream.jpg", aspect_ratio: "0.75" }
+      ],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Nivea",
+    subTitle: "Soft Light Moisturizing Cream",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/soft-moisturizing-cream/p/SKIN003",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+
+  {
+    id: "SKIN004",
+    sku: "SKINSUN001",
+    price: 499,
+    discountedPrice: 349,
+    discount: 30,
+    type: "simple",
+    categoryId: ["302"],
+    imageUrl: "https://m.media-amazon.com/images/I/61r7v2ziqPL.jpg",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://dermaco.in/cdn/shop/products/1_9eaf9c58-7d6a-4f5d-9c3c-8b3e5f4d5a3e_800x.jpg", aspect_ratio: "0.75" }
+      ],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "The Derma Co",
+    subTitle: "1% Hyaluronic Sunscreen SPF 50 PA++++",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/spf-50-sunscreen/p/SKIN004",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF" }],
+    dynamic_text: {}
+  },
+
+  {
+    id: "SKIN005",
+    sku: "SKINTON001",
+    price: 499,
+    discountedPrice: 399,
+    discount: 20,
+    type: "simple",
+    categoryId: ["305"],
+    imageUrl: "https://m.media-amazon.com/images/I/5109bKDejxL.jpg",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.simple.co.uk/sk-eu/content/dam/brands/simple/global_use/1269225-simple-soothing-facial-toner.jpg", aspect_ratio: "0.75" }
+      ],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Simple",
+    subTitle: "Soothing Facial Toner",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/facial-toner/p/SKIN005",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+
+  {
+    id: "SKIN006",
+    sku: "SKINMASK001",
+    price: 699,
+    discountedPrice: 549,
+    discount: 21,
+    type: "simple",
+    categoryId: ["306"],
+    imageUrl: "https://www.mcaffeine.com/cdn/shop/files/clay-face-mask.jpg?v=1765793669&width=533",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.mcaffeine.com/cdn/shop/products/clay-mask_800x.jpg", aspect_ratio: "0.75" }
+      ],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "mCaffeine",
+    subTitle: "Coffee Clay Face Mask",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/coffee-face-mask/p/SKIN006",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [],
+    dynamic_text: {}
+  },
+
+  {
+    id: "SKIN007",
+    sku: "SKINFW002",
+    price: 349,
+    discountedPrice: 249,
+    discount: 28,
+    type: "simple",
+    categoryId: ["301"],
+    imageUrl: "https://www.clickoncare.com/cdn/shop/files/Cetaphil-Gentle-Skin-Cleanser125ml01.jpg?v=1685184569",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.cetaphil.co.in/on/demandware.static/-/Sites-galderma-in-Library/default/dw8c0a6d5f/cetaphil-gentle-skin-cleanser.jpg", aspect_ratio: "0.75" }
+      ],
+      siblings_colour: [],
+      variants: {}
+    },
+    title: "Cetaphil",
+    subTitle: "Gentle Skin Cleanser",
+    isOutOfStock: 0,
+    sizeVariation: [],
+    offerCount: 0,
+    offers: [],
+    actionUrl: "/gentle-cleanser/p/SKIN007",
+    aspectRatio: 0.75,
+    sibling_colour_codes: [],
+    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF" }],
+    dynamic_text: {}
+  }
+];
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+export const sale = [
+  // ---- KURTIS ----
+  {
+    id: "KURTIS001",
+    sku: "KURTI0001",
+    price: 2499,
+    discountedPrice: 1499,
+    discount: 40,
+    type: "configurable",
+    categoryId: ["102","3528"],
+    imageUrl: "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "KURTI0001-S", id: "S1", variant_id: "1", name: "S", in_stock: "1" },
+          { sku: "KURTI0001-M", id: "S2", variant_id: "2", name: "M", in_stock: "1" },
+          { sku: "KURTI0001-L", id: "S3", variant_id: "3", name: "L", in_stock: "1" },
+          { sku: "KURTI0001-XL", id: "S4", variant_id: "4", name: "XL", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Floral Printed Straight Kurti",
+    subTitle: "Cotton Daily Wear Kurti",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ],
+    actionUrl: "/pink-floral-straight-kurti/p/KURTIS001",
+    aspectRatio: 0.75,
+    tag: [{ title: "SALE" }]
+  },
+
+  {
+    id: "KURTIS003",
+    sku: "KURTI0003",
+    price: 1999,
+    discountedPrice: 999,
+    discount: 50,
+    imageUrl: "https://m.media-amazon.com/images/I/71633760ABL._AC_UY1100_.jpg",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "KURTI0003-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "KURTI0003-M", id: "S2", name: "M", in_stock: "1" },
+          { sku: "KURTI0003-L", id: "S3", name: "L", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Mustard Yellow Solid A-Line Kurti",
+    subTitle: "Casual A-Line Kurti",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ],
+    actionUrl: "/mustard-a-line-kurti/p/KURTIS003",
+    aspectRatio: 0.75,
+    tag: [{ title: "SALE" }]
+  },
+
+  // ---- ABAYAS ----
+  {
+    id: "ABAYA005",
+    sku: "ABAYA0005",
+    price: 3599,
+    discountedPrice: 2199,
+    discount: 39,
+    imageUrl: "https://in.islamicdesignhouse.com/cdn/shop/files/1_b3cb469b-8241-480c-a130-4bfaddcbaee9.jpg?v=1757054845",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "ABAYA0005-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "ABAYA0005-M", id: "S2", name: "M", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Contrast Piping Open Abaya",
+    subTitle: "Modern Modest Wear",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" }
+    ],
+    actionUrl: "/contrast-piping-abaya/p/ABAYA005",
+    aspectRatio: 0.75,
+    tag: [{ title: "SALE" }]
+  },
+
+  {
+    id: "ABAYA009",
+    sku: "ABAYA0009",
+    price: 5199,
+    discountedPrice: 3499,
+    discount: 33,
+    imageUrl: "https://mariam-col.com/cdn/shop/files/satin-abaya-with-matching-belt-made-of-diamond-tassel-moa010-207114.jpg?v=1747777494&width=1200",
+    title: "Heavy Embellished Wedding Abaya",
+    subTitle: "Premium Bridal Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/wedding-embellished-abaya/p/ABAYA009",
+    aspectRatio: 0.75,
+    tag: [{ title: "SALE" }]
+  },
+
+  // ---- DRESSES ----
+  {
+    id: "DRESS003",
+    sku: "DRESS0003",
+    price: 2999,
+    discountedPrice: 1799,
+    discount: 40,
+    imageUrl: "https://pinnacleshruti.com/cdn/shop/files/Shruti_170.jpg?v=1741086306&width=2048",
+    plp_pdp_bridge: {
+      variants: {
+        size: [
+          { sku: "DRESS0003-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "DRESS0003-M", id: "S2", name: "M", in_stock: "1" },
+          { sku: "DRESS0003-L", id: "S3", name: "L", in_stock: "1" }
+        ]
+      }
+    },
+    title: "Tiered Maxi Dress",
+    subTitle: "Flowy Maxi Dress",
+    isOutOfStock: 0,
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ],
+    actionUrl: "/mustard-tiered-maxi-dress/p/DRESS003",
+    aspectRatio: 0.75,
+    tag: [{ title: "SALE" }]
+  },
+
+  // ---- INDIAN WEAR ----
+  {
+    id: "17176390",
+    sku: "AKHIL00014437",
+    price: 5049,
+    discountedPrice: 1969,
+    discount: 61,
+    type: "simple",
+    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_1.jpg?rnd=20200526195200",
+    title: "Akhilam",
+    subTitle: "Womens Georgette Black Embellished Designer Saree with Unstitched Blouse",
+    tag: [{ title: "SALE" }]
+  },
+
+  {
+    id: "13612884",
+    sku: "AHIKA00001366",
+    price: 11998,
+    discountedPrice: 2880,
+    discount: 76,
+    type: "configurable",
+    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_1.jpg?rnd=20200526195200",
+    title: "Vaamsi",
+    subTitle: "Women Yellow Silk Blend Embroidered Flared Kurta (Set of 3)",
+    tag: [{ title: "SALE" }]
+  }
 ];

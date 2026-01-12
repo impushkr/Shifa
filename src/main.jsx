@@ -15,6 +15,14 @@ import {
   womenBottomwear,
   womenFootwear,
   womenTopWear,
+  kurtis,
+  newArrivals,
+  abayas,
+  dresses,
+  bestSellers,
+  cosmetics,
+  skincare,
+  sale,
 } from "./data/womens/data";
 
 
@@ -36,28 +44,60 @@ const router = createBrowserRouter([
         element:<ProductsDetails/>
       },
       {
-        path: "/jewellery",
-        element: <Products data={jewellary} />,
+        path: "/bestsellers",
+        element: <Products data={bestSellers} />,
       },
+      {
+        path: "/kurtis",
+        element: <Products data={kurtis} />,
+      },
+      {
+        path: "/newarrivals",
+        element: <Products data={newArrivals} />,
+      },   
       {
         path: "/indianWear",
         element: <Products data={indianWear} />,
+      },   
+      {
+        path: "/abayas",
+        element: <Products data={abayas} />,
+      },
+      {
+        path: "/dresses",
+        element: <Products data={dresses} />,
+      },
+      {
+        path: "/cosmetic",
+        element: <Products data={cosmetics} />,
       },
       {
         path: "/bags",
         element: <Products data={womenBags} />,
       },
       {
+        path: "/skincare",
+        element: <Products data={skincare} />,
+      },
+      {
+        path: "/jewellery",
+        element: <Products data={jewellary} />,
+      },
+      {
+        path: "/sale",
+        element: <Products data={sale} />,
+      },
+      {
         path: "/bottomwear",
         element: <Products data={womenBottomwear} />,
       },
       {
-        path: "/footwear",
-        element: <Products data={womenFootwear} />,
-      },
-      {
         path: "/topWear",
         element: <Products data={womenTopWear} />,
+      },
+      {
+        path: "/footwear",
+        element: <Products data={womenFootwear} />,
       },
     ],
   },
