@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FiUser, FiHeart, FiShoppingBag, FiMenu, FiX,FiCamera } from "react-icons/fi";
+import { FiUser, FiHeart, FiShoppingBag, FiMenu, FiX,FiSearch} from "react-icons/fi";
 import { RiQrCodeLine} from "react-icons/ri";
 
 
@@ -32,8 +32,8 @@ export default function Navbar() {
             </div>
 
             {/* Right Icons */}
-            <div className="md:flex justify-between w-[30vw] md:w-[68vw] lg:w-[70vw]">
-              <div className="flex items-center w-[25vw] justify-between md:w-[78vw]">
+            <div className="md:flex justify-between w-[68vw] lg:w-[75vw] xl:w-[70vw]">
+              <div className="flex items-center justify-between w-[50vw] md:w-[78vw]">
                 <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
                   Home
                 </h1>
@@ -46,11 +46,12 @@ export default function Navbar() {
 
                 <input
                   type="text"
-                  placeholder="   Search Here . . . . ."
-                  className="hidden md:block w-[40vw] px-3 py-1 border border-gray-400 rounded-full outline-none text-sm h-10 md:w-[25vw] hover:border-black"
+                  placeholder="Search Here . . . . ."
+                  className="w-[30vw] px-3 py-1 border border-gray-400 rounded-full outline-none text-sm h-10 md:w-[25vw] hover:border-black"
                 />
 
-                <div className="flex items-center gap-1.5">
+                <div className="flex justify-between items-center w-[15vw] md:w-[35vw] lg:w-[27vw] xl:w-[21vw]">
+                  <div className="hidden md:flex items-center gap-1.5">
                   <FiUser className=" text-2xl md:text-xl cursor-pointer hover:text-pink-600" />
                   <h1 className=" hidden md:block text-lg font-medium  hover:text-pink-600">
                     Account
@@ -67,6 +68,7 @@ export default function Navbar() {
                   <h1 className="hidden md:block text-lg font-medium  hover:text-pink-600">
                     Cart
                   </h1>
+                </div>
                 </div>
               </div>
             </div>
@@ -88,7 +90,7 @@ export default function Navbar() {
       
       </nav>
 
-      <div className="mt-18 flex items-center justify-center gap-2 md:hidden">
+      {/* <div className="mt-18 flex items-center justify-center gap-2 md:hidden">
         <form
         className="flex rounded-lg border w-[80vw] items-center gap-4 ml-1 h-10 mt md:hidden"
       >
@@ -100,10 +102,10 @@ export default function Navbar() {
         />
       </form>
       <RiQrCodeLine className="text-4xl"/>
-      </div>
+      </div> */}
 
       {/* Desktop Menu */}
-      <ul className="flex h-13 items-center justify-center space-x-5 text-gray-500 font-semibold md:hidden ">
+      <ul className="mt-16 flex h-13 items-center justify-center space-x-6 text-gray-500 font-semibold md:hidden ">
         <li>
           <a href="#" className="hover:text-pink-600">
             New Arrivals

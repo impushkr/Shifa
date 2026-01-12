@@ -274,7 +274,7 @@ export default function Homepage() {
       />
   
       {/* Popular section */}
-      <h1 className="px-4 font-semibold mt-4 lg:text-xl">Popular</h1>
+      <h1 className="px-1 font-semibold mt-4 mb-1 lg:text-xl">Popular</h1>
       <div className="shadow p-3 flex justify-center gap-1 lg:gap-2 lg:mt-3">
         {/* Cosmetics */}
         <Link to={"/cosmetic"}>
@@ -348,12 +348,12 @@ export default function Homepage() {
 
 
       {/* Special Offers */}
-      <h1 className="px-3 font-semibold lg:text-xl mt-5">Special Offers</h1>
-      <div className="w-full  xl:overflow-x-auto   shadow mt-2 pb-2">
+      <h1 className="px-3 font-semibold lg:text-xl mt-8">Special Offers</h1>
+      <div className="w-full  xl:overflow-x-auto   shadow mt-2 pb-2 pt-2">
         <div className="flex flex-wrap justify-center gap-2 p-1 xl:w-[167vw]">
           {/* Bottom Wear */}
           <Link to={"/bottomwear"}>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://tse2.mm.bing.net/th/id/OIP.v1SSb8Zrfr7woj5bObO3UgHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3"
                 alt=""
@@ -372,7 +372,7 @@ export default function Homepage() {
 
           {/* Top wear */}
           <Link to={"/topwear"}>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
                 alt=""
@@ -391,7 +391,7 @@ export default function Homepage() {
 
           {/* Footwear */}
           <Link to={"/footwear"}>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e8c6bc-255b-488f-aeb4-305b93aa8204.__CR0,0,300,400_PT0_SX300_V1___.jpg"
                 alt=""
@@ -410,7 +410,7 @@ export default function Homepage() {
 
           {/* aaa */}
           <Link>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
                 alt=""
@@ -429,7 +429,7 @@ export default function Homepage() {
 
           {/* aaa */}
           <Link>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
                 alt=""
@@ -448,7 +448,7 @@ export default function Homepage() {
 
           {/* aaaa */}
           <Link>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
                 alt=""
@@ -467,7 +467,7 @@ export default function Homepage() {
 
           {/* aaa */}
           <Link>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
                 alt=""
@@ -486,7 +486,7 @@ export default function Homepage() {
 
           {/* aaa */}
           <Link>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
                 alt=""
@@ -505,7 +505,7 @@ export default function Homepage() {
 
           {/* aaa */}
           <Link>
-            <div className="h-[27vh] w-[31vw] relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
                 alt=""
