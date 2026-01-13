@@ -8,6 +8,8 @@ import Homepage from "./components/Homepage.jsx";
 import Products from "./components/Products.jsx";
 import ProductsDetails from "./components/ProductDetails.jsx";
 import Cart from "./components/Cart.jsx";
+import Wishlist from "./components/Wishlist.jsx";
+
 
 import {
   indianWear,
@@ -104,6 +106,10 @@ const router = createBrowserRouter([
       {
         path:"/cart",
         element:<Cart/>
+      },
+      {
+        path:"/wishlist",
+        element:<Wishlist/>
       }
     ],
   },
