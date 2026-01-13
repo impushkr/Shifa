@@ -1,3 +1,4 @@
+import { useCart } from "../context/CartContext";
 import {
   indianWear,
   jewellary,
@@ -33,6 +34,8 @@ export default function ProductDetails() {
     skincare.find((item) => item.id == id);
 
   if (!products) return null;
+
+  const{cartItems,addItem}=useCart();
 
   return (
     <div className="w-full px-4 md:px-10 md:mt-20 lg:mt-15 mb-5 lg:py-6">
@@ -135,7 +138,9 @@ export default function ProductDetails() {
               Add To Wishlist
             </button>
 
-            <button className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition">
+            <button 
+            onClick={()=>addItem(products)}
+            className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition">
               Add To Bag
             </button>
           </div>

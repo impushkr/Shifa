@@ -7,6 +7,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Homepage from "./components/Homepage.jsx";
 import Products from "./components/Products.jsx";
 import ProductsDetails from "./components/ProductDetails.jsx";
+import Cart from "./components/Cart.jsx";
 
 import {
   indianWear,
@@ -24,6 +25,7 @@ import {
   skincare,
   sale,
 } from "./data/womens/data";
+
 
 
 const router = createBrowserRouter([
@@ -99,6 +101,10 @@ const router = createBrowserRouter([
         path: "/footwear",
         element: <Products data={womenFootwear} />,
       },
+      {
+        path:"/cart",
+        element:<Cart/>
+      }
     ],
   },
 ]);
