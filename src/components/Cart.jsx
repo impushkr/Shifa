@@ -1,23 +1,9 @@
 import { Minus, Plus, Trash2, ShoppingBag } from "lucide-react";
-
-const cartItems = [
-  {
-    id: 1,
-    name: "Floral Kurti",
-    price: 1499,
-    qty: 1,
-    image: "https://via.placeholder.com/300x400",
-  },
-  {
-    id: 2,
-    name: "Embroidered Abaya",
-    price: 2999,
-    qty: 2,
-    image: "https://via.placeholder.com/300x400",
-  },
-];
+import { useCart } from "../context/CartContext";
 
 export default function Cart() {
+  const { cartItems, addItem, reduceItem } = useCart();
+
   const subtotal = cartItems.reduce(
     (total, item) => total + item.price * item.qty,
     0
@@ -44,25 +30,35 @@ export default function Cart() {
                   className="bg-white rounded-2xl shadow-sm p-4 flex gap-4"
                 >
                   <img
-                    src={item.image}
-                    alt={item.name}
+                    src={item.imageUrl}
+                    alt={item.title}
                     className="w-24 h-32 object-cover rounded-xl"
                   />
 
                   <div className="flex-1">
                     <h3 className="text-sm font-medium text-gray-800">
-                      {item.name}
+                      {item.title}
                     </h3>
                     <p className="text-pink-600 font-semibold mt-1">
-                      ₹{item.price}
+                      ₹{item.actualprice}
                     </p>
 
                     <div className="flex items-center gap-3 mt-3">
-                      <button className="p-1 rounded-full border">
+                      <button
+                        onClick={() => {
+                          reduceItem(item);
+                        }}
+                        className="p-1 rounded-full border"
+                      >
                         <Minus size={14} />
                       </button>
                       <span className="text-sm">{item.qty}</span>
-                      <button className="p-1 rounded-full border">
+                      <button
+                        onClick={() => {
+                          addItem(item);
+                        }}
+                        className="p-1 rounded-full border"
+                      >
                         <Plus size={14} />
                       </button>
                     </div>
