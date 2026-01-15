@@ -10,7 +10,7 @@ export default function Cart() {
   );
 
   return (
-    <div className="min-h-screen bg-gray-50 px-4 py-8">
+    <div className="min-h-screen bg-gray-50 px-4 py-8 md:mt-10">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-2xl font-semibold mb-6 flex items-center gap-2">
           <ShoppingBag className="text-pink-500" /> My Cart
