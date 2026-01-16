@@ -5,19 +5,17 @@ const CartContext = createContext();
 export function CartProvider({ children }) {
   const [cartItems, setCartItems] = useState([]);
 
-    const subtotal = cartItems.reduce(
+  const subtotal = cartItems.reduce(
     (total, item) => total + item.discountedPrice * item.quantity,
     0
   );
 
-   const discount = cartItems.reduce(
-    (total, item) =>
-      total + item.price * item.quantity,
+  const discount = cartItems.reduce(
+    (total, item) => total + item.price * item.quantity,
     0
   );
 
-  const subtotaldiscount= discount-subtotal;
-
+  const subtotaldiscount = discount - subtotal;
 
   cartItems.map((item) => {
     if (item.quantity == 0) {
@@ -73,13 +71,17 @@ export function CartProvider({ children }) {
     setCartItems((preItem) => preItem.filter((items) => items.id != item.id));
   }
 
-
-
-
   return (
     <>
       <CartContext.Provider
-        value={{ cartItems, subtotal, subtotaldiscount, addItem, reduceItem, remove }}
+        value={{
+          cartItems,
+          subtotal,
+          subtotaldiscount,
+          addItem,
+          reduceItem,
+          remove,
+        }}
       >
         {children}
       </CartContext.Provider>

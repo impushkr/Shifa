@@ -1,6 +1,7 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext";
+import { useWishlist } from "../context/WishlistContext";
 
 import {
   FiUser,
@@ -13,8 +14,8 @@ import {
 import { RiQrCodeLine } from "react-icons/ri";
 
 export default function Navbar() {
-
-  const{cartItems}=useCart();
+  const { cartItems } = useCart();
+  const { wishlistItems } = useWishlist();
   const [isOpen, setIsOpen] = useState(false);
   return (
     <>
@@ -69,15 +70,17 @@ export default function Navbar() {
                     </h1>
                   </div>
                   <Link to={"/wishlist"}>
-                  <div className="flex items-center gap-1.5 ">
-                    <div className="relative">
-                      <FiHeart className="text-2xl md:text-xl cursor-pointer hover:text-pink-600" />
-                      <div className="absolute bottom-4 right-[-0.6vw] bg-pink-400 font-semibold text-xs text-white text-center rounded-4xl md:bottom-3 md:right-[-0.4vw] xl:right-[-0.1vw] p-1"></div>
+                    <div className="flex items-center gap-1.5 ">
+                      <div className="relative">
+                        <FiHeart className="text-2xl md:text-xl cursor-pointer hover:text-pink-600" />
+                        {wishlistItems.length > 0 && (
+                          <div className="absolute bottom-4 right-[-0.6vw] bg-pink-400 font-semibold text-xs text-white text-center rounded-4xl md:bottom-3 md:right-[-0.4vw] xl:right-[-0.1vw] p-1"></div>
+                        )}
+                      </div>
+                      <h1 className="hidden md:block text-lg font-medium  hover:text-pink-600">
+                        Wishlist
+                      </h1>
                     </div>
-                    <h1 className="hidden md:block text-lg font-medium  hover:text-pink-600">
-                      Wishlist
-                    </h1>
-                  </div>
                   </Link>
                   <Link to={"/cart"}>
                     <div className="flex items-center gap-1.5 relative">
@@ -85,9 +88,11 @@ export default function Navbar() {
                       <h1 className="hidden md:block text-lg font-medium  hover:text-pink-600">
                         Cart
                       </h1>
-                      {cartItems.length >0  && <p className="absolute bottom-4 right-[-2vw] bg-pink-400 w-[4vw] font-semibold text-xs text-white text-center rounded-4xl md:text-xs md:w-[2.2vw] md:right-[-1.9vw] lg:w-[1.8vw] lg:right-[-1.4vw] xl:w-[1.2vw] xl:right-[-1vw]">
-                        {cartItems.length >9 ? "9+" : cartItems.length}
-                      </p> }
+                      {cartItems.length > 0 && (
+                        <p className="absolute bottom-4 right-[-2vw] bg-pink-400 w-[4vw] font-semibold text-xs text-white text-center rounded-4xl md:text-xs md:w-[2.2vw] md:right-[-1.9vw] lg:w-[1.8vw] lg:right-[-1.4vw] xl:w-[1.2vw] xl:right-[-1vw]">
+                          {cartItems.length > 9 ? "9+" : cartItems.length}
+                        </p>
+                      )}
                     </div>
                   </Link>
                 </div>

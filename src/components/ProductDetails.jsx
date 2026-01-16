@@ -27,18 +27,18 @@ export default function ProductDetails() {
     womenBags.find((item) => item.id == id) ||
     womenBottomwear.find((item) => item.id == id) ||
     womenFootwear.find((item) => item.id == id) ||
-    womenTopWear.find((item) => item.id == id)||
-    kurtis.find((item) => item.id == id)||
-    newArrivals.find((item) => item.id == id)||
-    abayas.find((item) => item.id == id)||
-    dresses.find((item) => item.id == id)||
-    cosmetics.find((item) => item.id == id)||
+    womenTopWear.find((item) => item.id == id) ||
+    kurtis.find((item) => item.id == id) ||
+    newArrivals.find((item) => item.id == id) ||
+    abayas.find((item) => item.id == id) ||
+    dresses.find((item) => item.id == id) ||
+    cosmetics.find((item) => item.id == id) ||
     skincare.find((item) => item.id == id);
 
   if (!products) return null;
 
-  const{cartItems,addItem}=useCart();
-  const{addtowishlist}=useWishlist();
+  const { cartItems, addItem } = useCart();
+  const { addtowishlist } = useWishlist();
 
   return (
     <div className="w-full px-4 md:px-10 md:mt-20 lg:mt-15 mb-5 lg:py-6">
@@ -137,13 +137,19 @@ export default function ProductDetails() {
 
           {/* ACTION BUTTONS */}
           <div className="flex gap-4 mt-6">
-            <button onClick={()=>{addtowishlist(products)}} className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition">
+            <button
+              onClick={() => {
+                addtowishlist(products);
+              }}
+              className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition hover:scale-95"
+            >
               Add To Wishlist
             </button>
 
-            <button 
-            onClick={()=>addItem(products)}
-            className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition">
+            <button
+              onClick={() => addItem(products)}
+              className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition hover:scale-95"
+            >
               Add To Bag
             </button>
           </div>

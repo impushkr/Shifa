@@ -1,10 +1,11 @@
 import { Heart, Trash2 } from "lucide-react";
 import { useWishlist } from "../context/WishlistContext";
 import { useCart } from "../context/CartContext";
+import { Link } from "react-router-dom";
 
 export default function Wishlist() {
-  const{addItem}=useCart();
-  const { wishlistItems , removefromwishlist } = useWishlist();
+  const { addItem } = useCart();
+  const { wishlistItems, removefromwishlist } = useWishlist();
   return (
     <div className="min-h-screen bg-gray-50 px-4 py-8 md:mt-12">
       <div className="max-w-6xl mx-auto">
@@ -23,11 +24,13 @@ export default function Wishlist() {
                 key={item.id}
                 className="bg-white rounded-2xl shadow-sm hover:shadow-md transition overflow-hidden xl:w-[18.5vw]"
               >
-                <img
-                  src={item.imageUrl}
-                  alt={item.title}
-                  className="w-full h-[27vh] object-cover md:h-[30vh lg:h-[26] xl:h-[37vh]"
-                />
+                <Link to={`/products/${item.id}`}>
+                  <img
+                    src={item.imageUrl}
+                    alt={item.title}
+                    className="w-full h-[27vh] object-cover md:h-[30vh lg:h-[26] xl:h-[37vh]"
+                  />
+                </Link>
 
                 <div className="p-3">
                   <h3 className="text-sm font-medium text-gray-800 truncate">
@@ -42,11 +45,21 @@ export default function Wishlist() {
                   </span>
 
                   <div className="flex justify-between items-center mt-3">
-                    <button onClick={()=>{addItem(item)}} className="text-xs px-3 py-1 rounded-full bg-pink-100 text-pink-600 hover:bg-pink-200">
+                    <button
+                      onClick={() => {
+                        addItem(item);
+                      }}
+                      className="text-xs px-3 py-1 rounded-full bg-pink-100 text-pink-600 hover:bg-pink-200"
+                    >
                       Move to Cart
                     </button>
 
-                    <button onClick={()=>{removefromwishlist(item)}} className="text-gray-400 hover:text-red-500">
+                    <button
+                      onClick={() => {
+                        removefromwishlist(item);
+                      }}
+                      className="text-gray-400 hover:text-red-500"
+                    >
                       <Trash2 size={16} />
                     </button>
                   </div>
