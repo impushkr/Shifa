@@ -1,29 +1,12 @@
 import { Heart, Trash2 } from "lucide-react";
-
-const wishlistItems = [
-  {
-    id: 1,
-    name: "Floral Kurti",
-    price: "₹1,499",
-    image: "https://via.placeholder.com/300x400",
-  },
-  {
-    id: 2,
-    name: "Embroidered Abaya",
-    price: "₹2,999",
-    image: "https://via.placeholder.com/300x400",
-  },
-  {
-    id: 3,
-    name: "Designer Dress",
-    price: "₹3,499",
-    image: "https://via.placeholder.com/300x400",
-  },
-];
+import { useWishlist } from "../context/WishlistContext";
+import { useCart } from "../context/CartContext";
 
 export default function Wishlist() {
+  const{addItem}=useCart();
+  const { wishlistItems , removefromwishlist } = useWishlist();
   return (
-    <div className="min-h-screen bg-gray-50 px-4 py-8">
+    <div className="min-h-screen bg-gray-50 px-4 py-8 md:mt-12">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-2xl font-semibold mb-6 flex items-center gap-2">
           <Heart className="text-pink-500" /> My Wishlist
@@ -38,28 +21,32 @@ export default function Wishlist() {
             {wishlistItems.map((item) => (
               <div
                 key={item.id}
-                className="bg-white rounded-2xl shadow-sm hover:shadow-md transition overflow-hidden"
+                className="bg-white rounded-2xl shadow-sm hover:shadow-md transition overflow-hidden xl:w-[18.5vw]"
               >
                 <img
-                  src={item.image}
-                  alt={item.name}
-                  className="w-full h-56 object-cover"
+                  src={item.imageUrl}
+                  alt={item.title}
+                  className="w-full h-[27vh] object-cover md:h-[30vh lg:h-[26] xl:h-[37vh]"
                 />
 
                 <div className="p-3">
                   <h3 className="text-sm font-medium text-gray-800 truncate">
-                    {item.name}
+                    {item.title}
                   </h3>
-                  <p className="text-pink-600 font-semibold text-sm mt-1">
-                    {item.price}
-                  </p>
+
+                  <span className="text-pink-600 font-semibold mt-1">
+                    ₹{item.discountedPrice}
+                  </span>
+                  <span className="text-gray-500 text-xs ml-2 mt-1 line-through">
+                    ₹{item.price}
+                  </span>
 
                   <div className="flex justify-between items-center mt-3">
-                    <button className="text-xs px-3 py-1 rounded-full bg-pink-100 text-pink-600 hover:bg-pink-200">
+                    <button onClick={()=>{addItem(item)}} className="text-xs px-3 py-1 rounded-full bg-pink-100 text-pink-600 hover:bg-pink-200">
                       Move to Cart
                     </button>
 
-                    <button className="text-gray-400 hover:text-red-500">
+                    <button onClick={()=>{removefromwishlist(item)}} className="text-gray-400 hover:text-red-500">
                       <Trash2 size={16} />
                     </button>
                   </div>

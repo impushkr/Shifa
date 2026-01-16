@@ -1,4 +1,6 @@
 import { useCart } from "../context/CartContext";
+import { useWishlist } from "../context/WishlistContext";
+
 import {
   indianWear,
   jewellary,
@@ -36,6 +38,7 @@ export default function ProductDetails() {
   if (!products) return null;
 
   const{cartItems,addItem}=useCart();
+  const{addtowishlist}=useWishlist();
 
   return (
     <div className="w-full px-4 md:px-10 md:mt-20 lg:mt-15 mb-5 lg:py-6">
@@ -134,7 +137,7 @@ export default function ProductDetails() {
 
           {/* ACTION BUTTONS */}
           <div className="flex gap-4 mt-6">
-            <button className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition">
+            <button onClick={()=>{addtowishlist(products)}} className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition">
               Add To Wishlist
             </button>
 
