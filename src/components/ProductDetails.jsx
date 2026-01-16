@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
 
@@ -40,21 +41,65 @@ export default function ProductDetails() {
   const { cartItems, addItem } = useCart();
   const { wishlistItems, addtowishlist } = useWishlist();
 
+  const [productImage, setProductImage] = useState(products.imageUrl);
+
   return (
-    <div className="w-full px-4 md:px-10 md:mt-20 lg:mt-15 mb-5 lg:py-6">
-      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-8">
-        {/* IMAGE SECTION */}
+    <div className="w-full px-4 md:px-8 md:mt-20 lg:mt-15 mb-5 lg:py-6">
+      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-1 md:gap-2 xl:gap-4.5">
+        <div className="md:flex md:gap-1.5">
+         {/* More Images Section */}
+        <div className="hidden md:block overflow-y-auto mt-3 h-[45vh] w-30 xl:h-[80vh] xl:w-31  ">
+          <div className="flex flex-col xl:gap-1">
+            {products.plp_pdp_bridge?.images
+              ? products.plp_pdp_bridge.images.map((product) => (
+                  <div
+                    onClick={() => {
+                      setProductImage(product.url);
+                    }}
+                    className="h-[12vh] w-[6vw] overflow-hidden rounded-lg "
+                  >
+                    <img
+                      src={product.url}
+                      alt={products.title}
+                      className="object-cover rounded-lg"
+                    />
+                  </div>
+               
+                ))
+              : null}
+          </div>
+        </div>
+
+          {/* IMAGE SECTION */}
         <div className="relative bg-white shadow rounded-2xl overflow-hidden">
           <img
-            src={products.imageUrl}
+            src={productImage}
             alt="Product"
             className="w-full h-full object-cover"
           />
+        </div>
 
-          {/* Wishlist */}
-          {/* <button className="absolute top-4 right-4 bg-white rounded-full p-2 shadow hover:scale-110">
-            <img src="" alt="wishlist" className="w-6 h-6" />
-          </button> */}
+        {/* More Images Section */}
+        <div className="overflow-x-auto mt-1 md:hidden ">
+          <div className="flex gap-1 w-max p-2 ">
+            {products.plp_pdp_bridge?.images
+              ? products.plp_pdp_bridge.images.map((product) => (
+                  <div
+                    onClick={() => {
+                      setProductImage(product.url);
+                    }}
+                    className="h-[10vh] md:h-[12vh] w-[20vw] md:w-[6vw] overflow-hidden rounded-lg "
+                  >
+                    <img
+                      src={product.url}
+                      alt={products.title}
+                      className="object-cover rounded-lg"
+                    />
+                  </div>
+                ))
+              : null}
+          </div>
+        </div>
         </div>
 
         {/* DETAILS SECTION */}
