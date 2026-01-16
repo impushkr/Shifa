@@ -38,7 +38,7 @@ export default function ProductDetails() {
   if (!products) return null;
 
   const { cartItems, addItem } = useCart();
-  const { addtowishlist } = useWishlist();
+  const { wishlistItems, addtowishlist } = useWishlist();
 
   return (
     <div className="w-full px-4 md:px-10 md:mt-20 lg:mt-15 mb-5 lg:py-6">
@@ -137,21 +137,41 @@ export default function ProductDetails() {
 
           {/* ACTION BUTTONS */}
           <div className="flex gap-4 mt-6">
-            <button
-              onClick={() => {
-                addtowishlist(products);
-              }}
-              className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition hover:scale-95"
-            >
-              Add To Wishlist
-            </button>
+            {wishlistItems.some(
+              (previousItem) => previousItem.id == products.id
+            ) ? (
+              <button
+                className={
+                  "flex-1 border border-gray-300 py-3 rounded-xl font-semibold transition bg-gray-200 cursor-not-allowed"
+                }
+              >
+                Added To Wishlist
+              </button>
+            ) : (
+              <button
+                onClick={() => {
+                  addtowishlist(products);
+                }}
+                className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition hover:scale-95"
+              >
+                Add To Wishlist
+              </button>
+            )}
 
-            <button
-              onClick={() => addItem(products)}
-              className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition hover:scale-95"
-            >
-              Add To Bag
-            </button>
+            {cartItems.some(
+              (previousItem) => previousItem.id == products.id
+            ) ? (
+              <button className="flex-1 bg-pink-800 text-white py-3 rounded-xl font-semibold transition ">
+                Added
+              </button>
+            ) : (
+              <button
+                onClick={() => addItem(products)}
+                className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition hover:scale-95"
+              >
+                Add To Bag
+              </button>
+            )}
           </div>
         </div>
       </div>
