@@ -185,7 +185,7 @@ export default function Homepage() {
             </div>
           </Link>
 
-          {/* Abaya's */}
+          {/* Modest Wear */}
           <Link to={"/abayas"}>
             <div className="w-[40vw] min-w-[15vw] rounded-sm overflow-hidden bg-white hover:shadow-md transition md:w-[30vw] xl:w-[15vw] xl:h-[40vh]">
               {/* Image */}
@@ -214,7 +214,7 @@ export default function Homepage() {
   "
                 >
                   <h3 className="text-gray-800 font-medium text-sm mb-2">
-                    Abaya's
+                    Modest Wear
                   </h3>
 
                   <button className="text-xs px-4 py-1 rounded-full bg-gray-800 text-white hover:bg-black transition lg:py-2 lg:mb-5">
