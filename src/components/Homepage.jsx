@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 export default function Homepage() {
   return (
     <>
+      <Link to={"/indianwear"}>
       <div className="relative ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-17 lg:h-[45vh] xl:h-[79vh]">
         <img
           src="/homepage-1.jpg"
@@ -18,6 +19,7 @@ export default function Homepage() {
           Shop Now
         </button>
       </div>
+      </Link>
 
       {/* Suggestions */}
       <h1 className="px-4 font-semibold lg:text-xl">Suggested For You</h1>
