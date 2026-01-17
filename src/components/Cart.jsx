@@ -83,7 +83,7 @@ export default function Cart() {
             </div>
 
             {/* Order Summary */}
-            <div className="bg-white rounded-2xl shadow-sm p-5 h-fit lg:h-[35vh] xl:h-[70vh] lg:flex lg:flex-col lg:justify-between">
+            <div className="bg-white rounded-2xl shadow-sm p-5 h-fit lg:h-[35vh] xl:h-[70vh] lg:flex lg:flex-col lg:justify-between ">
               <div>
               <h2 className="text-lg font-semibold mb-4">Order Summary</h2>
 
@@ -108,7 +108,7 @@ export default function Cart() {
               </div>
               </div>
 
-              <button className="w-full mt-5 bg-pink-500 text-white py-2 rounded-full hover:bg-pink-600 transition">
+              <button className="w-full mt-5 bg-pink-500 text-white py-2 rounded-full hover:bg-pink-600 transition sticky bottom-0 ">
                 Proceed to Checkout
               </button>
             </div>

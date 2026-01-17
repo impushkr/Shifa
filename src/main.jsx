@@ -11,6 +11,7 @@ import Cart from "./components/Cart.jsx";
 import Wishlist from "./components/Wishlist.jsx";
 
 
+
 import {
   indianWear,
   jewellary,

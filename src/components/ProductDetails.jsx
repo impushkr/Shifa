@@ -47,59 +47,61 @@ export default function ProductDetails() {
     <div className="w-full px-4 md:px-8 md:mt-20 lg:mt-15 mb-5 lg:py-6">
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-1 md:gap-2 xl:gap-4.5">
         <div className="md:flex md:gap-1.5">
-         {/* More Images Section */}
-        <div className="hidden md:block overflow-y-auto mt-3 h-[45vh] w-30 xl:h-[80vh] xl:w-31  ">
-          <div className="flex flex-col xl:gap-1">
-            {products.plp_pdp_bridge?.images
-              ? products.plp_pdp_bridge.images.map((product) => (
-                  <div
-                    onClick={() => {
-                      setProductImage(product.url);
-                    }}
-                    className="h-[12vh] w-[6vw] overflow-hidden rounded-lg "
-                  >
-                    <img
-                      src={product.url}
-                      alt={products.title}
-                      className="object-cover rounded-lg"
-                    />
-                  </div>
-               
-                ))
-              : null}
+          {/* Product Image gallery starts from medium device */}
+          <div className="hidden md:block overflow-y-auto mt-3 h-[45vh] w-30 xl:h-[80vh] xl:w-31  ">
+            <div className="flex flex-col xl:gap-1">
+              {products.plp_pdp_bridge?.images
+                ? products.plp_pdp_bridge.images.map((product) => (
+                    <div
+                      onClick={() => {
+                        setProductImage(product.url);
+                      }}
+                      className="h-[12vh] w-[6vw] overflow-hidden rounded-lg "
+                    >
+                      <img
+                        src={product.url}
+                        alt={products.title}
+                        className="object-cover rounded-lg"
+                      />
+                    </div>
+                  ))
+                : null}
+            </div>
           </div>
-        </div>
 
           {/* IMAGE SECTION */}
-        <div className="relative bg-white shadow rounded-2xl overflow-hidden">
-          <img
-            src={productImage}
-            alt="Product"
-            className="w-full h-full object-cover"
-          />
-        </div>
-
-        {/* More Images Section */}
-        <div className="overflow-x-auto mt-1 md:hidden ">
-          <div className="flex gap-1 w-max p-2 ">
-            {products.plp_pdp_bridge?.images
-              ? products.plp_pdp_bridge.images.map((product) => (
-                  <div
-                    onClick={() => {
-                      setProductImage(product.url);
-                    }}
-                    className="h-[10vh] md:h-[12vh] w-[20vw] md:w-[6vw] overflow-hidden rounded-lg "
-                  >
-                    <img
-                      src={product.url}
-                      alt={products.title}
-                      className="object-cover rounded-lg"
-                    />
-                  </div>
-                ))
-              : null}
+          <div className="relative bg-white shadow rounded-2xl overflow-hidden">
+            <img
+              src={productImage}
+              alt="Product"
+              className="w-full h-full object-cover"
+            />
           </div>
-        </div>
+
+          {/* Product Image gallery for mobiles */}
+          <div className="overflow-x-auto mt-1 md:hidden ">
+            <div className="flex gap-1 w-max p-2 ">
+              {products.plp_pdp_bridge?.images
+                ? products.plp_pdp_bridge.images.map((product) => (
+                    <div
+                      onMouseEnter={() => {
+                        setProductImage(product.url);
+                      }}
+                      onClick={() => {
+                        setProductImage(product.url);
+                      }}
+                      className="h-[10vh] md:h-[12vh] w-[20vw] md:w-[6vw] overflow-hidden rounded-lg "
+                    >
+                      <img
+                        src={product.url}
+                        alt={products.title}
+                        className="object-cover rounded-lg"
+                      />
+                    </div>
+                  ))
+                : null}
+            </div>
+          </div>
         </div>
 
         {/* DETAILS SECTION */}
@@ -144,7 +146,7 @@ export default function ProductDetails() {
 
                 <div className="flex gap-3 overflow-x-auto pb-2">
                   {products.sizeVariation.map((item, index) => (
-                    <div
+                    <button
                       key={index}
                       className="border border-gray-400 rounded-2xl flex justify-center items-center
           h-[4vh] min-w-[11vw]
@@ -156,7 +158,7 @@ export default function ProductDetails() {
                       {item.title.length > 5
                         ? item.title.slice(5, 7)
                         : item.title}
-                    </div>
+                    </button>
                   ))}
                 </div>
               </div>
