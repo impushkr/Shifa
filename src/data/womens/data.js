@@ -582,8 +582,6 @@ export const jewellary = [
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-
-
 export const indianWear = [
   {
     id: "15218151",
@@ -598,6 +596,83 @@ export const indianWear = [
 
     title: "Gajra Gang",
     subTitle: "Frida Farida Off White Crepe Poppy Print Shirt GGFFSH01",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_1.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_2.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_3.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_4.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_5.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_6.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_7.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_8.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },{
+          id: 9,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_9.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },{
+          id: 10,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_10.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },{
+          id: 11,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_11.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+],}
   },
   {
     id: "16829843",
@@ -613,6 +688,59 @@ export const indianWear = [
     title: "Likha",
     subTitle:
       "Cotton Chanderi Double Layer Angarkha Festive Kurta Set LIKBAKU007",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
   },
   {
     id: "17176390",
@@ -628,6 +756,52 @@ export const indianWear = [
     title: "Akhilam",
     subTitle:
       "Womens Georgette Black Embellished Designer Saree with Unstitched Blouse",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
   },
   {
     id: "18228704",
@@ -643,6 +817,65 @@ export const indianWear = [
     title: "Libas",
     subTitle:
       "Navy Blue solid pintuck ruby silk kurta with solid trouser and ethnic motif woven design dupatta, a kurta set for women",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_1.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_2.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_3.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_4.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_5.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_6.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_7.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_8.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+      ]}
   },
   {
     id: "18580761",
@@ -658,6 +891,46 @@ export const indianWear = [
     title: "Kashmir Box",
     subTitle:
       "Floral Embroidered Thread Work Mandarin Collar Kaftan Kurta with Palazzo (Set of 2)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e37c02eKB11727-1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e37c02eKB11727-2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e37c02eKB11727-3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e37c02eKB11727-4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e37c02eKB11727-5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        
+],}
+
   },
   {
     id: "18195655",
@@ -672,6 +945,60 @@ export const indianWear = [
 
     title: "Libas",
     subTitle: "Magenta Silk Blend Kurta with Pant and Dupatta (Set of 3)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/3/63465fbGS832_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/3/63465fbGS832_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/3/63465fbGS832_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/3/63465fbGS832_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/3/63465fbGS832_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/3/63465fbGS832_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/3/63465fbGS832_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        
+],}
+
   },
   {
     id: "16310473",
@@ -686,6 +1013,45 @@ export const indianWear = [
 
     title: "JATRIQQ",
     subTitle: "Attractive Wine Fendy Silk Saree with Unstitched Blouse",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/5/65c273dJQ8008-Purple_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/5/65c273dJQ8008-Purple_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/5/65c273dJQ8008-Purple_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/5/65c273dJQ8008-Purple_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/5/65c273dJQ8008-Purple_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
   },
   {
     id: "13612884",
@@ -700,8 +1066,60 @@ export const indianWear = [
 
     title: "Vaamsi",
     subTitle: "Women Yellow Silk Blend Embroidered Flared Kurta (Set of 3)",
-  },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
 
+  },
   {
     id: "14996857",
     sku: "BLAAJ00002616",
@@ -715,6 +1133,52 @@ export const indianWear = [
 
     title: "BLACK SCISSOR",
     subTitle: "Embellished Kurta with Pant & Dupatta (Set of 3)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
   },
   {
     id: "15637003",
@@ -730,6 +1194,52 @@ export const indianWear = [
     title: "Odette",
     subTitle:
       "Multi-Color Silk Blend Printed Stitched Indo Western Co-ord For Women (Set of 3)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/a/5aa6e74AYTF305_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/a/5aa6e74AYTF305_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/a/5aa6e74AYTF305_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/a/5aa6e74AYTF305_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/a/5aa6e74AYTF305_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/a/5aa6e74AYTF305_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
   },
   {
     id: "18431713",
@@ -744,6 +1254,66 @@ export const indianWear = [
 
     title: "Mabish By Sonal Jain",
     subTitle: "Pink Crop Top with Draped Skirt and Cape (Set of 3)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_2.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_3.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_4.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_5.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_6.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_7.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_8.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+],}
+    
   },
   {
     id: "18557143",
@@ -759,6 +1329,59 @@ export const indianWear = [
     title: "Anjaneya Sarees",
     subTitle:
       "Orange Woven Designer Cotton Silk Kanjivaram Saree with Unstitched Blouse",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
   },
   {
     id: "15442781",
@@ -774,6 +1397,60 @@ export const indianWear = [
     title: "FASHOR",
     subTitle:
       "Ethnic Ajrakh Printed Kurta With Pant & Dupatta - Rust (Set of 3)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ce27cc7STA21470B4FS_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ce27cc7STA21470B4FS_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ce27cc7STA21470B4FS_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ce27cc7STA21470B4FS_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ce27cc7STA21470B4FS_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ce27cc7STA21470B4FS_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ce27cc7STA21470B4FS_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
+
   },
   {
     id: "18523757",
@@ -789,6 +1466,53 @@ export const indianWear = [
     title: "Gahan",
     subTitle:
       "Cotton Blend Animal Printed White Kaftan Style Co-Ord (Set of 2)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/92c7effJ-DN466K_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/92c7effJ-DN466K_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/92c7effJ-DN466K_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/92c7effJ-DN466K_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/92c7effJ-DN466K_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/92c7effJ-DN466K_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
+
   },
   {
     id: "18026119",
@@ -804,6 +1528,60 @@ export const indianWear = [
     title: "Biba",
     subTitle:
       "Womens Purple Rayon Straight Kurta with Palazzo & Dupatta (Set of 3)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/c/6c6ba55SKDASRT10213AW24PUR-Purple_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/c/6c6ba55SKDASRT10213AW24PUR-Purple_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/c/6c6ba55SKDASRT10213AW24PUR-Purple_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/c/6c6ba55SKDASRT10213AW24PUR-Purple_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/c/6c6ba55SKDASRT10213AW24PUR-Purple_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/c/6c6ba55SKDASRT10213AW24PUR-Purple_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/c/6c6ba55SKDASRT10213AW24PUR-Purple_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
+
   },
   {
     id: "16350877",
@@ -819,8 +1597,47 @@ export const indianWear = [
     title: "KALKI FASHION",
     subTitle:
       "Pale Olive Green Lehenga & Blouse in Banarasi Silk with Dupatta (Set of 3)",
-  },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca9fc6cSG166452_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca9fc6cSG166452_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca9fc6cSG166452_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca9fc6cSG166452_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca9fc6cSG166452_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
 
+
+  },
   {
     id: "12128178",
     sku: "GAJRA00005275",
@@ -835,6 +1652,73 @@ export const indianWear = [
     title: "Gajra Gang",
     subTitle:
       "Rishi Vibhuti Yellow Printed Top, Sharara & Jacket Co-ord Set (Set of 3) GGRVSKD02",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_8.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },{
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_9.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
+
   },
   {
     id: "14258196",
@@ -850,6 +1734,60 @@ export const indianWear = [
     title: "Likha",
     subTitle:
       "Lace and Button Detailing Alia Cut White Embroidered Tunic LIKEPTU06",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02a2fc3LIKEPTU06-WHITE_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02a2fc3LIKEPTU06-WHITE_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02a2fc3LIKEPTU06-WHITE_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02a2fc3LIKEPTU06-WHITE_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02a2fc3LIKEPTU06-WHITE_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02a2fc3LIKEPTU06-WHITE_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02a2fc3LIKEPTU06-WHITE_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
+
   },
   {
     id: "8222605",
@@ -864,6 +1802,53 @@ export const indianWear = [
 
     title: "Urbanstree",
     subTitle: "Sahar Suit Set (Set of 3)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/c/7cfd5efUS13_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/c/7cfd5efUS13_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/c/7cfd5efUS13_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/c/7cfd5efUS13_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/c/7cfd5efUS13_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/c/7cfd5efUS13_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
+
   },
   {
     id: "12127695",
@@ -878,6 +1863,23 @@ export const indianWear = [
 
     title: "Autumnlane",
     subTitle: "Tuhina Azure Applique Co-Ord (Set of 2)",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/8/a81e6e7tuhina-azure_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/8/a81e6e7tuhina-azure_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
 ];
 
@@ -900,7 +1902,69 @@ export const womenBottomwear = [
 
     title: "Gajra Gang",
     subTitle: "Frida Farida Off White Crepe Poppy Print Pants GGFFBTM04",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_8.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
+
   },
+
   {
     id: "16314077",
     sku: "LIKHA00005213",
@@ -914,7 +1978,19 @@ export const womenBottomwear = [
 
     title: "Likha",
     subTitle: "Kora Bottoms Cotton Beige Straight Pant LIKBSPT29",
+   plp_pdp_bridge: {
+  images: [
+    { id: 1, mediaType: "image", position: "1", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_1.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    { id: 2, mediaType: "image", position: "2", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_2.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    { id: 3, mediaType: "image", position: "3", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_3.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    { id: 4, mediaType: "image", position: "4", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_4.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    { id: 5, mediaType: "image", position: "5", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_5.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    ]
+}
+
+
   },
+
   {
     id: "8856885",
     sku: "GOCOL00004935",
@@ -928,7 +2004,17 @@ export const womenBottomwear = [
 
     title: "Go Colors",
     subTitle: "Women Solid Black Ponte Wide Leg Pant",
+    plp_pdp_bridge: {
+  images: [
+    { id: 1, mediaType: "image", position: "1", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_1.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    { id: 2, mediaType: "image", position: "2", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_2.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    { id: 3, mediaType: "image", position: "3", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_3.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    { id: 4, mediaType: "image", position: "4", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_4.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+    { id: 5, mediaType: "image", position: "5", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_5.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
+   ]
+}
   },
+
   {
     id: "16822792",
     sku: "ZURIX00003250",
@@ -942,7 +2028,16 @@ export const womenBottomwear = [
 
     title: "Zuri",
     subTitle: "Women Blue Comfort Fit Premium Cotton Pant",
+    plp_pdp_bridge: {
+  images: [
+    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    ]
+}
   },
+
   {
     id: "12296363",
     sku: "WXXXX00034494",
@@ -956,7 +2051,23 @@ export const womenBottomwear = [
 
     title: "W",
     subTitle: "Solid White Slim Pant",
+   plp_pdp_bridge: {
+  images: [
+    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:7, mediaType:"image", position:"7", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_7.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:8, mediaType:"image", position:"8", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_8.jpg?rnd=20200526195200", aspect_ratio:"0.75"}
+  ]
+}
+
+
+
   },
+
   {
     id: "19247722",
     sku: "BIBAX00036290",
@@ -970,7 +2081,18 @@ export const womenBottomwear = [
 
     title: "Biba",
     subTitle: "Women Off White Solid Pant",
+    plp_pdp_bridge: {
+  images: [
+    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+  ]
+}
   },
+
   {
     id: "13933063",
     sku: "KOHSH00001049",
@@ -984,7 +2106,21 @@ export const womenBottomwear = [
 
     title: "Kohsh",
     subTitle: "White Cotton Flex Cigarette Pants",
+    plp_pdp_bridge: {
+  images: [
+    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+   ]
+}
+
+
+
   },
+
   {
     id: "16460058",
     sku: "LIBAS00011066",
@@ -998,6 +2134,15 @@ export const womenBottomwear = [
 
     title: "Libas",
     subTitle: "Womens White Solid Pant",
+    plp_pdp_bridge: {
+  images: [
+    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    ]
+}
+
   },
 
   {
@@ -1014,7 +2159,21 @@ export const womenBottomwear = [
     title: "Globus",
     subTitle:
       "Women Off-White Lace Hem Design Elasticated Waist Straight Palazzos",
+    plp_pdp_bridge: {
+  images: [
+    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    ]
+}
+
+
+
   },
+
   {
     id: "13070182",
     sku: "KICAX00004908",
@@ -1028,7 +2187,20 @@ export const womenBottomwear = [
 
     title: "Kica",
     subTitle: "Criss-Cross Cotton Flare Pants With Slit At Ankle",
+    plp_pdp_bridge: {
+  images: [
+    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    ]
+}
+
+
+
   },
+
   {
     id: "10415154",
     sku: "LAADO00000550",
@@ -1042,7 +2214,20 @@ export const womenBottomwear = [
 
     title: "Laado",
     subTitle: "White Solid Lace Frill Pure Cotton Sustainable Afgan Salwar",
+    plp_pdp_bridge: {
+  images: [
+    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+    { id:7, mediaType:"image", position:"7", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_7.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
+   ]
+}
+
   },
+  
   {
     id: "11105925",
     sku: "LYRAX00002593",
@@ -1057,7 +2242,53 @@ export const womenBottomwear = [
     title: "Lyra",
     subTitle:
       "Women Solid Premium Cotton Ankle Length Mid Waist Leggings White",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/5/55f8690LYRA_AL_108_FS_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/5/55f8690LYRA_AL_108_FS_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/5/55f8690LYRA_AL_108_FS_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/5/55f8690LYRA_AL_108_FS_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/5/55f8690LYRA_AL_108_FS_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/5/55f8690LYRA_AL_108_FS_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
+
   {
     id: "13543671",
     sku: "BIBAX00024654",
@@ -1071,7 +2302,53 @@ export const womenBottomwear = [
 
     title: "Biba",
     subTitle: "Women Viscose Solid Pants - White",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/3/532462cBTMW19788AW23OWHT_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/3/532462cBTMW19788AW23OWHT_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/3/532462cBTMW19788AW23OWHT_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/3/532462cBTMW19788AW23OWHT_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/3/532462cBTMW19788AW23OWHT_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/3/532462cBTMW19788AW23OWHT_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
+
   {
     id: "5881961",
     sku: "PIROH00000679",
@@ -1085,7 +2362,53 @@ export const womenBottomwear = [
 
     title: "PIROH",
     subTitle: "Womens Cotton Solid Straight Trouser Pant Black",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/93c801cCB111A_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/93c801cCB111A_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/93c801cCB111A_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/93c801cCB111A_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/93c801cCB111A_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/93c801cCB111A_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
+
   {
     id: "12252627",
     sku: "ANUAA00000138",
@@ -1099,7 +2422,32 @@ export const womenBottomwear = [
 
     title: "Anuvas",
     subTitle: "Women White Kanj Pants",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/3/f314402P22-10_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/3/f314402P22-10_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/3/f314402P22-10_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
+
   {
     id: "16314076",
     sku: "LIKHA00005212",
@@ -1113,6 +2461,44 @@ export const womenBottomwear = [
 
     title: "Likha",
     subTitle: "Kora Bottoms Cotton Black Straight Pant LIKBSPT29",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Black_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Black_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Black_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Black_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Black_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
 
   {
@@ -1128,7 +2514,53 @@ export const womenBottomwear = [
 
     title: "Gajra Gang",
     subTitle: "Banaras Brocade Teal Slim Fit Pants GBBBTM01",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3c9133WGAJRA00005486_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3c9133WGAJRA00005486_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3c9133WGAJRA00005486_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3c9133WGAJRA00005486_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3c9133WGAJRA00005486_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3c9133WGAJRA00005486_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
+
   {
     id: "1052040",
     sku: "JPKR1487",
@@ -1142,7 +2574,46 @@ export const womenBottomwear = [
 
     title: "Jaipur Kurti",
     subTitle: "Off White Slub Cotton Solid Pant",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/j/k/jkpat004_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/j/k/jkpat004_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/j/k/jkpat004_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/j/k/jkpat004_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/j/k/jkpat004_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
+
   {
     id: "15673461",
     sku: "VARAN00009593",
@@ -1156,7 +2627,46 @@ export const womenBottomwear = [
 
     title: "Varanga",
     subTitle: "Women Off White Zari Embroidered Pant",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/b/0bf8057VTRS7126-OffWhite_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/b/0bf8057VTRS7126-OffWhite_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/b/0bf8057VTRS7126-OffWhite_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/b/0bf8057VTRS7126-OffWhite_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/b/0bf8057VTRS7126-OffWhite_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
   },
+
   {
     id: "18437486",
     sku: "LAKSH00026206",
@@ -1170,8 +2680,59 @@ export const womenBottomwear = [
 
     title: "Lakshita",
     subTitle: "Mustard Cotton Relaxed Fit Trouser",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/4/34b5235LBC0262_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/4/34b5235LBC0262_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/4/34b5235LBC0262_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/4/34b5235LBC0262_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/4/34b5235LBC0262_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/4/34b5235LBC0262_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+],}
+
+
   },
 ];
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 export const womenTopWear = [
   {
@@ -9785,6 +11346,9 @@ export const womenTopWear = [
   },
 ];
 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 export const womenFootwear = [
   {
     id: "12091713",
@@ -11551,7 +13115,6 @@ export const womenFootwear = [
     ],
     dynamic_text: {},
   },
-
   {
     id: "12960590",
     sku: "IYKYK00002896",
@@ -17772,16 +19335,62 @@ export const kurtis = [
     type: "configurable",
     categoryId: ["102","3528"],
     imageUrl: "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
-    plp_pdp_bridge: {
-      variants: {
-        size: [
-          { sku: "KURTI0001-S", id: "S1", variant_id: "1", name: "S", in_stock: "1" },
-          { sku: "KURTI0001-M", id: "S2", variant_id: "2", name: "M", in_stock: "1" },
-          { sku: "KURTI0001-L", id: "S3", variant_id: "3", name: "L", in_stock: "1" },
-          { sku: "KURTI0001-XL", id: "S4", variant_id: "4", name: "XL", in_stock: "1" }
-        ]
-      }
+   plp_pdp_bridge: {
+  images: [
+    {
+      id: 1,
+      mediaType: "image",
+      position: "1",
+      url: "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
+      aspect_ratio: "0.75"
     },
+    {
+      id: 2,
+      mediaType: "image",
+      position: "2",
+      url: "https://varanga.in/cdn/shop/files/2_b8ead0e6-8498-45bd-a1cd-c3d1a209959d.jpg?v=1688620183",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 3,
+      mediaType: "image",
+      position: "3",
+      url: "https://varanga.in/cdn/shop/files/3_7c20a431-4df8-4b51-992f-73f22481304f.jpg?v=1688620179",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 4,
+      mediaType: "image",
+      position: "4",
+      url: "https://varanga.in/cdn/shop/files/4_a715d731-1941-4c3b-a54d-46448d67eede.jpg?v=1688620178",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 5,
+      mediaType: "image",
+      position: "5",
+      url: "https://varanga.in/cdn/shop/files/5_efbf9dda-bbdb-4c0b-9727-88a05a831178.jpg?v=1688620177",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 6,
+      mediaType: "image",
+      position: "6",
+      url: "https://varanga.in/cdn/shop/products/Finallll_1_28a520b5-f859-4af2-81da-4d5b1c15decf.jpg?v=1702887312",
+      aspect_ratio: "0.75"
+    }
+  ],
+
+  variants: {
+    size: [
+      { sku: "KURTI0001-S",  id: "S1", variant_id: "1", name: "S",  in_stock: "1" },
+      { sku: "KURTI0001-M",  id: "S2", variant_id: "2", name: "M",  in_stock: "1" },
+      { sku: "KURTI0001-L",  id: "S3", variant_id: "3", name: "L",  in_stock: "1" },
+      { sku: "KURTI0001-XL", id: "S4", variant_id: "4", name: "XL", in_stock: "1" }
+    ]
+  }
+},
+
     title: "Floral Printed Straight Kurti",
     subTitle: "Cotton Daily Wear Kurti",
     isOutOfStock: 0,
@@ -17805,14 +19414,60 @@ export const kurtis = [
     discountedPrice: 1299,
     discount: 41,
     imageUrl: "https://showoffff.in/cdn/shop/files/RF-3251_Blue_1_273b9753-7369-481f-873f-6789100586e4.jpg?v=1734162845",
-    plp_pdp_bridge: {
-      variants: {
-        size: [
-          { sku: "KURTI0002-M", id: "S1", variant_id: "1", name: "M", in_stock: "1" },
-          { sku: "KURTI0002-L", id: "S2", variant_id: "2", name: "L", in_stock: "1" }
-        ]
-      }
+   plp_pdp_bridge: {
+  images: [
+    {
+      id: 1,
+      mediaType: "image",
+      position: "1",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/Zm3H/6767ea9d0f47f80c87162d5a/-1117Wx1400H-700961610-blue-MODEL.jpg",
+      aspect_ratio: "0.75"
     },
+    {
+      id: 2,
+      mediaType: "image",
+      position: "2",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/q0xN/6767ea9d0f47f80c87162d92/-1117Wx1400H-700961610-blue-MODEL2.jpg",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 3,
+      mediaType: "image",
+      position: "3",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/0vM3/6767ea9d0f47f80c87162da0/-1117Wx1400H-700961610-blue-MODEL3.jpg",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 4,
+      mediaType: "image",
+      position: "4",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/9lBN/6767ea9d0f47f80c87162d91/-1117Wx1400H-700961610-blue-MODEL4.jpg",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 5,
+      mediaType: "image",
+      position: "5",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/UWgf/6767ea9d0f47f80c87162d99/-1117Wx1400H-700961610-blue-MODEL5.jpg",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 6,
+      mediaType: "image",
+      position: "6",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/JojC/6767ea9d0f47f80c87162d94/-1117Wx1400H-700961610-blue-MODEL6.jpg",
+      aspect_ratio: "0.75"
+    }
+  ],
+
+  variants: {
+    size: [
+      { sku: "KURTI0002-M", id: "S1", variant_id: "1", name: "M", in_stock: "1" },
+      { sku: "KURTI0002-L", id: "S2", variant_id: "2", name: "L", in_stock: "1" }
+    ]
+  }
+}
+,
     title: "Ethnic Motif Anarkali Kurti",
     subTitle: "Rayon Anarkali Kurti",
     isOutOfStock: 0,
@@ -17833,16 +19488,62 @@ export const kurtis = [
     price: 1999,
     discountedPrice: 999,
     discount: 50,
-    imageUrl: "https://m.media-amazon.com/images/I/71633760ABL._AC_UY1100_.jpg",
+    imageUrl: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/MOC6/6492473cd55b7d0c63881e7e/-1117Wx1400H-463475400-yellow-MODEL.jpg",
     plp_pdp_bridge: {
-      variants: {
-        size: [
-          { sku: "KURTI0003-S", id: "S1", name: "S", in_stock: "1" },
-          { sku: "KURTI0003-M", id: "S2", name: "M", in_stock: "1" },
-          { sku: "KURTI0003-L", id: "S3", name: "L", in_stock: "1" }
-        ]
-      }
+  images: [
+    {
+      id: 1,
+      mediaType: "image",
+      position: "1",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/MOC6/6492473cd55b7d0c63881e7e/-1117Wx1400H-463475400-yellow-MODEL.jpg",
+      aspect_ratio: "0.75"
     },
+    {
+      id: 2,
+      mediaType: "image",
+      position: "2",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/NXc1/6492473cd55b7d0c63881ebf/-1117Wx1400H-463475400-yellow-MODEL2.jpg",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 3,
+      mediaType: "image",
+      position: "3",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/hrv4/6492473cd55b7d0c63881ec3/-1117Wx1400H-463475400-yellow-MODEL3.jpg",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 4,
+      mediaType: "image",
+      position: "4",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/GgmI/6492473cd55b7d0c63881eca/-1117Wx1400H-463475400-yellow-MODEL4.jpg",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 5,
+      mediaType: "image",
+      position: "5",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/o472/6492473cd55b7d0c63881ebb/-1117Wx1400H-463475400-yellow-MODEL5.jpg",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 6,
+      mediaType: "image",
+      position: "6",
+      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/JBKd/6492473cd55b7d0c63881ec5/-1117Wx1400H-463475400-yellow-MODEL6.jpg",
+      aspect_ratio: "0.75"
+    }
+  ],
+
+  variants: {
+    size: [
+      { sku: "KURTI0003-S", id: "S1", name: "S", in_stock: "1" },
+      { sku: "KURTI0003-M", id: "S2", name: "M", in_stock: "1" },
+      { sku: "KURTI0003-L", id: "S3", name: "L", in_stock: "1" }
+    ]
+  }
+}
+,
     title: "Mustard Yellow Solid A-Line Kurti",
     subTitle: "Casual A-Line Kurti",
     isOutOfStock: 0,
@@ -17861,16 +19562,69 @@ export const kurtis = [
     price: 2799,
     discountedPrice: 1799,
     discount: 36,
-    imageUrl: "https://www.lakshita.com/cdn/shop/files/LK8454.jpg?v=1756812631",
+    imageUrl: "https://www.lakshita.com/cdn/shop/files/LK8457.jpg?v=1756812631&width=3000",
     plp_pdp_bridge: {
-      variants: {
-        size: [
-          { sku: "KURTI0004-M", id: "S1", name: "M", in_stock: "1" },
-          { sku: "KURTI0004-L", id: "S2", name: "L", in_stock: "1" },
-          { sku: "KURTI0004-XL", id: "S3", name: "XL", in_stock: "1" }
-        ]
-      }
+  images: [
+    {
+      id: 1,
+      mediaType: "image",
+      position: "1",
+      url: "https://www.lakshita.com/cdn/shop/files/LK8457.jpg?v=1756812631&width=3000",
+      aspect_ratio: "0.75"
     },
+    {
+      id: 2,
+      mediaType: "image",
+      position: "2",
+      url: "https://www.lakshita.com/cdn/shop/files/LK8461.jpg?v=1756812631&width=3000",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 3,
+      mediaType: "image",
+      position: "3",
+      url: "https://www.lakshita.com/cdn/shop/files/LK8454.jpg?v=1756812631&width=3000",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 4,
+      mediaType: "image",
+      position: "4",
+      url: "https://www.lakshita.com/cdn/shop/files/LK8470.jpg?v=1756812631&width=3000",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 5,
+      mediaType: "image",
+      position: "5",
+      url: "https://www.lakshita.com/cdn/shop/files/LK8466.jpg?v=1756812631&width=3000",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 6,
+      mediaType: "image",
+      position: "6",
+      url: "https://www.lakshita.com/cdn/shop/files/LK8456.jpg?v=1756812631&width=3000",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 7,
+      mediaType: "image",
+      position: "7",
+      url: "https://www.lakshita.com/cdn/shop/files/LK8462.jpg?v=1756812632&width=3000",
+      aspect_ratio: "0.75"
+    }
+  ],
+
+  variants: {
+    size: [
+      { sku: "KURTI0004-M", id: "S1", name: "M",  in_stock: "1" },
+      { sku: "KURTI0004-L", id: "S2", name: "L",  in_stock: "1" },
+      { sku: "KURTI0004-XL", id: "S3", name: "XL", in_stock: "1" }
+    ]
+  }
+}
+,
     title: "Embroidered Straight Kurti",
     subTitle: "Festive Wear Kurti",
     isOutOfStock: 0,
@@ -17892,15 +19646,75 @@ export const kurtis = [
     price: 1899,
     discountedPrice: 1099,
     discount: 42,
-    imageUrl: "https://varanga.in/cdn/shop/files/VSET21265_2_0638a866-f2b0-4c79-b8d4-c259741532bf.jpg?v=1746038001",
+    imageUrl: "https://varanga.in/cdn/shop/files/VSET21265_1_28b7f89e-c686-4bdb-80b8-fe1fe8a69405.jpg?v=1746038006",
     plp_pdp_bridge: {
-      variants: {
-        size: [
-          { sku: "KURTI0005-S", id: "S1", name: "S", in_stock: "1" },
-          { sku: "KURTI0005-M", id: "S2", name: "M", in_stock: "1" }
-        ]
-      }
+  images: [
+    {
+      id: 1,
+      mediaType: "image",
+      position: "1",
+      url: "https://varanga.in/cdn/shop/files/VSET21265_1_28b7f89e-c686-4bdb-80b8-fe1fe8a69405.jpg?v=1746038006",
+      aspect_ratio: "0.75"
     },
+    {
+      id: 2,
+      mediaType: "image",
+      position: "2",
+      url: "https://varanga.in/cdn/shop/files/VSET21265_2_0638a866-f2b0-4c79-b8d4-c259741532bf.jpg?v=1746038001",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 3,
+      mediaType: "image",
+      position: "3",
+      url: "https://varanga.in/cdn/shop/files/VSET21265_3_0d0aaac3-ac13-4dac-a153-73f728ab24c6.jpg?v=1746037994",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 4,
+      mediaType: "image",
+      position: "4",
+      url: "https://varanga.in/cdn/shop/files/VSET21265_4_75b01276-2a70-4006-8d77-f5853594e464.jpg?v=1746037987",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 5,
+      mediaType: "image",
+      position: "5",
+      url: "https://varanga.in/cdn/shop/files/VSET21265_5_223c27a4-0c8e-4e0a-af10-0e2d124119f6.jpg?v=1746038078",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 6,
+      mediaType: "image",
+      position: "6",
+      url: "https://varanga.in/cdn/shop/files/VSET21265_6_4a9481f4-eaf5-4ca2-929b-8ce424763bd5.jpg?v=1746038072",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 7,
+      mediaType: "image",
+      position: "7",
+      url: "https://varanga.in/cdn/shop/files/VSET21265_7_bd994c6b-fe7b-49e1-aa0b-47427de210f7.jpg?v=1746038066",
+      aspect_ratio: "0.75"
+    },
+    {
+      id: 8,
+      mediaType: "image",
+      position: "8",
+      url: "https://varanga.in/cdn/shop/files/VSET21265_8.jpg?v=1746038060",
+      aspect_ratio: "0.75"
+    }
+  ],
+
+  variants: {
+    size: [
+      { sku: "KURTI0005-S", id: "S1", name: "S", in_stock: "1" },
+      { sku: "KURTI0005-M", id: "S2", name: "M", in_stock: "1" }
+    ]
+  }
+}
+,
     title: "Mandarin Collar Kurti",
     subTitle: "Office Wear Kurti",
     isOutOfStock: 0,
@@ -17913,39 +19727,99 @@ export const kurtis = [
   },
 
   {
-    id: "KURTIS006",
-    sku: "KURTI0006",
-    price: 2599,
-    discountedPrice: 1599,
-    discount: 38,
-    imageUrl: "https://assets0.mirraw.com/images/8235317/A332395_1_zoom.JPG?1705754596",
-    title: "Chikankari Cotton Kurti",
-    subTitle: "Lucknowi Chikankari Kurti",
-    isOutOfStock: 0,
-    actionUrl: "/white-chikankari-kurti/p/KURTIS006",
-    aspectRatio: 0.75,
-    tag: [
-      { title: "BESTSELLER" }
-    ]
-  },
+  id: "KURTIS006",
+  sku: "KURTI0006",
+  price: 2599,
+  discountedPrice: 1599,
+  discount: 38,
 
+  imageUrl:
+    "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_1.jpg?rnd=20200526195200&tr=w-1536",
+
+  title: "Chikankari Cotton Kurti",
+  subTitle: "Lucknowi Chikankari Kurti",
+  isOutOfStock: 0,
+  actionUrl: "/white-chikankari-kurti/p/KURTIS006",
+  aspectRatio: 0.75,
+
+  tag: [{ title: "BESTSELLER" }],
+
+  plp_pdp_bridge: {
+    images: [
+      {
+        id: 1,
+        mediaType: "image",
+        position: "1",
+        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_1.jpg?rnd=20200526195200&tr=w-1536",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 2,
+        mediaType: "image",
+        position: "2",
+        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_2.jpg?rnd=20200526195200&tr=w-1536",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 3,
+        mediaType: "image",
+        position: "3",
+        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_3.jpg?rnd=20200526195200&tr=w-1536",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 4,
+        mediaType: "image",
+        position: "4",
+        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_4.jpg?rnd=20200526195200&tr=w-1536",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 5,
+        mediaType: "image",
+        position: "5",
+        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_5.jpg?rnd=20200526195200&tr=w-1536",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 6,
+        mediaType: "image",
+        position: "6",
+        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_6.jpg?rnd=20200526195200&tr=w-1536",
+        aspect_ratio: "0.75"
+      }
+    ]
+  }
+  }
+,
   {
-    id: "KURTIS007",
-    sku: "KURTI0007",
-    price: 2299,
-    discountedPrice: 1399,
-    discount: 39,
-    imageUrl: "https://fashor.com/cdn/shop/files/27350_8.jpg?v=1749480509",
-    title: "Bandhani Print Straight Kurti",
-    subTitle: "Traditional Bandhani Kurti",
-    isOutOfStock: 0,
-    actionUrl: "/red-bandhani-kurti/p/KURTIS007",
-    aspectRatio: 0.75,
-    tag: [
-      { title: "FESTIVE" }
-    ]
-  },
+  id: "KURTIS007",
+  sku: "KURTI0007",
+  price: 2299,
+  discountedPrice: 1399,
+  discount: 39,
 
+  imageUrl:
+    "https://fashor.com/cdn/shop/files/27350_1.jpg?v=1749480509",
+
+  title: "Bandhani Print Straight Kurti",
+  subTitle: "Traditional Bandhani Kurti",
+  isOutOfStock: 0,
+  actionUrl: "/red-bandhani-kurti/p/KURTIS007",
+  aspectRatio: 0.75,
+  tag: [{ title: "FESTIVE" }],
+  plp_pdp_bridge: {
+    images: [
+      { id: 1, mediaType: "image", position: "1", url: "https://fashor.com/cdn/shop/files/27350_1.jpg?v=1749480509", aspect_ratio: "0.75" },
+      { id: 2, mediaType: "image", position: "2", url: "https://fashor.com/cdn/shop/files/27350_2.jpg?v=1749480509", aspect_ratio: "0.75" },
+      { id: 3, mediaType: "image", position: "3", url: "https://fashor.com/cdn/shop/files/27350_3.jpg?v=1749480509", aspect_ratio: "0.75" },
+      { id: 4, mediaType: "image", position: "4", url: "https://fashor.com/cdn/shop/files/27350_8.jpg?v=1749480509", aspect_ratio: "0.75" },
+      { id: 5, mediaType: "image", position: "5", url: "https://fashor.com/cdn/shop/files/27350_9.jpg?v=1749480509", aspect_ratio: "0.75" },
+      { id: 6, mediaType: "image", position: "6", url: "https://fashor.com/cdn/shop/files/27350_10.jpg?v=1749480509", aspect_ratio: "0.75" },
+      ]
+  }
+  }
+,
   {
     id: "KURTIS008",
     sku: "KURTI0008",
@@ -17996,101 +19870,309 @@ export const kurtis = [
 
 export const newArrivals = [
   {
-    id: "NEW001",
-    sku: "NEWARR0001",
-    price: 2899,
-    discountedPrice: 1899,
-    discount: 34,
-    type: "configurable",
-    categoryId: ["102","NEW"],
-    imageUrl: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_4.jpg?v=1729935271&width=2048",
-    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
-    title: "Peach Floral Cotton Kurti",
-    subTitle: "New Arrival Straight Kurti",
-    isOutOfStock: 0,
-    actionUrl: "/peach-floral-cotton-kurti/p/NEW001",
-    aspectRatio: 0.75
-  },
+  id: "NEW001",
+  sku: "NEWARR0001",
+  price: 2899,
+  discountedPrice: 1899,
+  discount: 34,
+  type: "configurable",
+  categoryId: ["102", "NEW"],
+
+  imageUrl:
+    "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_4.jpg?v=1729935271&width=2048",
+
+  title: "Peach Floral Cotton Kurti",
+  subTitle: "New Arrival Straight Kurti",
+  isOutOfStock: 0,
+  actionUrl: "/peach-floral-cotton-kurti/p/NEW001",
+  aspectRatio: 0.75,
+
+  plp_pdp_bridge: {
+    images: [
+      {
+        id: 1,
+        mediaType: "image",
+        position: "1",
+        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_1.jpg?v=1729935271&width=2048",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 2,
+        mediaType: "image",
+        position: "2",
+        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_4.jpg?v=1729935271&width=2048",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 3,
+        mediaType: "image",
+        position: "3",
+        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_5.jpg?v=1729935271&width=2048",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 4,
+        mediaType: "image",
+        position: "4",
+        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_6.jpg?v=1729935271&width=2048",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 5,
+        mediaType: "image",
+        position: "5",
+        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_8.jpg?v=1729935271&width=2048",
+        aspect_ratio: "0.75"
+      },
+      {
+        id: 6,
+        mediaType: "image",
+        position: "6",
+        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_9.jpg?v=1729935271&width=2048",
+        aspect_ratio: "0.75"
+      }
+    ],
+    siblings_colour: [],
+    variants: {
+      size: []
+    }
+  }
+}
+,
   {
-    id: "NEW002",
-    sku: "NEWARR0002",
-    price: 4999,
-    discountedPrice: 3599,
-    discount: 28,
-    type: "configurable",
-    categoryId: ["104","NEW"],
-    imageUrl: "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_1_782x.jpg?v=1697220843",
-    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
-    title: "Black Prom Dress",
-    subTitle: "Black Prom Dresses V-Neck Puffy Sleeves A-Line Evening Gown",
-    isOutOfStock: 0,
-    actionUrl: "/black-embroidered-abaya/p/NEW002",
-    aspectRatio: 0.75
+  id: "NEW002",
+  sku: "NEWARR0002",
+  price: 4999,
+  discountedPrice: 3599,
+  discount: 28,
+  type: "configurable",
+  categoryId: ["104", "NEW"],
+  imageUrl:
+    "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_1_782x.jpg?v=1697220843",
+  plp_pdp_bridge: {
+    images: [
+      {
+        id: 1,
+        url: "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_1_782x.jpg?v=1697220843"
+      },
+      {
+        id: 2,
+        url: "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_2_782x.jpg?v=1697220843"
+      }
+    ],
+    siblings_colour: [],
+    variants: {
+      size: []
+    }
   },
+  title: "Black Prom Dress",
+  subTitle:
+    "Black Prom Dresses V-Neck Puffy Sleeves A-Line Evening Gown",
+  isOutOfStock: 0,
+  actionUrl: "/black-embroidered-abaya/p/NEW002",
+  aspectRatio: 0.75
+}
+,
   {
-    id: "NEW003",
-    sku: "NEWARR0003",
-    price: 4599,
-    discountedPrice: 3299,
-    discount: 28,
-    type: "configurable",
-    categoryId: ["104","NEW"],
-    imageUrl: "https://www.nabia.in/cdn/shop/files/9_ccd9b9a9-58d6-4d22-a681-689d2cff9193.jpg?v=1732709810",
-    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
-    title: "Navy Blue Open Abaya",
-    subTitle: "New Arrival Daily Abaya",
-    isOutOfStock: 0,
-    actionUrl: "/navy-open-abaya/p/NEW003",
-    aspectRatio: 0.75
+  id: "NEW003",
+  sku: "NEWARR0003",
+  price: 4599,
+  discountedPrice: 3299,
+  discount: 28,
+  type: "configurable",
+  categoryId: ["104", "NEW"],
+  imageUrl:
+    "https://www.nabia.in/cdn/shop/files/2_c6a15d16-ec9b-4c69-89b8-4d4552c9451d.jpg?v=1732709810",
+  plp_pdp_bridge: {
+    images: [
+      {
+        id: 1,
+        url: "https://www.nabia.in/cdn/shop/files/9_ccd9b9a9-58d6-4d22-a681-689d2cff9193.jpg?v=1732709810"
+      },
+      {
+        id: 2,
+        url: "https://www.nabia.in/cdn/shop/files/2_c6a15d16-ec9b-4c69-89b8-4d4552c9451d.jpg?v=1732709810"
+      },
+      {
+        id: 3,
+        url: "https://www.nabia.in/cdn/shop/files/1_1b2d004b-29ae-40d0-8db1-8b08af1fee40.jpg?v=1732709810"
+      },
+      {
+        id: 4,
+        url: "https://www.nabia.in/cdn/shop/files/3_1ec01dc2-f17e-4002-9b6a-9a8b4550edc9.jpg?v=1732709810"
+      },
+      {
+        id: 5,
+        url: "https://www.nabia.in/cdn/shop/files/4_abfd6b3d-b125-48d0-8312-89900aae6d21.jpg?v=1732709810"
+      },
+      {
+        id: 6,
+        url: "https://www.nabia.in/cdn/shop/files/5_a085b9d3-417b-4c47-8579-6b8d266bcfcf.jpg?v=1732709809"
+      },
+      {
+        id: 7,
+        url: "https://www.nabia.in/cdn/shop/files/6_518e1e20-5c39-4360-afef-5f26a82faca1.jpg?v=1732709810"
+      },
+      {
+        id: 8,
+        url: "https://www.nabia.in/cdn/shop/files/7_1629fbc0-cb1a-4ef0-b071-a19ab398d0de.jpg?v=1732709810"
+      }
+    ],
+    siblings_colour: [],
+    variants: {
+      size: []
+    }
   },
+  title: "Navy Blue Open Abaya",
+  subTitle: "New Arrival Daily Abaya",
+  isOutOfStock: 0,
+  actionUrl: "/navy-open-abaya/p/NEW003",
+  aspectRatio: 0.75
+}
+,
   {
-    id: "NEW004",
-    sku: "NEWARR0004",
-    price: 3999,
-    discountedPrice: 2799,
-    discount: 30,
-    type: "configurable",
-    categoryId: ["105","NEW"],
-    imageUrl: "https://deashaindia.com/cdn/shop/files/0P6A0886_1.jpg?v=1736419805&width=1946",
-    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
-    title: "Pink Floral Maxi Dress",
-    subTitle: "New Arrival Maxi Dress",
-    isOutOfStock: 0,
-    actionUrl: "/pink-floral-maxi-dress/p/NEW004",
-    aspectRatio: 0.75
+  id: "NEW004",
+  sku: "NEWARR0004",
+  price: 3999,
+  discountedPrice: 2799,
+  discount: 30,
+  type: "configurable",
+  categoryId: ["105", "NEW"],
+  imageUrl:
+    "https://deashaindia.com/cdn/shop/files/0P6A0886_1.jpg?v=1736419805&width=1946",
+  plp_pdp_bridge: {
+    images: [
+      {
+        id: 1,
+        url: "https://deashaindia.com/cdn/shop/files/0P6A0894_1.jpg?v=1736419808&width=990"
+      },
+      {
+        id: 2,
+        url: "https://deashaindia.com/cdn/shop/files/0P6A0884.jpg?v=1736419802&width=990"
+      },
+      {
+        id: 3,
+        url: "https://deashaindia.com/cdn/shop/files/0P6A0886_1.jpg?v=1736419805&width=990"
+      },
+      {
+        id: 4,
+        url: "https://deashaindia.com/cdn/shop/files/0P6A0901_1.jpg?v=1736419811&width=990"
+      },
+      {
+        id: 5,
+        url: "https://deashaindia.com/cdn/shop/files/0P6A0903_1.jpg?v=1736419814&width=990"
+      }
+    ],
+    siblings_colour: [],
+    variants: {
+      size: []
+    }
   },
+  title: "Pink Floral Maxi Dress",
+  subTitle: "New Arrival Maxi Dress",
+  isOutOfStock: 0,
+  actionUrl: "/pink-floral-maxi-dress/p/NEW004",
+  aspectRatio: 0.75
+}
+,
   {
-    id: "NEW005",
-    sku: "NEWARR0005",
-    price: 3699,
-    discountedPrice: 2599,
-    discount: 30,
-    type: "configurable",
-    categoryId: ["105","NEW"],
-    imageUrl: "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/2025/SEPTEMBER/23/jNdJh5BU_ecfc198df07648f2b1f4ce60714e82f0.jpg",
-    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
-    title: "A-Line Dress",
-    subTitle: "New Arrival Casual Dress",
-    isOutOfStock: 0,
-    actionUrl: "/green-solid-aline-dress/p/NEW005",
-    aspectRatio: 0.75
+  id: "NEW005",
+  sku: "NEWARR0005",
+  price: 3699,
+  discountedPrice: 2599,
+  discount: 30,
+  type: "configurable",
+  categoryId: ["105", "NEW"],
+  imageUrl:
+    "https://www.desitassels.com/cdn/shop/files/1_993076e0-5830-4b3b-99b1-d39ded610bcf.jpg?v=1761733976&width=1100",
+  plp_pdp_bridge: {
+    images: [
+      {
+        id: 1,
+        url: "https://www.desitassels.com/cdn/shop/files/1_993076e0-5830-4b3b-99b1-d39ded610bcf.jpg?v=1761733976&width=1100"
+      },
+      {
+        id: 2,
+        url: "https://www.desitassels.com/cdn/shop/files/2_67ebd5fc-02b1-4b28-b3c0-55a741350d8e.jpg?v=1759302413&width=1100"
+      },
+      {
+        id: 3,
+        url: "https://www.desitassels.com/cdn/shop/files/3_3e7f6fc9-41fb-405d-9212-9e7c565fdd99.jpg?v=1759302413&width=1100"
+      },
+      {
+        id: 4,
+        url: "https://www.desitassels.com/cdn/shop/files/4_871d78d9-2650-4415-8588-ac031f22ea62.jpg?v=1759302414&width=1100"
+      },
+      {
+        id: 5,
+        url: "https://www.desitassels.com/cdn/shop/files/5_7ac5631b-7a67-4dc6-b79c-16d80d310254.jpg?v=1759302414&width=1100"
+      },
+      {
+        id: 6,
+        url: "https://www.desitassels.com/cdn/shop/files/6_bf389a64-81b6-4264-b6c6-138010e061b4.jpg?v=1759302413&width=1100"
+      }
+    ],
+    siblings_colour: [],
+    variants: {
+      size: []
+    }
   },
+  title: "Flowing Leaves Dress",
+  subTitle: "New Arrival Casual Dress",
+  isOutOfStock: 0,
+  actionUrl: "/green-solid-aline-dress/p/NEW005",
+  aspectRatio: 0.75
+}
+,
   {
-    id: "NEW006",
-    sku: "NEWARR0006",
-    price: 2599,
-    discountedPrice: 1799,
-    discount: 31,
-    type: "configurable",
-    categoryId: ["102","NEW"],
-    imageUrl: "https://www.sareespalace.com/image/cache/data/rayon-printed-lavender-party-wear-kurti-255512-1000x1375.jpg",
-    plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
-    title: "Rayon Kurti",
-    subTitle: "New Arrival Kurti",
-    isOutOfStock: 0,
-    actionUrl: "/lavender-printed-rayon-kurti/p/NEW006",
-    aspectRatio: 0.75
+  id: "NEW006",
+  sku: "NEWARR0006",
+  price: 2599,
+  discountedPrice: 1799,
+  discount: 31,
+  type: "configurable",
+  categoryId: ["102", "NEW"],
+  imageUrl:
+    "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/a1by/66c6ec476f60443f311ec0d6/-1117Wx1400H-466443881-pink-MODEL.jpg",
+  plp_pdp_bridge: {
+    images: [
+      {
+        id: 1,
+        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/a1by/66c6ec476f60443f311ec0d6/-1117Wx1400H-466443881-pink-MODEL.jpg"
+      },
+      {
+        id: 2,
+        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/DB0B/66c6ec476f60443f311ec12b/-1117Wx1400H-466443881-pink-MODEL2.jpg"
+      },
+      {
+        id: 3,
+        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/dQq1/66c6ec476f60443f311ec129/-1117Wx1400H-466443881-pink-MODEL3.jpg"
+      },
+      {
+        id: 4,
+        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/GluX/66c6ec476f60443f311ec121/-1117Wx1400H-466443881-pink-MODEL4.jpg"
+      },
+      {
+        id: 5,
+        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/ezRq/66c6ec476f60443f311ec12a/-1117Wx1400H-466443881-pink-MODEL5.jpg"
+      },
+      {
+        id: 6,
+        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/GUiQ/66c6ec476f60443f311ec127/-1117Wx1400H-466443881-pink-MODEL6.jpg"
+      }
+    ],
+    siblings_colour: [],
+    variants: {
+      size: []
+    }
   },
+  title: "Rayon Kurti",
+  subTitle: "New Arrival Kurti",
+  isOutOfStock: 0,
+  actionUrl: "/lavender-printed-rayon-kurti/p/NEW006",
+  aspectRatio: 0.75
+}
+,
   {
     id: "NEW007",
     sku: "NEWARR0007",
@@ -18797,11 +20879,8 @@ export const bestSellers = [
 ];
 
 
-
-
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 
 
 export const cosmetics = [
@@ -19050,7 +21129,6 @@ export const cosmetics = [
 ];
 
 
-
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -19261,11 +21339,8 @@ export const skincare = [
 ];
 
 
-
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
 
 
 export const sale = [
