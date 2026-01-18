@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, Navigate } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
 
@@ -11,7 +11,6 @@ import {
   FiX,
   FiSearch,
 } from "react-icons/fi";
-import { RiQrCodeLine } from "react-icons/ri";
 
 export default function Navbar() {
   const { cartItems } = useCart();
@@ -46,9 +45,11 @@ export default function Navbar() {
             {/* Right Icons */}
             <div className="md:flex justify-between w-[68vw] lg:w-[75vw] xl:w-[70vw]">
               <div className="flex items-center justify-between w-[50vw] md:w-[65vw] lg:w-[74vw]">
-                <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
-                  Home
-                </h1>
+                <Link to={"/"}>
+                  <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
+                    Home
+                  </h1>
+                </Link>
                 <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
                   About
                 </h1>
@@ -114,20 +115,6 @@ export default function Navbar() {
           </div>
         )}
       </nav>
-
-      {/* <div className="mt-18 flex items-center justify-center gap-2 md:hidden">
-        <form
-        className="flex rounded-lg border w-[80vw] items-center gap-4 ml-1 h-10 mt md:hidden"
-      >
-        <img className="size-6 ml-3" src="/search-icon.png" alt="Search" />
-        <input
-          className="h-10 w-md focus:outline-none"
-          type="text"
-          placeholder="Search for products here...."
-        />
-      </form>
-      <RiQrCodeLine className="text-4xl"/>
-      </div> */}
 
       {/* Desktop Menu */}
       <ul className="mt-16 flex h-13 items-center justify-center space-x-6 text-gray-500 font-semibold md:hidden ">
