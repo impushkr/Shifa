@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link, Navigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
 
@@ -16,6 +16,7 @@ export default function Navbar() {
   const { cartItems } = useCart();
   const { wishlistItems } = useWishlist();
   const [isOpen, setIsOpen] = useState(false);
+  const navigate = useNavigate();
   return (
     <>
       <nav className="bg-white shadow-md fixed w-full top-0 z-50 ">
@@ -105,7 +106,14 @@ export default function Navbar() {
         {isOpen && (
           <div className="md:hidden bg-white shadow-md">
             <ul className="flex flex-col space-y-3 p-4 font-semibold text-gray-700">
-              <li className="hover:text-pink-600 cursor-pointer">Home</li>
+              <li
+                onClick={() => {
+                  navigate("/") && setIsOpen(!isOpen);
+                }}
+                className="hover:text-pink-600 cursor-pointer"
+              >
+                Home
+              </li>
               <li className="hover:text-pink-600 cursor-pointer">
                 Your Orders
               </li>
@@ -118,31 +126,11 @@ export default function Navbar() {
 
       {/* Desktop Menu */}
       <ul className="mt-16 flex h-13 items-center justify-center space-x-6 text-gray-500 font-semibold md:hidden ">
-        <li>
-          <a href="#" className="hover:text-pink-600">
-            New Arrivals
-          </a>
-        </li>
-        <li>
-          <a href="#" className="hover:text-pink-600">
-            Dresses
-          </a>
-        </li>
-        <li>
-          <a href="#" className="hover:text-pink-600">
-            Kurtis
-          </a>
-        </li>
-        <li>
-          <a href="#" className="hover:text-pink-600">
-            Tops
-          </a>
-        </li>
-        <li>
-          <a href="#" className="hover:text-pink-600">
-            Sale
-          </a>
-        </li>
+        <li onClick={()=>{navigate("/newarrivals")}} className="hover:text-pink-600">New Arrivals</li>
+        <li onClick={()=>{navigate("/dresses")}} className="hover:text-pink-600">Dresses</li>
+        <li onClick={()=>{navigate("/kurtis")}} className="hover:text-pink-600">Kurtis</li>
+        <li onClick={()=>{navigate("/topwear")}} className="hover:text-pink-600">Tops</li>
+        <li onClick={()=>{navigate("/sale")}} className="hover:text-pink-600">Sale</li>
       </ul>
     </>
   );
