@@ -1,5 +1,6 @@
-import { Minus, Plus, Trash2, ShoppingBag } from "lucide-react";
+import { Minus, Plus, Trash2, ShoppingBag} from "lucide-react";
 import { useCart } from "../context/CartContext";
+import { Link } from "react-router";
 
 export default function Cart() {
   const { cartItems, addItem , subtotal, subtotaldiscount , reduceItem, remove } = useCart();
@@ -16,21 +17,25 @@ export default function Cart() {
             Your cart is empty
           </div>
         ) : (
+          
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             {/* Cart Items */}
             <div className="lg:col-span-2 space-y-4">
               {cartItems.map((item) => (
+                
                 <div
                   key={item.id}
                   className="bg-white rounded-2xl shadow-sm p-4 flex gap-4"
                 >
+                  <Link to={`/products/${item.id}`}>
                   <img
                     src={item.imageUrl}
                     alt={item.title}
                     className="w-24 h-32 object-cover rounded-xl"
-                  />
+                  /></Link>
 
                   <div className="flex-1">
+                    <Link to={`/products/${item.id}`}>
                     <h3 className="text-sm font-medium text-gray-800 mt-1">
                       {item.title}
                     </h3>
@@ -41,13 +46,13 @@ export default function Cart() {
                         {item.discount}% OFF
                       </p>
                     )}
-
-                    <span className="text-gray-500 text-xs mr-2 mt-1 line-through">
+                      <span className="text-gray-500 text-xs mr-2 mt-1 line-through">
                       ₹{item.actualprice}
                     </span>
                     <span className="text-pink-600 font-semibold mt-1">
                       ₹{item.afterdiscount}
-                    </span>
+                    </span>   
+                    </Link>
 
                     <div className="flex items-center gap-3 mt-3">
                       <button
@@ -79,6 +84,7 @@ export default function Cart() {
                     <Trash2 size={18} />
                   </button>
                 </div>
+                
               ))}
             </div>
 
