@@ -16,6 +16,7 @@ import {
   dresses,
   cosmetics,
   skincare,
+  corsetProducts
 } from "../data/womens/data";
 
 import { useParams } from "react-router";
@@ -36,6 +37,7 @@ export default function ProductDetails() {
     dresses,
     cosmetics,
     skincare,
+    corsetProducts
   ];
 
   let relatedProducts = [];
@@ -59,7 +61,8 @@ export default function ProductDetails() {
     abayas.find((item) => item.id == id) ||
     dresses.find((item) => item.id == id) ||
     cosmetics.find((item) => item.id == id) ||
-    skincare.find((item) => item.id == id);
+    skincare.find((item) => item.id == id)||
+    corsetProducts.find((item) => item.id == id);
 
   if (!products) return null;
 

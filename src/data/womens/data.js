@@ -21507,3 +21507,272 @@ export const sale = [
     tag: [{ title: "SALE" }]
   }
 ];
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+export const corsetProducts = [
+  {
+    id: "18245101",
+    sku: "CORSE000101",
+    price: 3299,
+    discountedPrice: 1999,
+    discount: 39,
+    type: "configurable",
+    imageUrl:
+      "https://mediahub.boohoo.com/m5063552018430_black_xl.jpeg?qlt=70&w=549&ssz=true&dpr=2",
+    title: "Shifa Studio",
+    subTitle: "Women Black Satin Lace-Up Corset Top",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://mediahub.boohoo.com/m5063552018430_black_xl.jpeg?qlt=70&w=549&ssz=true&dpr=2", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://mediahub.boohoo.com/m5063552018430_black_xl_1.jpeg?qlt=70&w=549&ssz=true&dpr=2", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://mediahub.boohoo.com/m5063552018430_black_xl_2.jpeg?qlt=70&w=549&ssz=true&dpr=2", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "3", url: "https://mediahub.boohoo.com/m5063552018430_black_xl_3.jpeg?qlt=70&w=549&ssz=true&dpr=2", aspect_ratio: "0.75" },
+      
+      ],
+    },
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245102",
+    sku: "CORSE000102",
+    price: 3599,
+    discountedPrice: 2199,
+    discount: 39,
+    type: "configurable",
+    imageUrl:
+      "https://cdn-img.prettylittlething.com/a/4/8/9/a489bf595384b7088eef84574e79a5ed1893d311_CMT7584_1_shape_white_woven_corset_crop_top.jpg?imwidth=600",
+    title: "Urban Muse",
+    subTitle: "Women White Boned Corset Crop Top",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://cdn-img.prettylittlething.com/a/4/8/9/a489bf595384b7088eef84574e79a5ed1893d311_CMT7584_1_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://cdn-img.prettylittlething.com/8/3/f/e/83fedf790b23a646314a6262c126afb29625e4ab_CMT7584_2_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://cdn-img.prettylittlething.com/9/1/9/b/919b1d1c0d68406fb3a499322c487e3b3511b325_CMT7584_3_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "2", url: "https://cdn-img.prettylittlething.com/9/5/4/d/954d9e6771ea8ab2cf5877ff26e925f14fd83ed1_CMT7584_4_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "3", url: "https://cdn-img.prettylittlething.com/e/1/f/f/e1ffe89608f315bb7db5a0995ad4a933c350ca81_CMT7584_5_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
+      
+      ],
+    },
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245103",
+    sku: "CORSE000103",
+    price: 2899,
+    discountedPrice: 1699,
+    discount: 41,
+    type: "configurable",
+    imageUrl:
+      "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_1.jpg?v=1682948998",
+    title: "Label Nyra",
+    subTitle: "Women Beige Stretch Fit Corset Top",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_1.jpg?v=1682948998", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_2.jpg?v=1682948998", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "1", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_3.jpg?v=1682948998", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "2", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_4.jpg?v=1682948998", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "1", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_5.jpg?v=1682948998", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "2", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_6.jpg?v=1682948998", aspect_ratio: "0.75" },
+      
+      ],
+    },
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245104",
+    sku: "CORSE000104",
+    price: 3799,
+    discountedPrice: 2299,
+    discount: 39,
+    type: "configurable",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0293/9277/files/01-02-25_S2_2_GW24K2141_Red_KJ_IM_09-37-52_28015_BH.jpg?v=1736536886&width=1400&height=2096&crop=centerhttps://cdn-img.prettylittlething.com/3/3/7/1/33717375c3a3541ac393167b4b8cdcbf9a3c3cff_cnl7475_1.jpg?imwidth=600https://cdn11.bigcommerce.com/s-4p4rz5nl/products/10445/images/168451/Strapless_Lace_Draped_Corset_Dress_Red_7_-_Dreamitwearit.com__21091.1700668798.470.626.jpg?c=2",
+    title: "Femme Luxe",
+    subTitle: "Women Red Party Wear Corset Top",
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245105",
+    sku: "CORSE000105",
+    price: 3099,
+    discountedPrice: 1899,
+    discount: 39,
+    type: "configurable",
+    imageUrl:
+      "https://cdn-img.prettylittlething.com/2/a/d/6/2ad6ff663b06437d43a62151aac02f5dc626523c_cnb6560_1.jpg",
+    title: "Street Chic",
+    subTitle: "Women Blue Denim Corset Top",
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245106",
+    sku: "CORSE000106",
+    price: 3399,
+    discountedPrice: 1999,
+    discount: 41,
+    type: "configurable",
+    imageUrl:
+      "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254822_copy_1.jpg?v=1761049946&width=713",
+    title: "Velora",
+    subTitle: "Women Olive Green Structured Corset",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254905_copy_cfdcd65d-bf2d-4b80-b8d9-e28a84cb4733.jpg?v=1761049946&width=713", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254822_copy_1.jpg?v=1761049946&width=713", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254835_copy.jpg?v=1761049946&width=713", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254824_copy.jpg?v=1750981346&width=713", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "1", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254826_copy.jpg?v=1750981346&width=493", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "2", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254829_copy.jpg?v=1750981346&width=493", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "3", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254830_copy.jpg?v=1750981346&width=493", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254832_copy.jpg?v=1750981345&width=493", aspect_ratio: "0.75" },
+        { id: 9, mediaType: "image", position: "1", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254853_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
+        { id: 10, mediaType: "image", position: "2", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254854_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
+        { id: 11, mediaType: "image", position: "3", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254865_copy.jpg?v=1750942557&width=493", aspect_ratio: "0.75" },
+        { id: 12, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254875_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
+        { id: 13, mediaType: "image", position: "1", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254892_copy_1.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
+        { id: 14, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254928_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
+        { id: 15, mediaType: "image", position: "3", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254937_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
+        { id: 16, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254844_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },     
+      ],
+    },
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245107",
+    sku: "CORSE000107",
+    price: 2899,
+    discountedPrice: 1599,
+    discount: 45,
+    type: "configurable",
+    imageUrl:
+      "https://m.media-amazon.com/images/I/61IgncDgshL._AC_UY1100_.jpg",
+    title: "Pink Theory",
+    subTitle: "Women Blush Pink Ribbed Corset Top",
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245108",
+    sku: "CORSE000108",
+    price: 3999,
+    discountedPrice: 2499,
+    discount: 38,
+    type: "configurable",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0070/8853/7651/files/06003-2642_1_BROWN_BoldlyChicFauxLeatherCroppedCorset.webp?v=1729221557",
+    title: "Noir Edit",
+    subTitle: "Women Brown Faux Leather Corset",
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245109",
+    sku: "CORSE000109",
+    price: 3199,
+    discountedPrice: 1899,
+    discount: 41,
+    type: "configurable",
+    imageUrl:
+      "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/TyT4/67176a10f9b8ef490bd31d2a/-1117Wx1400H-700625659-multi-MODEL.jpg",
+    title: "Muse Edit",
+    subTitle: "Women Floral Printed Corset Top",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/TyT4/67176a10f9b8ef490bd31d2a/-1117Wx1400H-700625659-multi-MODEL.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/RHuG/67176a10f9b8ef490bd31d61/-1117Wx1400H-700625659-multi-MODEL2.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/Ou2O/67176a17f9b8ef490bd31e3f/-1117Wx1400H-700625659-multi-MODEL4.jpg", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/5lgs/67176a17f9b8ef490bd31e34/-1117Wx1400H-700625659-multi-MODEL5.jpg", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/yfRa/67176a17f9b8ef490bd31e3d/-1117Wx1400H-700625659-multi-MODEL6.jpg", aspect_ratio: "0.75" },
+        
+      ],
+    },
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+
+  {
+    id: "18245110",
+    sku: "CORSE000110",
+    price: 3699,
+    discountedPrice: 2199,
+    discount: 40,
+    type: "configurable",
+    imageUrl:
+      "https://m.media-amazon.com/images/I/71G3GPep6OL._SY550_.jpg",
+    title: "Vogue Line",
+    subTitle: "Women Black Strappy Party Corset",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://m.media-amazon.com/images/I/619riXtxenL._SY741_.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://m.media-amazon.com/images/I/71ZHpUIJaoL._SY550_.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://m.media-amazon.com/images/I/71f-Cj0-UFL._SY550_.jpg", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://m.media-amazon.com/images/I/71aR7p2+WkL._SY550_.jpg", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://m.media-amazon.com/images/I/71lYIoDSfVL._SY550_.jpg", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://m.media-amazon.com/images/I/71G3GPep6OL._SY550_.jpg", aspect_ratio: "0.75" },
+      
+      ],
+    },
+     sizeVariation: [
+    { title: "S",  id: "S1" },
+    { title: "M",  id: "S2" },
+    { title: "L",  id: "S3" },
+    { title: "XL", id: "S4" }
+  ],
+  },
+];
