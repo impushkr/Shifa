@@ -22197,3 +22197,180 @@ export const watches = [
   },
 
 ];
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+export const bracelets = [
+  {
+    id: "21000101",
+    sku: "BRACE0001",
+    price: 2499,
+    discountedPrice: 1399,
+    discount: 44,
+    type: "simple",
+    imageUrl: "https://johori.com/cdn/shop/files/JA056_1.png?v=1720962373&width=713",
+    title: "Shifa Studio",
+    subTitle: "Women Gold Plated Minimal Chain Bracelet",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://johori.com/cdn/shop/files/JA056_1.png?v=1720962373&width=713", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://johori.com/cdn/shop/files/JA056_2.png?v=1720962373&width=713", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://johori.com/cdn/shop/files/JA056_3.png?v=1720962373&width=713", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://johori.com/cdn/shop/files/JA056_4.png?v=1720962373&width=713", aspect_ratio: "0.75" },
+        
+      ]
+    }
+  },
+
+  {
+    id: "21000102",
+    sku: "BRACE0002",
+    price: 2299,
+    discountedPrice: 1299,
+    discount: 43,
+    type: "simple",
+    imageUrl: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_1.jpg?tr=w-500",
+    title: "Shifa Studio",
+    subTitle: "Women Rose Gold Adjustable Bracelet With Heart Charm",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_1.jpg?tr=w-500", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_2.jpg?tr=w-500", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_3.jpg?tr=w-500", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_4.jpg?tr=w-500", aspect_ratio: "0.75" },
+        
+      ]
+    }
+  },
+
+  {
+    id: "21000103",
+    sku: "BRACE0003",
+    price: 1999,
+    discountedPrice: 1099,
+    discount: 45,
+    type: "simple",
+    imageUrl: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_4.jpg?tr=w-500",
+    title: "Shifa Studio",
+    subTitle: "Yellow Chimes Women Silver-Toned Crystals Silver-Plated Kada Bracelet (Onesize) by Myntra",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_1.jpg?tr=w-500", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_2.jpg?tr=w-500", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_3.jpg?tr=w-500", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_4.jpg?tr=w-500", aspect_ratio: "0.75" },
+  
+      ]
+    }
+  },
+
+  {
+    id: "21000104",
+    sku: "BRACE0004",
+    price: 2799,
+    discountedPrice: 1599,
+    discount: 43,
+    type: "simple",
+    imageUrl: "https://karatcart.com/cdn/shop/files/55016964_1.jpg?v=1729072137",
+    title: "Shifa Studio",
+    subTitle: "Women Pearl Bracelet With Gold Finish",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "21000105",
+    sku: "BRACE0005",
+    price: 1899,
+    discountedPrice: 999,
+    discount: 47,
+    type: "simple",
+    imageUrl: "https://m.media-amazon.com/images/I/91NTpLBox6L._AC_UY1100_.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Boho Beaded Bracelet Set",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "21000106",
+    sku: "BRACE0006",
+    price: 2599,
+    discountedPrice: 1499,
+    discount: 42,
+    type: "simple",
+    imageUrl: "https://wwwthetiehubcomca692.zapwp.com/q:i/r:0/wp:1/w:1/u:https://www.thetiehub.com/wp-content/uploads/2025/02/TTH-BRCL-072-1.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Black Leather Strap Bracelet With Metallic Accent",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "21000107",
+    sku: "BRACE0007",
+    price: 2199,
+    discountedPrice: 1199,
+    discount: 45,
+    type: "simple",
+    imageUrl: "https://sc04.alicdn.com/kf/Hf91c347086194f968cc54500486612f36/252702583/Hf91c347086194f968cc54500486612f36.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Minimal Open Cuff Bracelet In Gold Tone",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "21000108",
+    sku: "BRACE0008",
+    price: 2999,
+    discountedPrice: 1799,
+    discount: 40,
+    type: "simple",
+    imageUrl: "https://sukkhi.com/cdn/shop/products/SKR110342_2000x.jpg?v=1665643894",
+    title: "Shifa Studio",
+    subTitle: "Women Crystal Studded Party Wear Bracelet",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "21000109",
+    sku: "BRACE0009",
+    price: 2099,
+    discountedPrice: 1099,
+    discount: 48,
+    type: "simple",
+    imageUrl: "https://niluscollection.com/cdn/shop/files/e3989d19-a061-4f97-99aa-274929d2987a.jpg?v=1768468780&width=3840",
+    title: "Shifa Studio",
+    subTitle: "Women Silver Charm Bracelet With Adjustable Chain",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "21000110",
+    sku: "BRACE0010",
+    price: 2699,
+    discountedPrice: 1599,
+    discount: 41,
+    type: "simple",
+    imageUrl: "https://erisilvers.com/cdn/shop/files/6_b1579c08-17be-4201-b84d-ff219d50f768_1066x.jpg?v=1733747428",
+    title: "Shifa Studio",
+    subTitle: "Women Premium Designer Bracelet With Polished Finish",
+    plp_pdp_bridge: {
+      images: []
+    }
+  }
+];
+
+

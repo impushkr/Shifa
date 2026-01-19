@@ -466,15 +466,15 @@ export default function Homepage() {
             </div>
           </Link>
 
-          {/* aaa */}
-          <Link>
+          {/* Bracelets */}
+          <Link to={"/bracelets"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
                 src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Shoes</h3>
+                <h3 className="font-semibold px-1">Bracelets</h3>
                 <span className="font-semibold px-1 text-sm mb-3">
                   From -
                 </span>{" "}
