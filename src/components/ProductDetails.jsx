@@ -17,6 +17,7 @@ import {
   cosmetics,
   skincare,
   corsetProducts,
+  coordSetProducts,
 } from "../data/womens/data";
 
 import { useParams } from "react-router";
@@ -38,6 +39,7 @@ export default function ProductDetails() {
     cosmetics,
     skincare,
     corsetProducts,
+    coordSetProducts
   ];
 
   let relatedProducts = [];
@@ -62,7 +64,8 @@ export default function ProductDetails() {
     dresses.find((item) => item.id == id) ||
     cosmetics.find((item) => item.id == id) ||
     skincare.find((item) => item.id == id) ||
-    corsetProducts.find((item) => item.id == id);
+    corsetProducts.find((item) => item.id == id)||
+    coordSetProducts.find((item) => item.id == id);
 
   if (!products) return null;
 
@@ -252,7 +255,7 @@ export default function ProductDetails() {
           </div>
         </div>
       </div>
-      <h1 className="px-3 font-semibold lg:text-xl mt-8">Similar Items</h1>
+      <h1 className="px-3 font-semibold lg:text-xl mt-8">You may also like</h1>
       <div className="w-full overflow-x-auto shadow mt-2 py-2">
         <div className="flex justify-center gap-2 p-1 w-max">
           {relatedProducts.map((items) => (

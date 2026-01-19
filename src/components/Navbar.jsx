@@ -9,7 +9,6 @@ import {
   FiShoppingBag,
   FiMenu,
   FiX,
-  FiSearch,
 } from "react-icons/fi";
 
 export default function Navbar() {

@@ -372,6 +372,25 @@ export default function Homepage() {
               </div>
             </div>
           </Link>
+
+          {/* Co-ordset */}
+          <Link to={"/coordset"}>
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/6/STJMAYke_25b1fd2da9dd4415b2f1b8752aafed91.jpg"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Co-ord Set</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹999
+                </span>
+              </div>
+            </div>
+          </Link>
           
           {/* Bottom Wear */}
           <Link to={"/bottomwear"}>
@@ -425,25 +444,6 @@ export default function Homepage() {
                 </span>{" "}
                 <span className="font-semibold text-sm text-green-700">
                   ₹375
-                </span>
-              </div>
-            </div>
-          </Link>
-
-          {/* aaa */}
-          <Link>
-            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-              <img
-                src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
-                alt=""
-              />
-              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Shoes</h3>
-                <span className="font-semibold px-1 text-sm mb-3">
-                  From -
-                </span>{" "}
-                <span className="font-semibold text-sm text-green-700">
-                  ₹999
                 </span>
               </div>
             </div>

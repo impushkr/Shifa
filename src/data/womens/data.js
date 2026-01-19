@@ -21776,3 +21776,302 @@ export const corsetProducts = [
   ],
   },
 ];
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+export const coordSetProducts = [
+  {
+    id: "19000101",
+    sku: "COORD0001",
+    price: 4999,
+    discountedPrice: 2799,
+    discount: 44,
+    type: "configurable",
+    imageUrl: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10291009_1_1800x1800.jpg?v=1703277713",
+    title: "Shifa Studio",
+    subTitle: "Women Beige Linen Co-Ord Set With Crop Top & Wide Pants",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10291009_1_1800x1800.jpg?v=1703277713", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10301009_1_1800x1800.jpg?v=1703251850", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XL_10301013_1_1800x1800.jpg?v=1703251850", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_L_10301012_1_1800x1800.jpg?v=1703251850", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_S_10301010_1_1800x1800.jpg?v=1703251850", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_S_10291010_1_1800x1800.jpg?v=1703277713", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_L_10291012_1_1800x1800.jpg?v=1703277713", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XL_10291013_1_1800x1800.jpg?v=1703277708", aspect_ratio: "0.75" },
+        
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000102",
+    sku: "COORD0002",
+    price: 4599,
+    discountedPrice: 2499,
+    discount: 46,
+    type: "configurable",
+    imageUrl: "https://showoffff.in/cdn/shop/files/CHN-670_Black_1_2343adec-ed1f-4465-bc3d-ee71f9a611e5.jpg?v=1734162982&width=1000",
+    title: "Shifa Studio",
+    subTitle: "Women Black Ribbed Knit Co-Ord Set With Top & Skirt",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_1_2343adec-ed1f-4465-bc3d-ee71f9a611e5.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_2_e5a5c141-e889-453d-b811-f9fabcbe6efe.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_3_825a5ab5-1b87-45d1-ab93-73ebbf6d66c9.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_4_7e4a3f84-f31f-4c8e-9fec-601795996df5.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_5_ac488254-807b-4867-8765-83869383b650.jpg?v=1734162982&width=1080", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_6_8c35d9af-8d27-4c1e-9156-a0cf3872fb20.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_7_c94670ce-adc8-43b0-933b-ad42c669fff6.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000103",
+    sku: "COORD0003",
+    price: 5299,
+    discountedPrice: 2999,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://www.only.in/cdn/shop/files/213555501_g0.jpg?v=1745888828&width=700",
+    title: "Shifa Studio",
+    subTitle: "Women Olive Green Utility Co-Ord Set With Shirt & Cargo Pants",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.only.in/cdn/shop/files/213555501_g0.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.only.in/cdn/shop/files/213555501_g1.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.only.in/cdn/shop/files/213555501_g2.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.only.in/cdn/shop/files/213555501_g3.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://www.only.in/cdn/shop/files/213555501_g4.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
+        ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000104",
+    sku: "COORD0004",
+    price: 4899,
+    discountedPrice: 2699,
+    discount: 45,
+    type: "configurable",
+    imageUrl: "https://showoffff.in/cdn/shop/files/CHN-684_White_2_ec9f633e-26e4-4c65-bccc-dd0f31457490.jpg?v=1751545443&width=1000",
+    title: "Shifa Studio",
+    subTitle: "Women White Cotton Co-Ord Set With Oversized Shirt & Shorts",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_1_535b7338-cd1a-454c-8b73-6402d1920d15.jpg?v=1751545443&width=1000", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_2_ec9f633e-26e4-4c65-bccc-dd0f31457490.jpg?v=1751545443&width=1000", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_3_b94aa115-2da3-4705-986c-01cdb07bb826.jpg?v=1751545443&width=1000", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_4_0812efed-88ed-4e12-b172-1f79b264dd67.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_5_75a24269-8707-42c4-806c-9421af51decd.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_6_1e6f8f88-6464-4c78-afd6-78a923f06301.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_7_bec9c81b-0334-4367-85e8-192c030214a2.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_8_e02c73a2-f1ec-4652-a9ae-147db45e2acd.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000105",
+    sku: "COORD0005",
+    price: 5599,
+    discountedPrice: 3199,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_1_b1c4eaf2-dfb1-48fe-9912-ff233c287aea.jpg?v=1756456667&width=1000",
+    title: "Shifa Studio",
+    subTitle: "Women Blue Denim Co-Ord Set With Jacket & Straight Jeans",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_1_b1c4eaf2-dfb1-48fe-9912-ff233c287aea.jpg?v=1756456667&width=1000", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_2_b8a18579-6f7c-49e7-8a79-aedfd505c5be.jpg?v=1756456667&width=1000", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_3_ea002d37-d783-40ce-872b-e644654ef67d.jpg?v=1756456667&width=1080", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_4_b6c0ec1f-a765-4f05-af3b-94c68d2a6bfe.jpg?v=1756456667&width=1000", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_5_eb191856-a6dd-4da9-a401-ca5baeee5018.jpg?v=1756456667&width=1000", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_6_bc72904a-5889-4367-bf24-dea5b7f4d462.jpg?v=1756456668&width=1000", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_7_3ee0ebda-1258-494d-9a53-c498f4e939cf.jpg?v=1756456668&width=1000", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_8_4b3c8411-189b-49a6-b327-008bcf3d8f06.jpg?v=1756456668&width=1000", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000106",
+    sku: "COORD0006",
+    price: 4799,
+    discountedPrice: 2599,
+    discount: 46,
+    type: "configurable",
+    imageUrl: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/bQJR/66a79a6f6f60443f31d533aa/-1117Wx1400H-700214955-brown-MODEL.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Brown Satin Co-Ord Set With Shirt & Flared Pants",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/bQJR/66a79a6f6f60443f31d533aa/-1117Wx1400H-700214955-brown-MODEL.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/jGrV/66a79a6f6f60443f31d533e9/-1117Wx1400H-700214955-brown-MODEL2.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/xHke/66a79a6f6f60443f31d533e6/-1117Wx1400H-700214955-brown-MODEL3.jpg", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/ctv0/66a79a6f6f60443f31d533e7/-1117Wx1400H-700214955-brown-MODEL4.jpg", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/xQKl/66a79a756f60443f31d534ac/-1117Wx1400H-700214955-brown-MODEL5.jpg", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/GQ7o/66a79a756f60443f31d534ad/-1117Wx1400H-700214955-brown-MODEL6.jpg", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/YqsR/66a79a756f60443f31d534b6/-1117Wx1400H-700214955-brown-MODEL7.jpg", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000107",
+    sku: "COORD0007",
+    price: 4499,
+    discountedPrice: 2399,
+    discount: 47,
+    type: "configurable",
+    imageUrl: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/rYpe/669921551d763220faef0f06/-1117Wx1400H-700205187-red-MODEL.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Floral Printed Co-Ord Set With Crop Top & Palazzo",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/rYpe/669921551d763220faef0f06/-1117Wx1400H-700205187-red-MODEL.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/W4HA/669921551d763220faef0f4d/-1117Wx1400H-700205187-red-MODEL2.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/nwgd/669921551d763220faef0f44/-1117Wx1400H-700205187-red-MODEL3.jpg", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/6Z5q/669921551d763220faef0f58/-1117Wx1400H-700205187-red-MODEL4.jpg", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/tssz/669921551d763220faef0f48/-1117Wx1400H-700205187-red-MODEL5.jpg", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/ztdc/669921551d763220faef0f60/-1117Wx1400H-700205187-red-MODEL6.jpg", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/eBv8/669921551d763220faef0f4e/-1117Wx1400H-700205187-red-MODEL7.jpg", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/VTIM/669921551d763220faef0f4a/-1117Wx1400H-700205187-red-MODEL8.jpg", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000108",
+    sku: "COORD0008",
+    price: 5199,
+    discountedPrice: 2899,
+    discount: 44,
+    type: "configurable",
+    imageUrl: "https://media.very.co.uk/i/very/10B4I_SQ1_0000000005_GREY_MDf?$pdp_576x768_x2$&fmt=webp",
+    title: "Shifa Studio",
+    subTitle: "Women Grey Lounge Co-Ord Set With Sweatshirt & Joggers",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://media.very.co.uk/i/very/10B4I_SQ1_0000000005_GREY_MDf?$pdp_576x768_x2$&fmt=webp", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://media.very.co.uk/i/very/10B4I_SQ3_0000000005_GREY_MDo?$pdp_1650x2199_hi_res$&fmt=webp", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://media.very.co.uk/i/very/10B4I_SQ4_0000000005_GREY_MDd?$pdp_1650x2199_hi_res$&fmt=webp", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://media.very.co.uk/i/very/10B4I_SQ5_0000000005_GREY_MDd1?$pdp_1650x2199_hi_res$&fmt=webp", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000109",
+    sku: "COORD0009",
+    price: 4999,
+    discountedPrice: 2799,
+    discount: 44,
+    type: "configurable",
+    imageUrl: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/eMs1/66cf52d56f60443f3138a5cd/-1117Wx1400H-700344020-pink-MODEL.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Checked Regular Fit Blazer & Trousers Co-Ord Set",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/eMs1/66cf52d56f60443f3138a5cd/-1117Wx1400H-700344020-pink-MODEL.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/5EQe/66cf52d56f60443f3138a615/-1117Wx1400H-700344020-pink-MODEL2.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/XI2r/66cf52d56f60443f3138a60f/-1117Wx1400H-700344020-pink-MODEL3.jpg", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/5Bfp/66cf52d56f60443f3138a60b/-1117Wx1400H-700344020-pink-MODEL4.jpg", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "19000110",
+    sku: "COORD0010",
+    price: 5399,
+    discountedPrice: 3099,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_15.jpg?v=1745816712&width=800",
+    title: "Shifa Studio",
+    subTitle: "Women Black Party Co-Ord Set With Sequin Top & Pants",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_14.jpg?v=1698824363&width=800", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_15.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_13.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_12.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_11.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_10.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_9.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
+        ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  }
+];
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
