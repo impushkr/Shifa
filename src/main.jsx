@@ -10,8 +10,6 @@ import ProductsDetails from "./components/ProductDetails.jsx";
 import Cart from "./components/Cart.jsx";
 import Wishlist from "./components/Wishlist.jsx";
 
-
-
 import {
   indianWear,
   jewellary,
@@ -29,10 +27,8 @@ import {
   sale,
   corsetProducts,
   coordSetProducts,
-  watches
+  watches,
 } from "./data/womens/data";
-
-
 
 const router = createBrowserRouter([
   {
@@ -49,7 +45,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/products/:id",
-        element:<ProductsDetails/>
+        element: <ProductsDetails />,
       },
       {
         path: "/bestsellers",
@@ -62,11 +58,11 @@ const router = createBrowserRouter([
       {
         path: "/newarrivals",
         element: <Products data={newArrivals} />,
-      },   
+      },
       {
         path: "/indianWear",
         element: <Products data={indianWear} />,
-      },   
+      },
       {
         path: "/abayas",
         element: <Products data={abayas} />,
@@ -120,13 +116,13 @@ const router = createBrowserRouter([
         element: <Products data={watches} />,
       },
       {
-        path:"/cart",
-        element:<Cart/>
+        path: "/cart",
+        element: <Cart />,
       },
       {
-        path:"/wishlist",
-        element:<Wishlist/>
-      }
+        path: "/wishlist",
+        element: <Wishlist />,
+      },
     ],
   },
 ]);
@@ -134,5 +130,5 @@ const router = createBrowserRouter([
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <RouterProvider router={router} />
-  </StrictMode>
+  </StrictMode>,
 );

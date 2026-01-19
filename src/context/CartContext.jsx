@@ -7,12 +7,12 @@ export function CartProvider({ children }) {
 
   const subtotal = cartItems.reduce(
     (total, item) => total + item.discountedPrice * item.quantity,
-    0
+    0,
   );
 
   const discount = cartItems.reduce(
     (total, item) => total + item.price * item.quantity,
-    0
+    0,
   );
 
   const subtotaldiscount = discount - subtotal;
@@ -36,7 +36,7 @@ export function CartProvider({ children }) {
                 afterdiscount: item.discountedPrice * (preItem.quantity + 1),
                 actualprice: item.price * (preItem.quantity + 1),
               }
-            : preItem
+            : preItem,
         );
       }
 
@@ -62,7 +62,7 @@ export function CartProvider({ children }) {
               afterdiscount: preItem.afterdiscount - item.discountedPrice,
               actualprice: preItem.actualprice - item.price,
             }
-          : preItem
+          : preItem,
       );
     });
   }

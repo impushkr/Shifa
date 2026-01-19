@@ -4,21 +4,21 @@ export default function Homepage() {
   return (
     <>
       <Link to={"/indianwear"}>
-      <div className="relative ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-17 lg:h-[45vh] xl:h-[79vh]">
-        <img
-          src="/homepage-1.jpg"
-          alt="welcome-picture"
-          className="lg:hidden"
-        />
-        <img
-          src="/homepage-1-2.png"
-          alt="welcome-picture"
-          className="hidden lg:block lg:mt-[-100px]"
-        />
-        <button className="hidden lg:block absolute lg:bg-pink-800  text-white font-semibold  lg:bottom-70 lg:h-[3vh] lg:w-[12vw] ml-35 rounded-3xl xl:ml-49 xl:text-xl  xl:bottom-40 xl:h-[5vh] xl:w-[10vw]">
-          Shop Now
-        </button>
-      </div>
+        <div className="relative ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-17 lg:h-[45vh] xl:h-[79vh]">
+          <img
+            src="/homepage-1.jpg"
+            alt="welcome-picture"
+            className="lg:hidden"
+          />
+          <img
+            src="/homepage-1-2.png"
+            alt="welcome-picture"
+            className="hidden lg:block lg:mt-[-100px]"
+          />
+          <button className="hidden lg:block absolute lg:bg-pink-800  text-white font-semibold  lg:bottom-70 lg:h-[3vh] lg:w-[12vw] ml-35 rounded-3xl xl:ml-49 xl:text-xl  xl:bottom-40 xl:h-[5vh] xl:w-[10vw]">
+            Shop Now
+          </button>
+        </div>
       </Link>
 
       {/* Suggestions */}
@@ -274,7 +274,7 @@ export default function Homepage() {
         alt="welcome-picture"
         className=" shadow w-[94vw] m-3 lg:w-[97vw] lg:hidden"
       />
-  
+
       {/* Popular section */}
       <h1 className="px-1 font-semibold mt-4 mb-1 lg:text-xl">Popular</h1>
       <div className="shadow p-3 flex justify-center gap-1 lg:gap-2 lg:mt-3">
@@ -348,12 +348,10 @@ export default function Homepage() {
         </div>
       </div>
 
-
       {/* Special Offers */}
       <h1 className="px-3 font-semibold lg:text-xl mt-8">Special Offers</h1>
       <div className="w-full  xl:overflow-x-auto   shadow mt-2 pb-2 pt-2">
         <div className="flex flex-wrap justify-center gap-2 p-1 xl:w-[167vw]">
-          
           {/* Corset */}
           <Link to={"/corset"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
@@ -391,7 +389,7 @@ export default function Homepage() {
               </div>
             </div>
           </Link>
-          
+
           {/* Bottom Wear */}
           <Link to={"/bottomwear"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
@@ -462,7 +460,7 @@ export default function Homepage() {
                   From -
                 </span>{" "}
                 <span className="font-semibold text-sm text-green-700">
-                  ₹999
+                  ₹2499
                 </span>
               </div>
             </div>
@@ -526,7 +524,6 @@ export default function Homepage() {
           </Link>
         </div>
       </div>
-
-     </>
+    </>
   );
 }

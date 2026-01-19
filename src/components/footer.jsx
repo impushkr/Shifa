@@ -3,10 +3,8 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="bg-gray-100 text-gray-700">
-      
       {/* Top Section */}
       <div className="max-w-7xl mx-auto px-6 py-12 grid grid-cols-2 md:grid-cols-4 gap-8">
-        
         {/* SHOP */}
         <div>
           <h3 className="font-semibold text-gray-900 mb-4">SHOP</h3>
@@ -25,7 +23,9 @@ const Footer = () => {
           <ul className="space-y-2 text-sm">
             <li className="hover:underline cursor-pointer">Customer Service</li>
             <li className="hover:underline cursor-pointer">Track Order</li>
-            <li className="hover:underline cursor-pointer">Returns & Refunds</li>
+            <li className="hover:underline cursor-pointer">
+              Returns & Refunds
+            </li>
             <li className="hover:underline cursor-pointer">Shipping Info</li>
             <li className="hover:underline cursor-pointer">FAQs</li>
           </ul>
@@ -66,13 +66,18 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-6 py-4 flex flex-col md:flex-row justify-between items-center text-sm text-gray-600">
           <p>© {new Date().getFullYear()} Shifa. All rights reserved.</p>
           <div className="flex space-x-4 mt-2 md:mt-0">
-            <span className="hover:underline cursor-pointer">Privacy Policy</span>
-            <span className="hover:underline cursor-pointer">Terms & Conditions</span>
-            <span className="hover:underline cursor-pointer">Cookie Settings</span>
+            <span className="hover:underline cursor-pointer">
+              Privacy Policy
+            </span>
+            <span className="hover:underline cursor-pointer">
+              Terms & Conditions
+            </span>
+            <span className="hover:underline cursor-pointer">
+              Cookie Settings
+            </span>
           </div>
         </div>
       </div>
-
     </footer>
   );
 };

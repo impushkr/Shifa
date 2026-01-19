@@ -3,13 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
 
-import {
-  FiUser,
-  FiHeart,
-  FiShoppingBag,
-  FiMenu,
-  FiX,
-} from "react-icons/fi";
+import { FiUser, FiHeart, FiShoppingBag, FiMenu, FiX } from "react-icons/fi";
 
 export default function Navbar() {
   const { cartItems } = useCart();
@@ -125,11 +119,46 @@ export default function Navbar() {
 
       {/* Desktop Menu */}
       <ul className="mt-16 flex h-13 items-center justify-center space-x-6 text-gray-500 font-semibold md:hidden ">
-        <li onClick={()=>{navigate("/newarrivals")}} className="hover:text-pink-600">New Arrivals</li>
-        <li onClick={()=>{navigate("/dresses")}} className="hover:text-pink-600">Dresses</li>
-        <li onClick={()=>{navigate("/kurtis")}} className="hover:text-pink-600">Kurtis</li>
-        <li onClick={()=>{navigate("/topwear")}} className="hover:text-pink-600">Tops</li>
-        <li onClick={()=>{navigate("/sale")}} className="hover:text-pink-600">Sale</li>
+        <li
+          onClick={() => {
+            navigate("/newarrivals");
+          }}
+          className="hover:text-pink-600"
+        >
+          New Arrivals
+        </li>
+        <li
+          onClick={() => {
+            navigate("/dresses");
+          }}
+          className="hover:text-pink-600"
+        >
+          Dresses
+        </li>
+        <li
+          onClick={() => {
+            navigate("/kurtis");
+          }}
+          className="hover:text-pink-600"
+        >
+          Kurtis
+        </li>
+        <li
+          onClick={() => {
+            navigate("/topwear");
+          }}
+          className="hover:text-pink-600"
+        >
+          Tops
+        </li>
+        <li
+          onClick={() => {
+            navigate("/sale");
+          }}
+          className="hover:text-pink-600"
+        >
+          Sale
+        </li>
       </ul>
     </>
   );

@@ -7,7 +7,7 @@ export function WishlistProvider({ children }) {
 
   function addtowishlist(item) {
     const exist = wishlistItems.find(
-      (previousitem) => previousitem.id == item.id
+      (previousitem) => previousitem.id == item.id,
     );
     if (exist) {
       return;
@@ -19,7 +19,7 @@ export function WishlistProvider({ children }) {
     setWishlistItems((previousitem) =>
       previousitem.filter((pitem) => {
         return pitem.id != item.id;
-      })
+      }),
     );
   }
 

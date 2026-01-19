@@ -41,7 +41,7 @@ export default function ProductDetails() {
     skincare,
     corsetProducts,
     coordSetProducts,
-    watches
+    watches,
   ];
 
   let relatedProducts = [];
@@ -66,8 +66,8 @@ export default function ProductDetails() {
     dresses.find((item) => item.id == id) ||
     cosmetics.find((item) => item.id == id) ||
     skincare.find((item) => item.id == id) ||
-    corsetProducts.find((item) => item.id == id)||
-    coordSetProducts.find((item) => item.id == id)||
+    corsetProducts.find((item) => item.id == id) ||
+    coordSetProducts.find((item) => item.id == id) ||
     watches.find((item) => item.id == id);
 
   if (!products) return null;
@@ -220,7 +220,7 @@ export default function ProductDetails() {
             {/* ACTION BUTTONS */}
             <div className="flex gap-4 mt-6">
               {wishlistItems.some(
-                (previousItem) => previousItem.id == products.id
+                (previousItem) => previousItem.id == products.id,
               ) ? (
                 <button
                   className={
@@ -241,7 +241,7 @@ export default function ProductDetails() {
               )}
 
               {cartItems.some(
-                (previousItem) => previousItem.id == products.id
+                (previousItem) => previousItem.id == products.id,
               ) ? (
                 <button className="flex-1 bg-pink-800 text-white py-3 rounded-xl font-semibold transition ">
                   Added
