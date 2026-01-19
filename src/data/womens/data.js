@@ -22075,3 +22075,125 @@ export const coordSetProducts = [
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+export const watches = [
+  {
+    id: "20000101",
+    sku: "WATCH0001",
+    price: 5999,
+    discountedPrice: 3499,
+    discount: 42,
+    type: "simple",
+    imageUrl: "https://www.buyhautesauce.com/cdn/shop/files/1_a049e818-aa05-4f84-b11e-afd3f1e606b7.jpg?v=1735812930",
+    title: "Shifa Studio",
+    subTitle: "Women Rose Gold Analog Watch With Metal Strap",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "20000102",
+    sku: "WATCH0002",
+    price: 4999,
+    discountedPrice: 2799,
+    discount: 44,
+    type: "simple",
+    imageUrl: "https://m.media-amazon.com/images/I/51brQ09NPzL._AC_UY1000_.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Silver Minimal Analog Watch With Mesh Strap",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "20000104",
+    sku: "WATCH0004",
+    price: 6999,
+    discountedPrice: 4199,
+    discount: 40,
+    type: "simple",
+    imageUrl: "https://m.media-amazon.com/images/I/71paG6-XjUL._AC_UY1000_.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Gold Luxury Analog Watch With Bracelet Strap",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "20000108",
+    sku: "WATCH0008",
+    price: 5199,
+    discountedPrice: 2999,
+    discount: 42,
+    type: "simple",
+    imageUrl: "https://danishdesign.com/cdn/shop/articles/Danish_Design_Akilia_Link_Two-Tone_Medium_IV95Q1251_2172e15b-c398-4780-be6b-64bed857212a.jpg?v=1627030089&width=640",
+    title: "Shifa Studio",
+    subTitle: "Women Two-Tone Silver Gold Analog Watch",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "20000109",
+    sku: "WATCH0009",
+    price: 4499,
+    discountedPrice: 2499,
+    discount: 44,
+    type: "simple",
+    imageUrl: "https://m.media-amazon.com/images/I/61uxrNm9HyL._AC_UY1000_.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Slim Dial Analog Watch With Rose Pink Strap",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "20000105",
+    sku: "WATCH0005",
+    price: 5499,
+    discountedPrice: 3199,
+    discount: 42,
+    type: "simple",
+    imageUrl: "https://rukminim2.flixcart.com/image/480/640/xif0q/watch/w/x/x/-original-imahg62jhhepuhdy.jpeg?q=90",
+    title: "Shifa Studio",
+    subTitle: "Women White Dial Analog Watch With Brown Leather Strap",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "20000110",
+    sku: "WATCH0010",
+    price: 7399,
+    discountedPrice: 4499,
+    discount: 39,
+    type: "simple",
+    imageUrl: "https://www.carlington.in/cdn/shop/files/2_0bffc114-0099-4765-a352-b429e4cae6b1.jpg?v=1763528629&width=1080",
+    title: "Shifa Studio",
+    subTitle: "Women Premium Stainless Steel Designer Watch",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+  {
+    id: "20000103",
+    sku: "WATCH0003",
+    price: 4599,
+    discountedPrice: 2599,
+    discount: 43,
+    type: "simple",
+    imageUrl: "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0407bf70/images/Sonata/Catalog/87068WL01_4.jpg?sw=600&sh=600",
+    title: "Shifa Studio",
+    subTitle: "Women Black Leather Strap Analog Watch",
+    plp_pdp_bridge: {
+      images: []
+    }
+  },
+
+];

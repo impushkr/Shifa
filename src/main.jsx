@@ -28,7 +28,8 @@ import {
   skincare,
   sale,
   corsetProducts,
-  coordSetProducts
+  coordSetProducts,
+  watches
 } from "./data/womens/data";
 
 
@@ -113,6 +114,10 @@ const router = createBrowserRouter([
       {
         path: "/coordset",
         element: <Products data={coordSetProducts} />,
+      },
+      {
+        path: "/watches",
+        element: <Products data={watches} />,
       },
       {
         path:"/cart",
