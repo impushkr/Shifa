@@ -6,7 +6,7 @@ export default function Homepage() {
       <Link to={"/indianwear"}>
         <div className="hidden md:block ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-17 lg:h-[45vh] xl:h-[79vh]">
           <img
-            src="/homepage-1-2.png"
+            src="/homepage-1.jpg"
             alt="welcome-picture"
             className="hidden lg:block lg:mt-[-100px]"
           />
@@ -260,12 +260,6 @@ export default function Homepage() {
       </div>
 
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
-
-      <img
-        src="/homepage-2.jpg"
-        alt="welcome-picture"
-        className=" shadow w-[94vw] m-3 lg:w-[97vw] lg:hidden"
-      />
 
       {/* Popular section */}
       <h1 className="px-1 font-semibold mt-4 mb-1 lg:text-xl">Popular</h1>
