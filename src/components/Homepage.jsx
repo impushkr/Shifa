@@ -342,7 +342,7 @@ export default function Homepage() {
           <Link to={"/corset"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
-                src="https://i.pinimg.com/736x/c3/62/bb/c362bb1de08d5bfe58d36aa78cb81674.jpg"
+                src="https://i.pinimg.com/736x/91/35/56/9135564cffaba2c7dede591db4f69155.jpg"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
@@ -352,63 +352,6 @@ export default function Homepage() {
                 </span>{" "}
                 <span className="font-semibold text-sm text-green-700">
                   ₹1599
-                </span>
-              </div>
-            </div>
-          </Link>
-
-          {/* Top wear */}
-          <Link to={"/topwear"}>
-            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-              <img
-                src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
-                alt=""
-              />
-              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Top wear</h3>
-                <span className="font-semibold px-1 text-sm mb-3">
-                  From -
-                </span>{" "}
-                <span className="font-semibold text-sm text-green-700">
-                  ₹390
-                </span>
-              </div>
-            </div>
-          </Link>
-
-          {/* Watches */}
-          <Link to={"watches"}>
-            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-              <img
-                src="https://tse1.explicit.bing.net/th/id/OIP.Zz4vagG4qbAtJMw2bAmlJQHaLF?w=668&h=1000&rs=1&pid=ImgDetMain&o=7&rm=3"
-                alt=""
-              />
-              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Watches</h3>
-                <span className="font-semibold px-1 text-sm mb-3">
-                  From -
-                </span>{" "}
-                <span className="font-semibold text-sm text-green-700">
-                  ₹2499
-                </span>
-              </div>
-            </div>
-          </Link>
-
-          {/* Co-ordset */}
-          <Link to={"/coordset"}>
-            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-              <img
-                src="https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/6/STJMAYke_25b1fd2da9dd4415b2f1b8752aafed91.jpg"
-                alt=""
-              />
-              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Co-ord Set</h3>
-                <span className="font-semibold px-1 text-sm mb-3">
-                  From -
-                </span>{" "}
-                <span className="font-semibold text-sm text-green-700">
-                  ₹999
                 </span>
               </div>
             </div>
@@ -437,7 +380,7 @@ export default function Homepage() {
           <Link to={"/footwear"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
-                src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e8c6bc-255b-488f-aeb4-305b93aa8204.__CR0,0,300,400_PT0_SX300_V1___.jpg"
+                src="https://i.pinimg.com/1200x/93/cc/a2/93cca25b78921f484341316c2d1e5f93.jpg"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
@@ -452,41 +395,39 @@ export default function Homepage() {
             </div>
           </Link>
 
-          
-
-          {/* Bracelets */}
-          <Link to={"/bracelets"}>
+          {/* Top wear */}
+          <Link to={"/topwear"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
-                src="https://diamindofficial.com/cdn/shop/files/Diamind_0b244ef9-1952-47bc-9d8e-ea015cf2605a_2048x.webp?v=1744185138"
+                src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Bracelets</h3>
+                <h3 className="font-semibold px-1">Top wear</h3>
                 <span className="font-semibold px-1 text-sm mb-3">
                   From -
                 </span>{" "}
                 <span className="font-semibold text-sm text-green-700">
-                  ₹999
+                  ₹390
                 </span>
               </div>
             </div>
           </Link>
 
-          {/* Gowns */}
-          <Link to={"/gown"}>
+          {/* Co-ordset */}
+          <Link to={"/coordset"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
-                src="https://empress-clothing.com/cdn/shop/files/AW5474A.jpg?v=1714136731&width=1800"
+                src="https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/6/STJMAYke_25b1fd2da9dd4415b2f1b8752aafed91.jpg"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Gown's</h3>
+                <h3 className="font-semibold px-1">Co-ord Set</h3>
                 <span className="font-semibold px-1 text-sm mb-3">
                   From -
                 </span>{" "}
                 <span className="font-semibold text-sm text-green-700">
-                  ₹4799
+                  ₹999
                 </span>
               </div>
             </div>
@@ -506,6 +447,70 @@ export default function Homepage() {
                 </span>{" "}
                 <span className="font-semibold text-sm text-green-700">
                   ₹2299
+                </span>
+              </div>
+            </div>
+          </Link>
+
+          {/* Bracelets */}
+          <Link to={"/bracelets"}>
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://i.pinimg.com/1200x/66/e9/78/66e978fe829720f54e2d0e53020a607c.jpg"
+                alt="Bracelet"
+                className="xl:hidden"
+              />
+
+              <img
+                src="https://i.pinimg.com/1200x/9d/82/f8/9d82f81235276db91bbdc53f2fcd130b.jpg"
+                alt="Bracelet"
+                className="hidden xl:block"
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Bracelets</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹999
+                </span>
+              </div>
+            </div>
+          </Link>
+
+          {/* Gowns */}
+          <Link to={"/gown"}>
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://i.pinimg.com/736x/ff/76/b1/ff76b11a57fde7982463b5c12989894a.jpg"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Gown's</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹4799
+                </span>
+              </div>
+            </div>
+          </Link>
+
+          {/* Watches */}
+          <Link to={"watches"}>
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://i.pinimg.com/1200x/a9/40/dd/a940dd5000eda2fd61a4d150a83b5915.jpg"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Watches</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹2499
                 </span>
               </div>
             </div>
