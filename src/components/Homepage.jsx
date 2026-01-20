@@ -4,25 +4,17 @@ export default function Homepage() {
   return (
     <>
       <Link to={"/indianwear"}>
-        <div className="relative ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-17 lg:h-[45vh] xl:h-[79vh]">
-          <img
-            src="/homepage-1.jpg"
-            alt="welcome-picture"
-            className="lg:hidden"
-          />
+        <div className="hidden md:block ml-2 mr-2 mb-3 h-[28vh] overflow-hidden md:h-[40vh] md:mt-17 lg:h-[45vh] xl:h-[79vh]">
           <img
             src="/homepage-1-2.png"
             alt="welcome-picture"
             className="hidden lg:block lg:mt-[-100px]"
           />
-          <button className="hidden lg:block absolute lg:bg-pink-800  text-white font-semibold  lg:bottom-70 lg:h-[3vh] lg:w-[12vw] ml-35 rounded-3xl xl:ml-49 xl:text-xl  xl:bottom-40 xl:h-[5vh] xl:w-[10vw]">
-            Shop Now
-          </button>
         </div>
       </Link>
 
       {/* Suggestions */}
-      <h1 className="px-4 font-semibold lg:text-xl">Suggested For You</h1>
+      <h1 className="px-4 font-semibold lg:text-xl mt-5">Suggested For You</h1>
       <div className=" w-full overflow-x-auto shadow py-3">
         <div className="flex gap-4 px-3 w-max ">
           {/* Best Sellers */}
@@ -506,7 +498,7 @@ export default function Homepage() {
             </div>
           </Link>
 
-          {/* aaa */}
+          {/* OFFice wear */}
           <Link to={"/officewear"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img

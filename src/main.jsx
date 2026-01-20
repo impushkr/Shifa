@@ -9,6 +9,7 @@ import Products from "./components/Products.jsx";
 import ProductsDetails from "./components/ProductDetails.jsx";
 import Cart from "./components/Cart.jsx";
 import Wishlist from "./components/Wishlist.jsx";
+import OfferCarousel from "./components/OfferCrousal.jsx";
 
 import {
   indianWear,
@@ -40,7 +41,11 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <Homepage />,
+        element: <>
+        <OfferCarousel/>
+        <Homepage />
+        
+        </>,
       },
       {
         path: "/products",
