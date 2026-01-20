@@ -22635,14 +22635,249 @@ export const gown = [
         { id: 1, mediaType: "image", position: "1", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_1.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
         { id: 2, mediaType: "image", position: "2", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_2.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
         { id: 3, mediaType: "image", position: "3", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_3.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "", aspect_ratio: "0.75" },
+        
     
       ]
     },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  }
+];
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+export const officeWear = [
+  {
+    id: "25000101",
+    sku: "OFFICE0001",
+    price: 4499,
+    discountedPrice: 2599,
+    discount: 42,
+    type: "configurable",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301044297WHITEWBLACK_1_800x.jpg?v=1762329673",
+    title: "Shifa Studio",
+    subTitle: "Women Solid Formal Shirt For Office Wear",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000102",
+    sku: "OFFICE0002",
+    price: 4999,
+    discountedPrice: 2899,
+    discount: 42,
+    type: "configurable",
+    imageUrl: "https://m.media-amazon.com/images/I/61A0Nfaru2L._AC_UY1100_.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Formal Straight Fit Trousers",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000103",
+    sku: "OFFICE0003",
+    price: 5299,
+    discountedPrice: 3099,
+    discount: 41,
+    type: "configurable",
+    imageUrl: "https://www.powersutra.co/cdn/shop/files/1_c168c2d6-ae49-4657-95bc-54c5c7459150.jpg?v=1757148890&width=1080",
+    title: "Shifa Studio",
+    subTitle: "Women Office Wear Blazer With Notched Collar",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000104",
+    sku: "OFFICE0004",
+    price: 4799,
+    discountedPrice: 2699,
+    discount: 44,
+    type: "configurable",
+    imageUrl: "https://saltattire.com/cdn/shop/files/1_f62e167a-b279-49a2-8b73-31c8f6cc6aff.jpg?v=1758683983&width=1780",
+    title: "Shifa Studio",
+    subTitle: "Women Formal Pencil Skirt For Office Wear",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://saltattire.com/cdn/shop/files/1_f62e167a-b279-49a2-8b73-31c8f6cc6aff.jpg?v=1758683983&width=1780", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://saltattire.com/cdn/shop/files/Front_5e6562ae-d0e5-429e-a780-5e96e6312ba8.jpg?v=1758683983&width=1780", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://saltattire.com/cdn/shop/files/Side_977ca83b-d57a-4178-80a2-555aaa36106e.jpg?v=1758683983&width=1780", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://saltattire.com/cdn/shop/files/Macro_e97f204d-36ac-4b41-bcc6-6a8346c58130.jpg?v=1746071280&width=1780", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://saltattire.com/cdn/shop/files/Back_10883858-cb0b-46be-b0c2-50d383b467dd.jpg?v=1746071280&width=1780", aspect_ratio: "0.75" }, 
+    ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000105",
+    sku: "OFFICE0005",
+    price: 4599,
+    discountedPrice: 2599,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_1_14cd2167-99c8-47c5-9180-69ce0f19ddef.jpg?v=1734162310&width=1080",
+    title: "Shifa Studio",
+    subTitle: "Women Formal A-Line Midi Dress For Office",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_1_14cd2167-99c8-47c5-9180-69ce0f19ddef.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_2_ba1e8310-fbc4-4d2e-96d0-4798f69265aa.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_3_ecf4cc4b-855c-42c1-832c-8a5a172392be.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_4_ed8fbf71-cdf8-47c4-b247-c26caf6e8d3b.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_5_71408e37-fa4b-42b6-ac5a-ecf0d59a5dea.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_6_a26847b1-2bb5-4802-9172-3debf8342d2c.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
+        ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000106",
+    sku: "OFFICE0006",
+    price: 4199,
+    discountedPrice: 2399,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://labelflavia.com/cdn/shop/files/FU61PEACH_1.jpg?v=1757060671&width=1080",
+    title: "Shifa Studio",
+    subTitle: "Women Office Wear Kurti With Straight Fit",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_1.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_2.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_3.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_4.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_5.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_6.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_7.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
+        ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000107",
+    sku: "OFFICE0007",
+    price: 3999,
+    discountedPrice: 2299,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_7.jpg?v=1748917375&width=1780",
+    title: "Shifa Studio",
+    subTitle: "Women Formal Peplum Top For Office Wear",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_1.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_2.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_3.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_4.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_5.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_6.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_7.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_8.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 9, mediaType: "image", position: "9", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_9.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+        { id: 10, mediaType: "image", position: "10", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_10.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
+    ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000108",
+    sku: "OFFICE0008",
+    price: 4899,
+    discountedPrice: 2799,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://negativeapparel.com/cdn/shop/files/womens-minimalist-elegant-high-waisted-slimming-black-wide-leg-pants-for-workoffice-work-wear-negative-apparel-897972.jpg?v=1740610226&width=1340",
+    title: "Shifa Studio",
+    subTitle: "Women Formal Palazzo Pants For Office Wear",
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000109",
+    sku: "OFFICE0009",
+    price: 4399,
+    discountedPrice: 2499,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://sassafras.in/cdn/shop/files/SFSETS96036-4_7239dc0f-27ee-42e2-942a-4ea55042ed85_800x.jpg?v=1757493040",
+    title: "Shifa Studio",
+    subTitle: "Women Formal Wrap Top For Office Wear",
+    plp_pdp_bridge: { images: [
+      { id: 1, mediaType: "image", position: "1", url: "https://sassafras.in/cdn/shop/files/SFSETS96036-1_3bce828d-58b2-4319-82ce-33be4db26545_800x.jpg?v=1757493040", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://sassafras.in/cdn/shop/files/SFSETS96036-2_6cd8edbd-5c47-440a-b2ad-cb1cdece5a18_800x.jpg?v=1757493040", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://sassafras.in/cdn/shop/files/SFSETS96036-3_3ae8c516-9f08-463d-bff1-3a11e90472e4_800x.jpg?v=1757493040", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://sassafras.in/cdn/shop/files/SFSETS96036-4_7239dc0f-27ee-42e2-942a-4ea55042ed85_800x.jpg?v=1757493040", aspect_ratio: "0.75" },
+    ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "25000110",
+    sku: "OFFICE0010",
+    price: 5499,
+    discountedPrice: 3299,
+    discount: 40,
+    type: "configurable",
+    imageUrl: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2247.webp",
+    title: "Shifa Studio",
+    subTitle: "Women Formal Co-Ord Set For Office Wear",
+    plp_pdp_bridge: { images: [
+      { id: 1, mediaType: "image", position: "1", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2245.webp", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2251.webp", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2246.webp", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2247.webp", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2248.webp", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2249.webp", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2250.webp", aspect_ratio: "0.75" },
+        ] },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
