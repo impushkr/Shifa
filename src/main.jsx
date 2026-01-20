@@ -28,7 +28,8 @@ import {
   corsetProducts,
   coordSetProducts,
   watches,
-  bracelets
+  bracelets,
+  gown
 } from "./data/womens/data";
 
 const router = createBrowserRouter([
@@ -119,6 +120,10 @@ const router = createBrowserRouter([
       {
         path: "/bracelets",
         element: <Products data={bracelets} />,
+      },
+      {
+        path: "/gown",
+        element: <Products data={gown} />,
       },
       {
         path: "/cart",

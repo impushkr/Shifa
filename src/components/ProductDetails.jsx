@@ -20,6 +20,7 @@ import {
   coordSetProducts,
   watches,
   bracelets,
+  gown,
 } from "../data/womens/data";
 
 import { useParams } from "react-router";
@@ -43,7 +44,8 @@ export default function ProductDetails() {
     corsetProducts,
     coordSetProducts,
     watches,
-    bracelets
+    bracelets,
+    gown
   ];
 
   let relatedProducts = [];
@@ -71,7 +73,8 @@ export default function ProductDetails() {
     corsetProducts.find((item) => item.id == id) ||
     coordSetProducts.find((item) => item.id == id) ||
     watches.find((item) => item.id == id)||
-    bracelets.find((item) => item.id == id);
+    bracelets.find((item) => item.id == id)||
+    gown.find((item) => item.id == id);
 
   if (!products) return null;
 

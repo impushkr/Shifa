@@ -22374,3 +22374,280 @@ export const bracelets = [
 ];
 
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+export const gown = [
+  {
+    id: "23000101",
+    sku: "GOWN0001",
+    price: 8999,
+    discountedPrice: 5299,
+    discount: 41,
+    type: "configurable",
+    imageUrl: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MDcopy.webp?v=1744102804",
+    title: "Shifa Studio",
+    subTitle: "Women Red Party Wear Flared Gown With Sequin Work",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MDcopy.webp?v=1744102804", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_2_c8ec8736-1f84-4aab-9cad-8448a5855008copy.webp?v=1744102804", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_3_1262cf18-3094-4bda-a8b7-bb3c5b407584copy.webp?v=1744102804", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_4_942a592e-8990-4738-b261-8bf0df43f8efcopy.webp?v=1744102804", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000102",
+    sku: "GOWN0002",
+    price: 9499,
+    discountedPrice: 5699,
+    discount: 40,
+    type: "configurable",
+    imageUrl: "https://shobitam.in/cdn/shop/files/MKJ_8020.jpg?v=1766234939&width=1800",
+    title: "Shifa Studio",
+    subTitle: "Women Black Evening Gown With Off Shoulder Neckline",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://shobitam.in/cdn/shop/files/MKJ_8020.jpg?v=1766234939&width=1800", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://shobitam.in/cdn/shop/files/MKJ_7990.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://shobitam.in/cdn/shop/files/MKJ_8017copy.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://shobitam.in/cdn/shop/files/MKJ_8005.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://shobitam.in/cdn/shop/files/MKJ_7997.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://shobitam.in/cdn/shop/files/MKJ_8009_aaea6d5b-3ae9-45d1-aa30-2d0541bfed92.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000103",
+    sku: "GOWN0003",
+    price: 9999,
+    discountedPrice: 5999,
+    discount: 40,
+    type: "configurable",
+    imageUrl: "https://www.berrylush.com/cdn/shop/files/1_e5c9c59a-5593-416d-a8f3-0a7ae443d3e7.jpg?v=1752842639&width=493",
+    title: "Shifa Studio",
+    subTitle: "Women Wine Color Satin Evening Gown With Slit",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.berrylush.com/cdn/shop/files/1_e5c9c59a-5593-416d-a8f3-0a7ae443d3e7.jpg?v=1752842639&width=493", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.berrylush.com/cdn/shop/files/2_1ed4ab19-0e5a-4d8f-9fe4-86d95be4b257.jpg?v=1752842639&width=493", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.berrylush.com/cdn/shop/files/3_c7cc3993-592f-4c3e-89a3-272b055d165c.jpg?v=1752842640&width=493", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.berrylush.com/cdn/shop/files/4_b2c6f69c-ba76-4057-bc68-50573f883305.jpg?v=1752842640&width=493", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://www.berrylush.com/cdn/shop/files/5_eef7f2e8-0b8a-4a45-976b-6d5a2e0f01be.jpg?v=1752842640&width=493", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://www.berrylush.com/cdn/shop/files/6_afc0e985-3ea1-46da-9846-47889f1e97af.jpg?v=1752842640&width=493", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000104",
+    sku: "GOWN0004",
+    price: 8599,
+    discountedPrice: 4999,
+    discount: 42,
+    type: "configurable",
+    imageUrl: "https://empress-clothing.com/cdn/shop/files/AW5474.jpg?v=1714136731&width=1800",
+    title: "Shifa Studio",
+    subTitle: "Women Ethnic Anarkali Style Gown With Floral Print",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://empress-clothing.com/cdn/shop/files/AW5474.jpg?v=1714136731&width=1800", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://empress-clothing.com/cdn/shop/files/AW5474A.jpg?v=1714136731&width=1800", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://empress-clothing.com/cdn/shop/files/AW5474B.jpg?v=1714136732&width=1800", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://empress-clothing.com/cdn/shop/files/AW5474C.jpg?v=1714136732&width=1800", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000105",
+    sku: "GOWN0005",
+    price: 10999,
+    discountedPrice: 6499,
+    discount: 41,
+    type: "configurable",
+    imageUrl: "https://img.faballey.com/images/Product/ILK00149Z/3.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Ivory Embroidered Ethnic Gown With Dupatta",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://img.faballey.com/images/Product/ILK00149Z/3.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://img.faballey.com/images/Product/ILK00149Z/4.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://img.faballey.com/images/Product/ILK00149Z/5.jpg", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://img.faballey.com/images/Product/ILK00149Z/6.jpg", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://img.faballey.com/images/Product/ILK00149Z/7.jpg", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://img.faballey.com/images/Product/ILK00149Z/8.jpg", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000106",
+    sku: "GOWN0006",
+    price: 9299,
+    discountedPrice: 5499,
+    discount: 41,
+    type: "configurable",
+    imageUrl: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_8.jpg?v=1733897752&width=1800",
+    title: "Shifa Studio",
+    subTitle: "Women Navy Blue Party Wear Gown With Net Overlay",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_8.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_6.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_9.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_2.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_3.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_4.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_1.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_5.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 9, mediaType: "image", position: "9", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_7.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+        { id: 10, mediaType: "image", position: "10", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_10.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
+    
+    
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000107",
+    sku: "GOWN0007",
+    price: 8799,
+    discountedPrice: 5199,
+    discount: 41,
+    type: "configurable",
+    imageUrl: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14287.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Pastel Green Evening Gown With Pleated Skirt",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14287.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14290.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14288.jpg", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14291.jpg", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14289.jpg", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14292.jpg", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14285.jpg", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000108",
+    sku: "GOWN0008",
+    price: 10499,
+    discountedPrice: 6299,
+    discount: 40,
+    type: "configurable",
+    imageUrl: "http://houseofnanz.com/cdn/shop/products/8032308242112_1.jpg?v=1675501401",
+    title: "Shifa Studio",
+    subTitle: "Women Maroon Velvet Party Gown With Full Sleeves",
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000109",
+    sku: "GOWN0009",
+    price: 8199,
+    discountedPrice: 4799,
+    discount: 41,
+    type: "configurable",
+    imageUrl: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028259/OI/CS/OR/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Ethnic Printed Gown With Front Button Design",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028259/OI/CS/OR/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028443/BS/QK/KB/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028282/PZ/VL/ST/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg", aspect_ratio: "0.75" },
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "23000110",
+    sku: "GOWN0010",
+    price: 11999,
+    discountedPrice: 6999,
+    discount: 42,
+    type: "configurable",
+    imageUrl: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_1.jpg?impolicy=detailimageprod",
+    title: "Shifa Studio",
+    subTitle: "Women Designer Party Gown With Ruffle Hemline",
+    plp_pdp_bridge: {
+      images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_1.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_2.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_3.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "", aspect_ratio: "0.75" },
+    
+      ]
+    },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  }
+];
