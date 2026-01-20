@@ -371,6 +371,44 @@ export default function Homepage() {
             </div>
           </Link>
 
+          {/* Top wear */}
+          <Link to={"/topwear"}>
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Top wear</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹390
+                </span>
+              </div>
+            </div>
+          </Link>
+
+          {/* Watches */}
+          <Link to={"watches"}>
+            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
+              <img
+                src="https://tse1.explicit.bing.net/th/id/OIP.Zz4vagG4qbAtJMw2bAmlJQHaLF?w=668&h=1000&rs=1&pid=ImgDetMain&o=7&rm=3"
+                alt=""
+              />
+              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
+                <h3 className="font-semibold px-1">Watches</h3>
+                <span className="font-semibold px-1 text-sm mb-3">
+                  From -
+                </span>{" "}
+                <span className="font-semibold text-sm text-green-700">
+                  ₹2499
+                </span>
+              </div>
+            </div>
+          </Link>
+
           {/* Co-ordset */}
           <Link to={"/coordset"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
@@ -409,25 +447,6 @@ export default function Homepage() {
             </div>
           </Link>
 
-          {/* Top wear */}
-          <Link to={"/topwear"}>
-            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-              <img
-                src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
-                alt=""
-              />
-              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Top wear</h3>
-                <span className="font-semibold px-1 text-sm mb-3">
-                  From -
-                </span>{" "}
-                <span className="font-semibold text-sm text-green-700">
-                  ₹390
-                </span>
-              </div>
-            </div>
-          </Link>
-
           {/* Footwear */}
           <Link to={"/footwear"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
@@ -447,30 +466,13 @@ export default function Homepage() {
             </div>
           </Link>
 
-          {/* Watches */}
-          <Link to={"watches"}>
-            <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
-              <img
-                src="https://tse1.explicit.bing.net/th/id/OIP.Zz4vagG4qbAtJMw2bAmlJQHaLF?w=668&h=1000&rs=1&pid=ImgDetMain&o=7&rm=3"
-                alt=""
-              />
-              <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                <h3 className="font-semibold px-1">Watches</h3>
-                <span className="font-semibold px-1 text-sm mb-3">
-                  From -
-                </span>{" "}
-                <span className="font-semibold text-sm text-green-700">
-                  ₹2499
-                </span>
-              </div>
-            </div>
-          </Link>
+          
 
           {/* Bracelets */}
           <Link to={"/bracelets"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
-                src="https://cdn.shopify.com/s/files/1/0495/4816/5272/products/3665_I_1024x1024.jpg?v=1645352212"
+                src="https://diamindofficial.com/cdn/shop/files/Diamind_0b244ef9-1952-47bc-9d8e-ea015cf2605a_2048x.webp?v=1744185138"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
