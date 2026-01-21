@@ -21,6 +21,11 @@ export default function OfferCarousel() {
       alt: 3,
       src: "https://i.pinimg.com/1200x/f5/9d/21/f59d21f3ad6e770dccc57a612f18b799.jpg",
     },
+    {
+      alt: 4,
+      src: "https://i.pinimg.com/1200x/84/6e/c5/846ec5c85e4d55ffac5661e3493b62f4.jpg",
+      route: "/winterCollection"
+    },
     
   ];
   return (

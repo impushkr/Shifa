@@ -33,6 +33,7 @@ import {
   gown,
   officeWear,
   summerCollection,
+  winterCollection,
 } from "./data/womens/data";
 
 const router = createBrowserRouter([
@@ -140,6 +141,10 @@ const router = createBrowserRouter([
       {
         path: "/summerCollection",
         element: <Products data={summerCollection} />,
+      },
+      {
+        path: "/winterCollection",
+        element: <Products data={winterCollection} />,
       },
       {
         path: "/cart",

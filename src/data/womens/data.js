@@ -22891,20 +22891,26 @@ export const officeWear = [
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 export const summerCollection = [
-  // ---------- TOPS ----------
   {
-    id: "SC001",
-    sku: "SUM-TOP-001",
-    category: "tops",
-    style: "western",
+    id: "26000102",
+    sku: "SUMMER0002",
     price: 3499,
     discountedPrice: 1999,
     discount: 43,
     type: "configurable",
     imageUrl: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-0-202311081915.jpg?im=Resize=(600,750)",
     title: "Shifa Studio",
-    subTitle: "Women Cotton Sleeveless Button-Down Summer Top",
-    plp_pdp_bridge: { images: [] },
+    subTitle: "Women Cotton Sleeveless Summer Top",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-0-202311081915.jpg?im=Resize=(600,750)", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-1-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-2-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-3-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-4-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-5-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-6-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-7-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
+    ] },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
@@ -22912,20 +22918,26 @@ export const summerCollection = [
       { title: "XL", id: "S4" }
     ]
   },
-
+  
   {
-    id: "SC002",
-    sku: "SUM-TOP-002",
-    category: "tops",
-    style: "western",
+    id: "26000107",
+    sku: "SUMMER0007",
     price: 2899,
     discountedPrice: 1599,
     discount: 45,
     type: "configurable",
-    imageUrl: "https://cdn.shopaccino.com/ajoobaa/products/vtop24a-6120135866329_l.jpg",
+    imageUrl: "https://cdn.shopaccino.com/ajoobaa/products/vtop24a-6120135866329_l.jpg?v=651?param=1",
     title: "Shifa Studio",
     subTitle: "Women Casual Summer Crop Top",
-    plp_pdp_bridge: { images: [] },
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24a-6120135866329_l.jpg?v=651?param=1", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24g-6118398364261_l.jpg?v=651?param=2", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24e-6119222026476_l.jpg?v=651?param=3", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24c-6119660198189_l.jpg?v=651?param=4", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24d-6120587712654_l.jpg?v=651?param=5", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24f-6121065169595_l.jpg?v=651?param=6", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24b-6121557963080_l.jpg?v=651?param=7", aspect_ratio: "0.75" },
+        ] },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
@@ -22933,21 +22945,27 @@ export const summerCollection = [
       { title: "XL", id: "S4" }
     ]
   },
-
-  // ---------- TUNICS / INDIAN DAILY ----------
+  
   {
-    id: "SC003",
-    sku: "SUM-TUN-001",
-    category: "tunics",
-    style: "indian",
+    id: "26000101",
+    sku: "SUMMER0001",
     price: 2999,
     discountedPrice: 1699,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://www.wforwoman.com/cdn/shop/files/W31243-123947.jpg",
+    imageUrl: "https://www.wforwoman.com/cdn/shop/files/W31243-123947.jpg?v=1756280649",
     title: "Shifa Studio",
     subTitle: "Women Floral Printed Summer Tunic",
-    plp_pdp_bridge: { images: [] },
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947.jpg?v=1756280649", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_1.jpg?v=1756280649", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_2.jpg?v=1756280649", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_3.jpg?v=1756280649", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_4.jpg?v=1756280649", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_5.jpg?v=1756280649", aspect_ratio: "0.75" },
+        { id: 7, mediaType: "image", position: "7", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_6.jpg?v=1756280649", aspect_ratio: "0.75" },
+        { id: 8, mediaType: "image", position: "8", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_7.jpg?v=1756280649", aspect_ratio: "0.75" },
+    ] },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
@@ -22956,20 +22974,24 @@ export const summerCollection = [
     ]
   },
 
-  // ---------- DRESSES ----------
   {
-    id: "SC004",
-    sku: "SUM-DRS-001",
-    category: "dresses",
-    style: "western",
+    id: "26000105",
+    sku: "SUMMER0005",
     price: 3199,
     discountedPrice: 1799,
     discount: 44,
     type: "configurable",
-    imageUrl: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_1.jpg",
+    imageUrl: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_1.jpg?v=1752490092",
     title: "Shifa Studio",
-    subTitle: "Women Cotton Western Summer Shirt Dress",
-    plp_pdp_bridge: { images: [] },
+    subTitle: "Maroon Cotton Western Summer Shirt Dress for Women",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_1.jpg?v=1752490092", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_2.jpg?v=1752490092", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_3.jpg?v=1752490092", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_4.jpg?v=1752490092", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_5.jpg?v=1752490092", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_6.jpg?v=1752490092", aspect_ratio: "0.75" },
+        ] },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
@@ -22979,62 +23001,22 @@ export const summerCollection = [
   },
 
   {
-    id: "SC005",
-    sku: "SUM-DRS-002",
-    category: "dresses",
-    style: "party",
-    price: 4199,
-    discountedPrice: 2399,
-    discount: 43,
-    type: "configurable",
-    imageUrl: "https://littleboxindia.com/cdn/shop/files/c32330daefa7fae82224646c377847ed.webp",
-    title: "Shifa Studio",
-    subTitle: "Women Halter Neck Shimmer Bodycon Dress",
-    plp_pdp_bridge: { images: [] },
-    sizeVariation: [
-      { title: "S", id: "S1" },
-      { title: "M", id: "S2" },
-      { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
-  },
-
-  // ---------- SHORTS ----------
-  {
-    id: "SC006",
-    sku: "SUM-SHT-001",
-    category: "shorts",
-    style: "western",
+    id: "26000108",
+    sku: "SUMMER0008",
     price: 3699,
     discountedPrice: 2099,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://chasehaul.com/cdn/shop/files/1_ba9795b1-ba0f-421c-9178-4c7c48354fbe.jpg",
+    imageUrl: "https://chasehaul.com/cdn/shop/files/1_ba9795b1-ba0f-421c-9178-4c7c48354fbe.jpg?v=1755607173&width=800",
     title: "Shifa Studio",
-    subTitle: "Women High-Rise Flared Denim Summer Shorts",
-    plp_pdp_bridge: { images: [] },
-    sizeVariation: [
-      { title: "26", id: "W26" },
-      { title: "28", id: "W28" },
-      { title: "30", id: "W30" },
-      { title: "32", id: "W32" }
-    ]
-  },
-
-  // ---------- KURTI ----------
-  {
-    id: "SC007",
-    sku: "SUM-KUR-001",
-    category: "kurti",
-    style: "indian",
-    price: 3399,
-    discountedPrice: 1899,
-    discount: 44,
-    type: "configurable",
-    imageUrl: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_7.jpg",
-    title: "Shifa Studio",
-    subTitle: "Women Sleeveless Cotton Summer Kurti",
-    plp_pdp_bridge: { images: [] },
+    subTitle: "Women's Dark Blue Flared High-Rise Clean-Look Regular-Length Denim Shorts",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://chasehaul.com/cdn/shop/files/1_ba9795b1-ba0f-421c-9178-4c7c48354fbe.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://chasehaul.com/cdn/shop/files/2_945e1196-e31a-44db-b733-72946e4ffc8a.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://chasehaul.com/cdn/shop/files/3_e546b2e4-650b-4a81-95f2-70084e182037.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://chasehaul.com/cdn/shop/files/4_2ed5976c-aa71-4072-9666-4885fd445b17.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://chasehaul.com/cdn/shop/files/5_289bf74d-62ce-4758-b913-ab0d40575e49.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
+        ] },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
@@ -23043,25 +23025,271 @@ export const summerCollection = [
     ]
   },
 
-  // ---------- CO-ORD SET ----------
   {
-    id: "SC008",
-    sku: "SUM-COORD-001",
-    category: "co-ords",
-    style: "western",
+    id: "26000109",
+    sku: "SUMMER0009",
+    price: 4199,
+    discountedPrice: 2399,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://littleboxindia.com/cdn/shop/files/c32330daefa7fae82224646c377847ed.webp?v=1758691867",
+    title: "Shifa Studio",
+    subTitle: "Halter Neck Shimmer Bodycon Dress in Black",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://littleboxindia.com/cdn/shop/files/c32330daefa7fae82224646c377847ed.webp?v=1758691867", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://littleboxindia.com/cdn/shop/files/563dfa842bf63879c31f60684d74b434.webp?v=1758691869", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://littleboxindia.com/cdn/shop/files/7c95d2a3497a10d3a3d54616a31f66dc.webp?v=1758691871", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://littleboxindia.com/cdn/shop/files/e0511b848533d14d13b601babe84e9c3.webp?v=1758691873", aspect_ratio: "0.75" },
+        ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "26000110",
+    sku: "SUMMER0010",
+    price: 3399,
+    discountedPrice: 1899,
+    discount: 44,
+    type: "configurable",
+    imageUrl: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_7.jpg?v=1738837152&width={width}",
+    title: "Shifa Studio",
+    subTitle: "Women Sleeveless Cotton Kurti For Summer",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_7.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_3.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_2.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_4.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_5.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
+        ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "WS005",
+    sku: "WSCO001",
     price: 3799,
     discountedPrice: 2499,
     discount: 34,
     type: "configurable",
     imageUrl: "https://img0.junaroad.com/uiproducts/19971626/zoom_0-1711624671.jpg",
+    title: "MANGO",
+    subTitle: "Women Western Co-ord Set with Shirt & Shorts",
+    plp_pdp_bridge: { images: [
+      
+        { id: 1, mediaType: "image", position: "1", url: "https://img0.junaroad.com/uiproducts/19971626/zoom_0-1711624671.jpg", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_1-1711624671.jpg", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_2-1711624671.jpg", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_3-1711624671.jpg", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_4-1711624671.jpg", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_5-1711624671.jpg", aspect_ratio: "0.75" },
+        ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ]
+  },
+
+  {
+    id: "26000103",
+    sku: "SUMMER0003",
+    price: 3999,
+    discountedPrice: 2299,
+    discount: 42,
+    type: "configurable",
+    imageUrl: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_3.jpg?v=1721310520",
     title: "Shifa Studio",
-    subTitle: "printed top and shorts co-ord set",
+    subTitle: "Women Solid Belted Shirt Style Office Gownr",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_1.jpg?v=1721310520", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_2.jpg?v=1721310520", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_3.jpg?v=1721310520", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_4.jpg?v=1721310520", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_5.jpg?v=1721310520", aspect_ratio: "0.75" },
+        { id: 6, mediaType: "image", position: "6", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_6.jpg?v=1721310520", aspect_ratio: "0.75" },
+        ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "26000104",
+    sku: "SUMMER0004",
+    price: 4299,
+    discountedPrice: 2499,
+    discount: 42,
+    type: "configurable",
+    imageUrl: "https://uandf.co.in/cdn/shop/files/D19644-158_1_9f39524a-5eef-4436-83dd-86be8a789ed7.jpg?v=1720610800&width=800",
+    title: "Shifa Studio",
+    subTitle: "Women Green Square Neck Flared Sleeves Embroidered Net Maxi Fit & Flare Dress",
+    plp_pdp_bridge: { images: [
+        { id: 1, mediaType: "image", position: "1", url: "https://uandf.co.in/cdn/shop/files/D19644-158_1_9f39524a-5eef-4436-83dd-86be8a789ed7.jpg?v=1720610800&width=800", aspect_ratio: "0.75" },
+        { id: 2, mediaType: "image", position: "2", url: "https://uandf.co.in/cdn/shop/files/D19644-158_2_b46a5ada-91a9-4b22-ad10-269208fbeef4.jpg?v=1720610800&width=800", aspect_ratio: "0.75" },
+        { id: 3, mediaType: "image", position: "3", url: "https://uandf.co.in/cdn/shop/files/D19644-158_3_6dd9edbb-e00f-4a70-9990-e51037be9623.jpg?v=1720610801&width=800", aspect_ratio: "0.75" },
+        { id: 4, mediaType: "image", position: "4", url: "https://uandf.co.in/cdn/shop/files/D19644-158_4_5f07b8da-6235-4169-9048-dc8fc1e37483.jpg?v=1720610800&width=800", aspect_ratio: "0.75" },
+        { id: 5, mediaType: "image", position: "5", url: "https://uandf.co.in/cdn/shop/files/D19644-158_5_d2fb6a9b-4cf3-4f98-a7b9-685fed3a3991.jpg?v=1720610800&width=800", aspect_ratio: "0.75" },
+        ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+];
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+export const winterCollection = [
+  {
+    id: "WIN001",
+    sku: "WIN-TOP-001",
+    price: 2499,
+    discountedPrice: 1499,
+    discount: 40,
+    type: "configurable",
+    imageUrl: "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png",
+    title: "Jordan Brooklyn",
+    subTitle: "Women's Quilted Puffer Jacket",
+    plp_pdp_bridge: { images: [
+      { id: 1, mediaType: "image", position: "1", url: "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" },
+      { id: 2, mediaType: "image", position: "2", url: "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4bd6b9d2-4a25-4034-b64a-b7a76358ba27/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" }, 
+      { id: 3, mediaType: "image", position: "3", url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f6463bb2-f024-41e4-ab91-a57b70f34db8/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" }, 
+      { id: 4, mediaType: "image", position: "4", url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" }, 
+      { id: 5, mediaType: "image", position: "5", url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/27202426-946a-4e46-bb29-4791b81c0858/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" }, 
+      { id: 6, mediaType: "image", position: "6", url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/75722a6c-dce6-4aad-9b90-a78bd19a39af/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" },
+    ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "WIN002",
+    sku: "WIN-SWT-002",
+    price: 3799,
+    discountedPrice: 2199,
+    discount: 42,
+    type: "configurable",
+    imageUrl: "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/24912616/2023/9/12/97278a45-ed8c-484c-ae1b-3692cdd2a19d1694524999444STREET9WomenPinkRibbedPullover1.jpg",
+    title: "Urban Muse",
+    subTitle: "Women Oversized Knit Winter Sweater",
     plp_pdp_bridge: { images: [] },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" }
     ]
+  },
+
+  {
+    id: "WIN003",
+    sku: "WIN-JKT-003",
+    price: 6999,
+    discountedPrice: 4199,
+    discount: 40,
+    type: "configurable",
+    imageUrl: "https://image.made-in-china.com/202f0j00uMtlzecGJWrj/Winter-New-Loose-Fashion-Korean-6-Colors-Women-Cashmere-Sweater.webp",
+    title: "XYZ",
+    subTitle: "Winter New Loose Fashion Korean Colors Women Cashmere Sweater",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "WIN004",
+    sku: "WIN-HOD-004",
+    price: 3299,
+    discountedPrice: 1999,
+    discount: 39,
+    type: "configurable",
+    imageUrl: "https://images-cdn.ubuy.co.in/69380cd968bdd378f7004077-yeokou-women-s-winter-hoodies-pullover.jpg",
+    title: "Street Layer",
+    subTitle: "Women Fleece Lined Winter Hoodie",
+    plp_pdp_bridge: { images: [
+      { id: 1, mediaType: "image", position: "1", url: "https://images-cdn.ubuy.co.in/69380cda68bdd378f700407a-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" },
+      { id: 2, mediaType: "image", position: "2", url: "https://images-cdn.ubuy.co.in/69380cdd68bdd378f7004086-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" }, 
+      { id: 3, mediaType: "image", position: "3", url: "https://images-cdn.ubuy.co.in/69380cdb68bdd378f700407d-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" }, 
+      { id: 4, mediaType: "image", position: "4", url: "https://images-cdn.ubuy.co.in/69380cdc68bdd378f7004083-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" }, 
+      { id: 5, mediaType: "image", position: "5", url: "https://images-cdn.ubuy.co.in/69380cde68bdd378f700408c-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" }, 
+      { id: 6, mediaType: "image", position: "6", url: "https://images-cdn.ubuy.co.in/69380cde68bdd378f7004089-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" },
+    ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "WIN006",
+    sku: "WIN-SKT-006",
+    price: 2799,
+    discountedPrice: 1599,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://m.media-amazon.com/images/I/81FI0dkPb+L._AC_SL500_.jpg",
+    title: "Urban Muse",
+    subTitle: "Women Wool Blend Winter Midi Skirt",
+    plp_pdp_bridge: { images: [
+      { id: 1, mediaType: "image", position: "1", url: "https://m.media-amazon.com/images/I/81FI0dkPb+L._AC_SL500_.jpg", aspect_ratio: "0.75" },
+      { id: 2, mediaType: "image", position: "2", url: "https://m.media-amazon.com/images/I/81ft2+hDptL._AC_SL500_.jpg", aspect_ratio: "0.75" }, 
+      { id: 3, mediaType: "image", position: "3", url: "https://m.media-amazon.com/images/I/81qqrmIzo-L._AC_SL500_.jpg", aspect_ratio: "0.75" }, 
+      ] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ]
+  },
+
+  {
+    id: "WIN008",
+    sku: "WIN-DRS-008",
+    price: 4599,
+    discountedPrice: 2799,
+    discount: 39,
+    type: "configurable",
+    imageUrl: "https://img0.junaroad.com/uiproducts/20796493/zoom_0-1704477775.jpg",
+    title: "Urban Muse",
+    subTitle: "Women Full Sleeve Winter Bodycon Dress",
+    plp_pdp_bridge: { images: [
+      
+      { id: 1, mediaType: "image", position: "1", url: "https://img0.junaroad.com/uiproducts/20796493/zoom_0-1704477775.jpg", aspect_ratio: "0.75" },
+      { id: 2, mediaType: "image", position: "2", url: "https://img1.junaroad.com/uiproducts/20796493/zoom_1-1704477775.jpg", aspect_ratio: "0.75" }, 
+      { id: 3, mediaType: "image", position: "3", url: "https://img1.junaroad.com/uiproducts/20796493/zoom_2-1704477775.jpg", aspect_ratio: "0.75" }, 
+      { id: 4, mediaType: "image", position: "4", url: "https://img1.junaroad.com/uiproducts/20796493/zoom_3-1704477775.jpg", aspect_ratio: "0.75" }, 
+      { id: 5, mediaType: "image", position: "5", url: "https://img1.junaroad.com/uiproducts/20796493/zoom_4-1704477775.jpg", aspect_ratio: "0.75" }, 
+    ] },
+    sizeVariation: [
+      { title: "XS", id: "S0" },
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ]
   }
 ];
-
