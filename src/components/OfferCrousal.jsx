@@ -10,6 +10,7 @@ export default function OfferCarousel() {
     {
       alt: 1,
       src: "https://i.pinimg.com/1200x/15/4f/a5/154fa541587cdab59bbe15a3184b7372.jpg",
+      route: "/summerCollection",
     },
     {
       alt: 2,

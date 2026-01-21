@@ -22886,3 +22886,182 @@ export const officeWear = [
     ]
   }
 ];
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+export const summerCollection = [
+  // ---------- TOPS ----------
+  {
+    id: "SC001",
+    sku: "SUM-TOP-001",
+    category: "tops",
+    style: "western",
+    price: 3499,
+    discountedPrice: 1999,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-0-202311081915.jpg?im=Resize=(600,750)",
+    title: "Shifa Studio",
+    subTitle: "Women Cotton Sleeveless Button-Down Summer Top",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "SC002",
+    sku: "SUM-TOP-002",
+    category: "tops",
+    style: "western",
+    price: 2899,
+    discountedPrice: 1599,
+    discount: 45,
+    type: "configurable",
+    imageUrl: "https://cdn.shopaccino.com/ajoobaa/products/vtop24a-6120135866329_l.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Casual Summer Crop Top",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  // ---------- TUNICS / INDIAN DAILY ----------
+  {
+    id: "SC003",
+    sku: "SUM-TUN-001",
+    category: "tunics",
+    style: "indian",
+    price: 2999,
+    discountedPrice: 1699,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://www.wforwoman.com/cdn/shop/files/W31243-123947.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Floral Printed Summer Tunic",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  // ---------- DRESSES ----------
+  {
+    id: "SC004",
+    sku: "SUM-DRS-001",
+    category: "dresses",
+    style: "western",
+    price: 3199,
+    discountedPrice: 1799,
+    discount: 44,
+    type: "configurable",
+    imageUrl: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_1.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Cotton Western Summer Shirt Dress",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  {
+    id: "SC005",
+    sku: "SUM-DRS-002",
+    category: "dresses",
+    style: "party",
+    price: 4199,
+    discountedPrice: 2399,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://littleboxindia.com/cdn/shop/files/c32330daefa7fae82224646c377847ed.webp",
+    title: "Shifa Studio",
+    subTitle: "Women Halter Neck Shimmer Bodycon Dress",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  // ---------- SHORTS ----------
+  {
+    id: "SC006",
+    sku: "SUM-SHT-001",
+    category: "shorts",
+    style: "western",
+    price: 3699,
+    discountedPrice: 2099,
+    discount: 43,
+    type: "configurable",
+    imageUrl: "https://chasehaul.com/cdn/shop/files/1_ba9795b1-ba0f-421c-9178-4c7c48354fbe.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women High-Rise Flared Denim Summer Shorts",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "26", id: "W26" },
+      { title: "28", id: "W28" },
+      { title: "30", id: "W30" },
+      { title: "32", id: "W32" }
+    ]
+  },
+
+  // ---------- KURTI ----------
+  {
+    id: "SC007",
+    sku: "SUM-KUR-001",
+    category: "kurti",
+    style: "indian",
+    price: 3399,
+    discountedPrice: 1899,
+    discount: 44,
+    type: "configurable",
+    imageUrl: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_7.jpg",
+    title: "Shifa Studio",
+    subTitle: "Women Sleeveless Cotton Summer Kurti",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" }
+    ]
+  },
+
+  // ---------- CO-ORD SET ----------
+  {
+    id: "SC008",
+    sku: "SUM-COORD-001",
+    category: "co-ords",
+    style: "western",
+    price: 3799,
+    discountedPrice: 2499,
+    discount: 34,
+    type: "configurable",
+    imageUrl: "https://img0.junaroad.com/uiproducts/19971626/zoom_0-1711624671.jpg",
+    title: "Shifa Studio",
+    subTitle: "printed top and shorts co-ord set",
+    plp_pdp_bridge: { images: [] },
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" }
+    ]
+  }
+];
+

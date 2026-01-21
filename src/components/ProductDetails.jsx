@@ -22,6 +22,7 @@ import {
   bracelets,
   gown,
   officeWear,
+  summerCollection,
 } from "../data/womens/data";
 
 import { useParams } from "react-router";
@@ -47,7 +48,8 @@ export default function ProductDetails() {
     watches,
     bracelets,
     gown,
-    officeWear
+    officeWear,
+    summerCollection,
   ];
 
   let relatedProducts = [];
@@ -74,10 +76,11 @@ export default function ProductDetails() {
     skincare.find((item) => item.id == id) ||
     corsetProducts.find((item) => item.id == id) ||
     coordSetProducts.find((item) => item.id == id) ||
-    watches.find((item) => item.id == id)||
-    bracelets.find((item) => item.id == id)||
-    gown.find((item) => item.id == id)||
-    officeWear.find((item) => item.id == id);
+    watches.find((item) => item.id == id) ||
+    bracelets.find((item) => item.id == id) ||
+    gown.find((item) => item.id == id) ||
+    officeWear.find((item) => item.id == id) ||
+    summerCollection.find((item) => item.id == id);
 
   if (!products) return null;
 
