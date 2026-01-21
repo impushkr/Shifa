@@ -14,13 +14,14 @@ export default function OfferCarousel() {
     },
     {
       alt: 2,
-      src: "https://i.pinimg.com/1200x/17/f2/dd/17f2ddc84a0a69cf3546ce30ee419fab.jpg",
-      route: "/newarrivals",
+      src: "https://i.pinimg.com/1200x/85/ab/96/85ab969ab1432ef1436b1f6ca93f8a15.jpg",
+      route: "/sale",
     },
     {
       alt: 3,
       src: "https://i.pinimg.com/1200x/f5/9d/21/f59d21f3ad6e770dccc57a612f18b799.jpg",
     },
+    
   ];
   return (
     <div className="flex justify-center md:hidden ">
@@ -37,7 +38,7 @@ export default function OfferCarousel() {
                 <img
                   src={slide.src}
                   alt={`offer ${slide.alt}`}
-                  className="w-full h-full lg:h-140"
+                  className="w-full h-full lg:h-140 object-cover" 
                 />
               </Link>
             </SwiperSlide>
