@@ -14,7 +14,7 @@ export default function OfferCarousel() {
     },
     {
       alt: 2,
-      src: "https://i.pinimg.com/1200x/85/ab/96/85ab969ab1432ef1436b1f6ca93f8a15.jpg",
+      src: "https://i.pinimg.com/1200x/56/cb/16/56cb1686b8ec46e75d9d9023f6f6cd0d.jpg",
       route: "/sale",
     },
     {
@@ -30,7 +30,7 @@ export default function OfferCarousel() {
   ];
   return (
     <div className="flex justify-center md:hidden ">
-      <div className=" rounded-2xl w-[95%] overflow-hidden shadow h-[21vh]">
+      <div className=" rounded-2xl w-[95%] overflow-hidden shadow h-[20vh]">
         <Swiper
           modules={[Pagination, Autoplay]}
           pagination={{ clickable: true }}
