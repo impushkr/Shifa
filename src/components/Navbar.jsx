@@ -30,7 +30,7 @@ export default function Navbar() {
                 </button>
               </div>
               {/* Logo */}
-              <div className="flex-shrink-0">
+              <div onClick={() => setShowLogin(true)} className="flex-shrink-0">
                 <img
                   src="/logo-navbar.png"
                   alt="Shifa Logo"
