@@ -2,14 +2,17 @@ import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
-
 import { FiUser, FiHeart, FiShoppingBag, FiMenu, FiX } from "react-icons/fi";
+import Login from "./Login";
 
 export default function Navbar() {
   const { cartItems } = useCart();
   const { wishlistItems } = useWishlist();
   const [isOpen, setIsOpen] = useState(false);
   const navigate = useNavigate();
+
+  const [showLogin, setShowLogin] = useState(true);
+
   return (
     <>
       <nav className="bg-white shadow-md fixed w-full top-0 z-50 ">
@@ -58,7 +61,10 @@ export default function Navbar() {
                 />
 
                 <div className="flex justify-between items-center w-[15vw] md:w-[35vw] lg:w-[27vw] xl:w-[21vw]">
-                  <div className="hidden md:flex items-center gap-1.5">
+                  <div
+                    onClick={() => setShowLogin(true)}
+                    className="hidden md:flex items-center gap-1.5"
+                  >
                     <FiUser className=" text-2xl md:text-xl cursor-pointer hover:text-pink-600" />
                     <h1 className=" hidden md:block text-lg font-medium  hover:text-pink-600">
                       Account
@@ -160,6 +166,8 @@ export default function Navbar() {
           Sale
         </li>
       </ul>
+
+      {showLogin && <Login onClose={() => setShowLogin(false)} />}
     </>
   );
 }
