@@ -264,7 +264,7 @@ export default function Homepage() {
               className="h-full w-full object-cover lg:hidden"
             />
             <img
-              src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/makeup-cosmetics-design-template-59ca35e75d5c5cefc848c270f71a732e_screen.jpg?ts=1702018838"
+              src="https://i.pinimg.com/1200x/38/43/77/384377e9a95ab1c2d1b0f50bb1113cb7.jpg"
               alt="cosmetic's"
               className="h-full w-full object-cover hidden lg:block hover:scale-105 transition duration-300"
             />
@@ -293,7 +293,7 @@ export default function Homepage() {
             <Link to={"/skincare"}>
               <div className="bg-gray-500 h-[20.5vh] w-[31vw] lg:h-[39vh] lg:w-[19.8vw] overflow-hidden">
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b55708151330329.630a01e04616a.png"
+                  src="https://i.pinimg.com/1200x/5e/53/a3/5e53a39ef3d9b031684219a473df55ab.jpg"
                   alt="skin care"
                   className="h-full w-full object-cover hover:scale-105 transition duration-300"
                 />
