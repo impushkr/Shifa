@@ -1,3 +1,4 @@
+// Women Bags
 export const womenBags = [
   {
     id: "15441917",
@@ -285,10 +286,7 @@ export const womenBags = [
   },
 ];
 
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Jewellary
 export const jewellary = [
   {
     id: "14336014",
@@ -579,9 +577,7 @@ export const jewellary = [
   },
 ];
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Indian Wear
 export const indianWear = [
   {
     id: "15218151",
@@ -653,26 +649,30 @@ export const indianWear = [
           position: "8",
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_8.jpg?rnd=20200526195200&tr=w-1536",
           aspect_ratio: "0.75",
-        },{
+        },
+        {
           id: 9,
           mediaType: "image",
           position: "8",
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_9.jpg?rnd=20200526195200&tr=w-1536",
           aspect_ratio: "0.75",
-        },{
+        },
+        {
           id: 10,
           mediaType: "image",
           position: "8",
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_10.jpg?rnd=20200526195200&tr=w-1536",
           aspect_ratio: "0.75",
-        },{
+        },
+        {
           id: 11,
           mediaType: "image",
           position: "8",
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006176_11.jpg?rnd=20200526195200&tr=w-1536",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
   {
     id: "16829843",
@@ -739,8 +739,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_7.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
+      ],
+    },
   },
   {
     id: "17176390",
@@ -800,8 +800,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
+      ],
+    },
   },
   {
     id: "18228704",
@@ -875,7 +875,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_8.jpg?rnd=20200526195200&tr=w-1536",
           aspect_ratio: "0.75",
         },
-      ]}
+      ],
+    },
   },
   {
     id: "18580761",
@@ -928,9 +929,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e37c02eKB11727-5.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-        
-],}
-
+      ],
+    },
   },
   {
     id: "18195655",
@@ -996,9 +996,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/3/63465fbGS832_7.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-        
-],}
-
+      ],
+    },
   },
   {
     id: "16310473",
@@ -1050,8 +1049,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/5/65c273dJQ8008-Purple_5.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
+      ],
+    },
   },
   {
     id: "13612884",
@@ -1117,8 +1116,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_7.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
+      ],
+    },
   },
   {
     id: "14996857",
@@ -1177,8 +1176,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
+      ],
+    },
   },
   {
     id: "15637003",
@@ -1238,8 +1237,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/a/5aa6e74AYTF305_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
+      ],
+    },
   },
   {
     id: "18431713",
@@ -1312,8 +1311,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/a4b5f74TP0528JQPI_8.jpg?rnd=20200526195200&tr=w-1536",
           aspect_ratio: "0.75",
         },
-],}
-    
+      ],
+    },
   },
   {
     id: "18557143",
@@ -1380,8 +1379,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_7.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
+      ],
+    },
   },
   {
     id: "15442781",
@@ -1448,9 +1447,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ce27cc7STA21470B4FS_7.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
   {
     id: "18523757",
@@ -1510,9 +1508,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/92c7effJ-DN466K_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
   {
     id: "18026119",
@@ -1579,9 +1576,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/c/6c6ba55SKDASRT10213AW24PUR-Purple_7.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
   {
     id: "16350877",
@@ -1634,9 +1630,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca9fc6cSG166452_5.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
   {
     id: "12128178",
@@ -1709,16 +1704,16 @@ export const indianWear = [
           position: "8",
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_8.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
-        },{
+        },
+        {
           id: 8,
           mediaType: "image",
           position: "8",
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/a/ca81ffaNFX_GAJRA00005275_9.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
   {
     id: "14258196",
@@ -1785,9 +1780,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02a2fc3LIKEPTU06-WHITE_7.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
   {
     id: "8222605",
@@ -1846,9 +1840,8 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/c/7cfd5efUS13_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
   {
     id: "12127695",
@@ -1879,15 +1872,12 @@ export const indianWear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/8/a81e6e7tuhina-azure_2.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 ];
 
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Women Bottomwear
 export const womenBottomwear = [
   {
     id: "14926545",
@@ -1960,9 +1950,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/5/15cc33eDGAJRA00006122_8.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
 
   {
@@ -1978,17 +1967,45 @@ export const womenBottomwear = [
 
     title: "Likha",
     subTitle: "Kora Bottoms Cotton Beige Straight Pant LIKBSPT29",
-   plp_pdp_bridge: {
-  images: [
-    { id: 1, mediaType: "image", position: "1", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_1.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    { id: 2, mediaType: "image", position: "2", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_2.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    { id: 3, mediaType: "image", position: "3", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_3.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    { id: 4, mediaType: "image", position: "4", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_4.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    { id: 5, mediaType: "image", position: "5", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_5.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    ]
-}
-
-
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Beige_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2005,14 +2022,44 @@ export const womenBottomwear = [
     title: "Go Colors",
     subTitle: "Women Solid Black Ponte Wide Leg Pant",
     plp_pdp_bridge: {
-  images: [
-    { id: 1, mediaType: "image", position: "1", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_1.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    { id: 2, mediaType: "image", position: "2", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_2.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    { id: 3, mediaType: "image", position: "3", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_3.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    { id: 4, mediaType: "image", position: "4", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_4.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-    { id: 5, mediaType: "image", position: "5", url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_5.jpg?rnd=20200526195200", aspect_ratio: "0.75" },
-   ]
-}
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/5/e5f87edOGOCOL00004935_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2029,13 +2076,37 @@ export const womenBottomwear = [
     title: "Zuri",
     subTitle: "Women Blue Comfort Fit Premium Cotton Pant",
     plp_pdp_bridge: {
-  images: [
-    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    ]
-}
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/f/ef60f3dPS010824PPB_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2051,21 +2122,66 @@ export const womenBottomwear = [
 
     title: "W",
     subTitle: "Solid White Slim Pant",
-   plp_pdp_bridge: {
-  images: [
-    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:7, mediaType:"image", position:"7", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_7.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:8, mediaType:"image", position:"8", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_8.jpg?rnd=20200526195200", aspect_ratio:"0.75"}
-  ]
-}
-
-
-
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/e/5e0e39023AUW62645-218938_8.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2082,15 +2198,51 @@ export const womenBottomwear = [
     title: "Biba",
     subTitle: "Women Off White Solid Pant",
     plp_pdp_bridge: {
-  images: [
-    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-  ]
-}
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/8/d828dc6NAGMA21728SS25CRM_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2107,18 +2259,51 @@ export const womenBottomwear = [
     title: "Kohsh",
     subTitle: "White Cotton Flex Cigarette Pants",
     plp_pdp_bridge: {
-  images: [
-    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-   ]
-}
-
-
-
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/6/267462aPT-WHITE_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2135,14 +2320,37 @@ export const womenBottomwear = [
     title: "Libas",
     subTitle: "Womens White Solid Pant",
     plp_pdp_bridge: {
-  images: [
-    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    ]
-}
-
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/1/6188304PL1401A_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2160,18 +2368,51 @@ export const womenBottomwear = [
     subTitle:
       "Women Off-White Lace Hem Design Elasticated Waist Straight Palazzos",
     plp_pdp_bridge: {
-  images: [
-    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    ]
-}
-
-
-
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e03179DGLOAD00023583_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2188,17 +2429,44 @@ export const womenBottomwear = [
     title: "Kica",
     subTitle: "Criss-Cross Cotton Flare Pants With Slit At Ankle",
     plp_pdp_bridge: {
-  images: [
-    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    ]
-}
-
-
-
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/4668354A0751_Black_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -2215,19 +2483,60 @@ export const womenBottomwear = [
     title: "Laado",
     subTitle: "White Solid Lace Frill Pure Cotton Sustainable Afgan Salwar",
     plp_pdp_bridge: {
-  images: [
-    { id:1, mediaType:"image", position:"1", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_1.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:2, mediaType:"image", position:"2", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_2.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:3, mediaType:"image", position:"3", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_3.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:4, mediaType:"image", position:"4", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_4.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:5, mediaType:"image", position:"5", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_5.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:6, mediaType:"image", position:"6", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_6.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-    { id:7, mediaType:"image", position:"7", url:"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_7.jpg?rnd=20200526195200", aspect_ratio:"0.75"},
-   ]
-}
-
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_1.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_2.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_3.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_4.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_5.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_6.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/d396d18L-WHFRAFSL_7.jpg?rnd=20200526195200",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
-  
+
   {
     id: "11105925",
     sku: "LYRAX00002593",
@@ -2286,7 +2595,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/5/55f8690LYRA_AL_108_FS_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 
   {
@@ -2346,7 +2656,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/3/532462cBTMW19788AW23OWHT_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 
   {
@@ -2406,7 +2717,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/93c801cCB111A_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 
   {
@@ -2445,7 +2757,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/3/f314402P22-10_3.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 
   {
@@ -2498,7 +2811,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/58bcf48LIKBSPT29-Black_5.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 
   {
@@ -2558,7 +2872,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3c9133WGAJRA00005486_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 
   {
@@ -2611,7 +2926,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/j/k/jkpat004_5.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 
   {
@@ -2664,7 +2980,8 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/b/0bf8057VTRS7126-OffWhite_5.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
+      ],
+    },
   },
 
   {
@@ -2724,16 +3041,12 @@ export const womenBottomwear = [
           url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/4/34b5235LBC0262_6.jpg?rnd=20200526195200",
           aspect_ratio: "0.75",
         },
-],}
-
-
+      ],
+    },
   },
 ];
 
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Women Top Wear
 export const womenTopWear = [
   {
     id: "13116968",
@@ -11346,9 +11659,7 @@ export const womenTopWear = [
   },
 ];
 
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+// Women Footwear
 export const womenFootwear = [
   {
     id: "12091713",
@@ -19323,8 +19634,7 @@ export const womenFootwear = [
   },
 ];
 
-//___________________________________________________________________________________________________________________________
-
+// Kurtis
 export const kurtis = [
   {
     id: "KURTIS001",
@@ -19333,63 +19643,88 @@ export const kurtis = [
     discountedPrice: 1499,
     discount: 40,
     type: "configurable",
-    categoryId: ["102","3528"],
-    imageUrl: "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
-   plp_pdp_bridge: {
-  images: [
-    {
-      id: 1,
-      mediaType: "image",
-      position: "1",
-      url: "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 2,
-      mediaType: "image",
-      position: "2",
-      url: "https://varanga.in/cdn/shop/files/2_b8ead0e6-8498-45bd-a1cd-c3d1a209959d.jpg?v=1688620183",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 3,
-      mediaType: "image",
-      position: "3",
-      url: "https://varanga.in/cdn/shop/files/3_7c20a431-4df8-4b51-992f-73f22481304f.jpg?v=1688620179",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 4,
-      mediaType: "image",
-      position: "4",
-      url: "https://varanga.in/cdn/shop/files/4_a715d731-1941-4c3b-a54d-46448d67eede.jpg?v=1688620178",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 5,
-      mediaType: "image",
-      position: "5",
-      url: "https://varanga.in/cdn/shop/files/5_efbf9dda-bbdb-4c0b-9727-88a05a831178.jpg?v=1688620177",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 6,
-      mediaType: "image",
-      position: "6",
-      url: "https://varanga.in/cdn/shop/products/Finallll_1_28a520b5-f859-4af2-81da-4d5b1c15decf.jpg?v=1702887312",
-      aspect_ratio: "0.75"
-    }
-  ],
+    categoryId: ["102", "3528"],
+    imageUrl:
+      "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://varanga.in/cdn/shop/files/2_b8ead0e6-8498-45bd-a1cd-c3d1a209959d.jpg?v=1688620183",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://varanga.in/cdn/shop/files/3_7c20a431-4df8-4b51-992f-73f22481304f.jpg?v=1688620179",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://varanga.in/cdn/shop/files/4_a715d731-1941-4c3b-a54d-46448d67eede.jpg?v=1688620178",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://varanga.in/cdn/shop/files/5_efbf9dda-bbdb-4c0b-9727-88a05a831178.jpg?v=1688620177",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://varanga.in/cdn/shop/products/Finallll_1_28a520b5-f859-4af2-81da-4d5b1c15decf.jpg?v=1702887312",
+          aspect_ratio: "0.75",
+        },
+      ],
 
-  variants: {
-    size: [
-      { sku: "KURTI0001-S",  id: "S1", variant_id: "1", name: "S",  in_stock: "1" },
-      { sku: "KURTI0001-M",  id: "S2", variant_id: "2", name: "M",  in_stock: "1" },
-      { sku: "KURTI0001-L",  id: "S3", variant_id: "3", name: "L",  in_stock: "1" },
-      { sku: "KURTI0001-XL", id: "S4", variant_id: "4", name: "XL", in_stock: "1" }
-    ]
-  }
-},
+      variants: {
+        size: [
+          {
+            sku: "KURTI0001-S",
+            id: "S1",
+            variant_id: "1",
+            name: "S",
+            in_stock: "1",
+          },
+          {
+            sku: "KURTI0001-M",
+            id: "S2",
+            variant_id: "2",
+            name: "M",
+            in_stock: "1",
+          },
+          {
+            sku: "KURTI0001-L",
+            id: "S3",
+            variant_id: "3",
+            name: "L",
+            in_stock: "1",
+          },
+          {
+            sku: "KURTI0001-XL",
+            id: "S4",
+            variant_id: "4",
+            name: "XL",
+            in_stock: "1",
+          },
+        ],
+      },
+    },
 
     title: "Floral Printed Straight Kurti",
     subTitle: "Cotton Daily Wear Kurti",
@@ -19398,13 +19733,11 @@ export const kurtis = [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
+      { title: "XL", id: "S4" },
     ],
     actionUrl: "/pink-floral-straight-kurti/p/KURTIS001",
     aspectRatio: 0.75,
-    tag: [
-      { title: "NEW" }
-    ]
+    tag: [{ title: "NEW" }],
   },
 
   {
@@ -19413,73 +19746,83 @@ export const kurtis = [
     price: 2199,
     discountedPrice: 1299,
     discount: 41,
-    imageUrl: "https://showoffff.in/cdn/shop/files/RF-3251_Blue_1_273b9753-7369-481f-873f-6789100586e4.jpg?v=1734162845",
-   plp_pdp_bridge: {
-  images: [
-    {
-      id: 1,
-      mediaType: "image",
-      position: "1",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/Zm3H/6767ea9d0f47f80c87162d5a/-1117Wx1400H-700961610-blue-MODEL.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 2,
-      mediaType: "image",
-      position: "2",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/q0xN/6767ea9d0f47f80c87162d92/-1117Wx1400H-700961610-blue-MODEL2.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 3,
-      mediaType: "image",
-      position: "3",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/0vM3/6767ea9d0f47f80c87162da0/-1117Wx1400H-700961610-blue-MODEL3.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 4,
-      mediaType: "image",
-      position: "4",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/9lBN/6767ea9d0f47f80c87162d91/-1117Wx1400H-700961610-blue-MODEL4.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 5,
-      mediaType: "image",
-      position: "5",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/UWgf/6767ea9d0f47f80c87162d99/-1117Wx1400H-700961610-blue-MODEL5.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 6,
-      mediaType: "image",
-      position: "6",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/JojC/6767ea9d0f47f80c87162d94/-1117Wx1400H-700961610-blue-MODEL6.jpg",
-      aspect_ratio: "0.75"
-    }
-  ],
+    imageUrl:
+      "https://showoffff.in/cdn/shop/files/RF-3251_Blue_1_273b9753-7369-481f-873f-6789100586e4.jpg?v=1734162845",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/Zm3H/6767ea9d0f47f80c87162d5a/-1117Wx1400H-700961610-blue-MODEL.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/q0xN/6767ea9d0f47f80c87162d92/-1117Wx1400H-700961610-blue-MODEL2.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/0vM3/6767ea9d0f47f80c87162da0/-1117Wx1400H-700961610-blue-MODEL3.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/9lBN/6767ea9d0f47f80c87162d91/-1117Wx1400H-700961610-blue-MODEL4.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/UWgf/6767ea9d0f47f80c87162d99/-1117Wx1400H-700961610-blue-MODEL5.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241222/JojC/6767ea9d0f47f80c87162d94/-1117Wx1400H-700961610-blue-MODEL6.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
 
-  variants: {
-    size: [
-      { sku: "KURTI0002-M", id: "S1", variant_id: "1", name: "M", in_stock: "1" },
-      { sku: "KURTI0002-L", id: "S2", variant_id: "2", name: "L", in_stock: "1" }
-    ]
-  }
-}
-,
+      variants: {
+        size: [
+          {
+            sku: "KURTI0002-M",
+            id: "S1",
+            variant_id: "1",
+            name: "M",
+            in_stock: "1",
+          },
+          {
+            sku: "KURTI0002-L",
+            id: "S2",
+            variant_id: "2",
+            name: "L",
+            in_stock: "1",
+          },
+        ],
+      },
+    },
     title: "Ethnic Motif Anarkali Kurti",
     subTitle: "Rayon Anarkali Kurti",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "M", id: "S1" },
-      { title: "L", id: "S2" }
+      { title: "L", id: "S2" },
     ],
     actionUrl: "/blue-ethnic-anarkali-kurti/p/KURTIS002",
     aspectRatio: 0.75,
-    tag: [
-      { title: "BESTSELLER" }
-    ]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -19488,72 +19831,72 @@ export const kurtis = [
     price: 1999,
     discountedPrice: 999,
     discount: 50,
-    imageUrl: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/MOC6/6492473cd55b7d0c63881e7e/-1117Wx1400H-463475400-yellow-MODEL.jpg",
+    imageUrl:
+      "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/MOC6/6492473cd55b7d0c63881e7e/-1117Wx1400H-463475400-yellow-MODEL.jpg",
     plp_pdp_bridge: {
-  images: [
-    {
-      id: 1,
-      mediaType: "image",
-      position: "1",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/MOC6/6492473cd55b7d0c63881e7e/-1117Wx1400H-463475400-yellow-MODEL.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 2,
-      mediaType: "image",
-      position: "2",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/NXc1/6492473cd55b7d0c63881ebf/-1117Wx1400H-463475400-yellow-MODEL2.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 3,
-      mediaType: "image",
-      position: "3",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/hrv4/6492473cd55b7d0c63881ec3/-1117Wx1400H-463475400-yellow-MODEL3.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 4,
-      mediaType: "image",
-      position: "4",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/GgmI/6492473cd55b7d0c63881eca/-1117Wx1400H-463475400-yellow-MODEL4.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 5,
-      mediaType: "image",
-      position: "5",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/o472/6492473cd55b7d0c63881ebb/-1117Wx1400H-463475400-yellow-MODEL5.jpg",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 6,
-      mediaType: "image",
-      position: "6",
-      url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/JBKd/6492473cd55b7d0c63881ec5/-1117Wx1400H-463475400-yellow-MODEL6.jpg",
-      aspect_ratio: "0.75"
-    }
-  ],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/MOC6/6492473cd55b7d0c63881e7e/-1117Wx1400H-463475400-yellow-MODEL.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/NXc1/6492473cd55b7d0c63881ebf/-1117Wx1400H-463475400-yellow-MODEL2.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/hrv4/6492473cd55b7d0c63881ec3/-1117Wx1400H-463475400-yellow-MODEL3.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/GgmI/6492473cd55b7d0c63881eca/-1117Wx1400H-463475400-yellow-MODEL4.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/o472/6492473cd55b7d0c63881ebb/-1117Wx1400H-463475400-yellow-MODEL5.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20230621/JBKd/6492473cd55b7d0c63881ec5/-1117Wx1400H-463475400-yellow-MODEL6.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
 
-  variants: {
-    size: [
-      { sku: "KURTI0003-S", id: "S1", name: "S", in_stock: "1" },
-      { sku: "KURTI0003-M", id: "S2", name: "M", in_stock: "1" },
-      { sku: "KURTI0003-L", id: "S3", name: "L", in_stock: "1" }
-    ]
-  }
-}
-,
+      variants: {
+        size: [
+          { sku: "KURTI0003-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "KURTI0003-M", id: "S2", name: "M", in_stock: "1" },
+          { sku: "KURTI0003-L", id: "S3", name: "L", in_stock: "1" },
+        ],
+      },
+    },
     title: "Mustard Yellow Solid A-Line Kurti",
     subTitle: "Casual A-Line Kurti",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
+      { title: "L", id: "S3" },
     ],
     actionUrl: "/mustard-a-line-kurti/p/KURTIS003",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -19562,82 +19905,80 @@ export const kurtis = [
     price: 2799,
     discountedPrice: 1799,
     discount: 36,
-    imageUrl: "https://www.lakshita.com/cdn/shop/files/LK8457.jpg?v=1756812631&width=3000",
+    imageUrl:
+      "https://www.lakshita.com/cdn/shop/files/LK8457.jpg?v=1756812631&width=3000",
     plp_pdp_bridge: {
-  images: [
-    {
-      id: 1,
-      mediaType: "image",
-      position: "1",
-      url: "https://www.lakshita.com/cdn/shop/files/LK8457.jpg?v=1756812631&width=3000",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 2,
-      mediaType: "image",
-      position: "2",
-      url: "https://www.lakshita.com/cdn/shop/files/LK8461.jpg?v=1756812631&width=3000",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 3,
-      mediaType: "image",
-      position: "3",
-      url: "https://www.lakshita.com/cdn/shop/files/LK8454.jpg?v=1756812631&width=3000",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 4,
-      mediaType: "image",
-      position: "4",
-      url: "https://www.lakshita.com/cdn/shop/files/LK8470.jpg?v=1756812631&width=3000",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 5,
-      mediaType: "image",
-      position: "5",
-      url: "https://www.lakshita.com/cdn/shop/files/LK8466.jpg?v=1756812631&width=3000",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 6,
-      mediaType: "image",
-      position: "6",
-      url: "https://www.lakshita.com/cdn/shop/files/LK8456.jpg?v=1756812631&width=3000",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 7,
-      mediaType: "image",
-      position: "7",
-      url: "https://www.lakshita.com/cdn/shop/files/LK8462.jpg?v=1756812632&width=3000",
-      aspect_ratio: "0.75"
-    }
-  ],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.lakshita.com/cdn/shop/files/LK8457.jpg?v=1756812631&width=3000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.lakshita.com/cdn/shop/files/LK8461.jpg?v=1756812631&width=3000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.lakshita.com/cdn/shop/files/LK8454.jpg?v=1756812631&width=3000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.lakshita.com/cdn/shop/files/LK8470.jpg?v=1756812631&width=3000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.lakshita.com/cdn/shop/files/LK8466.jpg?v=1756812631&width=3000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.lakshita.com/cdn/shop/files/LK8456.jpg?v=1756812631&width=3000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://www.lakshita.com/cdn/shop/files/LK8462.jpg?v=1756812632&width=3000",
+          aspect_ratio: "0.75",
+        },
+      ],
 
-  variants: {
-    size: [
-      { sku: "KURTI0004-M", id: "S1", name: "M",  in_stock: "1" },
-      { sku: "KURTI0004-L", id: "S2", name: "L",  in_stock: "1" },
-      { sku: "KURTI0004-XL", id: "S3", name: "XL", in_stock: "1" }
-    ]
-  }
-}
-,
+      variants: {
+        size: [
+          { sku: "KURTI0004-M", id: "S1", name: "M", in_stock: "1" },
+          { sku: "KURTI0004-L", id: "S2", name: "L", in_stock: "1" },
+          { sku: "KURTI0004-XL", id: "S3", name: "XL", in_stock: "1" },
+        ],
+      },
+    },
     title: "Embroidered Straight Kurti",
     subTitle: "Festive Wear Kurti",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "M", id: "S1" },
       { title: "L", id: "S2" },
-      { title: "XL", id: "S3" }
+      { title: "XL", id: "S3" },
     ],
     actionUrl: "/purple-embroidered-kurti/p/KURTIS004",
     aspectRatio: 0.75,
-    tag: [
-      { title: "FESTIVE" }
-    ]
+    tag: [{ title: "FESTIVE" }],
   },
 
   {
@@ -19646,192 +19987,226 @@ export const kurtis = [
     price: 1899,
     discountedPrice: 1099,
     discount: 42,
-    imageUrl: "https://varanga.in/cdn/shop/files/VSET21265_1_28b7f89e-c686-4bdb-80b8-fe1fe8a69405.jpg?v=1746038006",
+    imageUrl:
+      "https://varanga.in/cdn/shop/files/VSET21265_1_28b7f89e-c686-4bdb-80b8-fe1fe8a69405.jpg?v=1746038006",
     plp_pdp_bridge: {
-  images: [
-    {
-      id: 1,
-      mediaType: "image",
-      position: "1",
-      url: "https://varanga.in/cdn/shop/files/VSET21265_1_28b7f89e-c686-4bdb-80b8-fe1fe8a69405.jpg?v=1746038006",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 2,
-      mediaType: "image",
-      position: "2",
-      url: "https://varanga.in/cdn/shop/files/VSET21265_2_0638a866-f2b0-4c79-b8d4-c259741532bf.jpg?v=1746038001",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 3,
-      mediaType: "image",
-      position: "3",
-      url: "https://varanga.in/cdn/shop/files/VSET21265_3_0d0aaac3-ac13-4dac-a153-73f728ab24c6.jpg?v=1746037994",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 4,
-      mediaType: "image",
-      position: "4",
-      url: "https://varanga.in/cdn/shop/files/VSET21265_4_75b01276-2a70-4006-8d77-f5853594e464.jpg?v=1746037987",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 5,
-      mediaType: "image",
-      position: "5",
-      url: "https://varanga.in/cdn/shop/files/VSET21265_5_223c27a4-0c8e-4e0a-af10-0e2d124119f6.jpg?v=1746038078",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 6,
-      mediaType: "image",
-      position: "6",
-      url: "https://varanga.in/cdn/shop/files/VSET21265_6_4a9481f4-eaf5-4ca2-929b-8ce424763bd5.jpg?v=1746038072",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 7,
-      mediaType: "image",
-      position: "7",
-      url: "https://varanga.in/cdn/shop/files/VSET21265_7_bd994c6b-fe7b-49e1-aa0b-47427de210f7.jpg?v=1746038066",
-      aspect_ratio: "0.75"
-    },
-    {
-      id: 8,
-      mediaType: "image",
-      position: "8",
-      url: "https://varanga.in/cdn/shop/files/VSET21265_8.jpg?v=1746038060",
-      aspect_ratio: "0.75"
-    }
-  ],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://varanga.in/cdn/shop/files/VSET21265_1_28b7f89e-c686-4bdb-80b8-fe1fe8a69405.jpg?v=1746038006",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://varanga.in/cdn/shop/files/VSET21265_2_0638a866-f2b0-4c79-b8d4-c259741532bf.jpg?v=1746038001",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://varanga.in/cdn/shop/files/VSET21265_3_0d0aaac3-ac13-4dac-a153-73f728ab24c6.jpg?v=1746037994",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://varanga.in/cdn/shop/files/VSET21265_4_75b01276-2a70-4006-8d77-f5853594e464.jpg?v=1746037987",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://varanga.in/cdn/shop/files/VSET21265_5_223c27a4-0c8e-4e0a-af10-0e2d124119f6.jpg?v=1746038078",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://varanga.in/cdn/shop/files/VSET21265_6_4a9481f4-eaf5-4ca2-929b-8ce424763bd5.jpg?v=1746038072",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://varanga.in/cdn/shop/files/VSET21265_7_bd994c6b-fe7b-49e1-aa0b-47427de210f7.jpg?v=1746038066",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://varanga.in/cdn/shop/files/VSET21265_8.jpg?v=1746038060",
+          aspect_ratio: "0.75",
+        },
+      ],
 
-  variants: {
-    size: [
-      { sku: "KURTI0005-S", id: "S1", name: "S", in_stock: "1" },
-      { sku: "KURTI0005-M", id: "S2", name: "M", in_stock: "1" }
-    ]
-  }
-}
-,
+      variants: {
+        size: [
+          { sku: "KURTI0005-S", id: "S1", name: "S", in_stock: "1" },
+          { sku: "KURTI0005-M", id: "S2", name: "M", in_stock: "1" },
+        ],
+      },
+    },
     title: "Mandarin Collar Kurti",
     subTitle: "Office Wear Kurti",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "S", id: "S1" },
-      { title: "M", id: "S2" }
+      { title: "M", id: "S2" },
     ],
     actionUrl: "/green-printed-kurti/p/KURTIS005",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
-  id: "KURTIS006",
-  sku: "KURTI0006",
-  price: 2599,
-  discountedPrice: 1599,
-  discount: 38,
+    id: "KURTIS006",
+    sku: "KURTI0006",
+    price: 2599,
+    discountedPrice: 1599,
+    discount: 38,
 
-  imageUrl:
-    "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_1.jpg?rnd=20200526195200&tr=w-1536",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_1.jpg?rnd=20200526195200&tr=w-1536",
 
-  title: "Chikankari Cotton Kurti",
-  subTitle: "Lucknowi Chikankari Kurti",
-  isOutOfStock: 0,
-  actionUrl: "/white-chikankari-kurti/p/KURTIS006",
-  aspectRatio: 0.75,
+    title: "Chikankari Cotton Kurti",
+    subTitle: "Lucknowi Chikankari Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/white-chikankari-kurti/p/KURTIS006",
+    aspectRatio: 0.75,
 
-  tag: [{ title: "BESTSELLER" }],
+    tag: [{ title: "BESTSELLER" }],
 
-  plp_pdp_bridge: {
-    images: [
-      {
-        id: 1,
-        mediaType: "image",
-        position: "1",
-        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_1.jpg?rnd=20200526195200&tr=w-1536",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 2,
-        mediaType: "image",
-        position: "2",
-        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_2.jpg?rnd=20200526195200&tr=w-1536",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 3,
-        mediaType: "image",
-        position: "3",
-        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_3.jpg?rnd=20200526195200&tr=w-1536",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 4,
-        mediaType: "image",
-        position: "4",
-        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_4.jpg?rnd=20200526195200&tr=w-1536",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 5,
-        mediaType: "image",
-        position: "5",
-        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_5.jpg?rnd=20200526195200&tr=w-1536",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 6,
-        mediaType: "image",
-        position: "6",
-        url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_6.jpg?rnd=20200526195200&tr=w-1536",
-        aspect_ratio: "0.75"
-      }
-    ]
-  }
-  }
-,
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_1.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_2.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_3.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_4.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_5.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/5713f48NK_NYFADA0001054_6.jpg?rnd=20200526195200&tr=w-1536",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
+  },
   {
-  id: "KURTIS007",
-  sku: "KURTI0007",
-  price: 2299,
-  discountedPrice: 1399,
-  discount: 39,
+    id: "KURTIS007",
+    sku: "KURTI0007",
+    price: 2299,
+    discountedPrice: 1399,
+    discount: 39,
 
-  imageUrl:
-    "https://fashor.com/cdn/shop/files/27350_1.jpg?v=1749480509",
+    imageUrl: "https://fashor.com/cdn/shop/files/27350_1.jpg?v=1749480509",
 
-  title: "Bandhani Print Straight Kurti",
-  subTitle: "Traditional Bandhani Kurti",
-  isOutOfStock: 0,
-  actionUrl: "/red-bandhani-kurti/p/KURTIS007",
-  aspectRatio: 0.75,
-  tag: [{ title: "FESTIVE" }],
-  plp_pdp_bridge: {
-    images: [
-      { id: 1, mediaType: "image", position: "1", url: "https://fashor.com/cdn/shop/files/27350_1.jpg?v=1749480509", aspect_ratio: "0.75" },
-      { id: 2, mediaType: "image", position: "2", url: "https://fashor.com/cdn/shop/files/27350_2.jpg?v=1749480509", aspect_ratio: "0.75" },
-      { id: 3, mediaType: "image", position: "3", url: "https://fashor.com/cdn/shop/files/27350_3.jpg?v=1749480509", aspect_ratio: "0.75" },
-      { id: 4, mediaType: "image", position: "4", url: "https://fashor.com/cdn/shop/files/27350_8.jpg?v=1749480509", aspect_ratio: "0.75" },
-      { id: 5, mediaType: "image", position: "5", url: "https://fashor.com/cdn/shop/files/27350_9.jpg?v=1749480509", aspect_ratio: "0.75" },
-      { id: 6, mediaType: "image", position: "6", url: "https://fashor.com/cdn/shop/files/27350_10.jpg?v=1749480509", aspect_ratio: "0.75" },
-      ]
-  }
-  }
-,
+    title: "Bandhani Print Straight Kurti",
+    subTitle: "Traditional Bandhani Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/red-bandhani-kurti/p/KURTIS007",
+    aspectRatio: 0.75,
+    tag: [{ title: "FESTIVE" }],
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://fashor.com/cdn/shop/files/27350_1.jpg?v=1749480509",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://fashor.com/cdn/shop/files/27350_2.jpg?v=1749480509",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://fashor.com/cdn/shop/files/27350_3.jpg?v=1749480509",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://fashor.com/cdn/shop/files/27350_8.jpg?v=1749480509",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://fashor.com/cdn/shop/files/27350_9.jpg?v=1749480509",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://fashor.com/cdn/shop/files/27350_10.jpg?v=1749480509",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
+  },
   {
     id: "KURTIS008",
     sku: "KURTI0008",
     price: 2099,
     discountedPrice: 1199,
     discount: 43,
-    imageUrl: "https://lablerahulsingh.com/cdn/shop/files/KURTIPLAZZO27.jpg?v=1746694712",
+    imageUrl:
+      "https://lablerahulsingh.com/cdn/shop/files/KURTIPLAZZO27.jpg?v=1746694712",
     title: "Handblock Printed Kurti",
     subTitle: "Handcrafted Cotton Kurti",
     isOutOfStock: 0,
     actionUrl: "/sky-blue-handblock-kurti/p/KURTIS008",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -19840,12 +20215,13 @@ export const kurtis = [
     price: 2899,
     discountedPrice: 1899,
     discount: 34,
-    imageUrl: "https://cdn.vibecity.in/providers/61e687587a5c650010376394/SAK3306copy1_833d30f1-8016-4a2d-a061-e05760ba4620-3X.png",
+    imageUrl:
+      "https://cdn.vibecity.in/providers/61e687587a5c650010376394/SAK3306copy1_833d30f1-8016-4a2d-a061-e05760ba4620-3X.png",
     title: "Lavender Tiered Flared Kurti",
     subTitle: "Flared Ethnic Kurti",
     isOutOfStock: 0,
     actionUrl: "/lavender-tiered-kurti/p/KURTIS009",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -19854,325 +20230,316 @@ export const kurtis = [
     price: 1999,
     discountedPrice: 1299,
     discount: 35,
-    imageUrl: "https://medias.utsavfashion.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/i/k/ikat-printed-cotton-straight-kurta-in-mustard-v1-tuv905.jpg",
+    imageUrl:
+      "https://medias.utsavfashion.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/i/k/ikat-printed-cotton-straight-kurta-in-mustard-v1-tuv905.jpg",
     title: "Beige Ikat Print Straight Kurti",
     subTitle: "Ikat Cotton Kurti",
     isOutOfStock: 0,
     actionUrl: "/beige-ikat-kurti/p/KURTIS010",
     aspectRatio: 0.75,
-    tag: [
-      { title: "NEW ADDED" }
-    ]
-  }
+    tag: [{ title: "NEW ADDED" }],
+  },
 ];
 
-//_____________________________________________________________________________________________________________________________________________________________________________________________________
-
+// NewArrivals
 export const newArrivals = [
   {
-  id: "NEW001",
-  sku: "NEWARR0001",
-  price: 2899,
-  discountedPrice: 1899,
-  discount: 34,
-  type: "configurable",
-  categoryId: ["102", "NEW"],
+    id: "NEW001",
+    sku: "NEWARR0001",
+    price: 2899,
+    discountedPrice: 1899,
+    discount: 34,
+    type: "configurable",
+    categoryId: ["102", "NEW"],
 
-  imageUrl:
-    "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_4.jpg?v=1729935271&width=2048",
+    imageUrl:
+      "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_4.jpg?v=1729935271&width=2048",
 
-  title: "Peach Floral Cotton Kurti",
-  subTitle: "New Arrival Straight Kurti",
-  isOutOfStock: 0,
-  actionUrl: "/peach-floral-cotton-kurti/p/NEW001",
-  aspectRatio: 0.75,
+    title: "Peach Floral Cotton Kurti",
+    subTitle: "New Arrival Straight Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/peach-floral-cotton-kurti/p/NEW001",
+    aspectRatio: 0.75,
 
-  plp_pdp_bridge: {
-    images: [
-      {
-        id: 1,
-        mediaType: "image",
-        position: "1",
-        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_1.jpg?v=1729935271&width=2048",
-        aspect_ratio: "0.75"
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_1.jpg?v=1729935271&width=2048",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_4.jpg?v=1729935271&width=2048",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_5.jpg?v=1729935271&width=2048",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_6.jpg?v=1729935271&width=2048",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_8.jpg?v=1729935271&width=2048",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_9.jpg?v=1729935271&width=2048",
+          aspect_ratio: "0.75",
+        },
+      ],
+      siblings_colour: [],
+      variants: {
+        size: [],
       },
-      {
-        id: 2,
-        mediaType: "image",
-        position: "2",
-        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_4.jpg?v=1729935271&width=2048",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 3,
-        mediaType: "image",
-        position: "3",
-        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_5.jpg?v=1729935271&width=2048",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 4,
-        mediaType: "image",
-        position: "4",
-        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_6.jpg?v=1729935271&width=2048",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 5,
-        mediaType: "image",
-        position: "5",
-        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_8.jpg?v=1729935271&width=2048",
-        aspect_ratio: "0.75"
-      },
-      {
-        id: 6,
-        mediaType: "image",
-        position: "6",
-        url: "https://www.ethnicrajasthan.com/cdn/shop/files/APKULCCSPPLFL39901ER00M_9.jpg?v=1729935271&width=2048",
-        aspect_ratio: "0.75"
-      }
-    ],
-    siblings_colour: [],
-    variants: {
-      size: []
-    }
-  }
-}
-,
-  {
-  id: "NEW002",
-  sku: "NEWARR0002",
-  price: 4999,
-  discountedPrice: 3599,
-  discount: 28,
-  type: "configurable",
-  categoryId: ["104", "NEW"],
-  imageUrl:
-    "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_1_782x.jpg?v=1697220843",
-  plp_pdp_bridge: {
-    images: [
-      {
-        id: 1,
-        url: "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_1_782x.jpg?v=1697220843"
-      },
-      {
-        id: 2,
-        url: "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_2_782x.jpg?v=1697220843"
-      }
-    ],
-    siblings_colour: [],
-    variants: {
-      size: []
-    }
+    },
   },
-  title: "Black Prom Dress",
-  subTitle:
-    "Black Prom Dresses V-Neck Puffy Sleeves A-Line Evening Gown",
-  isOutOfStock: 0,
-  actionUrl: "/black-embroidered-abaya/p/NEW002",
-  aspectRatio: 0.75
-}
-,
   {
-  id: "NEW003",
-  sku: "NEWARR0003",
-  price: 4599,
-  discountedPrice: 3299,
-  discount: 28,
-  type: "configurable",
-  categoryId: ["104", "NEW"],
-  imageUrl:
-    "https://www.nabia.in/cdn/shop/files/2_c6a15d16-ec9b-4c69-89b8-4d4552c9451d.jpg?v=1732709810",
-  plp_pdp_bridge: {
-    images: [
-      {
-        id: 1,
-        url: "https://www.nabia.in/cdn/shop/files/9_ccd9b9a9-58d6-4d22-a681-689d2cff9193.jpg?v=1732709810"
+    id: "NEW002",
+    sku: "NEWARR0002",
+    price: 4999,
+    discountedPrice: 3599,
+    discount: 28,
+    type: "configurable",
+    categoryId: ["104", "NEW"],
+    imageUrl:
+      "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_1_782x.jpg?v=1697220843",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          url: "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_1_782x.jpg?v=1697220843",
+        },
+        {
+          id: 2,
+          url: "https://clothsvilla.com/cdn/shop/products/BlackPromDressesV-NeckPuffySleevesA-LineEveningGownforWedding_2_782x.jpg?v=1697220843",
+        },
+      ],
+      siblings_colour: [],
+      variants: {
+        size: [],
       },
-      {
-        id: 2,
-        url: "https://www.nabia.in/cdn/shop/files/2_c6a15d16-ec9b-4c69-89b8-4d4552c9451d.jpg?v=1732709810"
-      },
-      {
-        id: 3,
-        url: "https://www.nabia.in/cdn/shop/files/1_1b2d004b-29ae-40d0-8db1-8b08af1fee40.jpg?v=1732709810"
-      },
-      {
-        id: 4,
-        url: "https://www.nabia.in/cdn/shop/files/3_1ec01dc2-f17e-4002-9b6a-9a8b4550edc9.jpg?v=1732709810"
-      },
-      {
-        id: 5,
-        url: "https://www.nabia.in/cdn/shop/files/4_abfd6b3d-b125-48d0-8312-89900aae6d21.jpg?v=1732709810"
-      },
-      {
-        id: 6,
-        url: "https://www.nabia.in/cdn/shop/files/5_a085b9d3-417b-4c47-8579-6b8d266bcfcf.jpg?v=1732709809"
-      },
-      {
-        id: 7,
-        url: "https://www.nabia.in/cdn/shop/files/6_518e1e20-5c39-4360-afef-5f26a82faca1.jpg?v=1732709810"
-      },
-      {
-        id: 8,
-        url: "https://www.nabia.in/cdn/shop/files/7_1629fbc0-cb1a-4ef0-b071-a19ab398d0de.jpg?v=1732709810"
-      }
-    ],
-    siblings_colour: [],
-    variants: {
-      size: []
-    }
+    },
+    title: "Black Prom Dress",
+    subTitle: "Black Prom Dresses V-Neck Puffy Sleeves A-Line Evening Gown",
+    isOutOfStock: 0,
+    actionUrl: "/black-embroidered-abaya/p/NEW002",
+    aspectRatio: 0.75,
   },
-  title: "Navy Blue Open Abaya",
-  subTitle: "New Arrival Daily Abaya",
-  isOutOfStock: 0,
-  actionUrl: "/navy-open-abaya/p/NEW003",
-  aspectRatio: 0.75
-}
-,
   {
-  id: "NEW004",
-  sku: "NEWARR0004",
-  price: 3999,
-  discountedPrice: 2799,
-  discount: 30,
-  type: "configurable",
-  categoryId: ["105", "NEW"],
-  imageUrl:
-    "https://deashaindia.com/cdn/shop/files/0P6A0886_1.jpg?v=1736419805&width=1946",
-  plp_pdp_bridge: {
-    images: [
-      {
-        id: 1,
-        url: "https://deashaindia.com/cdn/shop/files/0P6A0894_1.jpg?v=1736419808&width=990"
+    id: "NEW003",
+    sku: "NEWARR0003",
+    price: 4599,
+    discountedPrice: 3299,
+    discount: 28,
+    type: "configurable",
+    categoryId: ["104", "NEW"],
+    imageUrl:
+      "https://www.nabia.in/cdn/shop/files/2_c6a15d16-ec9b-4c69-89b8-4d4552c9451d.jpg?v=1732709810",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          url: "https://www.nabia.in/cdn/shop/files/9_ccd9b9a9-58d6-4d22-a681-689d2cff9193.jpg?v=1732709810",
+        },
+        {
+          id: 2,
+          url: "https://www.nabia.in/cdn/shop/files/2_c6a15d16-ec9b-4c69-89b8-4d4552c9451d.jpg?v=1732709810",
+        },
+        {
+          id: 3,
+          url: "https://www.nabia.in/cdn/shop/files/1_1b2d004b-29ae-40d0-8db1-8b08af1fee40.jpg?v=1732709810",
+        },
+        {
+          id: 4,
+          url: "https://www.nabia.in/cdn/shop/files/3_1ec01dc2-f17e-4002-9b6a-9a8b4550edc9.jpg?v=1732709810",
+        },
+        {
+          id: 5,
+          url: "https://www.nabia.in/cdn/shop/files/4_abfd6b3d-b125-48d0-8312-89900aae6d21.jpg?v=1732709810",
+        },
+        {
+          id: 6,
+          url: "https://www.nabia.in/cdn/shop/files/5_a085b9d3-417b-4c47-8579-6b8d266bcfcf.jpg?v=1732709809",
+        },
+        {
+          id: 7,
+          url: "https://www.nabia.in/cdn/shop/files/6_518e1e20-5c39-4360-afef-5f26a82faca1.jpg?v=1732709810",
+        },
+        {
+          id: 8,
+          url: "https://www.nabia.in/cdn/shop/files/7_1629fbc0-cb1a-4ef0-b071-a19ab398d0de.jpg?v=1732709810",
+        },
+      ],
+      siblings_colour: [],
+      variants: {
+        size: [],
       },
-      {
-        id: 2,
-        url: "https://deashaindia.com/cdn/shop/files/0P6A0884.jpg?v=1736419802&width=990"
-      },
-      {
-        id: 3,
-        url: "https://deashaindia.com/cdn/shop/files/0P6A0886_1.jpg?v=1736419805&width=990"
-      },
-      {
-        id: 4,
-        url: "https://deashaindia.com/cdn/shop/files/0P6A0901_1.jpg?v=1736419811&width=990"
-      },
-      {
-        id: 5,
-        url: "https://deashaindia.com/cdn/shop/files/0P6A0903_1.jpg?v=1736419814&width=990"
-      }
-    ],
-    siblings_colour: [],
-    variants: {
-      size: []
-    }
+    },
+    title: "Navy Blue Open Abaya",
+    subTitle: "New Arrival Daily Abaya",
+    isOutOfStock: 0,
+    actionUrl: "/navy-open-abaya/p/NEW003",
+    aspectRatio: 0.75,
   },
-  title: "Pink Floral Maxi Dress",
-  subTitle: "New Arrival Maxi Dress",
-  isOutOfStock: 0,
-  actionUrl: "/pink-floral-maxi-dress/p/NEW004",
-  aspectRatio: 0.75
-}
-,
   {
-  id: "NEW005",
-  sku: "NEWARR0005",
-  price: 3699,
-  discountedPrice: 2599,
-  discount: 30,
-  type: "configurable",
-  categoryId: ["105", "NEW"],
-  imageUrl:
-    "https://www.desitassels.com/cdn/shop/files/1_993076e0-5830-4b3b-99b1-d39ded610bcf.jpg?v=1761733976&width=1100",
-  plp_pdp_bridge: {
-    images: [
-      {
-        id: 1,
-        url: "https://www.desitassels.com/cdn/shop/files/1_993076e0-5830-4b3b-99b1-d39ded610bcf.jpg?v=1761733976&width=1100"
+    id: "NEW004",
+    sku: "NEWARR0004",
+    price: 3999,
+    discountedPrice: 2799,
+    discount: 30,
+    type: "configurable",
+    categoryId: ["105", "NEW"],
+    imageUrl:
+      "https://deashaindia.com/cdn/shop/files/0P6A0886_1.jpg?v=1736419805&width=1946",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          url: "https://deashaindia.com/cdn/shop/files/0P6A0894_1.jpg?v=1736419808&width=990",
+        },
+        {
+          id: 2,
+          url: "https://deashaindia.com/cdn/shop/files/0P6A0884.jpg?v=1736419802&width=990",
+        },
+        {
+          id: 3,
+          url: "https://deashaindia.com/cdn/shop/files/0P6A0886_1.jpg?v=1736419805&width=990",
+        },
+        {
+          id: 4,
+          url: "https://deashaindia.com/cdn/shop/files/0P6A0901_1.jpg?v=1736419811&width=990",
+        },
+        {
+          id: 5,
+          url: "https://deashaindia.com/cdn/shop/files/0P6A0903_1.jpg?v=1736419814&width=990",
+        },
+      ],
+      siblings_colour: [],
+      variants: {
+        size: [],
       },
-      {
-        id: 2,
-        url: "https://www.desitassels.com/cdn/shop/files/2_67ebd5fc-02b1-4b28-b3c0-55a741350d8e.jpg?v=1759302413&width=1100"
-      },
-      {
-        id: 3,
-        url: "https://www.desitassels.com/cdn/shop/files/3_3e7f6fc9-41fb-405d-9212-9e7c565fdd99.jpg?v=1759302413&width=1100"
-      },
-      {
-        id: 4,
-        url: "https://www.desitassels.com/cdn/shop/files/4_871d78d9-2650-4415-8588-ac031f22ea62.jpg?v=1759302414&width=1100"
-      },
-      {
-        id: 5,
-        url: "https://www.desitassels.com/cdn/shop/files/5_7ac5631b-7a67-4dc6-b79c-16d80d310254.jpg?v=1759302414&width=1100"
-      },
-      {
-        id: 6,
-        url: "https://www.desitassels.com/cdn/shop/files/6_bf389a64-81b6-4264-b6c6-138010e061b4.jpg?v=1759302413&width=1100"
-      }
-    ],
-    siblings_colour: [],
-    variants: {
-      size: []
-    }
+    },
+    title: "Pink Floral Maxi Dress",
+    subTitle: "New Arrival Maxi Dress",
+    isOutOfStock: 0,
+    actionUrl: "/pink-floral-maxi-dress/p/NEW004",
+    aspectRatio: 0.75,
   },
-  title: "Flowing Leaves Dress",
-  subTitle: "New Arrival Casual Dress",
-  isOutOfStock: 0,
-  actionUrl: "/green-solid-aline-dress/p/NEW005",
-  aspectRatio: 0.75
-}
-,
   {
-  id: "NEW006",
-  sku: "NEWARR0006",
-  price: 2599,
-  discountedPrice: 1799,
-  discount: 31,
-  type: "configurable",
-  categoryId: ["102", "NEW"],
-  imageUrl:
-    "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/a1by/66c6ec476f60443f311ec0d6/-1117Wx1400H-466443881-pink-MODEL.jpg",
-  plp_pdp_bridge: {
-    images: [
-      {
-        id: 1,
-        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/a1by/66c6ec476f60443f311ec0d6/-1117Wx1400H-466443881-pink-MODEL.jpg"
+    id: "NEW005",
+    sku: "NEWARR0005",
+    price: 3699,
+    discountedPrice: 2599,
+    discount: 30,
+    type: "configurable",
+    categoryId: ["105", "NEW"],
+    imageUrl:
+      "https://www.desitassels.com/cdn/shop/files/1_993076e0-5830-4b3b-99b1-d39ded610bcf.jpg?v=1761733976&width=1100",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          url: "https://www.desitassels.com/cdn/shop/files/1_993076e0-5830-4b3b-99b1-d39ded610bcf.jpg?v=1761733976&width=1100",
+        },
+        {
+          id: 2,
+          url: "https://www.desitassels.com/cdn/shop/files/2_67ebd5fc-02b1-4b28-b3c0-55a741350d8e.jpg?v=1759302413&width=1100",
+        },
+        {
+          id: 3,
+          url: "https://www.desitassels.com/cdn/shop/files/3_3e7f6fc9-41fb-405d-9212-9e7c565fdd99.jpg?v=1759302413&width=1100",
+        },
+        {
+          id: 4,
+          url: "https://www.desitassels.com/cdn/shop/files/4_871d78d9-2650-4415-8588-ac031f22ea62.jpg?v=1759302414&width=1100",
+        },
+        {
+          id: 5,
+          url: "https://www.desitassels.com/cdn/shop/files/5_7ac5631b-7a67-4dc6-b79c-16d80d310254.jpg?v=1759302414&width=1100",
+        },
+        {
+          id: 6,
+          url: "https://www.desitassels.com/cdn/shop/files/6_bf389a64-81b6-4264-b6c6-138010e061b4.jpg?v=1759302413&width=1100",
+        },
+      ],
+      siblings_colour: [],
+      variants: {
+        size: [],
       },
-      {
-        id: 2,
-        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/DB0B/66c6ec476f60443f311ec12b/-1117Wx1400H-466443881-pink-MODEL2.jpg"
-      },
-      {
-        id: 3,
-        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/dQq1/66c6ec476f60443f311ec129/-1117Wx1400H-466443881-pink-MODEL3.jpg"
-      },
-      {
-        id: 4,
-        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/GluX/66c6ec476f60443f311ec121/-1117Wx1400H-466443881-pink-MODEL4.jpg"
-      },
-      {
-        id: 5,
-        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/ezRq/66c6ec476f60443f311ec12a/-1117Wx1400H-466443881-pink-MODEL5.jpg"
-      },
-      {
-        id: 6,
-        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/GUiQ/66c6ec476f60443f311ec127/-1117Wx1400H-466443881-pink-MODEL6.jpg"
-      }
-    ],
-    siblings_colour: [],
-    variants: {
-      size: []
-    }
+    },
+    title: "Flowing Leaves Dress",
+    subTitle: "New Arrival Casual Dress",
+    isOutOfStock: 0,
+    actionUrl: "/green-solid-aline-dress/p/NEW005",
+    aspectRatio: 0.75,
   },
-  title: "Rayon Kurti",
-  subTitle: "New Arrival Kurti",
-  isOutOfStock: 0,
-  actionUrl: "/lavender-printed-rayon-kurti/p/NEW006",
-  aspectRatio: 0.75
-}
-,
+  {
+    id: "NEW006",
+    sku: "NEWARR0006",
+    price: 2599,
+    discountedPrice: 1799,
+    discount: 31,
+    type: "configurable",
+    categoryId: ["102", "NEW"],
+    imageUrl:
+      "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/a1by/66c6ec476f60443f311ec0d6/-1117Wx1400H-466443881-pink-MODEL.jpg",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/a1by/66c6ec476f60443f311ec0d6/-1117Wx1400H-466443881-pink-MODEL.jpg",
+        },
+        {
+          id: 2,
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/DB0B/66c6ec476f60443f311ec12b/-1117Wx1400H-466443881-pink-MODEL2.jpg",
+        },
+        {
+          id: 3,
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/dQq1/66c6ec476f60443f311ec129/-1117Wx1400H-466443881-pink-MODEL3.jpg",
+        },
+        {
+          id: 4,
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/GluX/66c6ec476f60443f311ec121/-1117Wx1400H-466443881-pink-MODEL4.jpg",
+        },
+        {
+          id: 5,
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/ezRq/66c6ec476f60443f311ec12a/-1117Wx1400H-466443881-pink-MODEL5.jpg",
+        },
+        {
+          id: 6,
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240822/GUiQ/66c6ec476f60443f311ec127/-1117Wx1400H-466443881-pink-MODEL6.jpg",
+        },
+      ],
+      siblings_colour: [],
+      variants: {
+        size: [],
+      },
+    },
+    title: "Rayon Kurti",
+    subTitle: "New Arrival Kurti",
+    isOutOfStock: 0,
+    actionUrl: "/lavender-printed-rayon-kurti/p/NEW006",
+    aspectRatio: 0.75,
+  },
   {
     id: "NEW007",
     sku: "NEWARR0007",
@@ -20180,14 +20547,15 @@ export const newArrivals = [
     discountedPrice: 3899,
     discount: 26,
     type: "configurable",
-    categoryId: ["104","NEW"],
-    imageUrl: "https://www.modora.co.uk/cdn/shop/files/beige-embroidered-open-abaya.webp?v=1698160381&width=1788",
+    categoryId: ["104", "NEW"],
+    imageUrl:
+      "https://www.modora.co.uk/cdn/shop/files/beige-embroidered-open-abaya.webp?v=1698160381&width=1788",
     plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
     title: "Beige Embroidered Abaya",
     subTitle: "New Arrival Party Abaya",
     isOutOfStock: 0,
     actionUrl: "/beige-embroidered-abaya/p/NEW007",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
   {
     id: "NEW008",
@@ -20196,14 +20564,15 @@ export const newArrivals = [
     discountedPrice: 2999,
     discount: 30,
     type: "configurable",
-    categoryId: ["105","NEW"],
-    imageUrl: "https://britishretro.co.uk/wp-content/uploads/2025/12/002-Antoinette-Mulberry-Tartan-Vintage-Dress.jpg",
+    categoryId: ["105", "NEW"],
+    imageUrl:
+      "https://britishretro.co.uk/wp-content/uploads/2025/12/002-Antoinette-Mulberry-Tartan-Vintage-Dress.jpg",
     plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
     title: "Blue Printed Fit and Flare Dress",
     subTitle: "New Arrival Dress",
     isOutOfStock: 0,
     actionUrl: "/blue-printed-fit-flare-dress/p/NEW008",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
   {
     id: "NEW009",
@@ -20212,14 +20581,15 @@ export const newArrivals = [
     discountedPrice: 1899,
     discount: 32,
     type: "configurable",
-    categoryId: ["102","NEW"],
-    imageUrl: "https://cdn-img.prettylittlething.com/2/d/3/1/2d319b87118ee35aeff7081d6574e90dc319a612_cnp1003_1_brown_check_boat_neck_ruched_detail_shift_dress.jpg?imwidth=600",
+    categoryId: ["102", "NEW"],
+    imageUrl:
+      "https://cdn-img.prettylittlething.com/2/d/3/1/2d319b87118ee35aeff7081d6574e90dc319a612_cnp1003_1_brown_check_boat_neck_ruched_detail_shift_dress.jpg?imwidth=600",
     plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
     title: "Plaid Dress",
     subTitle: "New Arrival Festive",
     isOutOfStock: 0,
     actionUrl: "/yellow-printed-cotton-kurti/p/NEW009",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
   {
     id: "NEW010",
@@ -20228,20 +20598,19 @@ export const newArrivals = [
     discountedPrice: 3299,
     discount: 28,
     type: "configurable",
-    categoryId: ["105","NEW"],
-    imageUrl: "https://endless.ae/cdn/shop/files/Untitled-1_57__0003_Facetune_11-09-2025-16-04-00.webp?crop=center&height=1471&v=1766656545&width=981",
+    categoryId: ["105", "NEW"],
+    imageUrl:
+      "https://endless.ae/cdn/shop/files/Untitled-1_57__0003_Facetune_11-09-2025-16-04-00.webp?crop=center&height=1471&v=1766656545&width=981",
     plp_pdp_bridge: { images: [], siblings_colour: [], variants: { size: [] } },
     title: "Maroon Solid Maxi Dress",
     subTitle: "New Arrival Evening Dress",
     isOutOfStock: 0,
     actionUrl: "/maroon-solid-maxi-dress/p/NEW010",
-    aspectRatio: 0.75
-  }
+    aspectRatio: 0.75,
+  },
 ];
 
-// _________________________________________________________________________________________________________________________________________________________________________
-
-
+// Abayas
 export const abayas = [
   {
     id: "ABAYA001",
@@ -20250,7 +20619,7 @@ export const abayas = [
     discountedPrice: 2599,
     discount: 35,
     type: "configurable",
-    categoryId: ["201","4789"],
+    categoryId: ["201", "4789"],
     imageUrl: "https://m.media-amazon.com/images/I/810tAf-JTUL._AC_UY1100_.jpg",
     plp_pdp_bridge: {
       variants: {
@@ -20258,9 +20627,9 @@ export const abayas = [
           { sku: "ABAYA0001-S", id: "S1", name: "S", in_stock: "1" },
           { sku: "ABAYA0001-M", id: "S2", name: "M", in_stock: "1" },
           { sku: "ABAYA0001-L", id: "S3", name: "L", in_stock: "1" },
-          { sku: "ABAYA0001-XL", id: "S4", name: "XL", in_stock: "1" }
-        ]
-      }
+          { sku: "ABAYA0001-XL", id: "S4", name: "XL", in_stock: "1" },
+        ],
+      },
     },
     title: "Nida Fabric Buttoned Front Abaya",
     subTitle: "Everyday Modest Wear Abaya",
@@ -20269,11 +20638,11 @@ export const abayas = [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
+      { title: "XL", id: "S4" },
     ],
     actionUrl: "/black-buttoned-front-abaya/p/ABAYA001",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20282,25 +20651,26 @@ export const abayas = [
     price: 4499,
     discountedPrice: 2899,
     discount: 36,
-    imageUrl: "https://hikmahboutique.com.au/cdn/shop/files/rn-image_picker_lib_temp_bce08f0c-90f6-49c8-ba9b-df1df2ffddb4.jpg?v=1724838782&width=1445",
+    imageUrl:
+      "https://hikmahboutique.com.au/cdn/shop/files/rn-image_picker_lib_temp_bce08f0c-90f6-49c8-ba9b-df1df2ffddb4.jpg?v=1724838782&width=1445",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "ABAYA0002-M", id: "S1", name: "M", in_stock: "1" },
-          { sku: "ABAYA0002-L", id: "S2", name: "L", in_stock: "1" }
-        ]
-      }
+          { sku: "ABAYA0002-L", id: "S2", name: "L", in_stock: "1" },
+        ],
+      },
     },
     title: "Embroidered Sleeve Open Abaya",
     subTitle: "Occasion Wear Abaya",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "M", id: "S1" },
-      { title: "L", id: "S2" }
+      { title: "L", id: "S2" },
     ],
     actionUrl: "/embroidered-open-abaya/p/ABAYA002",
     aspectRatio: 0.75,
-    tag: [{ title: "FESTIVE" }]
+    tag: [{ title: "FESTIVE" }],
   },
 
   {
@@ -20309,15 +20679,16 @@ export const abayas = [
     price: 3799,
     discountedPrice: 2399,
     discount: 37,
-    imageUrl: "https://abayabuth.com/cdn/shop/files/AB_73_046_485d4087-8440-48ff-9c20-337ece671793.jpg?v=1742132211",
+    imageUrl:
+      "https://abayabuth.com/cdn/shop/files/AB_73_046_485d4087-8440-48ff-9c20-337ece671793.jpg?v=1742132211",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "ABAYA0003-S", id: "S1", name: "S", in_stock: "1" },
           { sku: "ABAYA0003-M", id: "S2", name: "M", in_stock: "1" },
-          { sku: "ABAYA0003-L", id: "S3", name: "L", in_stock: "1" }
-        ]
-      }
+          { sku: "ABAYA0003-L", id: "S3", name: "L", in_stock: "1" },
+        ],
+      },
     },
     title: "Pleated Front Closed Abaya",
     subTitle: "Daily Wear Abaya",
@@ -20325,10 +20696,10 @@ export const abayas = [
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
+      { title: "L", id: "S3" },
     ],
     actionUrl: "/pleated-front-abaya/p/ABAYA003",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20337,15 +20708,16 @@ export const abayas = [
     price: 4999,
     discountedPrice: 3299,
     discount: 34,
-    imageUrl: "https://alsasa.in/cdn/shop/files/WhatsApp_Image_2024-09-01_at_06.33.02_d850c822.jpg?v=1736964843&width=1200",
+    imageUrl:
+      "https://alsasa.in/cdn/shop/files/WhatsApp_Image_2024-09-01_at_06.33.02_d850c822.jpg?v=1736964843&width=1200",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "ABAYA0004-M", id: "S1", name: "M", in_stock: "1" },
           { sku: "ABAYA0004-L", id: "S2", name: "L", in_stock: "1" },
-          { sku: "ABAYA0004-XL", id: "S3", name: "XL", in_stock: "1" }
-        ]
-      }
+          { sku: "ABAYA0004-XL", id: "S3", name: "XL", in_stock: "1" },
+        ],
+      },
     },
     title: "Black Stone Work Dubai Style Abaya",
     subTitle: "Luxury Occasion Abaya",
@@ -20353,11 +20725,11 @@ export const abayas = [
     sizeVariation: [
       { title: "M", id: "S1" },
       { title: "L", id: "S2" },
-      { title: "XL", id: "S3" }
+      { title: "XL", id: "S3" },
     ],
     actionUrl: "/dubai-style-stone-abaya/p/ABAYA004",
     aspectRatio: 0.75,
-    tag: [{ title: "FESTIVE" }]
+    tag: [{ title: "FESTIVE" }],
   },
 
   {
@@ -20366,24 +20738,25 @@ export const abayas = [
     price: 3599,
     discountedPrice: 2199,
     discount: 39,
-    imageUrl: "https://in.islamicdesignhouse.com/cdn/shop/files/1_b3cb469b-8241-480c-a130-4bfaddcbaee9.jpg?v=1757054845",
+    imageUrl:
+      "https://in.islamicdesignhouse.com/cdn/shop/files/1_b3cb469b-8241-480c-a130-4bfaddcbaee9.jpg?v=1757054845",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "ABAYA0005-S", id: "S1", name: "S", in_stock: "1" },
-          { sku: "ABAYA0005-M", id: "S2", name: "M", in_stock: "1" }
-        ]
-      }
+          { sku: "ABAYA0005-M", id: "S2", name: "M", in_stock: "1" },
+        ],
+      },
     },
     title: "Contrast Piping Open Abaya",
     subTitle: "Modern Modest Wear",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "S", id: "S1" },
-      { title: "M", id: "S2" }
+      { title: "M", id: "S2" },
     ],
     actionUrl: "/contrast-piping-abaya/p/ABAYA005",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20392,13 +20765,14 @@ export const abayas = [
     price: 4299,
     discountedPrice: 2799,
     discount: 35,
-    imageUrl: "https://d12r75k5fx2b32.cloudfront.net/media/catalog/product/cache/ab1a032302435465d083120166d3f08f/d/a/dark-olive-closed-practical-abaya-8-base.jpg",
+    imageUrl:
+      "https://d12r75k5fx2b32.cloudfront.net/media/catalog/product/cache/ab1a032302435465d083120166d3f08f/d/a/dark-olive-closed-practical-abaya-8-base.jpg",
     title: "Minimalist Closed Front Abaya",
     subTitle: "Classic Everyday Abaya",
     isOutOfStock: 0,
     actionUrl: "/minimalist-closed-abaya/p/ABAYA006",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20407,13 +20781,14 @@ export const abayas = [
     price: 4699,
     discountedPrice: 3099,
     discount: 34,
-    imageUrl: "https://bashariya.com/cdn/shop/files/img_0045_5-1-photoroom.jpg?v=1757596144",
+    imageUrl:
+      "https://bashariya.com/cdn/shop/files/img_0045_5-1-photoroom.jpg?v=1757596144",
     title: "Women Black Cape Style Layered Abaya",
     subTitle: "Designer Modest Wear",
     isOutOfStock: 0,
     actionUrl: "/cape-style-abaya/p/ABAYA007",
     aspectRatio: 0.75,
-    tag: [{ title: "NEW ARRIVAL" }]
+    tag: [{ title: "NEW ARRIVAL" }],
   },
 
   {
@@ -20427,7 +20802,7 @@ export const abayas = [
     subTitle: "Comfort Fit Abaya",
     isOutOfStock: 0,
     actionUrl: "/kimono-sleeve-abaya/p/ABAYA008",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20436,12 +20811,13 @@ export const abayas = [
     price: 5199,
     discountedPrice: 3499,
     discount: 33,
-    imageUrl: "https://mariam-col.com/cdn/shop/files/satin-abaya-with-matching-belt-made-of-diamond-tassel-moa010-207114.jpg?v=1747777494&width=1200",
+    imageUrl:
+      "https://mariam-col.com/cdn/shop/files/satin-abaya-with-matching-belt-made-of-diamond-tassel-moa010-207114.jpg?v=1747777494&width=1200",
     title: "Heavy Embellished Wedding Abaya",
     subTitle: "Premium Bridal Abaya",
     isOutOfStock: 0,
     actionUrl: "/wedding-embellished-abaya/p/ABAYA009",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20450,19 +20826,18 @@ export const abayas = [
     price: 3699,
     discountedPrice: 2299,
     discount: 38,
-    imageUrl: "https://veilandvirtue.com/cdn/shop/files/veil-and-virtue-ramadan-abayas-087.jpg?v=1710636169&width=1365",
+    imageUrl:
+      "https://veilandvirtue.com/cdn/shop/files/veil-and-virtue-ramadan-abayas-087.jpg?v=1710636169&width=1365",
     title: "Black Flared Umbrella Cut Abaya",
     subTitle: "Elegant Daily Wear Abaya",
     isOutOfStock: 0,
     actionUrl: "/umbrella-cut-abaya/p/ABAYA010",
     aspectRatio: 0.75,
-    tag: [{ title: "NEW ARRIVAL" }]
-  }
+    tag: [{ title: "NEW ARRIVAL" }],
+  },
 ];
 
-//__________________________________________________________________________________________________________________________________________________________
-
-
+// Dresses
 export const dresses = [
   {
     id: "DRESS001",
@@ -20471,17 +20846,18 @@ export const dresses = [
     discountedPrice: 2199,
     discount: 37,
     type: "configurable",
-    categoryId: ["301","7821"],
-    imageUrl: "https://fyva.in/cdn/shop/files/7_df50e95d-0e98-440b-9059-2d94412806a9.jpg?v=1758710158&width=650",
+    categoryId: ["301", "7821"],
+    imageUrl:
+      "https://fyva.in/cdn/shop/files/7_df50e95d-0e98-440b-9059-2d94412806a9.jpg?v=1758710158&width=650",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "DRESS0001-S", id: "S1", name: "S", in_stock: "1" },
           { sku: "DRESS0001-M", id: "S2", name: "M", in_stock: "1" },
           { sku: "DRESS0001-L", id: "S3", name: "L", in_stock: "1" },
-          { sku: "DRESS0001-XL", id: "S4", name: "XL", in_stock: "1" }
-        ]
-      }
+          { sku: "DRESS0001-XL", id: "S4", name: "XL", in_stock: "1" },
+        ],
+      },
     },
     title: "Floral Printed Fit and Flare Dress",
     subTitle: "Cotton Summer Dress",
@@ -20490,11 +20866,11 @@ export const dresses = [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
+      { title: "XL", id: "S4" },
     ],
     actionUrl: "/pink-floral-fit-flare-dress/p/DRESS001",
     aspectRatio: 0.75,
-    tag: [{ title: "NEW ARRIVAL" }]
+    tag: [{ title: "NEW ARRIVAL" }],
   },
 
   {
@@ -20503,25 +20879,26 @@ export const dresses = [
     price: 3999,
     discountedPrice: 2599,
     discount: 35,
-    imageUrl: "https://cdn-1.azazie.com/upimg/h65/22/1e/d0e41559968c8650a971df392d18221e.jpg",
+    imageUrl:
+      "https://cdn-1.azazie.com/upimg/h65/22/1e/d0e41559968c8650a971df392d18221e.jpg",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "DRESS0002-M", id: "S1", name: "M", in_stock: "1" },
-          { sku: "DRESS0002-L", id: "S2", name: "L", in_stock: "1" }
-        ]
-      }
+          { sku: "DRESS0002-L", id: "S2", name: "L", in_stock: "1" },
+        ],
+      },
     },
     title: "Amalie Navy A-Line Midi Dress",
     subTitle: "Office Wear Midi Dress",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "M", id: "S1" },
-      { title: "L", id: "S2" }
+      { title: "L", id: "S2" },
     ],
     actionUrl: "/blue-solid-midi-dress/p/DRESS002",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20530,15 +20907,16 @@ export const dresses = [
     price: 2999,
     discountedPrice: 1799,
     discount: 40,
-    imageUrl: "https://pinnacleshruti.com/cdn/shop/files/Shruti_170.jpg?v=1741086306&width=2048",
+    imageUrl:
+      "https://pinnacleshruti.com/cdn/shop/files/Shruti_170.jpg?v=1741086306&width=2048",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "DRESS0003-S", id: "S1", name: "S", in_stock: "1" },
           { sku: "DRESS0003-M", id: "S2", name: "M", in_stock: "1" },
-          { sku: "DRESS0003-L", id: "S3", name: "L", in_stock: "1" }
-        ]
-      }
+          { sku: "DRESS0003-L", id: "S3", name: "L", in_stock: "1" },
+        ],
+      },
     },
     title: "Tiered Maxi Dress",
     subTitle: "Flowy Maxi Dress",
@@ -20546,10 +20924,10 @@ export const dresses = [
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
+      { title: "L", id: "S3" },
     ],
     actionUrl: "/mustard-tiered-maxi-dress/p/DRESS003",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20558,15 +20936,16 @@ export const dresses = [
     price: 4599,
     discountedPrice: 2999,
     discount: 35,
-    imageUrl: "https://samyakkclothing.files.wordpress.com/2024/04/image-175.jpeg",
+    imageUrl:
+      "https://samyakkclothing.files.wordpress.com/2024/04/image-175.jpeg",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "DRESS0004-M", id: "S1", name: "M", in_stock: "1" },
           { sku: "DRESS0004-L", id: "S2", name: "L", in_stock: "1" },
-          { sku: "DRESS0004-XL", id: "S3", name: "XL", in_stock: "1" }
-        ]
-      }
+          { sku: "DRESS0004-XL", id: "S3", name: "XL", in_stock: "1" },
+        ],
+      },
     },
     title: "Evening Gown Dress",
     subTitle: "Party Wear Dress",
@@ -20574,11 +20953,11 @@ export const dresses = [
     sizeVariation: [
       { title: "M", id: "S1" },
       { title: "L", id: "S2" },
-      { title: "XL", id: "S3" }
+      { title: "XL", id: "S3" },
     ],
     actionUrl: "/purple-evening-gown-dress/p/DRESS004",
     aspectRatio: 0.75,
-    tag: [{ title: "FESTIVE" }]
+    tag: [{ title: "FESTIVE" }],
   },
 
   {
@@ -20592,19 +20971,19 @@ export const dresses = [
       variants: {
         size: [
           { sku: "DRESS0005-S", id: "S1", name: "S", in_stock: "1" },
-          { sku: "DRESS0005-M", id: "S2", name: "M", in_stock: "1" }
-        ]
-      }
+          { sku: "DRESS0005-M", id: "S2", name: "M", in_stock: "1" },
+        ],
+      },
     },
     title: "Green Printed Shirt Style Dress",
     subTitle: "Casual Day Dress",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "S", id: "S1" },
-      { title: "M", id: "S2" }
+      { title: "M", id: "S2" },
     ],
     actionUrl: "/green-printed-shirt-dress/p/DRESS005",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20613,13 +20992,14 @@ export const dresses = [
     price: 3899,
     discountedPrice: 2499,
     discount: 36,
-    imageUrl: "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/25860120/2023/11/11/ba32e98e-e9ae-490d-9693-b0453480e34e1699676119777TokyoTalkiesWhiteFitFlareDress1.jpg",
+    imageUrl:
+      "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/25860120/2023/11/11/ba32e98e-e9ae-490d-9693-b0453480e34e1699676119777TokyoTalkiesWhiteFitFlareDress1.jpg",
     title: "White Lace Detail A-Line Dress",
     subTitle: "Elegant Summer Dress",
     isOutOfStock: 0,
     actionUrl: "/white-lace-a-line-dress/p/DRESS006",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20634,7 +21014,7 @@ export const dresses = [
     isOutOfStock: 0,
     actionUrl: "/red-bodycon-party-dress/p/DRESS007",
     aspectRatio: 0.75,
-    tag: [{ title: "FESTIVE" }]
+    tag: [{ title: "FESTIVE" }],
   },
 
   {
@@ -20643,12 +21023,13 @@ export const dresses = [
     price: 2599,
     discountedPrice: 1599,
     discount: 38,
-    imageUrl: "https://images.asos-media.com/products/only-short-sleeve-denim-dress-in-light-wash-blue/207393024-1-lightbluedenim?$n_750w$&wid=750&hei=750&fit=crop",
+    imageUrl:
+      "https://images.asos-media.com/products/only-short-sleeve-denim-dress-in-light-wash-blue/207393024-1-lightbluedenim?$n_750w$&wid=750&hei=750&fit=crop",
     title: "Sky Blue Denim Shirt Dress",
     subTitle: "Casual Denim Dress",
     isOutOfStock: 0,
     actionUrl: "/sky-blue-denim-shirt-dress/p/DRESS008",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20657,12 +21038,13 @@ export const dresses = [
     price: 4999,
     discountedPrice: 3399,
     discount: 32,
-    imageUrl: "https://cdn-img.prettylittlething.com/8/d/2/9/8d29641a1591f253a621816756b57266a3ee5f12_cnb1776_1.jpg",
+    imageUrl:
+      "https://cdn-img.prettylittlething.com/8/d/2/9/8d29641a1591f253a621816756b57266a3ee5f12_cnb1776_1.jpg",
     title: "Satin Cowl Neck Maxi Dress",
     subTitle: "Premium Party Wear Dress",
     isOutOfStock: 0,
     actionUrl: "/lavender-satin-maxi-dress/p/DRESS009",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20671,21 +21053,18 @@ export const dresses = [
     price: 3199,
     discountedPrice: 1999,
     discount: 38,
-    imageUrl: "https://www.axparis.com/cdn/shop/products/Brown-Polka-Dot-Wrap-Frill-Dress-5_800x.jpg?v=1655393447",
+    imageUrl:
+      "https://www.axparis.com/cdn/shop/products/Brown-Polka-Dot-Wrap-Frill-Dress-5_800x.jpg?v=1655393447",
     title: "Beige Polka Dot Wrap Dress",
     subTitle: "Chic Day Wear Dress",
     isOutOfStock: 0,
     actionUrl: "/beige-polka-dot-wrap-dress/p/DRESS010",
     aspectRatio: 0.75,
-    tag: [{ title: "NEW ARRIVAL" }]
-  }
+    tag: [{ title: "NEW ARRIVAL" }],
+  },
 ];
 
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// BestSellers
 export const bestSellers = [
   {
     id: "KURTIS002",
@@ -20693,14 +21072,15 @@ export const bestSellers = [
     price: 2199,
     discountedPrice: 1299,
     discount: 41,
-    imageUrl: "https://showoffff.in/cdn/shop/files/RF-3251_Blue_1_273b9753-7369-481f-873f-6789100586e4.jpg?v=1734162845",
+    imageUrl:
+      "https://showoffff.in/cdn/shop/files/RF-3251_Blue_1_273b9753-7369-481f-873f-6789100586e4.jpg?v=1734162845",
     plp_pdp_bridge: { variants: { size: [] } },
     title: "Ethnic Motif Anarkali Kurti",
     subTitle: "Rayon Anarkali Kurti",
     isOutOfStock: 0,
     actionUrl: "/blue-ethnic-anarkali-kurti/p/KURTIS002",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20715,7 +21095,7 @@ export const bestSellers = [
     isOutOfStock: 0,
     actionUrl: "/black-buttoned-front-abaya/p/ABAYA001",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20724,13 +21104,14 @@ export const bestSellers = [
     price: 3999,
     discountedPrice: 2599,
     discount: 35,
-    imageUrl: "https://cdn-1.azazie.com/upimg/h65/22/1e/d0e41559968c8650a971df392d18221e.jpg",
+    imageUrl:
+      "https://cdn-1.azazie.com/upimg/h65/22/1e/d0e41559968c8650a971df392d18221e.jpg",
     title: "Amalie Navy A-Line Midi Dress",
     subTitle: "Office Wear Midi Dress",
     isOutOfStock: 0,
     actionUrl: "/blue-solid-midi-dress/p/DRESS002",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20740,9 +21121,11 @@ export const bestSellers = [
     discountedPrice: 2000,
     discount: 50,
     type: "configurable",
-    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_1.jpg",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/186e540LIKBAKU007-TEAL_1.jpg",
     title: "Likha",
-    subTitle: "Cotton Chanderi Double Layer Angarkha Festive Kurta Set LIKBAKU007"
+    subTitle:
+      "Cotton Chanderi Double Layer Angarkha Festive Kurta Set LIKBAKU007",
   },
 
   {
@@ -20756,7 +21139,7 @@ export const bestSellers = [
     subTitle: "Casual A-Line Kurti",
     isOutOfStock: 0,
     actionUrl: "/mustard-a-line-kurti/p/KURTIS003",
-    aspectRatio: 0.75
+    aspectRatio: 0.75,
   },
 
   {
@@ -20766,9 +21149,10 @@ export const bestSellers = [
     discountedPrice: 1290,
     discount: 57,
     type: "simple",
-    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_1.jpg",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd7d1daKP-5034OR_1.jpg",
     title: "Anjaneya Sarees",
-    subTitle: "Orange Woven Designer Cotton Silk Kanjivaram Saree"
+    subTitle: "Orange Woven Designer Cotton Silk Kanjivaram Saree",
   },
 
   {
@@ -20777,13 +21161,14 @@ export const bestSellers = [
     price: 4299,
     discountedPrice: 2799,
     discount: 35,
-    imageUrl: "https://d12r75k5fx2b32.cloudfront.net/media/catalog/product/cache/ab1a032302435465d083120166d3f08f/d/a/dark-olive-closed-practical-abaya-8-base.jpg",
+    imageUrl:
+      "https://d12r75k5fx2b32.cloudfront.net/media/catalog/product/cache/ab1a032302435465d083120166d3f08f/d/a/dark-olive-closed-practical-abaya-8-base.jpg",
     title: "Minimalist Closed Front Abaya",
     subTitle: "Classic Everyday Abaya",
     isOutOfStock: 0,
     actionUrl: "/minimalist-closed-abaya/p/ABAYA006",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20792,13 +21177,14 @@ export const bestSellers = [
     price: 3899,
     discountedPrice: 2499,
     discount: 36,
-    imageUrl: "https://assets.myntassets.com/assets/images/25860120/2023/11/11/ba32e98e-e9ae-490d-9693-b0453480e34e1699676119777TokyoTalkiesWhiteFitFlareDress1.jpg",
+    imageUrl:
+      "https://assets.myntassets.com/assets/images/25860120/2023/11/11/ba32e98e-e9ae-490d-9693-b0453480e34e1699676119777TokyoTalkiesWhiteFitFlareDress1.jpg",
     title: "White Lace Detail A-Line Dress",
     subTitle: "Elegant Summer Dress",
     isOutOfStock: 0,
     actionUrl: "/white-lace-a-line-dress/p/DRESS006",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20807,13 +21193,14 @@ export const bestSellers = [
     price: 2599,
     discountedPrice: 1599,
     discount: 38,
-    imageUrl: "https://assets0.mirraw.com/images/8235317/A332395_1_zoom.JPG?1705754596",
+    imageUrl:
+      "https://assets0.mirraw.com/images/8235317/A332395_1_zoom.JPG?1705754596",
     title: "Chikankari Cotton Kurti",
     subTitle: "Lucknowi Chikankari Kurti",
     isOutOfStock: 0,
     actionUrl: "/white-chikankari-kurti/p/KURTIS006",
     aspectRatio: 0.75,
-    tag: [{ title: "BESTSELLER" }]
+    tag: [{ title: "BESTSELLER" }],
   },
 
   {
@@ -20823,9 +21210,10 @@ export const bestSellers = [
     discountedPrice: 1665,
     discount: 55,
     type: "configurable",
-    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/8/a81e6e7tuhina-azure_1.jpg",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/8/a81e6e7tuhina-azure_1.jpg",
     title: "Autumnlane",
-    subTitle: "Tuhina Azure Applique Co-Ord Set"
+    subTitle: "Tuhina Azure Applique Co-Ord Set",
   },
 
   {
@@ -20835,9 +21223,10 @@ export const bestSellers = [
     discountedPrice: 1320,
     discount: 60,
     type: "configurable",
-    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_1.jpg",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7350c39041_1.jpg",
     title: "Libas",
-    subTitle: "Navy Blue Solid Pintuck Ruby Silk Kurta Set"
+    subTitle: "Navy Blue Solid Pintuck Ruby Silk Kurta Set",
   },
 
   {
@@ -20847,9 +21236,10 @@ export const bestSellers = [
     discountedPrice: 2880,
     discount: 76,
     type: "configurable",
-    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_1.jpg",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_1.jpg",
     title: "Vaamsi",
-    subTitle: "Women Yellow Silk Blend Embroidered Kurta Set"
+    subTitle: "Women Yellow Silk Blend Embroidered Kurta Set",
   },
 
   {
@@ -20859,9 +21249,10 @@ export const bestSellers = [
     discountedPrice: 1963,
     discount: 76,
     type: "configurable",
-    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_1.jpg",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/1/91be6f4BS-3209-Maroon_1.jpg",
     title: "BLACK SCISSOR",
-    subTitle: "Embellished Kurta with Pant & Dupatta Set"
+    subTitle: "Embellished Kurta with Pant & Dupatta Set",
   },
   {
     id: "DRESS009",
@@ -20869,20 +21260,17 @@ export const bestSellers = [
     price: 4299,
     discountedPrice: 2999,
     discount: 30,
-    imageUrl: "https://cdn-img.prettylittlething.com/8/d/2/9/8d29641a1591f253a621816756b57266a3ee5f12_cnb1776_1.jpg",
+    imageUrl:
+      "https://cdn-img.prettylittlething.com/8/d/2/9/8d29641a1591f253a621816756b57266a3ee5f12_cnb1776_1.jpg",
     title: "Maroon Solid Maxi Dress",
     subTitle: "Evening Wear Maxi Dress",
     isOutOfStock: 0,
     actionUrl: "/maroon-solid-maxi-dress/p/DRESS009",
-    aspectRatio: 0.75
-  }
+    aspectRatio: 0.75,
+  },
 ];
 
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Cosmetics
 export const cosmetics = [
   {
     id: "COS001",
@@ -20892,15 +21280,30 @@ export const cosmetics = [
     discount: 25,
     type: "configurable",
     categoryId: ["201"],
-    imageUrl: "https://images.mamaearth.in/catalog/product/r/o/rose_nude_swatch_copy.jpg?format=auto&height=600",
+    imageUrl:
+      "https://images.mamaearth.in/catalog/product/r/o/rose_nude_swatch_copy.jpg?format=auto&height=600",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://images.mamaearth.in/catalog/product/l/i/lipstick_rose_nude_1.jpg", aspect_ratio: "0.75" }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://images.mamaearth.in/catalog/product/l/i/lipstick_rose_nude_1.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
       siblings_colour: [],
       variants: {
-        size: [{ sku: "COSLIP001-STD", id: "S1", variant_id: "1", name: "Standard", in_stock: "1" }]
-      }
+        size: [
+          {
+            sku: "COSLIP001-STD",
+            id: "S1",
+            variant_id: "1",
+            name: "Standard",
+            in_stock: "1",
+          },
+        ],
+      },
     },
     title: "Mamaearth",
     subTitle: "Moisture Matte Lipstick – Rose Nude",
@@ -20911,8 +21314,17 @@ export const cosmetics = [
     actionUrl: "/matte-lipstick/p/COS001",
     aspectRatio: 0.75,
     sibling_colour_codes: [],
-    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF", transparency: "FF", transparency_web: 1 }],
-    dynamic_text: {}
+    tag: [
+      {
+        title: "BEST SELLER",
+        titleColor: "#142536",
+        bgColor: "#ebf4ff",
+        borderColor: "#C5DDFF",
+        transparency: "FF",
+        transparency_web: 1,
+      },
+    ],
+    dynamic_text: {},
   },
 
   {
@@ -20923,13 +21335,30 @@ export const cosmetics = [
     discount: 22,
     type: "configurable",
     categoryId: ["202"],
-    imageUrl: "https://www.lakmeindia.com/cdn/shop/files/24451_S1-8901030742436_1000x.jpg?v=1712053117",
+    imageUrl:
+      "https://www.lakmeindia.com/cdn/shop/files/24451_S1-8901030742436_1000x.jpg?v=1712053117",
     plp_pdp_bridge: {
-      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.lakmeindia.com/cdn/shop/products/9to5-primer-foundation-w120_800x.jpg", aspect_ratio: "0.75" }],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.lakmeindia.com/cdn/shop/products/9to5-primer-foundation-w120_800x.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
       siblings_colour: [],
       variants: {
-        size: [{ sku: "COSFOUND001-30ML", id: "S1", variant_id: "1", name: "30ml", in_stock: "1" }]
-      }
+        size: [
+          {
+            sku: "COSFOUND001-30ML",
+            id: "S1",
+            variant_id: "1",
+            name: "30ml",
+            in_stock: "1",
+          },
+        ],
+      },
     },
     title: "Lakmé",
     subTitle: "9 to 5 Primer + Serum Foundation",
@@ -20941,7 +21370,7 @@ export const cosmetics = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
 
   {
@@ -20952,11 +21381,20 @@ export const cosmetics = [
     discount: 33,
     type: "simple",
     categoryId: ["203"],
-    imageUrl: "https://www.facescanada.com/cdn/shop/products/UltimeProHDDeepBlackOneStrokeKajal_PDP_New_1024x1024.jpg?v=1648556089",
+    imageUrl:
+      "https://www.facescanada.com/cdn/shop/products/UltimeProHDDeepBlackOneStrokeKajal_PDP_New_1024x1024.jpg?v=1648556089",
     plp_pdp_bridge: {
-      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.facescanada.com/cdn/shop/products/ultimate-pro-intense-gel-kajal-black_800x.jpg", aspect_ratio: "0.75" }],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.facescanada.com/cdn/shop/products/ultimate-pro-intense-gel-kajal-black_800x.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Faces Canada",
     subTitle: "Ultimate Pro Intense Gel Kajal – Black",
@@ -20967,10 +21405,17 @@ export const cosmetics = [
     actionUrl: "/kajal/p/COS003",
     aspectRatio: 0.75,
     sibling_colour_codes: [],
-    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF" }],
-    dynamic_text: {}
+    tag: [
+      {
+        title: "BEST SELLER",
+        titleColor: "#142536",
+        bgColor: "#ebf4ff",
+        borderColor: "#C5DDFF",
+      },
+    ],
+    dynamic_text: {},
   },
-   {
+  {
     id: "COS107",
     sku: "COSBLU107",
     price: 699,
@@ -20978,11 +21423,20 @@ export const cosmetics = [
     discount: 21,
     type: "simple",
     categoryId: ["207"],
-    imageUrl: "https://m.media-amazon.com/images/I/71WgqhCwq2L._AC_UF1000,1000_QL80_.jpg",
+    imageUrl:
+      "https://m.media-amazon.com/images/I/71WgqhCwq2L._AC_UF1000,1000_QL80_.jpg",
     plp_pdp_bridge: {
-      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.swissbeauty.in/cdn/shop/products/blusher_800x.jpg", aspect_ratio: "0.75" }],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.swissbeauty.in/cdn/shop/products/blusher_800x.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Swiss Beauty",
     subTitle: "Professional Blusher Palette",
@@ -20994,7 +21448,7 @@ export const cosmetics = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
   {
     id: "COS108",
@@ -21004,11 +21458,20 @@ export const cosmetics = [
     discount: 19,
     type: "simple",
     categoryId: ["208"],
-    imageUrl: "https://www.sugarcosmetics.com/cdn/shop/files/Contour-De-Force-Face-Palette-Gift-8.jpg?v=1768134081&width=1080",
+    imageUrl:
+      "https://www.sugarcosmetics.com/cdn/shop/files/Contour-De-Force-Face-Palette-Gift-8.jpg?v=1768134081&width=1080",
     plp_pdp_bridge: {
-      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.sugarcosmetics.com/cdn/shop/products/highlighter_800x.jpg", aspect_ratio: "0.75" }],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.sugarcosmetics.com/cdn/shop/products/highlighter_800x.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "SUGAR Cosmetics",
     subTitle: "Contour De Force Highlighter",
@@ -21020,9 +21483,9 @@ export const cosmetics = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
-   {
+  {
     id: "COS106",
     sku: "COSEYE106",
     price: 399,
@@ -21030,11 +21493,20 @@ export const cosmetics = [
     discount: 25,
     type: "simple",
     categoryId: ["206"],
-    imageUrl: "https://media-uk.landmarkshops.in/cdn-cgi/image/h=1125,w=1125,q=85,fit=cover/lifestyle/1000009928385-1000009928384-1_010-2100.jpg",
+    imageUrl:
+      "https://media-uk.landmarkshops.in/cdn-cgi/image/h=1125,w=1125,q=85,fit=cover/lifestyle/1000009928385-1000009928384-1_010-2100.jpg",
     plp_pdp_bridge: {
-      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.lakmeindia.com/cdn/shop/products/eyeconic-eyeliner-black_800x.jpg", aspect_ratio: "0.75" }],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.lakmeindia.com/cdn/shop/products/eyeconic-eyeliner-black_800x.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Lakmé",
     subTitle: "Eyeconic Liquid Eyeliner",
@@ -21046,7 +21518,7 @@ export const cosmetics = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
   {
     id: "COS006",
@@ -21056,11 +21528,20 @@ export const cosmetics = [
     discount: 21,
     type: "simple",
     categoryId: ["204"],
-    imageUrl: "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/eye-makeup/mascara/lash-sensational-washable-mascara/lash_laydown_v2.jpg?rev=c64ac795f6a0440f8a193b89a27f7151&cx=0&cy=0&cw=760&ch=1130&hash=F2B580944E3378A0EB678A2EC65201B6",
+    imageUrl:
+      "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/eye-makeup/mascara/lash-sensational-washable-mascara/lash_laydown_v2.jpg?rev=c64ac795f6a0440f8a193b89a27f7151&cx=0&cy=0&cw=760&ch=1130&hash=F2B580944E3378A0EB678A2EC65201B6",
     plp_pdp_bridge: {
-      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/eye/makeup/mascara/lash-sensational/lash-sensational-mascara.jpg", aspect_ratio: "0.75" }],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/eye/makeup/mascara/lash-sensational/lash-sensational-mascara.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Maybelline",
     subTitle: "Lash Sensational Mascara",
@@ -21072,7 +21553,7 @@ export const cosmetics = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
   {
     id: "COS007",
@@ -21082,11 +21563,20 @@ export const cosmetics = [
     discount: 25,
     type: "simple",
     categoryId: ["303"],
-    imageUrl: "https://sfycdn.speedsize.com/56385b25-4e17-4a9a-9bec-c421c18686fb/https://beminimalist.co/cdn/shop/files/Nia10New.png?v=1721398127&width=480",
+    imageUrl:
+      "https://sfycdn.speedsize.com/56385b25-4e17-4a9a-9bec-c421c18686fb/https://beminimalist.co/cdn/shop/files/Nia10New.png?v=1721398127&width=480",
     plp_pdp_bridge: {
-      images: [{ id: 1, mediaType: "image", position: "1", url: "https://minimalist.co.in/cdn/shop/products/niacinamide-10-serum_800x.jpg", aspect_ratio: "0.75" }],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://minimalist.co.in/cdn/shop/products/niacinamide-10-serum_800x.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Minimalist",
     subTitle: "10% Niacinamide Face Serum",
@@ -21098,7 +21588,7 @@ export const cosmetics = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
   {
     id: "COS008",
@@ -21108,11 +21598,20 @@ export const cosmetics = [
     discount: 30,
     type: "simple",
     categoryId: ["401"],
-    imageUrl: "https://images.jdmagicbox.com/quickquotes/images_main/loreal-paris-extraordinary-oil-serum-100-ml-239575235-ebom8g5a.jpg",
+    imageUrl:
+      "https://images.jdmagicbox.com/quickquotes/images_main/loreal-paris-extraordinary-oil-serum-100-ml-239575235-ebom8g5a.jpg",
     plp_pdp_bridge: {
-      images: [{ id: 1, mediaType: "image", position: "1", url: "https://www.lorealparis.co.in/-/media/project/loreal/brand-sites/oap/apac/in/products/extraordinary-oil-serum/extraordinary-oil-serum-100ml.png", aspect_ratio: "0.75" }],
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.lorealparis.co.in/-/media/project/loreal/brand-sites/oap/apac/in/products/extraordinary-oil-serum/extraordinary-oil-serum-100ml.png",
+          aspect_ratio: "0.75",
+        },
+      ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "L'Oréal Paris",
     subTitle: "Extraordinary Oil Hair Serum",
@@ -21124,15 +21623,11 @@ export const cosmetics = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
-  }
+    dynamic_text: {},
+  },
 ];
 
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Skincare
 export const skincare = [
   {
     id: "SKIN001",
@@ -21142,13 +21637,20 @@ export const skincare = [
     discount: 25,
     type: "simple",
     categoryId: ["301"],
-    imageUrl: "https://www.pinkroot.in/cdn/shop/files/81RfLSfzSAL._SL1500.jpg?v=1714916104&width=1946",
+    imageUrl:
+      "https://www.pinkroot.in/cdn/shop/files/81RfLSfzSAL._SL1500.jpg?v=1714916104&width=1946",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://plumgoodness.com/cdn/shop/products/green-tea-face-wash_800x.jpg", aspect_ratio: "0.75" }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://plumgoodness.com/cdn/shop/products/green-tea-face-wash_800x.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Plum",
     subTitle: "Green Tea Pore Cleansing Face Wash",
@@ -21159,8 +21661,15 @@ export const skincare = [
     actionUrl: "/green-tea-face-wash/p/SKIN001",
     aspectRatio: 0.75,
     sibling_colour_codes: [],
-    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF" }],
-    dynamic_text: {}
+    tag: [
+      {
+        title: "BEST SELLER",
+        titleColor: "#142536",
+        bgColor: "#ebf4ff",
+        borderColor: "#C5DDFF",
+      },
+    ],
+    dynamic_text: {},
   },
 
   {
@@ -21171,13 +21680,20 @@ export const skincare = [
     discount: 25,
     type: "simple",
     categoryId: ["303"],
-    imageUrl: "https://m.media-amazon.com/images/I/51fo5Cdx4YL._AC_UF1000,1000_QL80_.jpg",
+    imageUrl:
+      "https://m.media-amazon.com/images/I/51fo5Cdx4YL._AC_UF1000,1000_QL80_.jpg",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://minimalist.co.in/cdn/shop/products/niacinamide-10-serum_800x.jpg", aspect_ratio: "0.75" }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://minimalist.co.in/cdn/shop/products/niacinamide-10-serum_800x.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Minimalist",
     subTitle: "10% Niacinamide Face Serum",
@@ -21189,7 +21705,7 @@ export const skincare = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
 
   {
@@ -21200,13 +21716,20 @@ export const skincare = [
     discount: 30,
     type: "simple",
     categoryId: ["304"],
-    imageUrl: "https://www.vridhistores.com/uploads/2025/Apr/products/17450479962413.jpg",
+    imageUrl:
+      "https://www.vridhistores.com/uploads/2025/Apr/products/17450479962413.jpg",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.nivea.in/-/media/nivea/products/face/nivea-soft-cream.jpg", aspect_ratio: "0.75" }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.nivea.in/-/media/nivea/products/face/nivea-soft-cream.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Nivea",
     subTitle: "Soft Light Moisturizing Cream",
@@ -21218,7 +21741,7 @@ export const skincare = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
 
   {
@@ -21232,10 +21755,16 @@ export const skincare = [
     imageUrl: "https://m.media-amazon.com/images/I/61r7v2ziqPL.jpg",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://dermaco.in/cdn/shop/products/1_9eaf9c58-7d6a-4f5d-9c3c-8b3e5f4d5a3e_800x.jpg", aspect_ratio: "0.75" }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://dermaco.in/cdn/shop/products/1_9eaf9c58-7d6a-4f5d-9c3c-8b3e5f4d5a3e_800x.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "The Derma Co",
     subTitle: "1% Hyaluronic Sunscreen SPF 50 PA++++",
@@ -21246,8 +21775,15 @@ export const skincare = [
     actionUrl: "/spf-50-sunscreen/p/SKIN004",
     aspectRatio: 0.75,
     sibling_colour_codes: [],
-    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF" }],
-    dynamic_text: {}
+    tag: [
+      {
+        title: "BEST SELLER",
+        titleColor: "#142536",
+        bgColor: "#ebf4ff",
+        borderColor: "#C5DDFF",
+      },
+    ],
+    dynamic_text: {},
   },
 
   {
@@ -21261,10 +21797,16 @@ export const skincare = [
     imageUrl: "https://m.media-amazon.com/images/I/5109bKDejxL.jpg",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.simple.co.uk/sk-eu/content/dam/brands/simple/global_use/1269225-simple-soothing-facial-toner.jpg", aspect_ratio: "0.75" }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.simple.co.uk/sk-eu/content/dam/brands/simple/global_use/1269225-simple-soothing-facial-toner.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Simple",
     subTitle: "Soothing Facial Toner",
@@ -21276,7 +21818,7 @@ export const skincare = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
 
   {
@@ -21287,13 +21829,20 @@ export const skincare = [
     discount: 21,
     type: "simple",
     categoryId: ["306"],
-    imageUrl: "https://www.mcaffeine.com/cdn/shop/files/clay-face-mask.jpg?v=1765793669&width=533",
+    imageUrl:
+      "https://www.mcaffeine.com/cdn/shop/files/clay-face-mask.jpg?v=1765793669&width=533",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.mcaffeine.com/cdn/shop/products/clay-mask_800x.jpg", aspect_ratio: "0.75" }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.mcaffeine.com/cdn/shop/products/clay-mask_800x.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "mCaffeine",
     subTitle: "Coffee Clay Face Mask",
@@ -21305,7 +21854,7 @@ export const skincare = [
     aspectRatio: 0.75,
     sibling_colour_codes: [],
     tag: [],
-    dynamic_text: {}
+    dynamic_text: {},
   },
 
   {
@@ -21316,13 +21865,20 @@ export const skincare = [
     discount: 28,
     type: "simple",
     categoryId: ["301"],
-    imageUrl: "https://www.clickoncare.com/cdn/shop/files/Cetaphil-Gentle-Skin-Cleanser125ml01.jpg?v=1685184569",
+    imageUrl:
+      "https://www.clickoncare.com/cdn/shop/files/Cetaphil-Gentle-Skin-Cleanser125ml01.jpg?v=1685184569",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.cetaphil.co.in/on/demandware.static/-/Sites-galderma-in-Library/default/dw8c0a6d5f/cetaphil-gentle-skin-cleanser.jpg", aspect_ratio: "0.75" }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.cetaphil.co.in/on/demandware.static/-/Sites-galderma-in-Library/default/dw8c0a6d5f/cetaphil-gentle-skin-cleanser.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
       siblings_colour: [],
-      variants: {}
+      variants: {},
     },
     title: "Cetaphil",
     subTitle: "Gentle Skin Cleanser",
@@ -21333,16 +21889,19 @@ export const skincare = [
     actionUrl: "/gentle-cleanser/p/SKIN007",
     aspectRatio: 0.75,
     sibling_colour_codes: [],
-    tag: [{ title: "BEST SELLER", titleColor: "#142536", bgColor: "#ebf4ff", borderColor: "#C5DDFF" }],
-    dynamic_text: {}
-  }
+    tag: [
+      {
+        title: "BEST SELLER",
+        titleColor: "#142536",
+        bgColor: "#ebf4ff",
+        borderColor: "#C5DDFF",
+      },
+    ],
+    dynamic_text: {},
+  },
 ];
 
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Sale
 export const sale = [
   // ---- KURTIS ----
   {
@@ -21352,17 +21911,42 @@ export const sale = [
     discountedPrice: 1499,
     discount: 40,
     type: "configurable",
-    categoryId: ["102","3528"],
-    imageUrl: "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
+    categoryId: ["102", "3528"],
+    imageUrl:
+      "https://varanga.in/cdn/shop/files/1_4161ba5c-3e86-4f91-8363-a7b484736edf.jpg?v=1688620188",
     plp_pdp_bridge: {
       variants: {
         size: [
-          { sku: "KURTI0001-S", id: "S1", variant_id: "1", name: "S", in_stock: "1" },
-          { sku: "KURTI0001-M", id: "S2", variant_id: "2", name: "M", in_stock: "1" },
-          { sku: "KURTI0001-L", id: "S3", variant_id: "3", name: "L", in_stock: "1" },
-          { sku: "KURTI0001-XL", id: "S4", variant_id: "4", name: "XL", in_stock: "1" }
-        ]
-      }
+          {
+            sku: "KURTI0001-S",
+            id: "S1",
+            variant_id: "1",
+            name: "S",
+            in_stock: "1",
+          },
+          {
+            sku: "KURTI0001-M",
+            id: "S2",
+            variant_id: "2",
+            name: "M",
+            in_stock: "1",
+          },
+          {
+            sku: "KURTI0001-L",
+            id: "S3",
+            variant_id: "3",
+            name: "L",
+            in_stock: "1",
+          },
+          {
+            sku: "KURTI0001-XL",
+            id: "S4",
+            variant_id: "4",
+            name: "XL",
+            in_stock: "1",
+          },
+        ],
+      },
     },
     title: "Floral Printed Straight Kurti",
     subTitle: "Cotton Daily Wear Kurti",
@@ -21371,11 +21955,11 @@ export const sale = [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
+      { title: "XL", id: "S4" },
     ],
     actionUrl: "/pink-floral-straight-kurti/p/KURTIS001",
     aspectRatio: 0.75,
-    tag: [{ title: "SALE" }]
+    tag: [{ title: "SALE" }],
   },
 
   {
@@ -21390,9 +21974,9 @@ export const sale = [
         size: [
           { sku: "KURTI0003-S", id: "S1", name: "S", in_stock: "1" },
           { sku: "KURTI0003-M", id: "S2", name: "M", in_stock: "1" },
-          { sku: "KURTI0003-L", id: "S3", name: "L", in_stock: "1" }
-        ]
-      }
+          { sku: "KURTI0003-L", id: "S3", name: "L", in_stock: "1" },
+        ],
+      },
     },
     title: "Mustard Yellow Solid A-Line Kurti",
     subTitle: "Casual A-Line Kurti",
@@ -21400,11 +21984,11 @@ export const sale = [
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
+      { title: "L", id: "S3" },
     ],
     actionUrl: "/mustard-a-line-kurti/p/KURTIS003",
     aspectRatio: 0.75,
-    tag: [{ title: "SALE" }]
+    tag: [{ title: "SALE" }],
   },
 
   // ---- ABAYAS ----
@@ -21414,25 +21998,26 @@ export const sale = [
     price: 3599,
     discountedPrice: 2199,
     discount: 39,
-    imageUrl: "https://in.islamicdesignhouse.com/cdn/shop/files/1_b3cb469b-8241-480c-a130-4bfaddcbaee9.jpg?v=1757054845",
+    imageUrl:
+      "https://in.islamicdesignhouse.com/cdn/shop/files/1_b3cb469b-8241-480c-a130-4bfaddcbaee9.jpg?v=1757054845",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "ABAYA0005-S", id: "S1", name: "S", in_stock: "1" },
-          { sku: "ABAYA0005-M", id: "S2", name: "M", in_stock: "1" }
-        ]
-      }
+          { sku: "ABAYA0005-M", id: "S2", name: "M", in_stock: "1" },
+        ],
+      },
     },
     title: "Contrast Piping Open Abaya",
     subTitle: "Modern Modest Wear",
     isOutOfStock: 0,
     sizeVariation: [
       { title: "S", id: "S1" },
-      { title: "M", id: "S2" }
+      { title: "M", id: "S2" },
     ],
     actionUrl: "/contrast-piping-abaya/p/ABAYA005",
     aspectRatio: 0.75,
-    tag: [{ title: "SALE" }]
+    tag: [{ title: "SALE" }],
   },
 
   {
@@ -21441,13 +22026,14 @@ export const sale = [
     price: 5199,
     discountedPrice: 3499,
     discount: 33,
-    imageUrl: "https://mariam-col.com/cdn/shop/files/satin-abaya-with-matching-belt-made-of-diamond-tassel-moa010-207114.jpg?v=1747777494&width=1200",
+    imageUrl:
+      "https://mariam-col.com/cdn/shop/files/satin-abaya-with-matching-belt-made-of-diamond-tassel-moa010-207114.jpg?v=1747777494&width=1200",
     title: "Heavy Embellished Wedding Abaya",
     subTitle: "Premium Bridal Abaya",
     isOutOfStock: 0,
     actionUrl: "/wedding-embellished-abaya/p/ABAYA009",
     aspectRatio: 0.75,
-    tag: [{ title: "SALE" }]
+    tag: [{ title: "SALE" }],
   },
 
   // ---- DRESSES ----
@@ -21457,15 +22043,16 @@ export const sale = [
     price: 2999,
     discountedPrice: 1799,
     discount: 40,
-    imageUrl: "https://pinnacleshruti.com/cdn/shop/files/Shruti_170.jpg?v=1741086306&width=2048",
+    imageUrl:
+      "https://pinnacleshruti.com/cdn/shop/files/Shruti_170.jpg?v=1741086306&width=2048",
     plp_pdp_bridge: {
       variants: {
         size: [
           { sku: "DRESS0003-S", id: "S1", name: "S", in_stock: "1" },
           { sku: "DRESS0003-M", id: "S2", name: "M", in_stock: "1" },
-          { sku: "DRESS0003-L", id: "S3", name: "L", in_stock: "1" }
-        ]
-      }
+          { sku: "DRESS0003-L", id: "S3", name: "L", in_stock: "1" },
+        ],
+      },
     },
     title: "Tiered Maxi Dress",
     subTitle: "Flowy Maxi Dress",
@@ -21473,11 +22060,11 @@ export const sale = [
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
+      { title: "L", id: "S3" },
     ],
     actionUrl: "/mustard-tiered-maxi-dress/p/DRESS003",
     aspectRatio: 0.75,
-    tag: [{ title: "SALE" }]
+    tag: [{ title: "SALE" }],
   },
 
   // ---- INDIAN WEAR ----
@@ -21488,10 +22075,12 @@ export const sale = [
     discountedPrice: 1969,
     discount: 61,
     type: "simple",
-    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_1.jpg?rnd=20200526195200",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/5/b51bb3fBITTI605JR_1.jpg?rnd=20200526195200",
     title: "Akhilam",
-    subTitle: "Womens Georgette Black Embellished Designer Saree with Unstitched Blouse",
-    tag: [{ title: "SALE" }]
+    subTitle:
+      "Womens Georgette Black Embellished Designer Saree with Unstitched Blouse",
+    tag: [{ title: "SALE" }],
   },
 
   {
@@ -21501,19 +22090,15 @@ export const sale = [
     discountedPrice: 2880,
     discount: 76,
     type: "configurable",
-    imageUrl: "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_1.jpg?rnd=20200526195200",
+    imageUrl:
+      "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5ba4ae9AHIKA00001366_1.jpg?rnd=20200526195200",
     title: "Vaamsi",
     subTitle: "Women Yellow Silk Blend Embroidered Flared Kurta (Set of 3)",
-    tag: [{ title: "SALE" }]
-  }
+    tag: [{ title: "SALE" }],
+  },
 ];
 
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-
+// Corsets
 export const corsetProducts = [
   {
     id: "18245101",
@@ -21528,19 +22113,42 @@ export const corsetProducts = [
     subTitle: "Women Black Satin Lace-Up Corset Top",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://mediahub.boohoo.com/m5063552018430_black_xl.jpeg?qlt=70&w=549&ssz=true&dpr=2", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://mediahub.boohoo.com/m5063552018430_black_xl_1.jpeg?qlt=70&w=549&ssz=true&dpr=2", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://mediahub.boohoo.com/m5063552018430_black_xl_2.jpeg?qlt=70&w=549&ssz=true&dpr=2", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "3", url: "https://mediahub.boohoo.com/m5063552018430_black_xl_3.jpeg?qlt=70&w=549&ssz=true&dpr=2", aspect_ratio: "0.75" },
-      
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://mediahub.boohoo.com/m5063552018430_black_xl.jpeg?qlt=70&w=549&ssz=true&dpr=2",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://mediahub.boohoo.com/m5063552018430_black_xl_1.jpeg?qlt=70&w=549&ssz=true&dpr=2",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://mediahub.boohoo.com/m5063552018430_black_xl_2.jpeg?qlt=70&w=549&ssz=true&dpr=2",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "3",
+          url: "https://mediahub.boohoo.com/m5063552018430_black_xl_3.jpeg?qlt=70&w=549&ssz=true&dpr=2",
+          aspect_ratio: "0.75",
+        },
       ],
     },
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21556,20 +22164,49 @@ export const corsetProducts = [
     subTitle: "Women White Boned Corset Crop Top",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://cdn-img.prettylittlething.com/a/4/8/9/a489bf595384b7088eef84574e79a5ed1893d311_CMT7584_1_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://cdn-img.prettylittlething.com/8/3/f/e/83fedf790b23a646314a6262c126afb29625e4ab_CMT7584_2_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://cdn-img.prettylittlething.com/9/1/9/b/919b1d1c0d68406fb3a499322c487e3b3511b325_CMT7584_3_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "2", url: "https://cdn-img.prettylittlething.com/9/5/4/d/954d9e6771ea8ab2cf5877ff26e925f14fd83ed1_CMT7584_4_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "3", url: "https://cdn-img.prettylittlething.com/e/1/f/f/e1ffe89608f315bb7db5a0995ad4a933c350ca81_CMT7584_5_shape_white_woven_corset_crop_top.jpg?imwidth=600", aspect_ratio: "0.75" },
-      
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://cdn-img.prettylittlething.com/a/4/8/9/a489bf595384b7088eef84574e79a5ed1893d311_CMT7584_1_shape_white_woven_corset_crop_top.jpg?imwidth=600",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://cdn-img.prettylittlething.com/8/3/f/e/83fedf790b23a646314a6262c126afb29625e4ab_CMT7584_2_shape_white_woven_corset_crop_top.jpg?imwidth=600",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://cdn-img.prettylittlething.com/9/1/9/b/919b1d1c0d68406fb3a499322c487e3b3511b325_CMT7584_3_shape_white_woven_corset_crop_top.jpg?imwidth=600",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "2",
+          url: "https://cdn-img.prettylittlething.com/9/5/4/d/954d9e6771ea8ab2cf5877ff26e925f14fd83ed1_CMT7584_4_shape_white_woven_corset_crop_top.jpg?imwidth=600",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "3",
+          url: "https://cdn-img.prettylittlething.com/e/1/f/f/e1ffe89608f315bb7db5a0995ad4a933c350ca81_CMT7584_5_shape_white_woven_corset_crop_top.jpg?imwidth=600",
+          aspect_ratio: "0.75",
+        },
       ],
     },
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21585,21 +22222,56 @@ export const corsetProducts = [
     subTitle: "Women Beige Stretch Fit Corset Top",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_1.jpg?v=1682948998", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_2.jpg?v=1682948998", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "1", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_3.jpg?v=1682948998", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "2", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_4.jpg?v=1682948998", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "1", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_5.jpg?v=1682948998", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "2", url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_6.jpg?v=1682948998", aspect_ratio: "0.75" },
-      
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_1.jpg?v=1682948998",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_2.jpg?v=1682948998",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "1",
+          url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_3.jpg?v=1682948998",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "2",
+          url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_4.jpg?v=1682948998",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "1",
+          url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_5.jpg?v=1682948998",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "2",
+          url: "https://allyfashion.com/cdn/shop/products/wc9062-47w_camel_6.jpg?v=1682948998",
+          aspect_ratio: "0.75",
+        },
       ],
     },
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21613,12 +22285,12 @@ export const corsetProducts = [
       "https://cdn.shopify.com/s/files/1/0293/9277/files/01-02-25_S2_2_GW24K2141_Red_KJ_IM_09-37-52_28015_BH.jpg?v=1736536886&width=1400&height=2096&crop=centerhttps://cdn-img.prettylittlething.com/3/3/7/1/33717375c3a3541ac393167b4b8cdcbf9a3c3cff_cnl7475_1.jpg?imwidth=600https://cdn11.bigcommerce.com/s-4p4rz5nl/products/10445/images/168451/Strapless_Lace_Draped_Corset_Dress_Red_7_-_Dreamitwearit.com__21091.1700668798.470.626.jpg?c=2",
     title: "Femme Luxe",
     subTitle: "Women Red Party Wear Corset Top",
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21632,12 +22304,12 @@ export const corsetProducts = [
       "https://cdn-img.prettylittlething.com/2/a/d/6/2ad6ff663b06437d43a62151aac02f5dc626523c_cnb6560_1.jpg",
     title: "Street Chic",
     subTitle: "Women Blue Denim Corset Top",
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21653,30 +22325,126 @@ export const corsetProducts = [
     subTitle: "Women Olive Green Structured Corset",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254905_copy_cfdcd65d-bf2d-4b80-b8d9-e28a84cb4733.jpg?v=1761049946&width=713", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254822_copy_1.jpg?v=1761049946&width=713", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254835_copy.jpg?v=1761049946&width=713", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254824_copy.jpg?v=1750981346&width=713", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "1", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254826_copy.jpg?v=1750981346&width=493", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "2", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254829_copy.jpg?v=1750981346&width=493", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "3", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254830_copy.jpg?v=1750981346&width=493", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254832_copy.jpg?v=1750981345&width=493", aspect_ratio: "0.75" },
-        { id: 9, mediaType: "image", position: "1", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254853_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
-        { id: 10, mediaType: "image", position: "2", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254854_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
-        { id: 11, mediaType: "image", position: "3", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254865_copy.jpg?v=1750942557&width=493", aspect_ratio: "0.75" },
-        { id: 12, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254875_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
-        { id: 13, mediaType: "image", position: "1", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254892_copy_1.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
-        { id: 14, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254928_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
-        { id: 15, mediaType: "image", position: "3", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254937_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },
-        { id: 16, mediaType: "image", position: "4", url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254844_copy.jpg?v=1761049946&width=493", aspect_ratio: "0.75" },     
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254905_copy_cfdcd65d-bf2d-4b80-b8d9-e28a84cb4733.jpg?v=1761049946&width=713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254822_copy_1.jpg?v=1761049946&width=713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254835_copy.jpg?v=1761049946&width=713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254824_copy.jpg?v=1750981346&width=713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254826_copy.jpg?v=1750981346&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254829_copy.jpg?v=1750981346&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254830_copy.jpg?v=1750981346&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254832_copy.jpg?v=1750981345&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 9,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254853_copy.jpg?v=1761049946&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 10,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254854_copy.jpg?v=1761049946&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 11,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254865_copy.jpg?v=1750942557&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 12,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254875_copy.jpg?v=1761049946&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 13,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254892_copy_1.jpg?v=1761049946&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 14,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254928_copy.jpg?v=1761049946&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 15,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254937_copy.jpg?v=1761049946&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 16,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.truewest.in/cdn/shop/files/TRUE_WEST_20254844_copy.jpg?v=1761049946&width=493",
+          aspect_ratio: "0.75",
+        },
       ],
     },
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21686,16 +22454,15 @@ export const corsetProducts = [
     discountedPrice: 1599,
     discount: 45,
     type: "configurable",
-    imageUrl:
-      "https://m.media-amazon.com/images/I/61IgncDgshL._AC_UY1100_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61IgncDgshL._AC_UY1100_.jpg",
     title: "Pink Theory",
     subTitle: "Women Blush Pink Ribbed Corset Top",
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21709,12 +22476,12 @@ export const corsetProducts = [
       "https://cdn.shopify.com/s/files/1/0070/8853/7651/files/06003-2642_1_BROWN_BoldlyChicFauxLeatherCroppedCorset.webp?v=1729221557",
     title: "Noir Edit",
     subTitle: "Women Brown Faux Leather Corset",
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21730,20 +22497,49 @@ export const corsetProducts = [
     subTitle: "Women Floral Printed Corset Top",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/TyT4/67176a10f9b8ef490bd31d2a/-1117Wx1400H-700625659-multi-MODEL.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/RHuG/67176a10f9b8ef490bd31d61/-1117Wx1400H-700625659-multi-MODEL2.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/Ou2O/67176a17f9b8ef490bd31e3f/-1117Wx1400H-700625659-multi-MODEL4.jpg", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/5lgs/67176a17f9b8ef490bd31e34/-1117Wx1400H-700625659-multi-MODEL5.jpg", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/yfRa/67176a17f9b8ef490bd31e3d/-1117Wx1400H-700625659-multi-MODEL6.jpg", aspect_ratio: "0.75" },
-        
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/TyT4/67176a10f9b8ef490bd31d2a/-1117Wx1400H-700625659-multi-MODEL.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/RHuG/67176a10f9b8ef490bd31d61/-1117Wx1400H-700625659-multi-MODEL2.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/Ou2O/67176a17f9b8ef490bd31e3f/-1117Wx1400H-700625659-multi-MODEL4.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/5lgs/67176a17f9b8ef490bd31e34/-1117Wx1400H-700625659-multi-MODEL5.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20241022/yfRa/67176a17f9b8ef490bd31e3d/-1117Wx1400H-700625659-multi-MODEL6.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
     },
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21753,35 +22549,65 @@ export const corsetProducts = [
     discountedPrice: 2199,
     discount: 40,
     type: "configurable",
-    imageUrl:
-      "https://m.media-amazon.com/images/I/71G3GPep6OL._SY550_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71G3GPep6OL._SY550_.jpg",
     title: "Vogue Line",
     subTitle: "Women Black Strappy Party Corset",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://m.media-amazon.com/images/I/619riXtxenL._SY741_.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://m.media-amazon.com/images/I/71ZHpUIJaoL._SY550_.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://m.media-amazon.com/images/I/71f-Cj0-UFL._SY550_.jpg", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://m.media-amazon.com/images/I/71aR7p2+WkL._SY550_.jpg", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://m.media-amazon.com/images/I/71lYIoDSfVL._SY550_.jpg", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://m.media-amazon.com/images/I/71G3GPep6OL._SY550_.jpg", aspect_ratio: "0.75" },
-      
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://m.media-amazon.com/images/I/619riXtxenL._SY741_.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://m.media-amazon.com/images/I/71ZHpUIJaoL._SY550_.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://m.media-amazon.com/images/I/71f-Cj0-UFL._SY550_.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://m.media-amazon.com/images/I/71aR7p2+WkL._SY550_.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://m.media-amazon.com/images/I/71lYIoDSfVL._SY550_.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://m.media-amazon.com/images/I/71G3GPep6OL._SY550_.jpg",
+          aspect_ratio: "0.75",
+        },
       ],
     },
-     sizeVariation: [
-    { title: "S",  id: "S1" },
-    { title: "M",  id: "S2" },
-    { title: "L",  id: "S3" },
-    { title: "XL", id: "S4" }
-  ],
+    sizeVariation: [
+      { title: "S", id: "S1" },
+      { title: "M", id: "S2" },
+      { title: "L", id: "S3" },
+      { title: "XL", id: "S4" },
+    ],
   },
 ];
 
-
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Coord Sets
 export const coordSetProducts = [
   {
     id: "19000101",
@@ -21790,28 +22616,76 @@ export const coordSetProducts = [
     discountedPrice: 2799,
     discount: 44,
     type: "configurable",
-    imageUrl: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10291009_1_1800x1800.jpg?v=1703277713",
+    imageUrl:
+      "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10291009_1_1800x1800.jpg?v=1703277713",
     title: "Shifa Studio",
     subTitle: "Women Beige Linen Co-Ord Set With Crop Top & Wide Pants",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10291009_1_1800x1800.jpg?v=1703277713", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10301009_1_1800x1800.jpg?v=1703251850", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XL_10301013_1_1800x1800.jpg?v=1703251850", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_L_10301012_1_1800x1800.jpg?v=1703251850", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_S_10301010_1_1800x1800.jpg?v=1703251850", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_S_10291010_1_1800x1800.jpg?v=1703277713", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_L_10291012_1_1800x1800.jpg?v=1703277713", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XL_10291013_1_1800x1800.jpg?v=1703277708", aspect_ratio: "0.75" },
-        
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10291009_1_1800x1800.jpg?v=1703277713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XS_10301009_1_1800x1800.jpg?v=1703251850",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XL_10301013_1_1800x1800.jpg?v=1703251850",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_L_10301012_1_1800x1800.jpg?v=1703251850",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_S_10301010_1_1800x1800.jpg?v=1703251850",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_S_10291010_1_1800x1800.jpg?v=1703277713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_L_10291012_1_1800x1800.jpg?v=1703277713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://www.creaturesofhabit.in/cdn/shop/files/Ginger_XL_10291013_1_1800x1800.jpg?v=1703277708",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21821,26 +22695,69 @@ export const coordSetProducts = [
     discountedPrice: 2499,
     discount: 46,
     type: "configurable",
-    imageUrl: "https://showoffff.in/cdn/shop/files/CHN-670_Black_1_2343adec-ed1f-4465-bc3d-ee71f9a611e5.jpg?v=1734162982&width=1000",
+    imageUrl:
+      "https://showoffff.in/cdn/shop/files/CHN-670_Black_1_2343adec-ed1f-4465-bc3d-ee71f9a611e5.jpg?v=1734162982&width=1000",
     title: "Shifa Studio",
     subTitle: "Women Black Ribbed Knit Co-Ord Set With Top & Skirt",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_1_2343adec-ed1f-4465-bc3d-ee71f9a611e5.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_2_e5a5c141-e889-453d-b811-f9fabcbe6efe.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_3_825a5ab5-1b87-45d1-ab93-73ebbf6d66c9.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_4_7e4a3f84-f31f-4c8e-9fec-601795996df5.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_5_ac488254-807b-4867-8765-83869383b650.jpg?v=1734162982&width=1080", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_6_8c35d9af-8d27-4c1e-9156-a0cf3872fb20.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_7_c94670ce-adc8-43b0-933b-ad42c669fff6.jpg?v=1734162982&width=1000", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_1_2343adec-ed1f-4465-bc3d-ee71f9a611e5.jpg?v=1734162982&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_2_e5a5c141-e889-453d-b811-f9fabcbe6efe.jpg?v=1734162982&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_3_825a5ab5-1b87-45d1-ab93-73ebbf6d66c9.jpg?v=1734162982&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_4_7e4a3f84-f31f-4c8e-9fec-601795996df5.jpg?v=1734162982&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_5_ac488254-807b-4867-8765-83869383b650.jpg?v=1734162982&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_6_8c35d9af-8d27-4c1e-9156-a0cf3872fb20.jpg?v=1734162982&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://showoffff.in/cdn/shop/files/CHN-670_Black_7_c94670ce-adc8-43b0-933b-ad42c669fff6.jpg?v=1734162982&width=1000",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21850,24 +22767,55 @@ export const coordSetProducts = [
     discountedPrice: 2999,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://www.only.in/cdn/shop/files/213555501_g0.jpg?v=1745888828&width=700",
+    imageUrl:
+      "https://www.only.in/cdn/shop/files/213555501_g0.jpg?v=1745888828&width=700",
     title: "Shifa Studio",
     subTitle: "Women Olive Green Utility Co-Ord Set With Shirt & Cargo Pants",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.only.in/cdn/shop/files/213555501_g0.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.only.in/cdn/shop/files/213555501_g1.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.only.in/cdn/shop/files/213555501_g2.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.only.in/cdn/shop/files/213555501_g3.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://www.only.in/cdn/shop/files/213555501_g4.jpg?v=1745888828&width=700", aspect_ratio: "0.75" },
-        ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.only.in/cdn/shop/files/213555501_g0.jpg?v=1745888828&width=700",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.only.in/cdn/shop/files/213555501_g1.jpg?v=1745888828&width=700",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.only.in/cdn/shop/files/213555501_g2.jpg?v=1745888828&width=700",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.only.in/cdn/shop/files/213555501_g3.jpg?v=1745888828&width=700",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.only.in/cdn/shop/files/213555501_g4.jpg?v=1745888828&width=700",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21877,27 +22825,76 @@ export const coordSetProducts = [
     discountedPrice: 2699,
     discount: 45,
     type: "configurable",
-    imageUrl: "https://showoffff.in/cdn/shop/files/CHN-684_White_2_ec9f633e-26e4-4c65-bccc-dd0f31457490.jpg?v=1751545443&width=1000",
+    imageUrl:
+      "https://showoffff.in/cdn/shop/files/CHN-684_White_2_ec9f633e-26e4-4c65-bccc-dd0f31457490.jpg?v=1751545443&width=1000",
     title: "Shifa Studio",
     subTitle: "Women White Cotton Co-Ord Set With Oversized Shirt & Shorts",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_1_535b7338-cd1a-454c-8b73-6402d1920d15.jpg?v=1751545443&width=1000", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_2_ec9f633e-26e4-4c65-bccc-dd0f31457490.jpg?v=1751545443&width=1000", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_3_b94aa115-2da3-4705-986c-01cdb07bb826.jpg?v=1751545443&width=1000", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_4_0812efed-88ed-4e12-b172-1f79b264dd67.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_5_75a24269-8707-42c4-806c-9421af51decd.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_6_1e6f8f88-6464-4c78-afd6-78a923f06301.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_7_bec9c81b-0334-4367-85e8-192c030214a2.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "https://showoffff.in/cdn/shop/files/CHN-684_White_8_e02c73a2-f1ec-4652-a9ae-147db45e2acd.jpg?v=1751545444&width=1000", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://showoffff.in/cdn/shop/files/CHN-684_White_1_535b7338-cd1a-454c-8b73-6402d1920d15.jpg?v=1751545443&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://showoffff.in/cdn/shop/files/CHN-684_White_2_ec9f633e-26e4-4c65-bccc-dd0f31457490.jpg?v=1751545443&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://showoffff.in/cdn/shop/files/CHN-684_White_3_b94aa115-2da3-4705-986c-01cdb07bb826.jpg?v=1751545443&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://showoffff.in/cdn/shop/files/CHN-684_White_4_0812efed-88ed-4e12-b172-1f79b264dd67.jpg?v=1751545444&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://showoffff.in/cdn/shop/files/CHN-684_White_5_75a24269-8707-42c4-806c-9421af51decd.jpg?v=1751545444&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://showoffff.in/cdn/shop/files/CHN-684_White_6_1e6f8f88-6464-4c78-afd6-78a923f06301.jpg?v=1751545444&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://showoffff.in/cdn/shop/files/CHN-684_White_7_bec9c81b-0334-4367-85e8-192c030214a2.jpg?v=1751545444&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://showoffff.in/cdn/shop/files/CHN-684_White_8_e02c73a2-f1ec-4652-a9ae-147db45e2acd.jpg?v=1751545444&width=1000",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21907,27 +22904,76 @@ export const coordSetProducts = [
     discountedPrice: 3199,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_1_b1c4eaf2-dfb1-48fe-9912-ff233c287aea.jpg?v=1756456667&width=1000",
+    imageUrl:
+      "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_1_b1c4eaf2-dfb1-48fe-9912-ff233c287aea.jpg?v=1756456667&width=1000",
     title: "Shifa Studio",
     subTitle: "Women Blue Denim Co-Ord Set With Jacket & Straight Jeans",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_1_b1c4eaf2-dfb1-48fe-9912-ff233c287aea.jpg?v=1756456667&width=1000", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_2_b8a18579-6f7c-49e7-8a79-aedfd505c5be.jpg?v=1756456667&width=1000", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_3_ea002d37-d783-40ce-872b-e644654ef67d.jpg?v=1756456667&width=1080", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_4_b6c0ec1f-a765-4f05-af3b-94c68d2a6bfe.jpg?v=1756456667&width=1000", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_5_eb191856-a6dd-4da9-a401-ca5baeee5018.jpg?v=1756456667&width=1000", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_6_bc72904a-5889-4367-bf24-dea5b7f4d462.jpg?v=1756456668&width=1000", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_7_3ee0ebda-1258-494d-9a53-c498f4e939cf.jpg?v=1756456668&width=1000", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_8_4b3c8411-189b-49a6-b327-008bcf3d8f06.jpg?v=1756456668&width=1000", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_1_b1c4eaf2-dfb1-48fe-9912-ff233c287aea.jpg?v=1756456667&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_2_b8a18579-6f7c-49e7-8a79-aedfd505c5be.jpg?v=1756456667&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_3_ea002d37-d783-40ce-872b-e644654ef67d.jpg?v=1756456667&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_4_b6c0ec1f-a765-4f05-af3b-94c68d2a6bfe.jpg?v=1756456667&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_5_eb191856-a6dd-4da9-a401-ca5baeee5018.jpg?v=1756456667&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_6_bc72904a-5889-4367-bf24-dea5b7f4d462.jpg?v=1756456668&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_7_3ee0ebda-1258-494d-9a53-c498f4e939cf.jpg?v=1756456668&width=1000",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://showoffff.in/cdn/shop/files/IM-11440-84-83_Blue_8_4b3c8411-189b-49a6-b327-008bcf3d8f06.jpg?v=1756456668&width=1000",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21937,27 +22983,76 @@ export const coordSetProducts = [
     discountedPrice: 2599,
     discount: 46,
     type: "configurable",
-    imageUrl: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/bQJR/66a79a6f6f60443f31d533aa/-1117Wx1400H-700214955-brown-MODEL.jpg",
+    imageUrl:
+      "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/bQJR/66a79a6f6f60443f31d533aa/-1117Wx1400H-700214955-brown-MODEL.jpg",
     title: "Shifa Studio",
     subTitle: "Women Brown Satin Co-Ord Set With Shirt & Flared Pants",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/bQJR/66a79a6f6f60443f31d533aa/-1117Wx1400H-700214955-brown-MODEL.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/jGrV/66a79a6f6f60443f31d533e9/-1117Wx1400H-700214955-brown-MODEL2.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/xHke/66a79a6f6f60443f31d533e6/-1117Wx1400H-700214955-brown-MODEL3.jpg", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/ctv0/66a79a6f6f60443f31d533e7/-1117Wx1400H-700214955-brown-MODEL4.jpg", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/xQKl/66a79a756f60443f31d534ac/-1117Wx1400H-700214955-brown-MODEL5.jpg", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/GQ7o/66a79a756f60443f31d534ad/-1117Wx1400H-700214955-brown-MODEL6.jpg", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/YqsR/66a79a756f60443f31d534b6/-1117Wx1400H-700214955-brown-MODEL7.jpg", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/bQJR/66a79a6f6f60443f31d533aa/-1117Wx1400H-700214955-brown-MODEL.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/jGrV/66a79a6f6f60443f31d533e9/-1117Wx1400H-700214955-brown-MODEL2.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/xHke/66a79a6f6f60443f31d533e6/-1117Wx1400H-700214955-brown-MODEL3.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/ctv0/66a79a6f6f60443f31d533e7/-1117Wx1400H-700214955-brown-MODEL4.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/xQKl/66a79a756f60443f31d534ac/-1117Wx1400H-700214955-brown-MODEL5.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/GQ7o/66a79a756f60443f31d534ad/-1117Wx1400H-700214955-brown-MODEL6.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240729/YqsR/66a79a756f60443f31d534b6/-1117Wx1400H-700214955-brown-MODEL7.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21967,27 +23062,76 @@ export const coordSetProducts = [
     discountedPrice: 2399,
     discount: 47,
     type: "configurable",
-    imageUrl: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/rYpe/669921551d763220faef0f06/-1117Wx1400H-700205187-red-MODEL.jpg",
+    imageUrl:
+      "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/rYpe/669921551d763220faef0f06/-1117Wx1400H-700205187-red-MODEL.jpg",
     title: "Shifa Studio",
     subTitle: "Women Floral Printed Co-Ord Set With Crop Top & Palazzo",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/rYpe/669921551d763220faef0f06/-1117Wx1400H-700205187-red-MODEL.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/W4HA/669921551d763220faef0f4d/-1117Wx1400H-700205187-red-MODEL2.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/nwgd/669921551d763220faef0f44/-1117Wx1400H-700205187-red-MODEL3.jpg", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/6Z5q/669921551d763220faef0f58/-1117Wx1400H-700205187-red-MODEL4.jpg", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/tssz/669921551d763220faef0f48/-1117Wx1400H-700205187-red-MODEL5.jpg", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/ztdc/669921551d763220faef0f60/-1117Wx1400H-700205187-red-MODEL6.jpg", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/eBv8/669921551d763220faef0f4e/-1117Wx1400H-700205187-red-MODEL7.jpg", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/VTIM/669921551d763220faef0f4a/-1117Wx1400H-700205187-red-MODEL8.jpg", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/rYpe/669921551d763220faef0f06/-1117Wx1400H-700205187-red-MODEL.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/W4HA/669921551d763220faef0f4d/-1117Wx1400H-700205187-red-MODEL2.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/nwgd/669921551d763220faef0f44/-1117Wx1400H-700205187-red-MODEL3.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/6Z5q/669921551d763220faef0f58/-1117Wx1400H-700205187-red-MODEL4.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/tssz/669921551d763220faef0f48/-1117Wx1400H-700205187-red-MODEL5.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/ztdc/669921551d763220faef0f60/-1117Wx1400H-700205187-red-MODEL6.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/eBv8/669921551d763220faef0f4e/-1117Wx1400H-700205187-red-MODEL7.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240718/VTIM/669921551d763220faef0f4a/-1117Wx1400H-700205187-red-MODEL8.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -21997,23 +23141,48 @@ export const coordSetProducts = [
     discountedPrice: 2899,
     discount: 44,
     type: "configurable",
-    imageUrl: "https://media.very.co.uk/i/very/10B4I_SQ1_0000000005_GREY_MDf?$pdp_576x768_x2$&fmt=webp",
+    imageUrl:
+      "https://media.very.co.uk/i/very/10B4I_SQ1_0000000005_GREY_MDf?$pdp_576x768_x2$&fmt=webp",
     title: "Shifa Studio",
     subTitle: "Women Grey Lounge Co-Ord Set With Sweatshirt & Joggers",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://media.very.co.uk/i/very/10B4I_SQ1_0000000005_GREY_MDf?$pdp_576x768_x2$&fmt=webp", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://media.very.co.uk/i/very/10B4I_SQ3_0000000005_GREY_MDo?$pdp_1650x2199_hi_res$&fmt=webp", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://media.very.co.uk/i/very/10B4I_SQ4_0000000005_GREY_MDd?$pdp_1650x2199_hi_res$&fmt=webp", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://media.very.co.uk/i/very/10B4I_SQ5_0000000005_GREY_MDd1?$pdp_1650x2199_hi_res$&fmt=webp", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://media.very.co.uk/i/very/10B4I_SQ1_0000000005_GREY_MDf?$pdp_576x768_x2$&fmt=webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://media.very.co.uk/i/very/10B4I_SQ3_0000000005_GREY_MDo?$pdp_1650x2199_hi_res$&fmt=webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://media.very.co.uk/i/very/10B4I_SQ4_0000000005_GREY_MDd?$pdp_1650x2199_hi_res$&fmt=webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://media.very.co.uk/i/very/10B4I_SQ5_0000000005_GREY_MDd1?$pdp_1650x2199_hi_res$&fmt=webp",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22023,23 +23192,48 @@ export const coordSetProducts = [
     discountedPrice: 2799,
     discount: 44,
     type: "configurable",
-    imageUrl: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/eMs1/66cf52d56f60443f3138a5cd/-1117Wx1400H-700344020-pink-MODEL.jpg",
+    imageUrl:
+      "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/eMs1/66cf52d56f60443f3138a5cd/-1117Wx1400H-700344020-pink-MODEL.jpg",
     title: "Shifa Studio",
     subTitle: "Women Checked Regular Fit Blazer & Trousers Co-Ord Set",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/eMs1/66cf52d56f60443f3138a5cd/-1117Wx1400H-700344020-pink-MODEL.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/5EQe/66cf52d56f60443f3138a615/-1117Wx1400H-700344020-pink-MODEL2.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/XI2r/66cf52d56f60443f3138a60f/-1117Wx1400H-700344020-pink-MODEL3.jpg", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/5Bfp/66cf52d56f60443f3138a60b/-1117Wx1400H-700344020-pink-MODEL4.jpg", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/eMs1/66cf52d56f60443f3138a5cd/-1117Wx1400H-700344020-pink-MODEL.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/5EQe/66cf52d56f60443f3138a615/-1117Wx1400H-700344020-pink-MODEL2.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/XI2r/66cf52d56f60443f3138a60f/-1117Wx1400H-700344020-pink-MODEL3.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://assets-jiocdn.ajio.com/medias/sys_master/root/20240828/5Bfp/66cf52d56f60443f3138a60b/-1117Wx1400H-700344020-pink-MODEL4.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22049,32 +23243,73 @@ export const coordSetProducts = [
     discountedPrice: 3099,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_15.jpg?v=1745816712&width=800",
+    imageUrl:
+      "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_15.jpg?v=1745816712&width=800",
     title: "Shifa Studio",
     subTitle: "Women Black Party Co-Ord Set With Sequin Top & Pants",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_14.jpg?v=1698824363&width=800", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_15.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_13.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_12.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_11.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_10.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_9.jpg?v=1745816712&width=800", aspect_ratio: "0.75" },
-        ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_14.jpg?v=1698824363&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_15.jpg?v=1745816712&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_13.jpg?v=1745816712&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_12.jpg?v=1745816712&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_11.jpg?v=1745816712&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_10.jpg?v=1745816712&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://blanc9.com/cdn/shop/files/Blanc9BlackSequencePeplumTopWithTrouserBlackCo-OrdSets-B9ST138_9.jpg?v=1745816712&width=800",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
-  }
+      { title: "XL", id: "S4" },
+    ],
+  },
 ];
 
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+// Watches
 export const watches = [
   {
     id: "20000101",
@@ -22083,12 +23318,13 @@ export const watches = [
     discountedPrice: 3499,
     discount: 42,
     type: "simple",
-    imageUrl: "https://www.buyhautesauce.com/cdn/shop/files/1_a049e818-aa05-4f84-b11e-afd3f1e606b7.jpg?v=1735812930",
+    imageUrl:
+      "https://www.buyhautesauce.com/cdn/shop/files/1_a049e818-aa05-4f84-b11e-afd3f1e606b7.jpg?v=1735812930",
     title: "Shifa Studio",
     subTitle: "Women Rose Gold Analog Watch With Metal Strap",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22102,8 +23338,8 @@ export const watches = [
     title: "Shifa Studio",
     subTitle: "Women Silver Minimal Analog Watch With Mesh Strap",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22117,8 +23353,8 @@ export const watches = [
     title: "Shifa Studio",
     subTitle: "Women Gold Luxury Analog Watch With Bracelet Strap",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22128,12 +23364,13 @@ export const watches = [
     discountedPrice: 2999,
     discount: 42,
     type: "simple",
-    imageUrl: "https://danishdesign.com/cdn/shop/articles/Danish_Design_Akilia_Link_Two-Tone_Medium_IV95Q1251_2172e15b-c398-4780-be6b-64bed857212a.jpg?v=1627030089&width=640",
+    imageUrl:
+      "https://danishdesign.com/cdn/shop/articles/Danish_Design_Akilia_Link_Two-Tone_Medium_IV95Q1251_2172e15b-c398-4780-be6b-64bed857212a.jpg?v=1627030089&width=640",
     title: "Shifa Studio",
     subTitle: "Women Two-Tone Silver Gold Analog Watch",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22147,8 +23384,8 @@ export const watches = [
     title: "Shifa Studio",
     subTitle: "Women Slim Dial Analog Watch With Rose Pink Strap",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22158,12 +23395,13 @@ export const watches = [
     discountedPrice: 3199,
     discount: 42,
     type: "simple",
-    imageUrl: "https://rukminim2.flixcart.com/image/480/640/xif0q/watch/w/x/x/-original-imahg62jhhepuhdy.jpeg?q=90",
+    imageUrl:
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/watch/w/x/x/-original-imahg62jhhepuhdy.jpeg?q=90",
     title: "Shifa Studio",
     subTitle: "Women White Dial Analog Watch With Brown Leather Strap",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22173,12 +23411,13 @@ export const watches = [
     discountedPrice: 4499,
     discount: 39,
     type: "simple",
-    imageUrl: "https://www.carlington.in/cdn/shop/files/2_0bffc114-0099-4765-a352-b429e4cae6b1.jpg?v=1763528629&width=1080",
+    imageUrl:
+      "https://www.carlington.in/cdn/shop/files/2_0bffc114-0099-4765-a352-b429e4cae6b1.jpg?v=1763528629&width=1080",
     title: "Shifa Studio",
     subTitle: "Women Premium Stainless Steel Designer Watch",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22188,21 +23427,17 @@ export const watches = [
     discountedPrice: 2599,
     discount: 43,
     type: "simple",
-    imageUrl: "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0407bf70/images/Sonata/Catalog/87068WL01_4.jpg?sw=600&sh=600",
+    imageUrl:
+      "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0407bf70/images/Sonata/Catalog/87068WL01_4.jpg?sw=600&sh=600",
     title: "Shifa Studio",
     subTitle: "Women Black Leather Strap Analog Watch",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
-
 ];
 
-
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Bracelets
 export const bracelets = [
   {
     id: "21000101",
@@ -22211,18 +23446,42 @@ export const bracelets = [
     discountedPrice: 1399,
     discount: 44,
     type: "simple",
-    imageUrl: "https://johori.com/cdn/shop/files/JA056_1.png?v=1720962373&width=713",
+    imageUrl:
+      "https://johori.com/cdn/shop/files/JA056_1.png?v=1720962373&width=713",
     title: "Shifa Studio",
     subTitle: "Women Gold Plated Minimal Chain Bracelet",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://johori.com/cdn/shop/files/JA056_1.png?v=1720962373&width=713", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://johori.com/cdn/shop/files/JA056_2.png?v=1720962373&width=713", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://johori.com/cdn/shop/files/JA056_3.png?v=1720962373&width=713", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://johori.com/cdn/shop/files/JA056_4.png?v=1720962373&width=713", aspect_ratio: "0.75" },
-        
-      ]
-    }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://johori.com/cdn/shop/files/JA056_1.png?v=1720962373&width=713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://johori.com/cdn/shop/files/JA056_2.png?v=1720962373&width=713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://johori.com/cdn/shop/files/JA056_3.png?v=1720962373&width=713",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://johori.com/cdn/shop/files/JA056_4.png?v=1720962373&width=713",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -22232,18 +23491,42 @@ export const bracelets = [
     discountedPrice: 1299,
     discount: 43,
     type: "simple",
-    imageUrl: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_1.jpg?tr=w-500",
+    imageUrl:
+      "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_1.jpg?tr=w-500",
     title: "Shifa Studio",
     subTitle: "Women Rose Gold Adjustable Bracelet With Heart Charm",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_1.jpg?tr=w-500", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_2.jpg?tr=w-500", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_3.jpg?tr=w-500", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_4.jpg?tr=w-500", aspect_ratio: "0.75" },
-        
-      ]
-    }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_1.jpg?tr=w-500",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_2.jpg?tr=w-500",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_3.jpg?tr=w-500",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://images-static.nykaa.com/media/catalog/product/3/0/30ccf68GIVAX00000039_4.jpg?tr=w-500",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -22253,18 +23536,43 @@ export const bracelets = [
     discountedPrice: 1099,
     discount: 45,
     type: "simple",
-    imageUrl: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_4.jpg?tr=w-500",
+    imageUrl:
+      "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_4.jpg?tr=w-500",
     title: "Shifa Studio",
-    subTitle: "Yellow Chimes Women Silver-Toned Crystals Silver-Plated Kada Bracelet (Onesize) by Myntra",
+    subTitle:
+      "Yellow Chimes Women Silver-Toned Crystals Silver-Plated Kada Bracelet (Onesize) by Myntra",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_1.jpg?tr=w-500", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_2.jpg?tr=w-500", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_3.jpg?tr=w-500", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_4.jpg?tr=w-500", aspect_ratio: "0.75" },
-  
-      ]
-    }
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_1.jpg?tr=w-500",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_2.jpg?tr=w-500",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_3.jpg?tr=w-500",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://images-static.nykaa.com/media/catalog/product/3/e/3ee285aYCFJBR-B466BNG-SL_4.jpg?tr=w-500",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
   },
 
   {
@@ -22274,12 +23582,13 @@ export const bracelets = [
     discountedPrice: 1599,
     discount: 43,
     type: "simple",
-    imageUrl: "https://karatcart.com/cdn/shop/files/55016964_1.jpg?v=1729072137",
+    imageUrl:
+      "https://karatcart.com/cdn/shop/files/55016964_1.jpg?v=1729072137",
     title: "Shifa Studio",
     subTitle: "Women Pearl Bracelet With Gold Finish",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22293,8 +23602,8 @@ export const bracelets = [
     title: "Shifa Studio",
     subTitle: "Women Boho Beaded Bracelet Set",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22304,12 +23613,13 @@ export const bracelets = [
     discountedPrice: 1499,
     discount: 42,
     type: "simple",
-    imageUrl: "https://wwwthetiehubcomca692.zapwp.com/q:i/r:0/wp:1/w:1/u:https://www.thetiehub.com/wp-content/uploads/2025/02/TTH-BRCL-072-1.jpg",
+    imageUrl:
+      "https://wwwthetiehubcomca692.zapwp.com/q:i/r:0/wp:1/w:1/u:https://www.thetiehub.com/wp-content/uploads/2025/02/TTH-BRCL-072-1.jpg",
     title: "Shifa Studio",
     subTitle: "Women Black Leather Strap Bracelet With Metallic Accent",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22319,12 +23629,13 @@ export const bracelets = [
     discountedPrice: 1199,
     discount: 45,
     type: "simple",
-    imageUrl: "https://sc04.alicdn.com/kf/Hf91c347086194f968cc54500486612f36/252702583/Hf91c347086194f968cc54500486612f36.jpg",
+    imageUrl:
+      "https://sc04.alicdn.com/kf/Hf91c347086194f968cc54500486612f36/252702583/Hf91c347086194f968cc54500486612f36.jpg",
     title: "Shifa Studio",
     subTitle: "Women Minimal Open Cuff Bracelet In Gold Tone",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22334,12 +23645,13 @@ export const bracelets = [
     discountedPrice: 1799,
     discount: 40,
     type: "simple",
-    imageUrl: "https://sukkhi.com/cdn/shop/products/SKR110342_2000x.jpg?v=1665643894",
+    imageUrl:
+      "https://sukkhi.com/cdn/shop/products/SKR110342_2000x.jpg?v=1665643894",
     title: "Shifa Studio",
     subTitle: "Women Crystal Studded Party Wear Bracelet",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22349,12 +23661,13 @@ export const bracelets = [
     discountedPrice: 1099,
     discount: 48,
     type: "simple",
-    imageUrl: "https://niluscollection.com/cdn/shop/files/e3989d19-a061-4f97-99aa-274929d2987a.jpg?v=1768468780&width=3840",
+    imageUrl:
+      "https://niluscollection.com/cdn/shop/files/e3989d19-a061-4f97-99aa-274929d2987a.jpg?v=1768468780&width=3840",
     title: "Shifa Studio",
     subTitle: "Women Silver Charm Bracelet With Adjustable Chain",
     plp_pdp_bridge: {
-      images: []
-    }
+      images: [],
+    },
   },
 
   {
@@ -22364,19 +23677,17 @@ export const bracelets = [
     discountedPrice: 1599,
     discount: 41,
     type: "simple",
-    imageUrl: "https://erisilvers.com/cdn/shop/files/6_b1579c08-17be-4201-b84d-ff219d50f768_1066x.jpg?v=1733747428",
+    imageUrl:
+      "https://erisilvers.com/cdn/shop/files/6_b1579c08-17be-4201-b84d-ff219d50f768_1066x.jpg?v=1733747428",
     title: "Shifa Studio",
     subTitle: "Women Premium Designer Bracelet With Polished Finish",
     plp_pdp_bridge: {
-      images: []
-    }
-  }
+      images: [],
+    },
+  },
 ];
 
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
+// Gown data
 export const gown = [
   {
     id: "23000101",
@@ -22385,23 +23696,48 @@ export const gown = [
     discountedPrice: 5299,
     discount: 41,
     type: "configurable",
-    imageUrl: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MDcopy.webp?v=1744102804",
+    imageUrl:
+      "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MDcopy.webp?v=1744102804",
     title: "Shifa Studio",
     subTitle: "Women Red Party Wear Flared Gown With Sequin Work",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MDcopy.webp?v=1744102804", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_2_c8ec8736-1f84-4aab-9cad-8448a5855008copy.webp?v=1744102804", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_3_1262cf18-3094-4bda-a8b7-bb3c5b407584copy.webp?v=1744102804", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_4_942a592e-8990-4738-b261-8bf0df43f8efcopy.webp?v=1744102804", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MDcopy.webp?v=1744102804",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_2_c8ec8736-1f84-4aab-9cad-8448a5855008copy.webp?v=1744102804",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_3_1262cf18-3094-4bda-a8b7-bb3c5b407584copy.webp?v=1744102804",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://diademstore.com/cdn/shop/files/BRGBLRDPO001MD_4_942a592e-8990-4738-b261-8bf0df43f8efcopy.webp?v=1744102804",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22411,25 +23747,62 @@ export const gown = [
     discountedPrice: 5699,
     discount: 40,
     type: "configurable",
-    imageUrl: "https://shobitam.in/cdn/shop/files/MKJ_8020.jpg?v=1766234939&width=1800",
+    imageUrl:
+      "https://shobitam.in/cdn/shop/files/MKJ_8020.jpg?v=1766234939&width=1800",
     title: "Shifa Studio",
     subTitle: "Women Black Evening Gown With Off Shoulder Neckline",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://shobitam.in/cdn/shop/files/MKJ_8020.jpg?v=1766234939&width=1800", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://shobitam.in/cdn/shop/files/MKJ_7990.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://shobitam.in/cdn/shop/files/MKJ_8017copy.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://shobitam.in/cdn/shop/files/MKJ_8005.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://shobitam.in/cdn/shop/files/MKJ_7997.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://shobitam.in/cdn/shop/files/MKJ_8009_aaea6d5b-3ae9-45d1-aa30-2d0541bfed92.jpg?v=1766234940&width=1800", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://shobitam.in/cdn/shop/files/MKJ_8020.jpg?v=1766234939&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://shobitam.in/cdn/shop/files/MKJ_7990.jpg?v=1766234940&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://shobitam.in/cdn/shop/files/MKJ_8017copy.jpg?v=1766234940&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://shobitam.in/cdn/shop/files/MKJ_8005.jpg?v=1766234940&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://shobitam.in/cdn/shop/files/MKJ_7997.jpg?v=1766234940&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://shobitam.in/cdn/shop/files/MKJ_8009_aaea6d5b-3ae9-45d1-aa30-2d0541bfed92.jpg?v=1766234940&width=1800",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22439,25 +23812,62 @@ export const gown = [
     discountedPrice: 5999,
     discount: 40,
     type: "configurable",
-    imageUrl: "https://www.berrylush.com/cdn/shop/files/1_e5c9c59a-5593-416d-a8f3-0a7ae443d3e7.jpg?v=1752842639&width=493",
+    imageUrl:
+      "https://www.berrylush.com/cdn/shop/files/1_e5c9c59a-5593-416d-a8f3-0a7ae443d3e7.jpg?v=1752842639&width=493",
     title: "Shifa Studio",
     subTitle: "Women Wine Color Satin Evening Gown With Slit",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.berrylush.com/cdn/shop/files/1_e5c9c59a-5593-416d-a8f3-0a7ae443d3e7.jpg?v=1752842639&width=493", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.berrylush.com/cdn/shop/files/2_1ed4ab19-0e5a-4d8f-9fe4-86d95be4b257.jpg?v=1752842639&width=493", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.berrylush.com/cdn/shop/files/3_c7cc3993-592f-4c3e-89a3-272b055d165c.jpg?v=1752842640&width=493", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.berrylush.com/cdn/shop/files/4_b2c6f69c-ba76-4057-bc68-50573f883305.jpg?v=1752842640&width=493", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://www.berrylush.com/cdn/shop/files/5_eef7f2e8-0b8a-4a45-976b-6d5a2e0f01be.jpg?v=1752842640&width=493", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://www.berrylush.com/cdn/shop/files/6_afc0e985-3ea1-46da-9846-47889f1e97af.jpg?v=1752842640&width=493", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.berrylush.com/cdn/shop/files/1_e5c9c59a-5593-416d-a8f3-0a7ae443d3e7.jpg?v=1752842639&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.berrylush.com/cdn/shop/files/2_1ed4ab19-0e5a-4d8f-9fe4-86d95be4b257.jpg?v=1752842639&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.berrylush.com/cdn/shop/files/3_c7cc3993-592f-4c3e-89a3-272b055d165c.jpg?v=1752842640&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.berrylush.com/cdn/shop/files/4_b2c6f69c-ba76-4057-bc68-50573f883305.jpg?v=1752842640&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.berrylush.com/cdn/shop/files/5_eef7f2e8-0b8a-4a45-976b-6d5a2e0f01be.jpg?v=1752842640&width=493",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.berrylush.com/cdn/shop/files/6_afc0e985-3ea1-46da-9846-47889f1e97af.jpg?v=1752842640&width=493",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22467,23 +23877,48 @@ export const gown = [
     discountedPrice: 4999,
     discount: 42,
     type: "configurable",
-    imageUrl: "https://empress-clothing.com/cdn/shop/files/AW5474.jpg?v=1714136731&width=1800",
+    imageUrl:
+      "https://empress-clothing.com/cdn/shop/files/AW5474.jpg?v=1714136731&width=1800",
     title: "Shifa Studio",
     subTitle: "Women Ethnic Anarkali Style Gown With Floral Print",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://empress-clothing.com/cdn/shop/files/AW5474.jpg?v=1714136731&width=1800", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://empress-clothing.com/cdn/shop/files/AW5474A.jpg?v=1714136731&width=1800", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://empress-clothing.com/cdn/shop/files/AW5474B.jpg?v=1714136732&width=1800", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://empress-clothing.com/cdn/shop/files/AW5474C.jpg?v=1714136732&width=1800", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://empress-clothing.com/cdn/shop/files/AW5474.jpg?v=1714136731&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://empress-clothing.com/cdn/shop/files/AW5474A.jpg?v=1714136731&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://empress-clothing.com/cdn/shop/files/AW5474B.jpg?v=1714136732&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://empress-clothing.com/cdn/shop/files/AW5474C.jpg?v=1714136732&width=1800",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22498,20 +23933,56 @@ export const gown = [
     subTitle: "Women Ivory Embroidered Ethnic Gown With Dupatta",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://img.faballey.com/images/Product/ILK00149Z/3.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://img.faballey.com/images/Product/ILK00149Z/4.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://img.faballey.com/images/Product/ILK00149Z/5.jpg", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://img.faballey.com/images/Product/ILK00149Z/6.jpg", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://img.faballey.com/images/Product/ILK00149Z/7.jpg", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://img.faballey.com/images/Product/ILK00149Z/8.jpg", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://img.faballey.com/images/Product/ILK00149Z/3.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://img.faballey.com/images/Product/ILK00149Z/4.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://img.faballey.com/images/Product/ILK00149Z/5.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://img.faballey.com/images/Product/ILK00149Z/6.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://img.faballey.com/images/Product/ILK00149Z/7.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://img.faballey.com/images/Product/ILK00149Z/8.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22521,31 +23992,90 @@ export const gown = [
     discountedPrice: 5499,
     discount: 41,
     type: "configurable",
-    imageUrl: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_8.jpg?v=1733897752&width=1800",
+    imageUrl:
+      "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_8.jpg?v=1733897752&width=1800",
     title: "Shifa Studio",
     subTitle: "Women Navy Blue Party Wear Gown With Net Overlay",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_8.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_6.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_9.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_2.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_3.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_4.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_1.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_5.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 9, mediaType: "image", position: "9", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_7.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-        { id: 10, mediaType: "image", position: "10", url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_10.jpg?v=1733897752&width=1800", aspect_ratio: "0.75" },
-    
-    
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_8.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_6.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_9.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_2.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_3.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_4.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_1.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_5.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 9,
+          mediaType: "image",
+          position: "9",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_7.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 10,
+          mediaType: "image",
+          position: "10",
+          url: "https://us.koskii.com/cdn/shop/files/koskii-navyblue-sequins-net-designer-gown-gnrm0039506_navy_blue_1_10.jpg?v=1733897752&width=1800",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22555,26 +24085,69 @@ export const gown = [
     discountedPrice: 5199,
     discount: 41,
     type: "configurable",
-    imageUrl: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14287.jpg",
+    imageUrl:
+      "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14287.jpg",
     title: "Shifa Studio",
     subTitle: "Women Pastel Green Evening Gown With Pleated Skirt",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14287.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14290.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14288.jpg", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14291.jpg", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14289.jpg", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14292.jpg", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14285.jpg", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14287.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14290.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14288.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14291.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14289.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14292.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://en.numoco.com/galerie/4/414-3-klara-plisowana-sukienk_14285.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22584,15 +24157,16 @@ export const gown = [
     discountedPrice: 6299,
     discount: 40,
     type: "configurable",
-    imageUrl: "http://houseofnanz.com/cdn/shop/products/8032308242112_1.jpg?v=1675501401",
+    imageUrl:
+      "http://houseofnanz.com/cdn/shop/products/8032308242112_1.jpg?v=1675501401",
     title: "Shifa Studio",
     subTitle: "Women Maroon Velvet Party Gown With Full Sleeves",
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22602,22 +24176,41 @@ export const gown = [
     discountedPrice: 4799,
     discount: 41,
     type: "configurable",
-    imageUrl: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028259/OI/CS/OR/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg",
+    imageUrl:
+      "https://5.imimg.com/data5/SELLER/Default/2023/3/293028259/OI/CS/OR/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg",
     title: "Shifa Studio",
     subTitle: "Women Ethnic Printed Gown With Front Button Design",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028259/OI/CS/OR/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028443/BS/QK/KB/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028282/PZ/VL/ST/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg", aspect_ratio: "0.75" },
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028259/OI/CS/OR/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028443/BS/QK/KB/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://5.imimg.com/data5/SELLER/Default/2023/3/293028282/PZ/VL/ST/185800390/cherry-red-micro-floral-printed-potli-button-neck-design-1000x1000.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22627,30 +24220,45 @@ export const gown = [
     discountedPrice: 6999,
     discount: 42,
     type: "configurable",
-    imageUrl: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_1.jpg?impolicy=detailimageprod",
+    imageUrl:
+      "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_1.jpg?impolicy=detailimageprod",
     title: "Shifa Studio",
     subTitle: "Women Designer Party Gown With Ruffle Hemline",
     plp_pdp_bridge: {
       images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_1.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_2.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_3.jpg?impolicy=detailimageprod", aspect_ratio: "0.75" },
-        
-    
-      ]
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_1.jpg?impolicy=detailimageprod",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_2.jpg?impolicy=detailimageprod",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://img.perniaspopupshop.com/catalog/product/n/s/NSTC082509_3.jpg?impolicy=detailimageprod",
+          aspect_ratio: "0.75",
+        },
+      ],
     },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
-  }
+      { title: "XL", id: "S4" },
+    ],
+  },
 ];
 
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+// Office Wear
 export const officeWear = [
   {
     id: "25000101",
@@ -22659,7 +24267,8 @@ export const officeWear = [
     discountedPrice: 2599,
     discount: 42,
     type: "configurable",
-    imageUrl: "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301044297WHITEWBLACK_1_800x.jpg?v=1762329673",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301044297WHITEWBLACK_1_800x.jpg?v=1762329673",
     title: "Shifa Studio",
     subTitle: "Women Solid Formal Shirt For Office Wear",
     plp_pdp_bridge: { images: [] },
@@ -22667,8 +24276,8 @@ export const officeWear = [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22686,8 +24295,8 @@ export const officeWear = [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22697,7 +24306,8 @@ export const officeWear = [
     discountedPrice: 3099,
     discount: 41,
     type: "configurable",
-    imageUrl: "https://www.powersutra.co/cdn/shop/files/1_c168c2d6-ae49-4657-95bc-54c5c7459150.jpg?v=1757148890&width=1080",
+    imageUrl:
+      "https://www.powersutra.co/cdn/shop/files/1_c168c2d6-ae49-4657-95bc-54c5c7459150.jpg?v=1757148890&width=1080",
     title: "Shifa Studio",
     subTitle: "Women Office Wear Blazer With Notched Collar",
     plp_pdp_bridge: { images: [] },
@@ -22705,8 +24315,8 @@ export const officeWear = [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22716,22 +24326,55 @@ export const officeWear = [
     discountedPrice: 2699,
     discount: 44,
     type: "configurable",
-    imageUrl: "https://saltattire.com/cdn/shop/files/1_f62e167a-b279-49a2-8b73-31c8f6cc6aff.jpg?v=1758683983&width=1780",
+    imageUrl:
+      "https://saltattire.com/cdn/shop/files/1_f62e167a-b279-49a2-8b73-31c8f6cc6aff.jpg?v=1758683983&width=1780",
     title: "Shifa Studio",
     subTitle: "Women Formal Pencil Skirt For Office Wear",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://saltattire.com/cdn/shop/files/1_f62e167a-b279-49a2-8b73-31c8f6cc6aff.jpg?v=1758683983&width=1780", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://saltattire.com/cdn/shop/files/Front_5e6562ae-d0e5-429e-a780-5e96e6312ba8.jpg?v=1758683983&width=1780", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://saltattire.com/cdn/shop/files/Side_977ca83b-d57a-4178-80a2-555aaa36106e.jpg?v=1758683983&width=1780", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://saltattire.com/cdn/shop/files/Macro_e97f204d-36ac-4b41-bcc6-6a8346c58130.jpg?v=1746071280&width=1780", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://saltattire.com/cdn/shop/files/Back_10883858-cb0b-46be-b0c2-50d383b467dd.jpg?v=1746071280&width=1780", aspect_ratio: "0.75" }, 
-    ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://saltattire.com/cdn/shop/files/1_f62e167a-b279-49a2-8b73-31c8f6cc6aff.jpg?v=1758683983&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://saltattire.com/cdn/shop/files/Front_5e6562ae-d0e5-429e-a780-5e96e6312ba8.jpg?v=1758683983&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://saltattire.com/cdn/shop/files/Side_977ca83b-d57a-4178-80a2-555aaa36106e.jpg?v=1758683983&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://saltattire.com/cdn/shop/files/Macro_e97f204d-36ac-4b41-bcc6-6a8346c58130.jpg?v=1746071280&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://saltattire.com/cdn/shop/files/Back_10883858-cb0b-46be-b0c2-50d383b467dd.jpg?v=1746071280&width=1780",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22741,23 +24384,62 @@ export const officeWear = [
     discountedPrice: 2599,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_1_14cd2167-99c8-47c5-9180-69ce0f19ddef.jpg?v=1734162310&width=1080",
+    imageUrl:
+      "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_1_14cd2167-99c8-47c5-9180-69ce0f19ddef.jpg?v=1734162310&width=1080",
     title: "Shifa Studio",
     subTitle: "Women Formal A-Line Midi Dress For Office",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_1_14cd2167-99c8-47c5-9180-69ce0f19ddef.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_2_ba1e8310-fbc4-4d2e-96d0-4798f69265aa.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_3_ecf4cc4b-855c-42c1-832c-8a5a172392be.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_4_ed8fbf71-cdf8-47c4-b247-c26caf6e8d3b.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_5_71408e37-fa4b-42b6-ac5a-ecf0d59a5dea.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_6_a26847b1-2bb5-4802-9172-3debf8342d2c.jpg?v=1734162310&width=1080", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_1_14cd2167-99c8-47c5-9180-69ce0f19ddef.jpg?v=1734162310&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_2_ba1e8310-fbc4-4d2e-96d0-4798f69265aa.jpg?v=1734162310&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_3_ecf4cc4b-855c-42c1-832c-8a5a172392be.jpg?v=1734162310&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_4_ed8fbf71-cdf8-47c4-b247-c26caf6e8d3b.jpg?v=1734162310&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_5_71408e37-fa4b-42b6-ac5a-ecf0d59a5dea.jpg?v=1734162310&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://showoffff.in/cdn/shop/files/AT-PC-2171_Blue_6_a26847b1-2bb5-4802-9172-3debf8342d2c.jpg?v=1734162310&width=1080",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22767,24 +24449,69 @@ export const officeWear = [
     discountedPrice: 2399,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://labelflavia.com/cdn/shop/files/FU61PEACH_1.jpg?v=1757060671&width=1080",
+    imageUrl:
+      "https://labelflavia.com/cdn/shop/files/FU61PEACH_1.jpg?v=1757060671&width=1080",
     title: "Shifa Studio",
     subTitle: "Women Office Wear Kurti With Straight Fit",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_1.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_2.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_3.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_4.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_5.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_6.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_7.jpg?v=1757060671&width=1080", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_1.jpg?v=1757060671&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_2.jpg?v=1757060671&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_3.jpg?v=1757060671&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_4.jpg?v=1757060671&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_5.jpg?v=1757060671&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_6.jpg?v=1757060671&width=1080",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://labelflavia.com/cdn/shop/files/FU61PEACH_7.jpg?v=1757060671&width=1080",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22794,27 +24521,90 @@ export const officeWear = [
     discountedPrice: 2299,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_7.jpg?v=1748917375&width=1780",
+    imageUrl:
+      "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_7.jpg?v=1748917375&width=1780",
     title: "Shifa Studio",
     subTitle: "Women Formal Peplum Top For Office Wear",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_1.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_2.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_3.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_4.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_5.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_6.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_7.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_8.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 9, mediaType: "image", position: "9", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_9.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-        { id: 10, mediaType: "image", position: "10", url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_10.jpg?v=1748917375&width=1780", aspect_ratio: "0.75" },
-    ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_1.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_2.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_3.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_4.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_5.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_6.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_7.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_8.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 9,
+          mediaType: "image",
+          position: "9",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_9.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 10,
+          mediaType: "image",
+          position: "10",
+          url: "https://www.irealife.com/cdn/shop/files/ProductTopsZoeSweetheartNecklineTop_10.jpg?v=1748917375&width=1780",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22824,15 +24614,16 @@ export const officeWear = [
     discountedPrice: 2799,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://negativeapparel.com/cdn/shop/files/womens-minimalist-elegant-high-waisted-slimming-black-wide-leg-pants-for-workoffice-work-wear-negative-apparel-897972.jpg?v=1740610226&width=1340",
+    imageUrl:
+      "https://negativeapparel.com/cdn/shop/files/womens-minimalist-elegant-high-waisted-slimming-black-wide-leg-pants-for-workoffice-work-wear-negative-apparel-897972.jpg?v=1740610226&width=1340",
     title: "Shifa Studio",
     subTitle: "Women Formal Palazzo Pants For Office Wear",
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22842,21 +24633,48 @@ export const officeWear = [
     discountedPrice: 2499,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://sassafras.in/cdn/shop/files/SFSETS96036-4_7239dc0f-27ee-42e2-942a-4ea55042ed85_800x.jpg?v=1757493040",
+    imageUrl:
+      "https://sassafras.in/cdn/shop/files/SFSETS96036-4_7239dc0f-27ee-42e2-942a-4ea55042ed85_800x.jpg?v=1757493040",
     title: "Shifa Studio",
     subTitle: "Women Formal Wrap Top For Office Wear",
-    plp_pdp_bridge: { images: [
-      { id: 1, mediaType: "image", position: "1", url: "https://sassafras.in/cdn/shop/files/SFSETS96036-1_3bce828d-58b2-4319-82ce-33be4db26545_800x.jpg?v=1757493040", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://sassafras.in/cdn/shop/files/SFSETS96036-2_6cd8edbd-5c47-440a-b2ad-cb1cdece5a18_800x.jpg?v=1757493040", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://sassafras.in/cdn/shop/files/SFSETS96036-3_3ae8c516-9f08-463d-bff1-3a11e90472e4_800x.jpg?v=1757493040", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://sassafras.in/cdn/shop/files/SFSETS96036-4_7239dc0f-27ee-42e2-942a-4ea55042ed85_800x.jpg?v=1757493040", aspect_ratio: "0.75" },
-    ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://sassafras.in/cdn/shop/files/SFSETS96036-1_3bce828d-58b2-4319-82ce-33be4db26545_800x.jpg?v=1757493040",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://sassafras.in/cdn/shop/files/SFSETS96036-2_6cd8edbd-5c47-440a-b2ad-cb1cdece5a18_800x.jpg?v=1757493040",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://sassafras.in/cdn/shop/files/SFSETS96036-3_3ae8c516-9f08-463d-bff1-3a11e90472e4_800x.jpg?v=1757493040",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://sassafras.in/cdn/shop/files/SFSETS96036-4_7239dc0f-27ee-42e2-942a-4ea55042ed85_800x.jpg?v=1757493040",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22866,30 +24684,73 @@ export const officeWear = [
     discountedPrice: 3299,
     discount: 40,
     type: "configurable",
-    imageUrl: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2247.webp",
+    imageUrl:
+      "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2247.webp",
     title: "Shifa Studio",
     subTitle: "Women Formal Co-Ord Set For Office Wear",
-    plp_pdp_bridge: { images: [
-      { id: 1, mediaType: "image", position: "1", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2245.webp", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2251.webp", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2246.webp", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2247.webp", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2248.webp", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2249.webp", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2250.webp", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2245.webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2251.webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2246.webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2247.webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2248.webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2249.webp",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://jaey.blr1.digitaloceanspaces.com/images/products/Desk_To_Dusk_Co_Ord_Set-Beige-JA0277-027701-2250.webp",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
-  }
+      { title: "XL", id: "S4" },
+    ],
+  },
 ];
 
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+// Summer Collection
 export const summerCollection = [
   {
     id: "26000102",
@@ -22898,27 +24759,78 @@ export const summerCollection = [
     discountedPrice: 1999,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-0-202311081915.jpg?im=Resize=(600,750)",
+    imageUrl:
+      "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-0-202311081915.jpg?im=Resize=(600,750)",
     title: "Shifa Studio",
     subTitle: "Women Cotton Sleeveless Summer Top",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-0-202311081915.jpg?im=Resize=(600,750)", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-1-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-2-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-3-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-4-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-5-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-6-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-7-202311081915.jpg?im=Resize=(1000,1000)", aspect_ratio: "0.75" },
-    ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-0-202311081915.jpg?im=Resize=(600,750)",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-1-202311081915.jpg?im=Resize=(1000,1000)",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-2-202311081915.jpg?im=Resize=(1000,1000)",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-3-202311081915.jpg?im=Resize=(1000,1000)",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-4-202311081915.jpg?im=Resize=(1000,1000)",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-5-202311081915.jpg?im=Resize=(1000,1000)",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-6-202311081915.jpg?im=Resize=(1000,1000)",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://www.jiomart.com/images/product/original/rvrarseis4/moomaya-printed-sleeveless-casual-shirt-women-s-cotton-button-down-summer-tops-product-images-rvrarseis4-7-202311081915.jpg?im=Resize=(1000,1000)",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
-  
+
   {
     id: "26000107",
     sku: "SUMMER0007",
@@ -22926,26 +24838,71 @@ export const summerCollection = [
     discountedPrice: 1599,
     discount: 45,
     type: "configurable",
-    imageUrl: "https://cdn.shopaccino.com/ajoobaa/products/vtop24a-6120135866329_l.jpg?v=651?param=1",
+    imageUrl:
+      "https://cdn.shopaccino.com/ajoobaa/products/vtop24a-6120135866329_l.jpg?v=651?param=1",
     title: "Shifa Studio",
     subTitle: "Women Casual Summer Crop Top",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24a-6120135866329_l.jpg?v=651?param=1", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24g-6118398364261_l.jpg?v=651?param=2", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24e-6119222026476_l.jpg?v=651?param=3", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24c-6119660198189_l.jpg?v=651?param=4", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24d-6120587712654_l.jpg?v=651?param=5", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24f-6121065169595_l.jpg?v=651?param=6", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24b-6121557963080_l.jpg?v=651?param=7", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24a-6120135866329_l.jpg?v=651?param=1",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24g-6118398364261_l.jpg?v=651?param=2",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24e-6119222026476_l.jpg?v=651?param=3",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24c-6119660198189_l.jpg?v=651?param=4",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24d-6120587712654_l.jpg?v=651?param=5",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24f-6121065169595_l.jpg?v=651?param=6",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://cdn.shopaccino.com/ajoobaa/products/vtop24b-6121557963080_l.jpg?v=651?param=7",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
-  
+
   {
     id: "26000101",
     sku: "SUMMER0001",
@@ -22953,25 +24910,76 @@ export const summerCollection = [
     discountedPrice: 1699,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://www.wforwoman.com/cdn/shop/files/W31243-123947.jpg?v=1756280649",
+    imageUrl:
+      "https://www.wforwoman.com/cdn/shop/files/W31243-123947.jpg?v=1756280649",
     title: "Shifa Studio",
     subTitle: "Women Floral Printed Summer Tunic",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947.jpg?v=1756280649", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_1.jpg?v=1756280649", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_2.jpg?v=1756280649", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_3.jpg?v=1756280649", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_4.jpg?v=1756280649", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_5.jpg?v=1756280649", aspect_ratio: "0.75" },
-        { id: 7, mediaType: "image", position: "7", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_6.jpg?v=1756280649", aspect_ratio: "0.75" },
-        { id: 8, mediaType: "image", position: "8", url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_7.jpg?v=1756280649", aspect_ratio: "0.75" },
-    ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947.jpg?v=1756280649",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_1.jpg?v=1756280649",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_2.jpg?v=1756280649",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_3.jpg?v=1756280649",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_4.jpg?v=1756280649",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_5.jpg?v=1756280649",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 7,
+          mediaType: "image",
+          position: "7",
+          url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_6.jpg?v=1756280649",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 8,
+          mediaType: "image",
+          position: "8",
+          url: "https://www.wforwoman.com/cdn/shop/files/W31243-123947_7.jpg?v=1756280649",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -22981,23 +24989,62 @@ export const summerCollection = [
     discountedPrice: 1799,
     discount: 44,
     type: "configurable",
-    imageUrl: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_1.jpg?v=1752490092",
+    imageUrl:
+      "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_1.jpg?v=1752490092",
     title: "Shifa Studio",
     subTitle: "Maroon Cotton Western Summer Shirt Dress for Women",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_1.jpg?v=1752490092", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_2.jpg?v=1752490092", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_3.jpg?v=1752490092", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_4.jpg?v=1752490092", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_5.jpg?v=1752490092", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_6.jpg?v=1752490092", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_1.jpg?v=1752490092",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_2.jpg?v=1752490092",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_3.jpg?v=1752490092",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_4.jpg?v=1752490092",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_5.jpg?v=1752490092",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19307-219036_6.jpg?v=1752490092",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -23007,22 +25054,56 @@ export const summerCollection = [
     discountedPrice: 2099,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://chasehaul.com/cdn/shop/files/1_ba9795b1-ba0f-421c-9178-4c7c48354fbe.jpg?v=1755607173&width=800",
+    imageUrl:
+      "https://chasehaul.com/cdn/shop/files/1_ba9795b1-ba0f-421c-9178-4c7c48354fbe.jpg?v=1755607173&width=800",
     title: "Shifa Studio",
-    subTitle: "Women's Dark Blue Flared High-Rise Clean-Look Regular-Length Denim Shorts",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://chasehaul.com/cdn/shop/files/1_ba9795b1-ba0f-421c-9178-4c7c48354fbe.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://chasehaul.com/cdn/shop/files/2_945e1196-e31a-44db-b733-72946e4ffc8a.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://chasehaul.com/cdn/shop/files/3_e546b2e4-650b-4a81-95f2-70084e182037.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://chasehaul.com/cdn/shop/files/4_2ed5976c-aa71-4072-9666-4885fd445b17.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://chasehaul.com/cdn/shop/files/5_289bf74d-62ce-4758-b913-ab0d40575e49.jpg?v=1755607173&width=800", aspect_ratio: "0.75" },
-        ] },
+    subTitle:
+      "Women's Dark Blue Flared High-Rise Clean-Look Regular-Length Denim Shorts",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://chasehaul.com/cdn/shop/files/1_ba9795b1-ba0f-421c-9178-4c7c48354fbe.jpg?v=1755607173&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://chasehaul.com/cdn/shop/files/2_945e1196-e31a-44db-b733-72946e4ffc8a.jpg?v=1755607173&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://chasehaul.com/cdn/shop/files/3_e546b2e4-650b-4a81-95f2-70084e182037.jpg?v=1755607173&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://chasehaul.com/cdn/shop/files/4_2ed5976c-aa71-4072-9666-4885fd445b17.jpg?v=1755607173&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://chasehaul.com/cdn/shop/files/5_289bf74d-62ce-4758-b913-ab0d40575e49.jpg?v=1755607173&width=800",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -23032,21 +25113,48 @@ export const summerCollection = [
     discountedPrice: 2399,
     discount: 43,
     type: "configurable",
-    imageUrl: "https://littleboxindia.com/cdn/shop/files/c32330daefa7fae82224646c377847ed.webp?v=1758691867",
+    imageUrl:
+      "https://littleboxindia.com/cdn/shop/files/c32330daefa7fae82224646c377847ed.webp?v=1758691867",
     title: "Shifa Studio",
     subTitle: "Halter Neck Shimmer Bodycon Dress in Black",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://littleboxindia.com/cdn/shop/files/c32330daefa7fae82224646c377847ed.webp?v=1758691867", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://littleboxindia.com/cdn/shop/files/563dfa842bf63879c31f60684d74b434.webp?v=1758691869", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://littleboxindia.com/cdn/shop/files/7c95d2a3497a10d3a3d54616a31f66dc.webp?v=1758691871", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://littleboxindia.com/cdn/shop/files/e0511b848533d14d13b601babe84e9c3.webp?v=1758691873", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://littleboxindia.com/cdn/shop/files/c32330daefa7fae82224646c377847ed.webp?v=1758691867",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://littleboxindia.com/cdn/shop/files/563dfa842bf63879c31f60684d74b434.webp?v=1758691869",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://littleboxindia.com/cdn/shop/files/7c95d2a3497a10d3a3d54616a31f66dc.webp?v=1758691871",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://littleboxindia.com/cdn/shop/files/e0511b848533d14d13b601babe84e9c3.webp?v=1758691873",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -23056,22 +25164,55 @@ export const summerCollection = [
     discountedPrice: 1899,
     discount: 44,
     type: "configurable",
-    imageUrl: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_7.jpg?v=1738837152&width={width}",
+    imageUrl:
+      "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_7.jpg?v=1738837152&width={width}",
     title: "Shifa Studio",
     subTitle: "Women Sleeveless Cotton Kurti For Summer",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_7.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_3.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_2.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_4.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_5.jpg?v=1738837152&width={width}", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_7.jpg?v=1738837152&width={width}",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_3.jpg?v=1738837152&width={width}",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_2.jpg?v=1738837152&width={width}",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_4.jpg?v=1738837152&width={width}",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://cotlandfashions.com/cdn/shop/files/CFPL-0281_5.jpg?v=1738837152&width={width}",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -23081,23 +25222,61 @@ export const summerCollection = [
     discountedPrice: 2499,
     discount: 34,
     type: "configurable",
-    imageUrl: "https://img0.junaroad.com/uiproducts/19971626/zoom_0-1711624671.jpg",
+    imageUrl:
+      "https://img0.junaroad.com/uiproducts/19971626/zoom_0-1711624671.jpg",
     title: "MANGO",
     subTitle: "Women Western Co-ord Set with Shirt & Shorts",
-    plp_pdp_bridge: { images: [
-      
-        { id: 1, mediaType: "image", position: "1", url: "https://img0.junaroad.com/uiproducts/19971626/zoom_0-1711624671.jpg", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_1-1711624671.jpg", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_2-1711624671.jpg", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_3-1711624671.jpg", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_4-1711624671.jpg", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://img1.junaroad.com/uiproducts/19971626/zoom_5-1711624671.jpg", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://img0.junaroad.com/uiproducts/19971626/zoom_0-1711624671.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://img1.junaroad.com/uiproducts/19971626/zoom_1-1711624671.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://img1.junaroad.com/uiproducts/19971626/zoom_2-1711624671.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://img1.junaroad.com/uiproducts/19971626/zoom_3-1711624671.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://img1.junaroad.com/uiproducts/19971626/zoom_4-1711624671.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://img1.junaroad.com/uiproducts/19971626/zoom_5-1711624671.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
-    ]
+      { title: "L", id: "S3" },
+    ],
   },
 
   {
@@ -23107,23 +25286,62 @@ export const summerCollection = [
     discountedPrice: 2299,
     discount: 42,
     type: "configurable",
-    imageUrl: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_3.jpg?v=1721310520",
+    imageUrl:
+      "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_3.jpg?v=1721310520",
     title: "Shifa Studio",
     subTitle: "Women Solid Belted Shirt Style Office Gownr",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_1.jpg?v=1721310520", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_2.jpg?v=1721310520", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_3.jpg?v=1721310520", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_4.jpg?v=1721310520", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_5.jpg?v=1721310520", aspect_ratio: "0.75" },
-        { id: 6, mediaType: "image", position: "6", url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_6.jpg?v=1721310520", aspect_ratio: "0.75" },
-        ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_1.jpg?v=1721310520",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_2.jpg?v=1721310520",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_3.jpg?v=1721310520",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_4.jpg?v=1721310520",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_5.jpg?v=1721310520",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://www.wforwoman.com/cdn/shop/files/23FEW19309-219035_6.jpg?v=1721310520",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -23133,29 +25351,60 @@ export const summerCollection = [
     discountedPrice: 2499,
     discount: 42,
     type: "configurable",
-    imageUrl: "https://uandf.co.in/cdn/shop/files/D19644-158_1_9f39524a-5eef-4436-83dd-86be8a789ed7.jpg?v=1720610800&width=800",
+    imageUrl:
+      "https://uandf.co.in/cdn/shop/files/D19644-158_1_9f39524a-5eef-4436-83dd-86be8a789ed7.jpg?v=1720610800&width=800",
     title: "Shifa Studio",
-    subTitle: "Women Green Square Neck Flared Sleeves Embroidered Net Maxi Fit & Flare Dress",
-    plp_pdp_bridge: { images: [
-        { id: 1, mediaType: "image", position: "1", url: "https://uandf.co.in/cdn/shop/files/D19644-158_1_9f39524a-5eef-4436-83dd-86be8a789ed7.jpg?v=1720610800&width=800", aspect_ratio: "0.75" },
-        { id: 2, mediaType: "image", position: "2", url: "https://uandf.co.in/cdn/shop/files/D19644-158_2_b46a5ada-91a9-4b22-ad10-269208fbeef4.jpg?v=1720610800&width=800", aspect_ratio: "0.75" },
-        { id: 3, mediaType: "image", position: "3", url: "https://uandf.co.in/cdn/shop/files/D19644-158_3_6dd9edbb-e00f-4a70-9990-e51037be9623.jpg?v=1720610801&width=800", aspect_ratio: "0.75" },
-        { id: 4, mediaType: "image", position: "4", url: "https://uandf.co.in/cdn/shop/files/D19644-158_4_5f07b8da-6235-4169-9048-dc8fc1e37483.jpg?v=1720610800&width=800", aspect_ratio: "0.75" },
-        { id: 5, mediaType: "image", position: "5", url: "https://uandf.co.in/cdn/shop/files/D19644-158_5_d2fb6a9b-4cf3-4f98-a7b9-685fed3a3991.jpg?v=1720610800&width=800", aspect_ratio: "0.75" },
-        ] },
+    subTitle:
+      "Women Green Square Neck Flared Sleeves Embroidered Net Maxi Fit & Flare Dress",
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://uandf.co.in/cdn/shop/files/D19644-158_1_9f39524a-5eef-4436-83dd-86be8a789ed7.jpg?v=1720610800&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://uandf.co.in/cdn/shop/files/D19644-158_2_b46a5ada-91a9-4b22-ad10-269208fbeef4.jpg?v=1720610800&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://uandf.co.in/cdn/shop/files/D19644-158_3_6dd9edbb-e00f-4a70-9990-e51037be9623.jpg?v=1720610801&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://uandf.co.in/cdn/shop/files/D19644-158_4_5f07b8da-6235-4169-9048-dc8fc1e37483.jpg?v=1720610800&width=800",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://uandf.co.in/cdn/shop/files/D19644-158_5_d2fb6a9b-4cf3-4f98-a7b9-685fed3a3991.jpg?v=1720610800&width=800",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 ];
 
-
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+// Winter Collection
 export const winterCollection = [
   {
     id: "WIN001",
@@ -23164,23 +25413,62 @@ export const winterCollection = [
     discountedPrice: 1499,
     discount: 40,
     type: "configurable",
-    imageUrl: "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png",
+    imageUrl:
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png",
     title: "Jordan Brooklyn",
     subTitle: "Women's Quilted Puffer Jacket",
-    plp_pdp_bridge: { images: [
-      { id: 1, mediaType: "image", position: "1", url: "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" },
-      { id: 2, mediaType: "image", position: "2", url: "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4bd6b9d2-4a25-4034-b64a-b7a76358ba27/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" }, 
-      { id: 3, mediaType: "image", position: "3", url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f6463bb2-f024-41e4-ab91-a57b70f34db8/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" }, 
-      { id: 4, mediaType: "image", position: "4", url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" }, 
-      { id: 5, mediaType: "image", position: "5", url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/27202426-946a-4e46-bb29-4791b81c0858/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" }, 
-      { id: 6, mediaType: "image", position: "6", url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/75722a6c-dce6-4aad-9b90-a78bd19a39af/W+J+BRK+PUFFER+QLT.png", aspect_ratio: "0.75" },
-    ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4bd6b9d2-4a25-4034-b64a-b7a76358ba27/W+J+BRK+PUFFER+QLT.png",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f6463bb2-f024-41e4-ab91-a57b70f34db8/W+J+BRK+PUFFER+QLT.png",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/66921391-5951-49eb-9e76-c50159e1b507/W+J+BRK+PUFFER+QLT.png",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/27202426-946a-4e46-bb29-4791b81c0858/W+J+BRK+PUFFER+QLT.png",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/75722a6c-dce6-4aad-9b90-a78bd19a39af/W+J+BRK+PUFFER+QLT.png",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -23190,15 +25478,16 @@ export const winterCollection = [
     discountedPrice: 2199,
     discount: 42,
     type: "configurable",
-    imageUrl: "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/24912616/2023/9/12/97278a45-ed8c-484c-ae1b-3692cdd2a19d1694524999444STREET9WomenPinkRibbedPullover1.jpg",
+    imageUrl:
+      "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/24912616/2023/9/12/97278a45-ed8c-484c-ae1b-3692cdd2a19d1694524999444STREET9WomenPinkRibbedPullover1.jpg",
     title: "Urban Muse",
     subTitle: "Women Oversized Knit Winter Sweater",
     plp_pdp_bridge: { images: [] },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
-    ]
+      { title: "L", id: "S3" },
+    ],
   },
 
   {
@@ -23208,15 +25497,16 @@ export const winterCollection = [
     discountedPrice: 4199,
     discount: 40,
     type: "configurable",
-    imageUrl: "https://image.made-in-china.com/202f0j00uMtlzecGJWrj/Winter-New-Loose-Fashion-Korean-6-Colors-Women-Cashmere-Sweater.webp",
+    imageUrl:
+      "https://image.made-in-china.com/202f0j00uMtlzecGJWrj/Winter-New-Loose-Fashion-Korean-6-Colors-Women-Cashmere-Sweater.webp",
     title: "XYZ",
     subTitle: "Winter New Loose Fashion Korean Colors Women Cashmere Sweater",
     plp_pdp_bridge: { images: [] },
     sizeVariation: [
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -23226,23 +25516,62 @@ export const winterCollection = [
     discountedPrice: 1999,
     discount: 39,
     type: "configurable",
-    imageUrl: "https://images-cdn.ubuy.co.in/69380cd968bdd378f7004077-yeokou-women-s-winter-hoodies-pullover.jpg",
+    imageUrl:
+      "https://images-cdn.ubuy.co.in/69380cd968bdd378f7004077-yeokou-women-s-winter-hoodies-pullover.jpg",
     title: "Street Layer",
     subTitle: "Women Fleece Lined Winter Hoodie",
-    plp_pdp_bridge: { images: [
-      { id: 1, mediaType: "image", position: "1", url: "https://images-cdn.ubuy.co.in/69380cda68bdd378f700407a-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" },
-      { id: 2, mediaType: "image", position: "2", url: "https://images-cdn.ubuy.co.in/69380cdd68bdd378f7004086-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" }, 
-      { id: 3, mediaType: "image", position: "3", url: "https://images-cdn.ubuy.co.in/69380cdb68bdd378f700407d-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" }, 
-      { id: 4, mediaType: "image", position: "4", url: "https://images-cdn.ubuy.co.in/69380cdc68bdd378f7004083-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" }, 
-      { id: 5, mediaType: "image", position: "5", url: "https://images-cdn.ubuy.co.in/69380cde68bdd378f700408c-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" }, 
-      { id: 6, mediaType: "image", position: "6", url: "https://images-cdn.ubuy.co.in/69380cde68bdd378f7004089-yeokou-women-s-winter-hoodies-pullover.jpg", aspect_ratio: "0.75" },
-    ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://images-cdn.ubuy.co.in/69380cda68bdd378f700407a-yeokou-women-s-winter-hoodies-pullover.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://images-cdn.ubuy.co.in/69380cdd68bdd378f7004086-yeokou-women-s-winter-hoodies-pullover.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://images-cdn.ubuy.co.in/69380cdb68bdd378f700407d-yeokou-women-s-winter-hoodies-pullover.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://images-cdn.ubuy.co.in/69380cdc68bdd378f7004083-yeokou-women-s-winter-hoodies-pullover.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://images-cdn.ubuy.co.in/69380cde68bdd378f700408c-yeokou-women-s-winter-hoodies-pullover.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 6,
+          mediaType: "image",
+          position: "6",
+          url: "https://images-cdn.ubuy.co.in/69380cde68bdd378f7004089-yeokou-women-s-winter-hoodies-pullover.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
       { title: "L", id: "S3" },
-      { title: "XL", id: "S4" }
-    ]
+      { title: "XL", id: "S4" },
+    ],
   },
 
   {
@@ -23255,16 +25584,36 @@ export const winterCollection = [
     imageUrl: "https://m.media-amazon.com/images/I/81FI0dkPb+L._AC_SL500_.jpg",
     title: "Urban Muse",
     subTitle: "Women Wool Blend Winter Midi Skirt",
-    plp_pdp_bridge: { images: [
-      { id: 1, mediaType: "image", position: "1", url: "https://m.media-amazon.com/images/I/81FI0dkPb+L._AC_SL500_.jpg", aspect_ratio: "0.75" },
-      { id: 2, mediaType: "image", position: "2", url: "https://m.media-amazon.com/images/I/81ft2+hDptL._AC_SL500_.jpg", aspect_ratio: "0.75" }, 
-      { id: 3, mediaType: "image", position: "3", url: "https://m.media-amazon.com/images/I/81qqrmIzo-L._AC_SL500_.jpg", aspect_ratio: "0.75" }, 
-      ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://m.media-amazon.com/images/I/81FI0dkPb+L._AC_SL500_.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://m.media-amazon.com/images/I/81ft2+hDptL._AC_SL500_.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://m.media-amazon.com/images/I/81qqrmIzo-L._AC_SL500_.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
-    ]
+      { title: "L", id: "S3" },
+    ],
   },
 
   {
@@ -23274,22 +25623,54 @@ export const winterCollection = [
     discountedPrice: 2799,
     discount: 39,
     type: "configurable",
-    imageUrl: "https://img0.junaroad.com/uiproducts/20796493/zoom_0-1704477775.jpg",
+    imageUrl:
+      "https://img0.junaroad.com/uiproducts/20796493/zoom_0-1704477775.jpg",
     title: "Urban Muse",
     subTitle: "Women Full Sleeve Winter Bodycon Dress",
-    plp_pdp_bridge: { images: [
-      
-      { id: 1, mediaType: "image", position: "1", url: "https://img0.junaroad.com/uiproducts/20796493/zoom_0-1704477775.jpg", aspect_ratio: "0.75" },
-      { id: 2, mediaType: "image", position: "2", url: "https://img1.junaroad.com/uiproducts/20796493/zoom_1-1704477775.jpg", aspect_ratio: "0.75" }, 
-      { id: 3, mediaType: "image", position: "3", url: "https://img1.junaroad.com/uiproducts/20796493/zoom_2-1704477775.jpg", aspect_ratio: "0.75" }, 
-      { id: 4, mediaType: "image", position: "4", url: "https://img1.junaroad.com/uiproducts/20796493/zoom_3-1704477775.jpg", aspect_ratio: "0.75" }, 
-      { id: 5, mediaType: "image", position: "5", url: "https://img1.junaroad.com/uiproducts/20796493/zoom_4-1704477775.jpg", aspect_ratio: "0.75" }, 
-    ] },
+    plp_pdp_bridge: {
+      images: [
+        {
+          id: 1,
+          mediaType: "image",
+          position: "1",
+          url: "https://img0.junaroad.com/uiproducts/20796493/zoom_0-1704477775.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 2,
+          mediaType: "image",
+          position: "2",
+          url: "https://img1.junaroad.com/uiproducts/20796493/zoom_1-1704477775.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 3,
+          mediaType: "image",
+          position: "3",
+          url: "https://img1.junaroad.com/uiproducts/20796493/zoom_2-1704477775.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 4,
+          mediaType: "image",
+          position: "4",
+          url: "https://img1.junaroad.com/uiproducts/20796493/zoom_3-1704477775.jpg",
+          aspect_ratio: "0.75",
+        },
+        {
+          id: 5,
+          mediaType: "image",
+          position: "5",
+          url: "https://img1.junaroad.com/uiproducts/20796493/zoom_4-1704477775.jpg",
+          aspect_ratio: "0.75",
+        },
+      ],
+    },
     sizeVariation: [
       { title: "XS", id: "S0" },
       { title: "S", id: "S1" },
       { title: "M", id: "S2" },
-      { title: "L", id: "S3" }
-    ]
-  }
+      { title: "L", id: "S3" },
+    ],
+  },
 ];
