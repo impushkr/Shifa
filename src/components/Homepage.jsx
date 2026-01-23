@@ -333,7 +333,7 @@ export default function Homepage() {
           <Link to={"/corset"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
-                src="https://i.pinimg.com/736x/91/35/56/9135564cffaba2c7dede591db4f69155.jpg"
+                src="https://i.pinimg.com/736x/4d/70/9d/4d709d20def44b7755ee86285aebac01.jpg"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
@@ -390,7 +390,7 @@ export default function Homepage() {
           <Link to={"/topwear"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
-                src="https://i.pinimg.com/originals/b0/a2/94/b0a29472d5eb1a864db66e1d81b58c94.jpg"
+                src="https://i.pinimg.com/1200x/f4/26/25/f426255d1e3993d4f9155badc89f9067.jpg"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
@@ -409,7 +409,7 @@ export default function Homepage() {
           <Link to={"/coordset"}>
             <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
               <img
-                src="https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/6/STJMAYke_25b1fd2da9dd4415b2f1b8752aafed91.jpg"
+                src="https://i.pinimg.com/1200x/d5/28/5a/d5285a777e484ea6b021d772f66c59d1.jpg"
                 alt=""
               />
               <div className="absolute h-[7vh] bottom-0 bg-white w-full">
