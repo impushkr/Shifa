@@ -107,6 +107,14 @@ export default function Navbar() {
             <ul className="flex flex-col space-y-3 p-4 font-semibold text-gray-700">
               <li
                 onClick={() => {
+                  setShowLogin(true);
+                }}
+                className="hover:text-pink-600 cursor-pointer"
+              >
+                Login
+              </li>
+              <li
+                onClick={() => {
                   navigate("/") && setIsOpen(!isOpen);
                 }}
                 className="hover:text-pink-600 cursor-pointer"
