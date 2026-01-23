@@ -22,7 +22,7 @@ export default function Login({ onClose }) {
           Login to continue shopping
         </p>
 
-        <form className="space-y-4">
+        <form onSubmit={()=>{onclose()}} className="space-y-4">
           {/* Email */}
           <div>
             <label className="text-sm text-gray-600">Email</label>
