@@ -14,7 +14,7 @@ export default function Products({ data }) {
                 className="h-full w-full object-cover"
               />
             </div>
-            <div className="px-2 ">
+            <div className="px-2 py-1 ">
               <h1 className="font-semibold">
                 {item.title.length > 12
                   ? item.title.slice(0, 12) + " ..."

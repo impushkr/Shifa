@@ -253,7 +253,7 @@ export default function Homepage() {
       {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
 
       {/* Popular section */}
-      <h1 className="px-1 font-semibold mt-4 mb-1 lg:text-xl">Popular</h1>
+      <h1 className="px-4 font-semibold mt-4 mb-1 lg:text-xl">Popular</h1>
       <div className="shadow p-3 flex justify-center gap-1 lg:gap-2 lg:mt-3">
         {/* Cosmetics */}
         <Link to={"/cosmetic"}>
@@ -326,7 +326,7 @@ export default function Homepage() {
       </div>
 
       {/* Special Offers */}
-      <h1 className="px-3 font-semibold lg:text-xl mt-8">Special Offers</h1>
+      <h1 className="px-4 font-semibold lg:text-xl mt-8">Special Offers</h1>
       <div className="w-full  xl:overflow-x-auto   shadow mt-2 pb-2 pt-2">
         <div className="flex flex-wrap justify-center gap-2 p-1 xl:w-[167vw]">
           {/* Corset */}
