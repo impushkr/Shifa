@@ -17,10 +17,10 @@ export default function Navbar() {
     <>
       <nav className="bg-white shadow-md fixed w-full top-0 z-50 ">
         <div className="max-w-7xl mx-auto  px-2 lg:px-5">
-          <div className="flex gap-20 justify-between h-16 items-center">
+          <div className="flex gap-25.5 justify-between h-16 items-center">
             <div className="flex">
               {/* Mobile Menu Button */}
-              <div className="md:hidden flex items-center mr-3">
+              <div className="md:hidden flex items-center">
                 <button onClick={() => setIsOpen(!isOpen)}>
                   {isOpen ? (
                     <FiX className="text-2xl" />
@@ -32,7 +32,7 @@ export default function Navbar() {
               {/* Logo */}
               <div onClick={() => setShowLogin(true)} className="flex-shrink-0">
                 <img
-                  src="/logo-navbar.png"
+                  src="/Shifa-Logo.png"
                   alt="Shifa Logo"
                   className="h-12 w-auto"
                 />
