@@ -1,4 +1,4 @@
-import React from "react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -9,11 +9,11 @@ const Footer = () => {
         <div>
           <h3 className="font-semibold text-gray-900 mb-4">SHOP</h3>
           <ul className="space-y-2 text-sm">
-            <li className="hover:underline cursor-pointer">New Arrivals</li>
-            <li className="hover:underline cursor-pointer">Dresses</li>
-            <li className="hover:underline cursor-pointer">Kurtis</li>
-            <li className="hover:underline cursor-pointer">Tops</li>
-            <li className="hover:underline cursor-pointer">Sale</li>
+            <Link to={"newarrivals"}><li className="hover:underline cursor-pointer">New Arrivals</li></Link>
+            <Link to={"dresses"}><li className="hover:underline cursor-pointer">Dresses</li></Link>
+            <Link to={"kurtis"}><li className="hover:underline cursor-pointer">Kurtis</li></Link>
+            <Link to={"topwear"}><li className="hover:underline cursor-pointer">Tops</li></Link>
+            <Link to={"sale"}><li className="hover:underline cursor-pointer">Sale</li></Link>
           </ul>
         </div>
 
