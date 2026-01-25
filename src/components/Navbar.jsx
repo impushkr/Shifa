@@ -75,7 +75,7 @@ export default function Navbar() {
                       <div className="relative">
                         <FiHeart className="text-2xl md:text-xl cursor-pointer hover:text-pink-600" />
                         {wishlistItems.length > 0 && (
-                          <div className="absolute bottom-4 right-[-0.6vw] bg-pink-400 font-semibold text-xs text-white text-center rounded-4xl md:bottom-3 md:right-[-0.4vw] xl:right-[-0.1vw] p-1"></div>
+                          <div className="absolute bottom-4 right-[-0.6vw] bg-pink-500 font-semibold text-xs text-white text-center rounded-4xl md:bottom-3 md:right-[-0.4vw] xl:right-[-0.1vw] p-1"></div>
                         )}
                       </div>
                       <h1 className="hidden md:block text-lg font-medium  hover:text-pink-600">
@@ -90,7 +90,7 @@ export default function Navbar() {
                         Cart
                       </h1>
                       {cartItems.length > 0 && (
-                        <p className="absolute bottom-4 right-[-2vw] bg-pink-400 w-[4vw] font-semibold text-xs text-white text-center rounded-4xl md:text-xs md:w-[2.2vw] md:right-[-1.9vw] lg:w-[1.8vw] lg:right-[-1.4vw] xl:w-[1.2vw] xl:right-[-1vw]">
+                        <p className="absolute bottom-4 right-[-2vw] bg-pink-500 w-[4vw] font-semibold text-xs text-white text-center rounded-4xl md:text-xs md:w-[2.2vw] md:right-[-1.9vw] lg:w-[1.8vw] lg:right-[-1.4vw] xl:w-[1.2vw] xl:right-[-1vw]">
                           {cartItems.length > 9 ? "9+" : cartItems.length}
                         </p>
                       )}
