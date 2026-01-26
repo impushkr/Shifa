@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
 import { Link } from "react-router";
+import { FiHeart, FiShare2 } from "react-icons/fi";
 
 import {
   indianWear,
@@ -51,7 +52,7 @@ export default function ProductDetails() {
     gown,
     officeWear,
     summerCollection,
-    winterCollection
+    winterCollection,
   ];
 
   let relatedProducts = [];
@@ -82,15 +83,16 @@ export default function ProductDetails() {
     bracelets.find((item) => item.id == id) ||
     gown.find((item) => item.id == id) ||
     officeWear.find((item) => item.id == id) ||
-    summerCollection.find((item) => item.id == id)||
+    summerCollection.find((item) => item.id == id) ||
     winterCollection.find((item) => item.id == id);
 
   if (!products) return null;
 
   const { cartItems, addItem } = useCart();
-  const { wishlistItems, addtowishlist } = useWishlist();
+  const { wishlistItems, addtowishlist, removefromwishlist } = useWishlist();
 
   const [productImage, setProductImage] = useState(products.imageUrl);
+  const [isLiked, setIsLiked] = useState(false);
 
   return (
     <>
@@ -126,6 +128,30 @@ export default function ProductDetails() {
                 alt="Product"
                 className="w-full h-full object-cover"
               />
+
+              <div className="absolute right-4.5 top-6 xl:right-7 xl:top-7 flex flex-col items-center gap-3">
+                {/* Heart Icon */}
+                <FiHeart
+                  onClick={() => {
+                    let check = !isLiked;
+                    setIsLiked(check);
+                    check
+                      ? addtowishlist(products)
+                      : removefromwishlist(products);
+                  }}
+                  className={`cursor-pointer h-[4.5vh] w-[10vw] md:h-[3vh] md:w-[4.5vw] lg:h-[3vh] lg:w-[4vw] xl:h-[5vh] xl:w-[3vw] p-2 lg::p-1.5 xl:p-2 rounded-full 
+      bg-white/30 backdrop-blur-md border border-white/40
+      transition-all duration-300  
+      ${isLiked ? "text-pink-600 fill-pink-600" : "text-black"}`}
+                />
+
+                {/* Arrow Share Icon */}
+                <FiShare2
+                  className="cursor-pointer h-[4.5vh] w-[10vw] md:h-[3vh] md:w-[4.5vw] lg:h-[3vh] lg:w-[4vw] xl:h-[5vh] xl:w-[3vw] p-2 lg::p-1.5 xl:p-2 rounded-full 
+      bg-white/30 backdrop-blur-md border border-white/40
+      text-black hover:scale-110 transition "
+                />
+              </div>
             </div>
 
             {/* Product Image gallery for mobiles */}
