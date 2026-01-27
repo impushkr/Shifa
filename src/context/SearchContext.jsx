@@ -53,7 +53,7 @@ export function SearchProvider({ children }) {
 
   { name: "jewellery,jewelry,necklace,earring,ring,bangle,accessories", items: jewellary },
 
-  { name: "bag,bags,purse,handbag,shoulderbag,totebag,clutch,girlsbag,womenbag", items: womenBags },
+  { name: "bag,bags,purse,handbag,shoulderbag,totebag,clutch,girlsbag,womenbags", items: womenBags },
 
   { name: "womenbottomwear,jeans,leggings,palazzo,pants,trousers,skirts", items: womenBottomwear },
 
@@ -136,8 +136,6 @@ export function SearchProvider({ children }) {
       return navigate("/products");
      }
       
-    
-    
   }
 
   function liveSearch(value) {

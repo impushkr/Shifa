@@ -4,7 +4,7 @@ import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
 import { useSearch } from "../context/SearchContext";
 import { FiUser, FiHeart, FiShoppingBag, FiMenu, FiX } from "react-icons/fi";
-import { ArrowUpLeft } from "lucide-react";
+import { ArrowUpLeft, Search, X } from "lucide-react";
 
 import Login from "./Login";
 
@@ -28,7 +28,7 @@ export default function Navbar() {
     <>
       <nav className="bg-white shadow-md fixed w-full top-0 z-50 ">
         <div className="max-w-7xl mx-auto  px-2 lg:px-5">
-          <div className="flex gap-26 justify-between h-16 items-center">
+          <div className="flex gap-22 justify-between h-16 items-center">
             <div className="flex gap-2">
               {/* Mobile Menu Button */}
               <div className="md:hidden flex items-center">
@@ -41,18 +41,20 @@ export default function Navbar() {
                 </button>
               </div>
               {/* Logo */}
-              <div onClick={() => setShowLogin(true)} className="flex-shrink-0">
-                <img
-                  src="/Shifa-Logo.png"
-                  alt="Shifa Logo"
-                  className="h-12 w-auto"
-                />
-              </div>
+              <Link to={"/"}>
+                <div className="flex-shrink-0">
+                  <img
+                    src="/Shifa-Logo.png"
+                    alt="Shifa Logo"
+                    className="h-12 w-auto"
+                  />
+                </div>
+              </Link>
             </div>
 
             {/* Right Icons */}
             <div className="md:flex justify-between w-[68vw] lg:w-[75vw] xl:w-[70vw]">
-              <div className="flex items-center justify-between w-[50vw] md:w-[65vw] lg:w-[74vw]">
+              <div className="flex items-center justify-between w-[60vw] md:w-[65vw] lg:w-[74vw]">
                 <Link to={"/"}>
                   <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
                     Home
@@ -65,15 +67,34 @@ export default function Navbar() {
                   Contact
                 </h1>
 
-                <div className="relative w-[30vw] md:w-[25vw]">
-                  <form onSubmit={handlesubmit}>
+                <div className="relative w-[40vw] md:w-[25vw] xl:w-[30vw]">
+                  <form onSubmit={handlesubmit} className="relative w-full">
+                    {/* Search Icon */}
+                    <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-500" />
+
                     <input
                       value={input}
                       onChange={handlechange}
                       type="text"
-                      placeholder="Search Here . . . . ."
-                      className="w-full px-3 py-1 border border-gray-400 rounded-full outline-none text-sm h-10 hover:border-black"
+                      placeholder="Search for products..."
+                      className="w-full pl-9 pr-9 py-2 border border-gray-300 rounded-full 
+               outline-none text-sm h-11
+               focus:border-gray-800
+               transition-all duration-200"
                     />
+
+                    {/* Clear (Cross) Icon */}
+                    {input && (
+                      <X
+                        onClick={() => {
+                          setInput("");
+                          setLiveInput([]);
+                        }}
+                        className="absolute right-3 top-1/2 -translate-y-1/2 
+                 w-4 h-4 text-gray-500 cursor-pointer 
+                 hover:text-black transition"
+                      />
+                    )}
                   </form>
                   {liveInput.length > 0 && (
                     <div className="absolute top-12 w-full bg-white border border-gray-300 rounded-md shadow-lg max-h-60 overflow-y-auto z-50">
@@ -116,7 +137,7 @@ export default function Navbar() {
                   )}
                 </div>
 
-                <div className="flex justify-between items-center w-[15vw] md:w-[35vw] lg:w-[27vw] xl:w-[21vw]">
+                <div className="flex gap-2 md:justify-between items-center w-[15vw] md:w-[35vw] lg:w-[27vw] xl:w-[21vw]">
                   <div
                     onClick={() => setShowLogin(true)}
                     className="hidden md:flex items-center gap-1.5"
