@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 import { useSearch } from "../context/SearchContext";
 
 export default function Products({ data }) {
-  const { finalInput } = useSearch();
-  const productsData = finalInput.length > 0 ? finalInput : data;
+  const { searchedItem } = useSearch();
+  const productsData = searchedItem.length > 0 ? searchedItem : data;
   return (
     <div className="flex flex-wrap gap-3 justify-center px-3 mb-8 md:mt-20">
       {productsData.map((item) => (

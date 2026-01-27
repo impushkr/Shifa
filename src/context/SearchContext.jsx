@@ -52,20 +52,20 @@ export function SearchProvider({ children }) {
 
   const [input, setInput] = useState("");
   const [liveInput, setLiveInput] = useState([]);
-  const [finalInput, setFinalInput] = useState([]);
+  const [searchedItem, setSearchedItem] = useState([]);
 
   function handlechange(e) {
     setInput(e.target.value);
-    liveSearch(e.target.value);
+    liveSearch(e.target.value.replace(/\s/g, ""));
   }
 
   function handlesubmit(e) {
     e.preventDefault();
 
-    const value = input;
+    const value = input.replace(/\s/g, "");
 
     if (!value || value.trim().length === 0) {
-      setFinalInput([]);
+      setSearchedItem([]);
       navigate("/");
       return;
     }
@@ -74,7 +74,7 @@ export function SearchProvider({ children }) {
 
     for (const category of categories) {
       const found = category.filter((item) =>
-        item.title.toLowerCase().includes(value.toLowerCase().trim()),
+        item.title.toLowerCase().replace(/\s/g, "").includes(value.toLowerCase().trim()),
       );
 
       if (found.length > 0) {
@@ -86,7 +86,7 @@ export function SearchProvider({ children }) {
       return navigate(`products/${results[0].id}`);
     }
 
-    setFinalInput(results);
+    setSearchedItem(results);
     navigate("/products");
     
   }
@@ -101,7 +101,7 @@ export function SearchProvider({ children }) {
 
     for (const category of categories) {
       const found = category.filter((item) =>
-        item.title.toLowerCase().includes(value.toLowerCase().trim()),
+        item.title.toLowerCase().replace(/\s/g, "").includes(value.toLowerCase()),
       );
 
       if (found.length > 0) {
@@ -118,7 +118,7 @@ export function SearchProvider({ children }) {
         value={{
           input,
           liveInput,
-          finalInput,
+          searchedItem,
           setInput,
           setLiveInput,
           handlechange,
