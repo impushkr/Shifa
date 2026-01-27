@@ -48,6 +48,49 @@ export function SearchProvider({ children }) {
     summerCollection,
     winterCollection,
   ];
+  const categoriesTitle = [
+  { name: "indianwear,ethnicwear,traditional,saree,lehenga,salwar,salwarsuit,punjabisuit", items: indianWear },
+
+  { name: "jewellery,jewelry,necklace,earring,ring,bangle,accessories", items: jewellary },
+
+  { name: "bag,bags,purse,handbag,shoulderbag,totebag,clutch,girlsbag,womenbag", items: womenBags },
+
+  { name: "womenbottomwear,jeans,leggings,palazzo,pants,trousers,skirts", items: womenBottomwear },
+
+  { name: "womenfootwear,shoes,sneakers,heels,sandals,flats,boots", items: womenFootwear },
+
+  { name: "womentopwear,top,tops,tshirt,blouse,shirt,croptop", items: womenTopWear },
+
+  { name: "womenkurti,kurtis,ethnickurti,punjabisuits", items: kurtis },
+
+  { name: "new,newarrivals,latest,trending,justin", items: newArrivals },
+
+  { name: "abaya,abayas,burkha,burkhas,hijab", items: abayas },
+
+  { name: "dress,dresses,gown,partywear,maxidress,longdress", items: dresses },
+
+  { name: "cosmetics,makeup,beauty,lipstick,foundation,mascara", items: cosmetics },
+
+  { name: "skincare,facewash,serum,moisturizer,cream,cleanser", items: skincare },
+
+  { name: "corset,corsets,waisttrainer", items: corsetProducts },
+
+  { name: "coordset,co-ord,coordsets,matchingset,twopiece", items: coordSetProducts },
+
+  { name: "watch,watches,wristwatch", items: watches },
+
+  { name: "bracelet,bracelets,bangle", items: bracelets },
+
+  { name: "gown,eveninggown,longgown", items: gown },
+
+  { name: "officewear,formalwear,formal,workwear", items: officeWear },
+
+  { name: "summer,summerwear,lightwear", items: summerCollection },
+
+  { name: "winter,winterwear,sweater,jacket,coat", items: winterCollection },
+];
+
+
   const navigate = useNavigate();
 
   const [input, setInput] = useState("");
@@ -61,20 +104,23 @@ export function SearchProvider({ children }) {
 
   function handlesubmit(e) {
     e.preventDefault();
-
-    const value = input.replace(/\s/g, "");
-
+    const value = input.replace(/\s/g, "").toLowerCase();
     if (!value || value.trim().length === 0) {
       setSearchedItem([]);
       navigate("/");
       return;
     }
-
     const results = [];
-
+    for(const category of categoriesTitle){
+        if(category.name.toLowerCase().replace(/\s/g, "").includes(value)){
+          results.push(...category.items)
+          setSearchedItem(results)
+          return navigate("/products")
+        }
+     }
     for (const category of categories) {
       const found = category.filter((item) =>
-        item.title.toLowerCase().replace(/\s/g, "").includes(value.toLowerCase().trim()),
+        item.title.toLowerCase().replace(/\s/g, "").includes(value),
       );
 
       if (found.length > 0) {
@@ -85,9 +131,12 @@ export function SearchProvider({ children }) {
     if (results.length === 1) {
       return navigate(`products/${results[0].id}`);
     }
-
-    setSearchedItem(results);
-    navigate("/products");
+     else if(results.length>1){
+      setSearchedItem(results);
+      return navigate("/products");
+     }
+      
+    
     
   }
 
