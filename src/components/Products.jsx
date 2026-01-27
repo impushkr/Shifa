@@ -1,10 +1,12 @@
 import { Link } from "react-router-dom";
+import { useSearch } from "../context/SearchContext";
 
 export default function Products({ data }) {
-  console.log(data);
+  const { finalInput } = useSearch();
+  const productsData = finalInput.length > 0 ? finalInput : data;
   return (
     <div className="flex flex-wrap gap-3 justify-center px-3 mb-8 md:mt-20">
-      {data.map((item) => (
+      {productsData.map((item) => (
         <Link to={`/products/${item.id}`}>
           <div className="overflow-hidden w-[44vw] md:w-[29vw] lg:w-[20vw] xl:w-[15vw]">
             <div className="h-[27vh] w-full overflow-hidden md:h-[31vh] lg:h-[22vh] xl:h-[35vh]">

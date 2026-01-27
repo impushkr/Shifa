@@ -55,10 +55,6 @@ const router = createBrowserRouter([
         element: <Products />,
       },
       {
-        path: "/products/:id",
-        element: <ProductsDetails />,
-      },
-      {
         path: "/bestsellers",
         element: <Products data={bestSellers} />,
       },
@@ -153,6 +149,10 @@ const router = createBrowserRouter([
       {
         path: "/wishlist",
         element: <Wishlist />,
+      },
+      {
+        path: "/products/:id",
+        element: <ProductsDetails />,
       },
     ],
   },

@@ -2,12 +2,23 @@ import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
+import { useSearch } from "../context/SearchContext";
 import { FiUser, FiHeart, FiShoppingBag, FiMenu, FiX } from "react-icons/fi";
+import { ArrowUpLeft } from "lucide-react";
+
 import Login from "./Login";
 
 export default function Navbar() {
   const { cartItems } = useCart();
   const { wishlistItems } = useWishlist();
+  const {
+    input,
+    liveInput,
+    setInput,
+    setLiveInput,
+    handlechange,
+    handlesubmit,
+  } = useSearch();
   const [isOpen, setIsOpen] = useState(false);
   const navigate = useNavigate();
 
@@ -54,11 +65,56 @@ export default function Navbar() {
                   Contact
                 </h1>
 
-                <input
-                  type="text"
-                  placeholder="Search Here . . . . ."
-                  className="w-[30vw] px-3 py-1 border border-gray-400 rounded-full outline-none text-sm h-10 md:w-[25vw] hover:border-black"
-                />
+                <div className="relative w-[30vw] md:w-[25vw]">
+                  <form onSubmit={handlesubmit}>
+                    <input
+                      value={input}
+                      onChange={handlechange}
+                      type="text"
+                      placeholder="Search Here . . . . ."
+                      className="w-full px-3 py-1 border border-gray-400 rounded-full outline-none text-sm h-10 hover:border-black"
+                    />
+                  </form>
+                  {liveInput.length > 0 && (
+                    <div className="absolute top-12 w-full bg-white border border-gray-300 rounded-md shadow-lg max-h-60 overflow-y-auto z-50">
+                      {liveInput.map((item) => (
+                        <div
+                          key={item.id}
+                          className="hidden lg:flex justify-between items-center px-4 py-2 cursor-pointer"
+                          onClick={() => {
+                            setInput(item.title);
+                            setLiveInput([]);
+                          }}
+                        >
+                          <Link to={`/products/${item.id}`}>
+                            <div
+                              onClick={() => {
+                                setLiveInput([]);
+                              }}
+                              className="flex items-center gap-3  hover:bg-gray-100 lg:w-[18vw] xl:w-[20vw]"
+                            >
+                              {/* Product Image */}
+                              <img
+                                src={item.imageUrl}
+                                alt={item.title}
+                                className="w-10 h-10 object-cover rounded-md"
+                              />
+
+                              {/* Product Title */}
+                              <span className="text-sm">{item.title}</span>
+                            </div>
+                          </Link>
+                          <ArrowUpLeft
+                            className="text-gray-700 "
+                            onClick={() => {
+                              setInput(item.title);
+                            }}
+                          />
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
 
                 <div className="flex justify-between items-center w-[15vw] md:w-[35vw] lg:w-[27vw] xl:w-[21vw]">
                   <div
@@ -130,6 +186,42 @@ export default function Navbar() {
           </div>
         )}
       </nav>
+
+      {liveInput.length > 0 && (
+        <div className="lg:hidden absolute top-12 w-full bg-white border border-gray-300 rounded-md shadow-lg max-h-[48vh] overflow-y-auto z-50 mt-4">
+          {liveInput.map((item) => (
+            <div
+              key={item.id}
+              className="flex justify-between items-center px-4 py-2  hover:bg-gray-100"
+            >
+              <Link to={`/products/${item.id}`}>
+                <div
+                  onClick={() => {
+                    setLiveInput([]);
+                  }}
+                  className="flex items-center gap-3 w-[83vw] md:w-[92vw]"
+                >
+                  {/* Product Image */}
+                  <img
+                    src={item.imageUrl}
+                    alt={item.title}
+                    className="w-10 h-10 object-cover rounded-md"
+                  />
+
+                  {/* Product Title */}
+                  <span className="text-sm">{item.title}</span>
+                </div>
+              </Link>
+              <ArrowUpLeft
+                className="text-gray-700 "
+                onClick={() => {
+                  setInput(item.title);
+                }}
+              />
+            </div>
+          ))}
+        </div>
+      )}
 
       {/* Desktop Menu */}
       <ul className="mt-16 flex h-13 items-center justify-center space-x-6 text-gray-500 font-semibold md:hidden ">
