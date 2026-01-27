@@ -81,14 +81,14 @@ export function SearchProvider({ children }) {
         results.push(...found);
       }
     }
-
+    setLiveInput([]);
     if (results.length === 1) {
       return navigate(`products/${results[0].id}`);
     }
 
     setFinalInput(results);
     navigate("/products");
-    setLiveInput([]);
+    
   }
 
   function liveSearch(value) {

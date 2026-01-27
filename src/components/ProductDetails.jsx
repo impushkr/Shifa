@@ -308,13 +308,22 @@ export default function ProductDetails() {
                 <div className="h-[27vh] w-[31vw] rounded-lg relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
                   <img src={items.imageUrl} alt="" />
                   <div className="absolute h-[7vh] bottom-0 bg-white w-full">
-                    <h3 className="font-semibold px-1">Bottom wear</h3>
-                    <span className="font-semibold px-1 text-sm mb-3">
-                      From -
-                    </span>{" "}
-                    <span className="font-semibold text-sm text-green-700">
+                    <h3 className="font-semibold px-1">
+                      {items.title.slice(0, 10) + " ..."}
+                    </h3>
+                    <span className="font-semibold text-sm text-green-700 ml-1">
                       ₹{items.discountedPrice}
                     </span>
+
+                    {items.discount > 0 ? (
+                      <>
+                        <span className="text-xs px-1 line-through text-gray-500 lg:text-sm">
+                          ₹{items.price}
+                        </span>
+                      </>
+                    ) : (
+                      <></>
+                    )}
                   </div>
                 </div>
               </Link>
