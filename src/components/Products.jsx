@@ -5,7 +5,9 @@ export default function Products({ data }) {
   const { searchedItem } = useSearch();
   const productsData = searchedItem.length > 0 ? searchedItem : data;
   return (
-    <div className="flex flex-wrap gap-3 justify-center px-3 mb-8 md:mt-20">
+    <>
+    {productsData ? (<>
+      <div className="flex flex-wrap gap-3 justify-center px-3 mb-8 md:mt-20">
       {productsData.map((item) => (
         <Link to={`/products/${item.id}`}>
           <div className="overflow-hidden w-[44vw] md:w-[29vw] lg:w-[20vw] xl:w-[15vw]">
@@ -47,6 +49,10 @@ export default function Products({ data }) {
           </div>
         </Link>
       ))}
-    </div>
+    </div></>):(<><div className="w-[90vw] h-[50vh] md:h-[80vh] flex justify-center items-center pl-10 text-2xl font-semibold">
+      <h1>Product not found !</h1>
+      </div></>)
+      
+    }</>
   );
 }

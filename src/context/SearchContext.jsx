@@ -135,7 +135,8 @@ export function SearchProvider({ children }) {
       setSearchedItem(results);
       return navigate("/products");
      }
-      
+    
+    navigate("/products")
   }
 
   function liveSearch(value) {
