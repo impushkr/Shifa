@@ -41,15 +41,13 @@ export default function Navbar() {
                 </button>
               </div>
               {/* Logo */}
-              <Link to={"/"}>
-                <div className="flex-shrink-0">
-                  <img
-                    src="/Shifa-Logo.png"
-                    alt="Shifa Logo"
-                    className="h-12 w-auto"
-                  />
-                </div>
-              </Link>
+              <div onClick={() => navigate("/")} className="flex-shrink-0">
+                <img
+                  src="/Shifa-Logo.png"
+                  alt="Shifa Logo"
+                  className="h-12 w-auto"
+                />
+              </div>
             </div>
 
             {/* Right Icons */}
