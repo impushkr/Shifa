@@ -3,7 +3,7 @@ import { useSearch } from "../context/SearchContext";
 
 export default function Products({ data }) {
   const { searchedItem } = useSearch();
-  const productsData = searchedItem.length > 0 ? searchedItem : data;
+  const productsData = data ? data : searchedItem 
   return (
     <>
     {productsData ? (<>
