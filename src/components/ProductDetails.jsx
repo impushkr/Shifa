@@ -94,6 +94,24 @@ export default function ProductDetails() {
   const [productImage, setProductImage] = useState(products.imageUrl);
   const [isLiked, setIsLiked] = useState(false);
 
+  async function handleShare() {
+  if (navigator.share) {
+    try {
+      await navigator.share({
+        title: "Check this product",
+        text: "Look at this amazing product!",
+        url: window.location.href,
+      });
+    } catch (error) {
+      console.log("Sharing cancelled or failed", error);
+    }
+  } else {
+    alert("Sharing not supported on this device");
+  }
+}
+
+
+
   return (
     <>
       <div className="w-full px-4 md:px-8 md:mt-20 lg:mt-15 mb-5 lg:py-6">
@@ -147,6 +165,7 @@ export default function ProductDetails() {
 
                 {/* Arrow Share Icon */}
                 <FiShare2
+                onClick={handleShare}
                   className="cursor-pointer h-[4.5vh] w-[10vw] md:h-[3vh] md:w-[4.5vw] lg:h-[3vh] lg:w-[4vw] xl:h-[5vh] xl:w-[3vw] p-2 lg::p-1.5 xl:p-2 rounded-full 
       bg-white/30 backdrop-blur-md border border-white/40
       text-black hover:scale-110 transition "
