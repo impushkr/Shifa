@@ -104,6 +104,7 @@ export function SearchProvider({ children }) {
 
   function handlesubmit(e) {
     e.preventDefault();
+    setLiveInput([])
     const value = input.replace(/\s/g, "").toLowerCase();
     if (!value || value.trim().length === 0) {
       setSearchedItem([]);
@@ -127,7 +128,6 @@ export function SearchProvider({ children }) {
         results.push(...found);
       }
     }
-    setLiveInput([]);
     if (results.length === 1) {
       return navigate(`products/${results[0].id}`);
     }
@@ -135,7 +135,7 @@ export function SearchProvider({ children }) {
       setSearchedItem(results);
       return navigate("/products");
      }
-    
+     setSearchedItem([]);
     navigate("/products")
   }
 
