@@ -17,17 +17,29 @@ export default function Login({ onClose }) {
           <X size={20} />
         </button>
 
-        <h1 className="text-2xl font-semibold text-center mb-2">Welcome Back</h1>
+        <h1 className="text-2xl font-semibold text-center mb-2">
+          Welcome Back
+        </h1>
         <p className="text-sm text-gray-500 text-center mb-6">
           Login to continue shopping
         </p>
 
-        <form onSubmit={()=>{onclose()}} className="space-y-4">
+        <form
+          onSubmit={() => {
+            alert(
+              "Login feature is coming soon. For now, you can skip this step and continue browsing.",
+            );
+          }}
+          className="space-y-4"
+        >
           {/* Email */}
           <div>
             <label className="text-sm text-gray-600">Email</label>
             <div className="relative mt-1">
-              <Mail className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
+              <Mail
+                className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
+                size={18}
+              />
               <input
                 type="email"
                 placeholder="Enter your email"
@@ -40,7 +52,10 @@ export default function Login({ onClose }) {
           <div>
             <label className="text-sm text-gray-600">Password</label>
             <div className="relative mt-1">
-              <Lock className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
+              <Lock
+                className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
+                size={18}
+              />
               <input
                 type={showPassword ? "text" : "password"}
                 placeholder="Enter your password"
@@ -58,7 +73,15 @@ export default function Login({ onClose }) {
 
           {/* Forgot */}
           <div className="flex justify-end">
-            <button type="button" className="text-sm text-pink-500 hover:underline">
+            <button
+              onClick={() => {
+                      alert(
+                        "We’re working on this section. It will be available soon!",
+                      );
+                    }}
+              type="button"
+              className="text-sm text-pink-500 hover:underline"
+            >
               Forgot password?
             </button>
           </div>
@@ -79,7 +102,14 @@ export default function Login({ onClose }) {
         {/* Signup */}
         <p className="text-sm text-center text-gray-600">
           Don’t have an account?{" "}
-          <span className="text-pink-500 cursor-pointer hover:underline">
+          <span
+            onClick={() => {
+              alert(
+                "Sign up feature is coming soon. For now, you can skip this step and continue browsing.",
+              );
+            }}
+            className="text-pink-500 cursor-pointer hover:underline"
+          >
             Sign up
           </span>
         </p>

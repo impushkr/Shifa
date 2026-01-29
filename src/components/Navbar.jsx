@@ -58,10 +58,24 @@ export default function Navbar() {
                     Home
                   </h1>
                 </Link>
-                <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
+                <h1
+                  onClick={() => {
+                    alert(
+                      "We’re working on this section. It will be available soon!",
+                    );
+                  }}
+                  className="hidden lg:block font-semibold text-lg hover:text-pink-400"
+                >
                   About
                 </h1>
-                <h1 className="hidden lg:block font-semibold text-lg hover:text-pink-400">
+                <h1
+                  onClick={() => {
+                    alert(
+                      "We’re working on this section. It will be available soon!",
+                    );
+                  }}
+                  className="hidden lg:block font-semibold text-lg hover:text-pink-400"
+                >
                   Contact
                 </h1>
 
@@ -196,11 +210,23 @@ export default function Navbar() {
               >
                 Home
               </li>
-              <li className="hover:text-pink-600 cursor-pointer">
+              <li onClick={() => {
+                      alert(
+                        "We’re working on this section. It will be available soon!",
+                      );
+                    }} className="hover:text-pink-600 cursor-pointer">
                 Your Orders
               </li>
-              <li className="hover:text-pink-600 cursor-pointer">Contact</li>
-              <li className="hover:text-pink-600 cursor-pointer">Help</li>
+              <li onClick={() => {
+                      alert(
+                        "We’re working on this section. It will be available soon!",
+                      );
+                    }} className="hover:text-pink-600 cursor-pointer">Contact</li>
+              <li onClick={() => {
+                      alert(
+                        "We’re working on this section. It will be available soon!",
+                      );
+                    }} className="hover:text-pink-600 cursor-pointer">Help</li>
             </ul>
           </div>
         )}
