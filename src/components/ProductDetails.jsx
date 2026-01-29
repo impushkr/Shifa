@@ -93,24 +93,26 @@ export default function ProductDetails() {
 
   const [productImage, setProductImage] = useState(products.imageUrl);
   const [isLiked, setIsLiked] = useState(false);
+  const [sizeSelected, setSizeSelected] = useState("");
+  const [addWithoutSize, setAddWithoutSize] = useState(false);
 
   async function handleShare() {
-  if (navigator.share) {
-    try {
-      await navigator.share({
-        title: "Check this product",
-        text: "Look at this amazing product!",
-        url: window.location.href,
-      });
-    } catch (error) {
-      console.log("Sharing cancelled or failed", error);
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: "Check this product",
+          text: "Look at this amazing product!",
+          url: window.location.href,
+        });
+      } catch (error) {
+        console.log("Sharing cancelled or failed", error);
+      }
+    } else {
+      alert("Sharing not supported on this device");
     }
-  } else {
-    alert("Sharing not supported on this device");
   }
-}
 
-
+  function handleSize(size) {}
 
   return (
     <>
@@ -160,12 +162,17 @@ export default function ProductDetails() {
                   className={`cursor-pointer h-[4.5vh] w-[10vw] md:h-[3vh] md:w-[4.5vw] lg:h-[3vh] lg:w-[4vw] xl:h-[5vh] xl:w-[3vw] p-2 lg::p-1.5 xl:p-2 rounded-full 
       bg-white/30 backdrop-blur-md border border-white/40
       transition-all duration-300  
-      ${isLiked ? "text-pink-600 fill-pink-600" : "text-black"}`}
+      ${
+        isLiked ||
+        wishlistItems.some((previousItem) => previousItem.id == products.id)
+          ? "text-pink-600 fill-pink-600"
+          : "text-black"
+      }`}
                 />
 
                 {/* Arrow Share Icon */}
                 <FiShare2
-                onClick={handleShare}
+                  onClick={handleShare}
                   className="cursor-pointer h-[4.5vh] w-[10vw] md:h-[3vh] md:w-[4.5vw] lg:h-[3vh] lg:w-[4vw] xl:h-[5vh] xl:w-[3vw] p-2 lg::p-1.5 xl:p-2 rounded-full 
       bg-white/30 backdrop-blur-md border border-white/40
       text-black hover:scale-110 transition "
@@ -242,13 +249,27 @@ export default function ProductDetails() {
                   <div className="flex gap-3 overflow-x-auto pb-2">
                     {products.sizeVariation.map((item, index) => (
                       <button
+                        onClick={() => {
+                          setSizeSelected(
+                            item.title.length > 5
+                              ? item.title.slice(5, 7)
+                              : item.title,
+                          );
+                          setAddWithoutSize(false);
+                        }}
                         key={index}
-                        className="border border-gray-400 rounded-2xl flex justify-center items-center
+                        className={`border border-gray-400 rounded-2xl flex justify-center items-center
           h-[4vh] min-w-[11vw]
           md:h-[3vh] md:min-w-[6vw]
           lg:h-[2.5vh] lg:min-w-[5vw]
           xl:h-[3.8vh] xl:min-w-[4vw]
-          "
+          ${
+            sizeSelected ==
+            (item.title.length > 5 ? item.title.slice(5, 7) : item.title)
+              ? "bg-gray-200 disabled: scale-95"
+              : "bg-white"
+          }
+          `}
                       >
                         {item.title.length > 5
                           ? item.title.slice(5, 7)
@@ -256,6 +277,11 @@ export default function ProductDetails() {
                       </button>
                     ))}
                   </div>
+                  {addWithoutSize ? (
+                    <p className="text-red-600 animate-pulse text-sm">
+                      Select your size first
+                    </p>
+                  ) : null}
                 </div>
               )}
 
@@ -293,6 +319,7 @@ export default function ProductDetails() {
                 <button
                   onClick={() => {
                     addtowishlist(products);
+                    setIsLiked(true);
                   }}
                   className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition hover:scale-95"
                 >
@@ -308,7 +335,14 @@ export default function ProductDetails() {
                 </button>
               ) : (
                 <button
-                  onClick={() => addItem(products)}
+                  onClick={() => {
+                    if (products.sizeVariation?.length > 0) {
+                      return sizeSelected
+                        ? addItem(products)
+                        : setAddWithoutSize(true);
+                    }
+                    addItem(products);
+                  }}
                   className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition hover:scale-95"
                 >
                   Add To Bag
@@ -318,6 +352,7 @@ export default function ProductDetails() {
           </div>
         </div>
       </div>
+
       <h1 className="px-3 font-semibold lg:text-xl mt-8">You may also like</h1>
       <div className="w-full overflow-x-auto shadow mt-2 py-2">
         <div className="flex justify-center gap-2 p-1 w-max">
