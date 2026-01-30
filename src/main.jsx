@@ -3,7 +3,10 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
 
+// React Router setup
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+
+// Pages and components
 import Homepage from "./components/Homepage.jsx";
 import Products from "./components/Products.jsx";
 import ProductsDetails from "./components/ProductDetails.jsx";
@@ -11,6 +14,7 @@ import Cart from "./components/Cart.jsx";
 import Wishlist from "./components/Wishlist.jsx";
 import OfferCarousel from "./components/OfferCrousal.jsx";
 
+// Product data for different categories
 import {
   indianWear,
   jewellary,
@@ -36,10 +40,11 @@ import {
   winterCollection,
 } from "./data/womens/data";
 
+// Router setup
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App />,
+    element: <App />, // Main layout
     children: [
       {
         path: "/",
@@ -48,12 +53,14 @@ const router = createBrowserRouter([
             <OfferCarousel />
             <Homepage />
           </>
-        ),
+        ), // Home page
       },
       {
         path: "/products",
         element: <Products />,
       },
+
+      // Category routes
       {
         path: "/bestsellers",
         element: <Products data={bestSellers} />,
@@ -152,12 +159,13 @@ const router = createBrowserRouter([
       },
       {
         path: "/products/:id",
-        element: <ProductsDetails />,
+        element: <ProductsDetails />, // Dynamic product page
       },
     ],
   },
 ]);
 
+// Render app
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <RouterProvider router={router} />

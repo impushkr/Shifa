@@ -4,12 +4,15 @@ import { useCart } from "../context/CartContext";
 import { Link } from "react-router";
 
 export default function Cart() {
+  // Get cart state and functions from CartContext
   const { cartItems, addItem, subtotal, subtotaldiscount, reduceItem, remove } =
     useCart();
 
+  // Get wishlist function from WishlistContext
   const { addtowishlist } = useWishlist();
 
   return (
+     // Main page container
     <div className="min-h-screen px-4 py-4 md:py-6 md:mt-15">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-2xl font-semibold mb-6 flex items-center gap-2">
@@ -21,8 +24,10 @@ export default function Cart() {
             Your cart is empty
           </div>
         ) : (
+          // Cart layout (items + order summary)
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-1.5">
-            {/* Cart Items */}
+
+            {/* ================= CART ITEMS SECTION ================= */}
             <div className="lg:col-span-2 space-y-1.5">
               {cartItems.map((item) => (
                 <div className="bg-white p-2">
@@ -101,7 +106,7 @@ export default function Cart() {
               ))}
             </div>
 
-            {/* Order Summary */}
+            {/* ================= ORDER SUMMARY SECTION ================= */}
             <div className="bg-white shadow-sm p-5 h-fit lg:h-[35vh] xl:h-[70vh] lg:flex lg:flex-col lg:justify-between ">
               <div>
                 <h2 className="text-lg font-semibold mb-4">Order Summary</h2>

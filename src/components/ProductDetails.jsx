@@ -4,6 +4,7 @@ import { useWishlist } from "../context/WishlistContext";
 import { Link } from "react-router";
 import { FiHeart, FiShare2 } from "react-icons/fi";
 
+// Importing all product categories
 import {
   indianWear,
   jewellary,
@@ -30,8 +31,10 @@ import {
 import { useParams } from "react-router";
 
 export default function ProductDetails() {
+  // Getting product id from URL
   const { id } = useParams();
-
+  
+  // Storing all categories inside one array
   const categories = [
     indianWear,
     jewellary,
@@ -55,6 +58,7 @@ export default function ProductDetails() {
     winterCollection,
   ];
 
+  // Finding related products from same category
   let relatedProducts = [];
   for (const category of categories) {
     const found = category.find((item) => item.id == id);
@@ -64,6 +68,7 @@ export default function ProductDetails() {
     }
   }
 
+  // Finding the selected product from all categories
   const products =
     indianWear.find((item) => item.id == id) ||
     jewellary.find((item) => item.id == id) ||
@@ -88,14 +93,17 @@ export default function ProductDetails() {
 
   if (!products) return null;
 
+  // Accessing cart & wishlist context
   const { cartItems, addItem } = useCart();
   const { wishlistItems, addtowishlist, removefromwishlist } = useWishlist();
 
+  // Local states
   const [productImage, setProductImage] = useState(products.imageUrl);
   const [isLiked, setIsLiked] = useState(false);
   const [sizeSelected, setSizeSelected] = useState("");
   const [addWithoutSize, setAddWithoutSize] = useState(false);
 
+  // Native share API
   async function handleShare() {
     if (navigator.share) {
       try {
@@ -112,13 +120,12 @@ export default function ProductDetails() {
     }
   }
 
-  function handleSize(size) {}
-
   return (
     <>
       <div className="w-full px-4 md:px-8 md:mt-20 lg:mt-15 mb-5 lg:py-6">
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-1 md:gap-2 xl:gap-4.5">
           <div className="md:flex md:gap-1.5">
+
             {/* Product Image gallery starts from medium device */}
             <div className="hidden md:block overflow-y-auto mt-3 h-[45vh] w-30 xl:h-[80vh] xl:w-31  ">
               <div className="flex flex-col xl:gap-1">
@@ -353,6 +360,8 @@ export default function ProductDetails() {
         </div>
       </div>
 
+
+          {/* Suggestions */}
       <h1 className="px-3 font-semibold lg:text-xl mt-8">You may also like</h1>
       <div className="w-full overflow-x-auto shadow mt-2 py-2">
         <div className="flex justify-center gap-2 p-1 w-max">

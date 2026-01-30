@@ -4,26 +4,35 @@ import { useCart } from "../context/CartContext";
 import { Link } from "react-router-dom";
 
 export default function Wishlist() {
+  // Get addItem function from Cart context
   const { addItem } = useCart();
+
+  // Get wishlist data and remove function from Wishlist context
   const { wishlistItems, removefromwishlist } = useWishlist();
+
   return (
+    // Main page container
     <div className="min-h-screen bg-gray-50 px-4 py-8 md:mt-12">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-2xl font-semibold mb-6 flex items-center gap-2">
           <Heart className="text-pink-500" /> My Wishlist
         </h1>
 
+        {/* If wishlist is empty */}
         {wishlistItems.length === 0 ? (
           <div className="text-center py-20">
             <p className="text-gray-500">Your wishlist is empty</p>
           </div>
         ) : (
+          // Wishlist grid layout
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
             {wishlistItems.map((item) => (
+              // Individual wishlist card
               <div
                 key={item.id}
                 className="bg-white rounded-2xl shadow-sm hover:shadow-md transition overflow-hidden xl:w-[18.5vw]"
               >
+                {/* Product image with link to detail page */}
                 <Link to={`/products/${item.id}`}>
                   <img
                     src={item.imageUrl}
@@ -32,6 +41,7 @@ export default function Wishlist() {
                   />
                 </Link>
 
+                {/* Product details section */}
                 <div className="p-3">
                   <h3 className="text-sm font-medium text-gray-800 truncate">
                     {item.title}
