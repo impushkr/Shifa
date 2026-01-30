@@ -7,11 +7,11 @@ import App from "./App.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 // Pages and components
-import Homepage from "./components/Homepage.jsx";
-import Products from "./components/Products.jsx";
-import ProductsDetails from "./components/ProductDetails.jsx";
-import Cart from "./components/Cart.jsx";
-import Wishlist from "./components/Wishlist.jsx";
+import Homepage from "./pages/Homepage.jsx";
+import Products from "./pages/Products.jsx";
+import ProductsDetails from "./pages/ProductDetails.jsx";
+import Cart from "./pages/Cart.jsx";
+import Wishlist from "./pages/Wishlist.jsx";
 import OfferCarousel from "./components/OfferCrousal.jsx";
 
 // Product data for different categories
