@@ -1,12 +1,121 @@
-# React + Vite
+# Shifa (Women's Fashion E-Commerce App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Women's Fashion E-Commerce web application built using **React.js** and **Context API**.
 
-Currently, two official plugins are available:
+This project allows users to browse products, view details, add items to cart, manage wishlist, and explore different fashion categories.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Live Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Product Search
+- Add to Cart
+- Add to Wishlist
+- Product Details Page
+- Fully Responsive Design
+- Scroll to Top on Route Change
+- Related Products Section
+- Share Product Feature
+- Discount & Price Calculation
+- Order Summary Section
+
+---
+
+## Tech Stack
+
+- **React.js**
+- **React Router DOM**
+- **Context API (Cart, Wishlist, Search)**
+- **Tailwind CSS**
+- **Lucide React Icons**
+- **Swiper.js (Carousel)**
+
+---
+
+## Project Structure
+
+src/
+│
+├── components/
+│ ├── Navbar.jsx
+│ ├── Footer.jsx
+│ ├── ScrollToTop.jsx
+│ └── OfferCarousel.jsx
+│
+├── context/
+│ ├── CartContext.jsx
+│ ├── WishlistContext.jsx
+│ └── SearchContext.jsx
+│
+├── data/
+│ └── womens/
+│
+├── pages/
+│ ├── Homepage.jsx
+│ ├── Products.jsx
+│ ├── ProductDetails.jsx
+│ ├── Cart.jsx
+│ └── Wishlist.jsx
+│
+└── App.jsx
+
+---
+
+## Installation & Setup
+
+1. Clone the repository:
+
+https://github.com/impushkr/Shifa.git
+
+2. Navigate to project folder:
+
+cd .\Shifa\
+
+
+3. Install dependencies:
+
+npm install
+
+
+4. Start development server:
+
+npm run dev
+
+
+---
+
+## Main Functionalities
+
+### Cart System
+- Increase / decrease quantity
+- Remove items
+- Calculate subtotal & discount
+- Prevent duplicate entries
+
+### Wishlist System
+- Add / Remove products
+- Move items to cart
+
+### Product Details
+- Dynamic routing using product ID
+- Image gallery (desktop & mobile)
+- Size selection validation
+- Share product using Web Share API
+
+---
+
+## Future Improvements
+
+- User Authentication
+- Payment Gateway Integration
+- Backend Integration
+- Order History Page
+- Product Filtering & Sorting
+
+---
+
+## Author
+
+Built with ❤️ by **Pushkar Singh**
+
+Frontend Developer | React Enthusiast
