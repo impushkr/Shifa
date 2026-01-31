@@ -193,7 +193,7 @@ export default function Homepage() {
       {/* ====================== Special Offer Section ====================== */}
       <h1 className="px-4 font-semibold lg:text-xl mt-8">Special Offers</h1>
       <div className="w-full  xl:overflow-x-auto   shadow mt-2 pb-2 pt-2">
-        <div className="flex flex-wrap justify-center gap-2 p-1 xl:w-[167vw]">
+        <div className="flex flex-wrap justify-center gap-2 p-1 xl:w-[167vw] 2xl:w-[180vw]">
           {specialOffers.map((item) => (
             <Link to={`${item.route}`}>
               <div className="h-[27vh] w-[31vw] rounded-2xl relative overflow-hidden sm:h-[37vh] sm:w-[30vw] md:w-[30vw] lg:h-[30vh] lg:w-[22vw] xl:h-[42vh] xl:w-[18vw]">
