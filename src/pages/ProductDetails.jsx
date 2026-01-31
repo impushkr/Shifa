@@ -33,7 +33,7 @@ import { useParams } from "react-router";
 export default function ProductDetails() {
   // Getting product id from URL
   const { id } = useParams();
-  
+
   // Storing all categories inside one array
   const categories = [
     indianWear,
@@ -99,7 +99,6 @@ export default function ProductDetails() {
 
   // Local states
   const [productImage, setProductImage] = useState(products.imageUrl);
-  const [isLiked, setIsLiked] = useState(false);
   const [sizeSelected, setSizeSelected] = useState("");
   const [addWithoutSize, setAddWithoutSize] = useState(false);
 
@@ -125,7 +124,6 @@ export default function ProductDetails() {
       <div className="w-full px-4 md:px-8 md:mt-20 lg:mt-15 mb-5 lg:py-6">
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-1 md:gap-2 xl:gap-4.5">
           <div className="md:flex md:gap-1.5">
-
             {/* Product Image gallery starts from medium device */}
             <div className="hidden md:block overflow-y-auto mt-3 h-[45vh] w-30 xl:h-[80vh] xl:w-31  ">
               <div className="flex flex-col xl:gap-1">
@@ -160,9 +158,9 @@ export default function ProductDetails() {
                 {/* Heart Icon */}
                 <FiHeart
                   onClick={() => {
-                    let check = !isLiked;
-                    setIsLiked(check);
-                    check
+                    !wishlistItems.some(
+                      (previousItem) => previousItem.id == products.id,
+                    )
                       ? addtowishlist(products)
                       : removefromwishlist(products);
                   }}
@@ -170,7 +168,6 @@ export default function ProductDetails() {
       bg-white/30 backdrop-blur-md border border-white/40
       transition-all duration-300  
       ${
-        isLiked ||
         wishlistItems.some((previousItem) => previousItem.id == products.id)
           ? "text-pink-600 fill-pink-600"
           : "text-black"
@@ -360,8 +357,7 @@ export default function ProductDetails() {
         </div>
       </div>
 
-
-          {/* Suggestions */}
+      {/* Suggestions */}
       <h1 className="px-3 font-semibold lg:text-xl mt-8">You may also like</h1>
       <div className="w-full overflow-x-auto shadow mt-2 py-2">
         <div className="flex justify-center gap-2 p-1 w-max">

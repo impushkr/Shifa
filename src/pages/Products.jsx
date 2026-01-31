@@ -1,9 +1,12 @@
 import { Link } from "react-router-dom";
 import { useSearch } from "../context/SearchContext";
+import { useWishlist } from "../context/WishlistContext";
+import { Heart,HeartPlus } from "lucide-react";
 
 export default function Products({ data }) {
-  // Getting searched items from Search Context
+  // Accessing Search & wishlist context
   const { searchedItem } = useSearch();
+  const { wishlistItems,addtowishlist,removefromwishlist } = useWishlist();
 
   // If data prop is passed use it, otherwise use searched items
   const productsData = data ? data : searchedItem;
@@ -15,16 +18,13 @@ export default function Products({ data }) {
         <>
           {/* Products Grid */}
           <div className="flex flex-wrap gap-3 justify-center px-3 mb-8 md:mt-20">
-            
             {/* Looping through products */}
             {productsData.map((item) => (
-              
-              // Navigates to individual product detail page
-              <Link to={`/products/${item.id}`}>
-                
+              <div className="relative">
+             {/* Navigates to individual product detail page */}
+            <Link to={`/products/${item.id}`}>
                 {/* Product Card */}
                 <div className="overflow-hidden w-[44vw] md:w-[29vw] lg:w-[20vw] xl:w-[15vw]">
-                  
                   {/* Product Image */}
                   <div className="h-[27vh] w-full overflow-hidden md:h-[31vh] lg:h-[22vh] xl:h-[35vh]">
                     <img
@@ -36,7 +36,6 @@ export default function Products({ data }) {
 
                   {/* Product Details */}
                   <div className="px-2 py-1 ">
-                    
                     {/* Product Title (truncate if long) */}
                     <h1 className="font-semibold">
                       {item.title.length > 12
@@ -72,6 +71,34 @@ export default function Products({ data }) {
                   </div>
                 </div>
               </Link>
+
+              <div className="absolute right-2 top-2.5 xl:right-3 xl:top-3">
+                      {/* Heart Icon */}
+                      {!wishlistItems.some(
+                            (previousItem) => previousItem.id == item.id,
+                          )?
+                      <HeartPlus
+                        onClick={() => {
+                           addtowishlist(item)
+                        }}
+                        className="cursor-pointer p-1 rounded-full 
+                        bg-white border border-white/40
+                        transition-all duration-300 " 
+                        size={30}
+                      /> :
+                      <Heart
+                        onClick={() => {
+                           removefromwishlist(item)
+                        }}
+                        className="cursor-pointer p-1 rounded-full 
+                        bg-white border border-white/40
+                        transition-all duration-300 text-pink-600 fill-pink-600 transitiona "
+                        size={30}/>
+                        }
+                    </div>
+
+              </div>
+              
             ))}
           </div>
         </>
