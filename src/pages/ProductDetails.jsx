@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
 import { Link } from "react-router";
-import { FiHeart, FiShare2 } from "react-icons/fi";
+import { FiHeart, FiShare2, FiShoppingBag } from "react-icons/fi";
 
 // Importing all product categories
 import {
@@ -94,7 +94,7 @@ export default function ProductDetails() {
   if (!products) return null;
 
   // Accessing cart & wishlist context
-  const { cartItems, addItem } = useCart();
+  const { cartItems, addItem, reduceItem } = useCart();
   const { wishlistItems, addtowishlist, removefromwishlist } = useWishlist();
 
   // Local states
@@ -309,33 +309,19 @@ export default function ProductDetails() {
 
             {/* ACTION BUTTONS */}
             <div className="flex gap-4 mt-6">
-              {wishlistItems.some(
+              {cartItems.some(
                 (previousItem) => previousItem.id == products.id,
               ) ? (
                 <button
+                  onClick={() => reduceItem(products)}
                   className={
                     "flex-1 border border-gray-300 py-3 rounded-xl font-semibold transition bg-gray-200 cursor-not-allowed"
                   }
                 >
-                  Added To Wishlist
-                </button>
-              ) : (
-                <button
-                  onClick={() => {
-                    addtowishlist(products);
-                    setIsLiked(true);
-                  }}
-                  className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition hover:scale-95"
-                >
-                  Add To Wishlist
-                </button>
-              )}
-
-              {cartItems.some(
-                (previousItem) => previousItem.id == products.id,
-              ) ? (
-                <button className="flex-1 bg-pink-800 text-white py-3 rounded-xl font-semibold transition ">
-                  Added
+                  <h2 className="flex justify-center items-center gap-2">
+                    Remove from
+                    <FiShoppingBag size={18} />
+                  </h2>
                 </button>
               ) : (
                 <button
@@ -347,11 +333,23 @@ export default function ProductDetails() {
                     }
                     addItem(products);
                   }}
-                  className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition hover:scale-95"
+                  className="flex-1 border border-gray-300 py-3 rounded-xl font-semibold hover:bg-gray-100 transition hover:scale-95"
                 >
-                  Add To Bag
+                  <h2 className="flex justify-center items-center gap-2">
+                    Add to <FiShoppingBag size={18} />
+                  </h2>
                 </button>
               )}
+              <button
+                onClick={() =>
+                  alert(
+                    "We're currently working on this section. Please check back soon!",
+                  )
+                }
+                className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold hover:bg-pink-700 transition hover:scale-95"
+              >
+                Buy Now
+              </button>
             </div>
           </div>
         </div>
