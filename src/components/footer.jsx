@@ -66,30 +66,6 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* NEWSLETTER */}
-        <div>
-          <h3 className="font-semibold text-gray-900 mb-4">
-            JOIN OUR NEWSLETTER
-          </h3>
-          <p className="text-sm mb-4">
-            Be the first to know about new arrivals & exclusive offers.
-          </p>
-          <input
-            type="email"
-            placeholder="Enter your email"
-            className="w-full px-3 py-2 border border-gray-300 rounded-sm text-sm focus:outline-none focus:border-gray-600"
-          />
-          <button
-            onClick={() => {
-              alert(
-                "We’re working on this section. It will be available soon!",
-              );
-            }}
-            className="mt-3 w-full bg-black text-white py-2 text-sm hover:bg-gray-800 transition"
-          >
-            SUBSCRIBE
-          </button>
-        </div>
       </div>
 
       {/* Bottom Bar */}
